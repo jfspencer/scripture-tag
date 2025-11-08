@@ -23,6 +23,11 @@ export {
 	TagRepository,
 	TagRepositoryLive,
 } from "./repositories/TagRepository";
+export {
+	makeTagStyleRepository,
+	TagStyleRepository,
+	TagStyleRepositoryLive,
+} from "./repositories/TagStyleRepository";
 export { AppRuntime, runEffect, runEffectExit } from "./runtime";
 // Core services
 export { makeSQLiteService, SQLiteService, SQLiteServiceLive } from "./SQLiteService";

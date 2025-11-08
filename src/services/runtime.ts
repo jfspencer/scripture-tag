@@ -10,7 +10,9 @@ import { AppLayer } from "./layers";
  * Main application runtime with all services
  * Use this runtime to execute Effects throughout the application
  */
+console.log("[Runtime] Creating AppRuntime with layers");
 export const AppRuntime = ManagedRuntime.make(AppLayer);
+console.log("[Runtime] AppRuntime created successfully");
 
 /**
  * Helper to run an Effect with the application runtime

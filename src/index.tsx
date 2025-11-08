@@ -6,6 +6,7 @@ import { Router } from "@solidjs/router";
 import { render } from "solid-js/web";
 import App from "./app";
 import { routes } from "./routes";
+import { ScriptureProvider } from "./stores/ScriptureStore";
 
 const root = document.getElementById("root");
 
@@ -15,6 +16,13 @@ if (!root) {
 	);
 }
 
-// Render app - ignore type error for Solid's render return type
+// Render app with ScriptureProvider wrapping the router
 // @ts-expect-error Solid's render may return undefined
-render(() => <Router root={(props) => <App>{props.children}</App>}>{routes}</Router>, root!);
+render(
+	() => (
+		<ScriptureProvider>
+			<Router root={(props) => <App>{props.children}</App>}>{routes}</Router>
+		</ScriptureProvider>
+	),
+	root!,
+);

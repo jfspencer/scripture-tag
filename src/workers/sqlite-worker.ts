@@ -26,25 +26,47 @@ interface WorkerResponse {
 let db: any = null;
 // biome-ignore lint/suspicious/noExplicitAny: SQLite WASM types are not available
 let sqlite3: any = null;
+let isInitialized = false;
+let initPromise: Promise<{ success: boolean }> | null = null;
 
 // Initialize SQLite with OPFS
 async function initDatabase() {
-	try {
-		sqlite3 = await sqlite3InitModule({
-			print: console.log,
-			printErr: console.error,
-		});
+	// If already initialized, return success
+	if (isInitialized && db) {
+		console.log("[SQLite Worker] Database already initialized");
+		return { success: true };
+	}
 
-		// Use OPFS VFS for persistence
-		const opfs = sqlite3.capi.sqlite3_vfs_find("opfs");
-		if (!opfs) {
-			throw new Error("OPFS VFS not available");
-		}
+	// If initialization is in progress, wait for it
+	if (initPromise) {
+		console.log("[SQLite Worker] Waiting for existing initialization");
+		return initPromise;
+	}
 
-		// Open database with OPFS
-		db = new sqlite3.oo1.OpfsDb("/scripture-tags.db");
+	console.log("[SQLite Worker] Starting database initialization");
+	initPromise = (async () => {
+		try {
+			sqlite3 = await sqlite3InitModule({
+				print: console.log,
+				printErr: console.error,
+			});
 
-		// Load schema
+			console.log("[SQLite Worker] SQLite module loaded");
+
+			// Use OPFS VFS for persistence
+			const opfs = sqlite3.capi.sqlite3_vfs_find("opfs");
+			if (!opfs) {
+				throw new Error("OPFS VFS not available");
+			}
+
+			console.log("[SQLite Worker] OPFS VFS found, opening database");
+
+			// Open database with OPFS
+			db = new sqlite3.oo1.OpfsDb("/scripture-tags.db");
+
+			console.log("[SQLite Worker] Database opened, creating schema");
+
+			// Load schema
 		const schemaSQL = `
 			-- Tags table
 			CREATE TABLE IF NOT EXISTS tags (
@@ -100,27 +122,38 @@ async function initDatabase() {
 
 		db.exec(schemaSQL);
 
+		console.log("[SQLite Worker] Schema created successfully");
+		isInitialized = true;
+		initPromise = null;
+
 		return { success: true };
 	} catch (error) {
-		console.error("Failed to initialize database:", error);
+		console.error("[SQLite Worker] Failed to initialize database:", error);
+		initPromise = null;
 		throw error;
 	}
+	})();
+
+	return initPromise;
 }
 
 // Execute SQL query and return rows
 function executeQuery(sql: string, params: unknown[] = []): unknown[] {
 	if (!db) {
+		console.error("[SQLite Worker] executeQuery called but database is not initialized");
 		throw new Error("Database not initialized");
 	}
 
 	const rows: unknown[] = [];
 	try {
 		const stmt = db.prepare(sql);
-		stmt.bind(params);
+		if (stmt.parameterCount > 0) {
+			stmt.bind(params);
+		}
 
 		while (stmt.step()) {
 			const row: Record<string, unknown> = {};
-			const columnCount = stmt.getColumnCount();
+			const columnCount = stmt.columnCount;
 
 			for (let i = 0; i < columnCount; i++) {
 				const name = stmt.getColumnName(i);
@@ -132,9 +165,12 @@ function executeQuery(sql: string, params: unknown[] = []): unknown[] {
 		}
 
 		stmt.finalize();
+		console.log(`[SQLite Worker] Query executed successfully, returned ${rows.length} rows`);
 		return rows;
 	} catch (error) {
-		console.error("Query execution failed:", error);
+		console.error("[SQLite Worker] Query execution failed:", error);
+		console.error("[SQLite Worker] SQL:", sql);
+		console.error("[SQLite Worker] Params:", params);
 		throw error;
 	}
 }
@@ -142,16 +178,23 @@ function executeQuery(sql: string, params: unknown[] = []): unknown[] {
 // Execute SQL statement (INSERT, UPDATE, DELETE)
 function executeStatement(sql: string, params: unknown[] = []): void {
 	if (!db) {
+		console.error("[SQLite Worker] executeStatement called but database is not initialized");
 		throw new Error("Database not initialized");
 	}
 
 	try {
+		console.log("[SQLite Worker] Executing statement:", sql.substring(0, 100) + "...");
 		const stmt = db.prepare(sql);
-		stmt.bind(params);
+		if (stmt.parameterCount > 0) {
+			stmt.bind(params);
+		}
 		stmt.step();
 		stmt.finalize();
+		console.log("[SQLite Worker] Statement executed successfully");
 	} catch (error) {
-		console.error("Statement execution failed:", error);
+		console.error("[SQLite Worker] Statement execution failed:", error);
+		console.error("[SQLite Worker] SQL:", sql);
+		console.error("[SQLite Worker] Params:", params);
 		throw error;
 	}
 }
