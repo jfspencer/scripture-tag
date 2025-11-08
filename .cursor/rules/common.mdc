@@ -1,0 +1,693 @@
+---
+alwaysApply: true
+---
+
+# Scripture Tag - Cursor AI Rules
+
+## Project Overview
+
+Scripture Tag is a word-level scripture tagging and annotation system built with modern web technologies. The system enables precise, granular tagging with N-cardinality support (multiple tags per word/word group) and features a flexible display layer for viewing scripture with overlaid tags, filtering, and user-customizable presentation styles.
+
+**Core Philosophy:** Local-first, privacy-focused, offline-capable, with git-based version control for annotations.
+
+## Technology Stack & Core Principles
+
+### Vite (Build Tool)
+- **Dev Server:** Runs on port 3000 (configured in `vite.config.ts`)
+- **Build Target:** ESNext for modern browser features
+- **Plugins:** `vite-plugin-solid` for SolidJS support, `solid-devtools` for debugging
+- **HMR:** Fast Hot Module Replacement is enabled by default
+- **Static Assets:** Serve from `public/` directory (scripture data, annotations)
+- **Build Output:** Production builds to `dist/` directory
+
+**Vite Guidelines:**
+- Import paths should use explicit extensions for TypeScript imports when necessary
+- Static assets in `public/` are served from root path (e.g., `/scripture/manifest.json`)
+- Use `import.meta.env` for environment variables (prefix with `VITE_`)
+- Leverage Vite's fast dev server; avoid unnecessary build optimization during development
+
+### SolidJS (Reactive Framework)
+- **JSX Config:** Uses `"jsx": "preserve"` with `jsxImportSource: "solid-js"`
+- **Reactivity Model:** Fine-grained reactive system (only affected components re-render)
+- **Core Primitives:**
+  - `createSignal()` - Simple reactive state (primitives, simple objects)
+  - `createMemo()` - Derived/computed values with automatic dependency tracking
+  - `createResource()` - Async data loading with suspense support
+  - `createStore()` - Deep reactive objects with nested mutation tracking
+  - `createEffect()` - Side effects that run when dependencies change
+
+**SolidJS Best Practices:**
+1. **Fine-Grained Updates:** Design components to leverage SolidJS's fine-grained reactivity
+   - Only the specific DOM nodes that depend on changed signals will update
+   - Avoid unnecessary wrapper components that would cause larger re-renders
+   
+2. **Signals vs Stores:**
+   - Use `createSignal` for primitives and simple state
+   - Use `createStore` (from `solid-js/store`) for complex nested objects
+   - Use `produce()` helper from `solid-js/store` for immutable-style updates
+
+3. **Memoization:**
+   - Use `createMemo()` for expensive computations
+   - Memos only recompute when their dependencies change
+   - Example: `const fullName = createMemo(() => firstName() + " " + lastName())`
+
+4. **Resources:**
+   - Use `createResource()` for async data fetching
+   - Automatically handles loading states and errors
+   - Supports refetching and cache invalidation
+   - Example pattern used in scripture loading service
+
+5. **Control Flow:**
+   - Use `<Show>` for conditional rendering (not `{condition && <Component />}`)
+   - Use `<For>` for lists (not `.map()`)
+   - Use `<Switch>/<Match>` for multiple conditions (not multiple ternaries)
+   - Use `<Suspense>` for async boundaries with fallback UI
+
+6. **Event Handlers:**
+   - Prefer `onClick={}` over `onclick={}` (SolidJS normalizes both but uppercase is convention)
+   - No synthetic events; uses native browser events
+   - Event handlers don't need binding (`this` is not an issue)
+
+7. **Component Patterns:**
+   ```typescript
+   // Good: Props destructuring in component body (not in signature)
+   function MyComponent(props: MyProps) {
+     const { value } = props; // Breaks reactivity!
+     // Better: access via props.value
+   }
+   
+   // Good: Reactive accessor pattern
+   function MyComponent(props: MyProps) {
+     const derivedValue = () => props.value * 2; // Stays reactive
+     return <div>{derivedValue()}</div>;
+   }
+   ```
+
+8. **Context Usage:**
+   - Create typed contexts with `createContext<Type>()`
+   - Always provide default throw error in custom hooks
+   - Use `Provider` pattern for dependency injection
+   - Example: `ScriptureContext.tsx` provides global scripture store
+
+9. **Refs:**
+   - Use `ref` prop for direct DOM access (not `createRef`)
+   - Pattern: `let myRef!: HTMLDivElement;` then `<div ref={myRef}>`
+
+10. **ClassList:**
+    - Use `classList={{}}` for conditional classes (more efficient than string concatenation)
+    - Example: `classList={{ 'active': isActive(), 'disabled': !enabled() }}`
+
+### Effect-TS (Business Logic Layer)
+- **Version:** 3.19.2 (Effect 3.x)
+- **Purpose:** Type-safe functional programming for business logic, error handling, and service composition
+- **Architecture:** Services layer between UI and persistence
+
+**Effect-TS Core Concepts:**
+
+1. **Effect Type:**
+   ```typescript
+   Effect.Effect<Success, Error, Requirements>
+   // Success: type returned on success
+   // Error: type of errors that can occur
+   // Requirements: services/dependencies needed
+   ```
+
+2. **Service Pattern:**
+   - Use `Context.Tag` to define services
+   - Implement services using `Effect.gen` generator syntax
+   - Create layers with `Layer.succeed` or `Layer.effect`
+   - Example: `ScriptureService`, `TagService`, `AnnotationService`
+
+3. **Generator Syntax (Preferred):**
+   ```typescript
+   const program = Effect.gen(function* () {
+     const cache = yield* ScriptureCacheService;
+     const data = yield* fetchJson<Chapter>(url);
+     yield* cache.setChapter(translationId, bookId, chapterNum, data);
+     return data;
+   });
+   ```
+
+4. **Error Handling:**
+   - Define custom error types with `Data.TaggedError`
+   - Errors are type-safe and part of the Effect signature
+   - Example: `NetworkError`, `ScriptureLoadError`, `TagError`, `AnnotationError`
+   - Use `Effect.tryPromise` for async operations that can fail
+
+5. **Running Effects:**
+   - In services/pure code: compose effects, don't run them
+   - At boundaries (UI): use `Runtime.runPromise()` or `Runtime.runPromiseExit()`
+   - Bridge to SolidJS: custom helpers in `src/utils/effectSolid.ts`
+
+6. **Layers & Dependency Injection:**
+   - Define service dependencies in `dependencies` array
+   - Compose layers with `Layer.provide()`
+   - Example: `ScriptureAppLayer` provides all scripture-related services
+   - Pattern: `Service -> Layer -> Runtime`
+
+7. **Effect-SolidJS Bridge:**
+   - Use `createEffectResource()` to create SolidJS resources from Effects
+   - Use `runEffectIntoSignal()` to update signals from Effect results
+   - Use `createEffectRunner()` for loading/error state management
+   - See `src/utils/effectSolid.ts` for bridge utilities
+
+**Effect-TS Guidelines:**
+- Keep Effects pure; side effects only in designated repositories
+- Chain operations with `Effect.flatMap` or generator syntax
+- Use `Effect.all` for parallel execution
+- Use `Effect.gen` for sequential operations
+- Always type your Effects with success, error, and requirement types
+- Don't catch errors inside Effects; let them propagate and handle at boundaries
+
+### Kobalte (UI Component Library)
+- **Version:** 0.13.11
+- **Type:** Headless, unstyled, accessible UI primitives
+- **Philosophy:** ARIA-compliant components with full customization
+
+**Kobalte Components Used:**
+1. **Popover:** For tag annotation display on word hover/click
+   ```typescript
+   <Popover.Root>
+     <Popover.Trigger as="span">Trigger content</Popover.Trigger>
+     <Popover.Portal>
+       <Popover.Content>Popover content</Popover.Content>
+       <Popover.Arrow />
+     </Popover.Portal>
+   </Popover.Root>
+   ```
+
+2. **ToggleButton:** For tag filter toggles in sidebar
+3. **Dropdown/Combobox:** For tag selection in annotation editor
+4. **Dialog/Modal:** For tag management and settings
+
+**Kobalte Best Practices:**
+- Use compound component pattern (Root, Trigger, Content, etc.)
+- Apply custom styles with Tailwind classes
+- Leverage built-in accessibility (ARIA attributes automatic)
+- Use `as` prop to change underlying element
+- Portal components for overlays to avoid z-index issues
+- Always include `Popover.Arrow` or `Tooltip.Arrow` for better UX
+
+### Biome (Linter & Formatter)
+- **Version:** 2.3.4
+- **Purpose:** Fast, unified toolchain for linting and formatting (replaces ESLint + Prettier)
+
+**Biome Configuration (`biome.json`):**
+```json
+{
+  "formatter": {
+    "indentStyle": "tab",     // Use tabs, not spaces
+    "indentWidth": 2,          // 2-space tab width
+    "lineWidth": 100           // Max line length
+  },
+  "javascript": {
+    "quoteStyle": "double",    // Use double quotes
+    "semicolons": "always",    // Always use semicolons
+    "trailingCommas": "all",   // Trailing commas everywhere
+    "arrowParentheses": "always" // Always wrap arrow params
+  }
+}
+```
+
+**Biome Guidelines:**
+- Run `bun run check:fix` before committing (formats + lints + organizes imports)
+- Use tabs for indentation (NOT spaces)
+- Always use double quotes for strings
+- Always use semicolons
+- Trailing commas in objects, arrays, function params
+- Arrow functions always have parentheses: `(x) => x * 2`, not `x => x * 2`
+- Line length limit: 100 characters
+- Imports are auto-organized on save (if Biome is configured in editor)
+
+**Scripts:**
+- `bun run lint` - Check for linting errors
+- `bun run lint:fix` - Fix auto-fixable linting errors
+- `bun run format` - Check formatting
+- `bun run format:fix` - Apply formatting fixes
+- `bun run check` - Run both linting and formatting checks
+- `bun run check:fix` - Fix all auto-fixable issues
+
+## Project-Specific Architecture
+
+### Layered Architecture
+```
+UI Layer (SolidJS Components + Kobalte)
+    ↓
+ViewModel Layer (Solid Stores + Effect-TS binding adapters)
+    ↓
+Business Logic Layer (Effect-TS Services & Effects)
+    ↓
+Persistence Layer (Dexie.js + IndexedDB + Static Files)
+```
+
+**Layer Responsibilities:**
+1. **UI Layer:** Pure presentation, user interactions, accessibility
+2. **ViewModel Layer:** Reactive state, bridging Effects to Signals
+3. **Business Logic:** Validation, domain rules, service composition
+4. **Persistence:** Data storage, caching, external data loading
+
+### Core Domain Models
+
+#### Scripture Data Structure
+```typescript
+interface TextToken {
+  id: string;              // Format: "book.chapter.verse.position"
+  text: string;            // The actual word
+  position: number;        // Position within verse
+  verseId: string;         // Reference (book.chapter.verse)
+  presentation: {          // Presentation metadata (always present, may be empty {})
+    emphasis?: 'italic' | 'bold' | 'small-caps' | 'red-letter';
+    semanticType?: 'divine-name' | 'proper-noun' | 'quotation';
+    precedingPunctuation?: string;
+    followingPunctuation?: string;
+  };
+}
+
+interface Verse {
+  id: string;              // Format: "book.chapter.verse"
+  book: string;
+  chapter: number;
+  verse: number;
+  tokens: TextToken[];
+  translation: string;     // "kjv", "bofm", "dc", "pgp"
+  presentation: {          // Always present
+    paragraphStart: boolean;
+    paragraphEnd: boolean;
+    sectionStart: boolean;
+    layoutType: 'prose' | 'poetry' | 'quotation' | 'list';
+    indentLevel: number;
+    verseNumberDisplay: 'inline' | 'superscript' | 'margin' | 'hidden';
+  };
+}
+
+interface Chapter {
+  id: string;              // Format: "book.chapter"
+  book: string;
+  chapter: number;
+  translation: string;
+  heading: {
+    summary: string;
+    topics: string[];      // Often empty in current data
+  };
+  sections: Array<{        // Often empty in current data
+    id: string;
+    startVerse: number;
+    endVerse: number;
+    heading: string;
+  }>;
+  verses: Verse[];
+  presentation: {
+    displayHeading: boolean;
+    twoColumn: boolean;
+    chapterNumberDisplay: 'standard' | 'decorative' | 'hidden';
+  };
+}
+```
+
+**Scripture Data Guidelines:**
+- All `presentation` objects are ALWAYS present (even if empty)
+- Token IDs are hierarchical: `book.chapter.verse.position`
+- Punctuation is stored in presentation metadata (NOT in text)
+- Divine names (e.g., "LORD") are marked with `semanticType: "divine-name"`
+- Use presentation metadata to drive rendering (indentation, layout, emphasis)
+
+#### Tagging Data Structure
+```typescript
+interface Tag {
+  id: string;              // UUID
+  name: string;
+  description?: string;
+  category?: string;       // Group related tags
+  metadata: {
+    color?: string;        // Hex color
+    icon?: string;
+    priority?: number;     // For overlap resolution
+  };
+  createdAt: Date;
+  userId: string;
+}
+
+interface TagAnnotation {
+  id: string;              // UUID
+  tagId: string;           // References Tag
+  tokenIds: string[];      // Multiple tokens for word groups
+  userId: string;
+  note?: string;
+  createdAt: Date;
+  lastModified: Date;
+  version: number;         // For conflict resolution
+}
+
+interface TagStyle {
+  tagId: string;
+  userId?: string;
+  style: {
+    backgroundColor?: string;
+    textColor?: string;
+    underlineStyle?: 'solid' | 'dashed' | 'dotted' | 'wavy' | 'double';
+    underlineColor?: string;
+    fontWeight?: 'normal' | 'bold' | 'semibold';
+    icon?: string;
+    iconPosition?: 'before' | 'after' | 'above' | 'below';
+    opacity?: number;
+  };
+}
+```
+
+**Tagging Guidelines:**
+- Tags are separate entities from annotations (many-to-many)
+- Annotations link tags to tokens (N-cardinality: multiple tags per word)
+- Token IDs in annotations always reference valid tokens in scripture data
+- Use version field for conflict resolution in git-based sync
+- TagStyle is optional customization per user
+
+### Scripture Data Location
+- **Base Path:** `/public/scripture/`
+- **Manifest:** `/public/scripture/manifest.json` (index of all translations)
+- **Translation Manifests:** `/public/scripture/translations/{translation}/manifest.json`
+- **Chapter Data:** `/public/scripture/translations/{translation}/{book}/chapter-{number}.json`
+
+**Translations:**
+- `kjv` - King James Version (66 books, complete)
+- `bofm` - Book of Mormon (15 books, complete)
+- `dc` - Doctrine & Covenants (138 sections, complete)
+- `pgp` - Pearl of Great Price (5 books, complete)
+
+**Total Content:**
+- 4 translations, 224 books, ~1,500+ chapters
+- All data imported and committed to repository
+- Word-level tokenization with presentation metadata
+
+### Git-Based Sync Workflow
+
+**Philosophy:** Use git as version control for annotations (no backend needed).
+
+1. **Export:** User clicks "Export" → downloads JSON file
+2. **Save:** User moves file to `public/data/annotations/`
+3. **Update Manifest:** Add filename to `public/data/annotations/manifest.json`
+4. **Commit:** Standard git workflow: add, commit, push
+5. **Import:** On app load or manual trigger, load from manifest files
+6. **Merge:** Annotations from multiple files merge by version number
+
+**Annotation File Format:**
+```json
+{
+  "version": "1.0.0",
+  "userId": "default-user",
+  "exportDate": "2025-11-08T12:00:00.000Z",
+  "tags": [...],
+  "annotations": [...],
+  "tagStyles": [...]
+}
+```
+
+**Manifest Format:**
+```json
+{
+  "files": ["user-1.json", "user-2.json"]
+}
+```
+
+### Service Patterns
+
+**Creating a New Service:**
+1. Define error types with `Data.TaggedError`
+2. Create service with `Context.Tag` and implementation
+3. Create repository if database access needed
+4. Create Layer for dependency injection
+5. Wire into main app layer
+
+**Example Service Structure:**
+```typescript
+// 1. Error types
+export class MyServiceError extends Data.TaggedError("MyServiceError")<{
+  reason: string;
+}> {}
+
+// 2. Service definition
+export class MyService extends Context.Tag("MyService")<
+  MyService,
+  {
+    readonly operation: (param: string) => Effect.Effect<Result, MyServiceError>;
+  }
+>() {}
+
+// 3. Service implementation
+export const makeMyService = Effect.gen(function* () {
+  const repo = yield* MyRepository;
+  
+  return {
+    operation: (param: string) =>
+      Effect.gen(function* () {
+        // Validation
+        if (!param) {
+          return yield* Effect.fail(new MyServiceError({ reason: "EmptyParam" }));
+        }
+        
+        // Business logic
+        const result = yield* repo.fetch(param);
+        return result;
+      }),
+  };
+});
+
+// 4. Layer
+export const MyServiceLive = Layer.effect(MyService, makeMyService);
+```
+
+### Component Patterns
+
+**Tagged Word Component:**
+- Most granular reactive unit in the app
+- Fine-grained updates: only re-renders when its specific tags change
+- Uses Kobalte Popover for tag display
+- Combines scripture presentation + tag styling
+
+**Scripture Display:**
+- Loads chapter data with `createResource`
+- Renders using presentation metadata (indentation, layout, emphasis)
+- Supports sections, headings, verse numbers
+- Handles multiple layout types (prose, poetry, quotation)
+
+**Tag Filter Sidebar:**
+- Groups tags by category
+- Shows annotation count per tag
+- Uses Kobalte ToggleButton for filter toggles
+- Fine-grained reactivity: only filtered words update on toggle
+
+### Store Patterns
+
+**Scripture Store (Global):**
+- Single source of truth for app state
+- Manages tags, annotations, verses, styles
+- Provides actions that call Effect services
+- Bridges Effect results to Solid signals
+- Context-based: use `useScripture()` hook
+
+**Store Structure:**
+```typescript
+{
+  tags: Map<string, Tag>,
+  annotations: TagAnnotation[],
+  verses: Map<string, Verse>,
+  tagStyles: Map<string, TagStyle>,
+  selectedTokens: Set<string>,
+  isLoading: boolean,
+  error: string | null,
+  lastSync: Date | null
+}
+```
+
+### TypeScript Configuration
+- **Target:** ESNext (modern features enabled)
+- **Strict Mode:** Enabled (type safety)
+- **Module:** ESNext with bundler resolution
+- **JSX:** Preserve with `solid-js` import source
+- **No Emit:** Vite handles compilation
+
+**TypeScript Guidelines:**
+- Prefer interfaces for object shapes
+- Use type for unions, intersections, primitives
+- Avoid `any` (Biome warns on explicit any)
+- Avoid non-null assertions (!) unless absolutely necessary (Biome warns)
+- Use `satisfies` for const objects when type inference is needed
+
+### File Structure Conventions
+
+```
+src/
+├── components/          # UI components (SolidJS)
+├── pages/              # Page-level components
+├── services/           # Effect-TS business logic
+│   └── repositories/   # Database access layer
+├── stores/             # Solid stores (ViewModel)
+├── contexts/           # React-style context providers
+├── types/              # TypeScript type definitions
+├── utils/              # Utility functions
+├── errors/             # Custom error classes
+└── routes.ts           # Routing configuration
+
+public/
+├── scripture/          # Scripture JSON data (static)
+│   ├── manifest.json
+│   └── translations/
+└── data/
+    └── annotations/    # Git-synced annotation files
+        ├── manifest.json
+        └── *.json      # User annotation exports
+```
+
+### Naming Conventions
+- **Files:** kebab-case (e.g., `scripture-service.ts`, `tagged-word.tsx`)
+- **Components:** PascalCase (e.g., `TaggedWord`, `ScriptureDisplay`)
+- **Functions/Variables:** camelCase (e.g., `loadChapter`, `tokenTagMap`)
+- **Constants:** UPPER_SNAKE_CASE (e.g., `MAX_RETRIES`, `DEFAULT_COLOR`)
+- **Types/Interfaces:** PascalCase (e.g., `TextToken`, `TagAnnotation`)
+- **Effect Services:** PascalCase (e.g., `TagService`, `ScriptureService`)
+
+### CSS & Styling
+- **Framework:** Tailwind CSS 4.1.17
+- **Approach:** Utility-first with custom classes for complex components
+- **Dynamic Styles:** Use `style={{}}` object for tag colors, emphasis
+- **Conditional Classes:** Use `classList={{}}` for conditional application
+- **Presentation-Driven:** Apply classes based on scripture presentation metadata
+
+**Tailwind Patterns:**
+- Use semantic spacing scale: `space-y-4`, `gap-3`, `p-4`
+- Responsive: `md:text-lg`, `lg:columns-2`
+- States: `hover:bg-gray-100`, `focus:ring-2`
+- Colors: Prefer semantic (gray, blue) over specific shades initially
+
+### Performance Best Practices
+1. **Fine-Grained Reactivity:** Design components to leverage SolidJS's granular updates
+2. **Memoization:** Use `createMemo` for expensive computations
+3. **Virtualization:** Use `@tanstack/solid-virtual` for long chapters (100+ verses)
+4. **Lazy Loading:** Load scripture chapters on-demand with `createResource`
+5. **IndexedDB Caching:** Cache loaded chapters for offline use
+6. **Code Splitting:** Vite automatically splits vendor and scripture data chunks
+
+### Testing Philosophy
+- **Unit Tests:** Effect services with `Effect.runPromise`
+- **Integration Tests:** Stores calling services
+- **Component Tests:** SolidJS Testing Library
+- **E2E Tests:** (Future) Playwright or Cypress
+
+### Development Workflow
+1. **Start Dev Server:** `bun run dev` (port 3000)
+2. **Check Code:** `bun run check` before committing
+3. **Fix Issues:** `bun run check:fix` for auto-fixes
+4. **Build:** `bun run build` for production
+5. **Preview:** `bun run serve` to test production build
+
+### Common Pitfalls to Avoid
+
+**SolidJS:**
+- ❌ Don't destructure props in component signature (breaks reactivity)
+- ❌ Don't use `.map()` for lists (use `<For>`)
+- ❌ Don't use ternary for conditional rendering (use `<Show>`)
+- ❌ Don't access signals without calling them: `signal` → `signal()`
+
+**Effect-TS:**
+- ❌ Don't run Effects inside services (compose, don't execute)
+- ❌ Don't use try/catch for Effect errors (use Effect.tryPromise)
+- ❌ Don't ignore error types in Effect signature
+- ❌ Don't mix Promises and Effects (use Effect.tryPromise to bridge)
+
+**Biome:**
+- ❌ Don't use spaces for indentation (use tabs)
+- ❌ Don't use single quotes (use double quotes)
+- ❌ Don't omit semicolons
+- ❌ Don't forget trailing commas
+
+**General:**
+- ❌ Don't mutate scripture data (it's static)
+- ❌ Don't store derived state (use memos)
+- ❌ Don't bypass presentation metadata (it drives the UI)
+- ❌ Don't hardcode token IDs (they're data-driven)
+
+## AI Assistant Guidelines
+
+When assisting with this project:
+
+1. **Respect the Architecture:** Maintain the layered separation (UI → ViewModel → Business Logic → Persistence)
+2. **Use Project Patterns:** Follow existing service, component, and store patterns
+3. **Type Safety:** Always provide full TypeScript types
+4. **Code Style:** Follow Biome configuration (tabs, double quotes, semicolons, trailing commas)
+5. **Effect-TS First:** Use Effect-TS for business logic, not plain Promises
+6. **Fine-Grained Reactivity:** Design components to leverage SolidJS's reactivity model
+7. **Presentation-Driven:** Respect and use scripture presentation metadata
+8. **Accessibility:** Use Kobalte components for interactive UI elements
+9. **Performance:** Consider the scale (1,500+ chapters, potentially thousands of annotations)
+10. **Git-Based Sync:** Maintain the philosophy of git as version control for user data
+
+## Quick Reference
+
+### Import Patterns
+```typescript
+// SolidJS
+import { createSignal, createMemo, createResource, For, Show } from "solid-js";
+import { createStore, produce } from "solid-js/store";
+
+// Effect-TS
+import { Effect, Context, Layer, Data } from "effect";
+
+// Kobalte
+import { Popover, ToggleButton, Dialog } from "@kobalte/core";
+
+// Types
+import type { Chapter, Verse, TextToken } from "./types/scripture";
+```
+
+### Effect-TS Generator Pattern
+```typescript
+const program = Effect.gen(function* () {
+	const service = yield* MyService;
+	const result = yield* service.operation(param);
+	return result;
+});
+```
+
+### SolidJS Resource Pattern
+```typescript
+const [data, { refetch }] = createResource(
+	() => [param1, param2] as const,
+	async ([p1, p2]) => {
+		return await loadData(p1, p2);
+	},
+);
+```
+
+### Bridge Effect to Signal
+```typescript
+import { runEffectIntoSignal } from "./utils/effectSolid";
+
+const [result, setResult] = createSignal<Data | null>(null);
+
+runEffectIntoSignal(
+	myEffect,
+	runtime,
+	(value) => setResult(value),
+	(error) => console.error(error),
+);
+```
+
+### Presentation-Driven Rendering
+```typescript
+// Use presentation metadata from scripture data
+<div
+	classList={{
+		"font-italic": token.presentation.emphasis === "italic",
+		"font-bold": token.presentation.emphasis === "bold",
+		"text-red-600": token.presentation.emphasis === "red-letter",
+	}}
+>
+	{token.text}
+</div>
+```
+
+---
+
+**Project Version:** 1.0.0  
+**Last Updated:** November 8, 2025  
+**Scripture Data Status:** Complete (KJV, BoM, D&C, PGP imported)
+
