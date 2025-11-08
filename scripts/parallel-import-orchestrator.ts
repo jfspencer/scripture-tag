@@ -590,8 +590,10 @@ async function main() {
       if (volumeConfig) {
         // Special handling for KJV (merge OT and NT)
         if (translationId === 'kjv') {
-          const kjvConfig = {
+          const kjvConfig: VolumeConfig = {
+            id: 'kjv',
             name: 'King James Version',
+            fullName: 'The Holy Bible (King James Version)',
             abbreviation: 'KJV',
             translation: 'kjv',
             apiPath: 'ot',
