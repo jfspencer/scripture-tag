@@ -1,0 +1,3176 @@
+{
+  "id": "eccl.1",
+  "book": "eccl",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "eccl.1.1",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "eccl.1.1.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "eccl.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.1.2",
+          "text": "words",
+          "position": 2,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.3",
+          "text": "of",
+          "position": 3,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.5",
+          "text": "Preacher",
+          "position": 5,
+          "verseId": "eccl.1.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.1.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.7",
+          "text": "son",
+          "position": 7,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.9",
+          "text": "David",
+          "position": 9,
+          "verseId": "eccl.1.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.1.10",
+          "text": "king",
+          "position": 10,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "eccl.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.1.12",
+          "text": "Jerusalem",
+          "position": 12,
+          "verseId": "eccl.1.1",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.2",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "eccl.1.2.1",
+          "text": "Vanity",
+          "position": 1,
+          "verseId": "eccl.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.2.2",
+          "text": "of",
+          "position": 2,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.3",
+          "text": "vanities",
+          "position": 3,
+          "verseId": "eccl.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.2.4",
+          "text": "saith",
+          "position": 4,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.6",
+          "text": "Preacher",
+          "position": 6,
+          "verseId": "eccl.1.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.2.7",
+          "text": "vanity",
+          "position": 7,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.9",
+          "text": "vanities",
+          "position": 9,
+          "verseId": "eccl.1.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.2.10",
+          "text": "all",
+          "position": 10,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.11",
+          "text": "is",
+          "position": 11,
+          "verseId": "eccl.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.2.12",
+          "text": "vanity",
+          "position": 12,
+          "verseId": "eccl.1.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.3",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "eccl.1.3.1",
+          "text": "What",
+          "position": 1,
+          "verseId": "eccl.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.3.2",
+          "text": "profit",
+          "position": 2,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.3",
+          "text": "hath",
+          "position": 3,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.5",
+          "text": "man",
+          "position": 5,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.8",
+          "text": "his",
+          "position": 8,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.9",
+          "text": "labour",
+          "position": 9,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.10",
+          "text": "which",
+          "position": 10,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.11",
+          "text": "he",
+          "position": 11,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.12",
+          "text": "taketh",
+          "position": 12,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.13",
+          "text": "under",
+          "position": 13,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "eccl.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.3.15",
+          "text": "sun",
+          "position": 15,
+          "verseId": "eccl.1.3",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.4",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "eccl.1.4.1",
+          "text": "One",
+          "position": 1,
+          "verseId": "eccl.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.4.2",
+          "text": "generation",
+          "position": 2,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.3",
+          "text": "passeth",
+          "position": 3,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.4",
+          "text": "away",
+          "position": 4,
+          "verseId": "eccl.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.4.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.6",
+          "text": "another",
+          "position": 6,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.7",
+          "text": "generation",
+          "position": 7,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.8",
+          "text": "cometh",
+          "position": 8,
+          "verseId": "eccl.1.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.4.9",
+          "text": "but",
+          "position": 9,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.11",
+          "text": "earth",
+          "position": 11,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.12",
+          "text": "abideth",
+          "position": 12,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.13",
+          "text": "for",
+          "position": 13,
+          "verseId": "eccl.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.4.14",
+          "text": "ever",
+          "position": 14,
+          "verseId": "eccl.1.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.5",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "eccl.1.5.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "eccl.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.5.2",
+          "text": "sun",
+          "position": 2,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.3",
+          "text": "also",
+          "position": 3,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.4",
+          "text": "ariseth",
+          "position": 4,
+          "verseId": "eccl.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.5.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.7",
+          "text": "sun",
+          "position": 7,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.8",
+          "text": "goeth",
+          "position": 8,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.9",
+          "text": "down",
+          "position": 9,
+          "verseId": "eccl.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.5.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.11",
+          "text": "hasteth",
+          "position": 11,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.14",
+          "text": "place",
+          "position": 14,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.15",
+          "text": "where",
+          "position": 15,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "eccl.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.5.17",
+          "text": "arose",
+          "position": 17,
+          "verseId": "eccl.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.6",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "eccl.1.6.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "eccl.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.6.2",
+          "text": "wind",
+          "position": 2,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.3",
+          "text": "goeth",
+          "position": 3,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.4",
+          "text": "toward",
+          "position": 4,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.6",
+          "text": "south",
+          "position": 6,
+          "verseId": "eccl.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.6.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.8",
+          "text": "turneth",
+          "position": 8,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.9",
+          "text": "about",
+          "position": 9,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.12",
+          "text": "north",
+          "position": 12,
+          "verseId": "eccl.1.6",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.6.13",
+          "text": "it",
+          "position": 13,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.14",
+          "text": "whirleth",
+          "position": 14,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.15",
+          "text": "about",
+          "position": 15,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.16",
+          "text": "continually",
+          "position": 16,
+          "verseId": "eccl.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.6.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.19",
+          "text": "wind",
+          "position": 19,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.20",
+          "text": "returneth",
+          "position": 20,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.21",
+          "text": "again",
+          "position": 21,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.22",
+          "text": "according",
+          "position": 22,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "eccl.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.6.25",
+          "text": "circuits",
+          "position": 25,
+          "verseId": "eccl.1.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.7",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "eccl.1.7.1",
+          "text": "All",
+          "position": 1,
+          "verseId": "eccl.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.7.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.3",
+          "text": "rivers",
+          "position": 3,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.4",
+          "text": "run",
+          "position": 4,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.5",
+          "text": "into",
+          "position": 5,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.7",
+          "text": "sea",
+          "position": 7,
+          "verseId": "eccl.1.7",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.7.8",
+          "text": "yet",
+          "position": 8,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.10",
+          "text": "sea",
+          "position": 10,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.11",
+          "text": "is",
+          "position": 11,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.12",
+          "text": "not",
+          "position": 12,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.13",
+          "text": "full",
+          "position": 13,
+          "verseId": "eccl.1.7",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.7.14",
+          "text": "unto",
+          "position": 14,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.16",
+          "text": "place",
+          "position": 16,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.17",
+          "text": "from",
+          "position": 17,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.18",
+          "text": "whence",
+          "position": 18,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.20",
+          "text": "rivers",
+          "position": 20,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.21",
+          "text": "come",
+          "position": 21,
+          "verseId": "eccl.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.7.22",
+          "text": "thither",
+          "position": 22,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.24",
+          "text": "return",
+          "position": 24,
+          "verseId": "eccl.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.7.25",
+          "text": "again",
+          "position": 25,
+          "verseId": "eccl.1.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.8",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "eccl.1.8.1",
+          "text": "All",
+          "position": 1,
+          "verseId": "eccl.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.8.2",
+          "text": "things",
+          "position": 2,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.3",
+          "text": "are",
+          "position": 3,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.4",
+          "text": "full",
+          "position": 4,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.6",
+          "text": "labour",
+          "position": 6,
+          "verseId": "eccl.1.8",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.8.7",
+          "text": "man",
+          "position": 7,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.8",
+          "text": "cannot",
+          "position": 8,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.9",
+          "text": "utter",
+          "position": 9,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.10",
+          "text": "it",
+          "position": 10,
+          "verseId": "eccl.1.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.8.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.12",
+          "text": "eye",
+          "position": 12,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.13",
+          "text": "is",
+          "position": 13,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.14",
+          "text": "not",
+          "position": 14,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.15",
+          "text": "satisfied",
+          "position": 15,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.16",
+          "text": "with",
+          "position": 16,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.17",
+          "text": "seeing",
+          "position": 17,
+          "verseId": "eccl.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.8.18",
+          "text": "nor",
+          "position": 18,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.20",
+          "text": "ear",
+          "position": 20,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.21",
+          "text": "filled",
+          "position": 21,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.22",
+          "text": "with",
+          "position": 22,
+          "verseId": "eccl.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.8.23",
+          "text": "hearing",
+          "position": 23,
+          "verseId": "eccl.1.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.9",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "eccl.1.9.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "eccl.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.9.2",
+          "text": "thing",
+          "position": 2,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.3",
+          "text": "that",
+          "position": 3,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.4",
+          "text": "hath",
+          "position": 4,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.5",
+          "text": "been",
+          "position": 5,
+          "verseId": "eccl.1.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.9.6",
+          "text": "it",
+          "position": 6,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.7",
+          "text": "is",
+          "position": 7,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.9",
+          "text": "which",
+          "position": 9,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.10",
+          "text": "shall",
+          "position": 10,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.11",
+          "text": "be",
+          "position": 11,
+          "verseId": "eccl.1.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.9.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.14",
+          "text": "which",
+          "position": 14,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.15",
+          "text": "is",
+          "position": 15,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.16",
+          "text": "done",
+          "position": 16,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.17",
+          "text": "is",
+          "position": 17,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.18",
+          "text": "that",
+          "position": 18,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.19",
+          "text": "which",
+          "position": 19,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.20",
+          "text": "shall",
+          "position": 20,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.21",
+          "text": "be",
+          "position": 21,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.22",
+          "text": "done",
+          "position": 22,
+          "verseId": "eccl.1.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.9.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.24",
+          "text": "there",
+          "position": 24,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.25",
+          "text": "is",
+          "position": 25,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.26",
+          "text": "no",
+          "position": 26,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.27",
+          "text": "new",
+          "position": 27,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.28",
+          "text": "thing",
+          "position": 28,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.29",
+          "text": "under",
+          "position": 29,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "eccl.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.9.31",
+          "text": "sun",
+          "position": 31,
+          "verseId": "eccl.1.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.10",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "eccl.1.10.1",
+          "text": "Is",
+          "position": 1,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.10.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.3",
+          "text": "any",
+          "position": 3,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.4",
+          "text": "thing",
+          "position": 4,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.5",
+          "text": "whereof",
+          "position": 5,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.6",
+          "text": "it",
+          "position": 6,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.7",
+          "text": "may",
+          "position": 7,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.8",
+          "text": "be",
+          "position": 8,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.9",
+          "text": "said",
+          "position": 9,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.10.10",
+          "text": "See",
+          "position": 10,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.10.11",
+          "text": "this",
+          "position": 11,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.12",
+          "text": "is",
+          "position": 12,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.13",
+          "text": "new",
+          "position": 13,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "eccl.1.10.14",
+          "text": "it",
+          "position": 14,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.15",
+          "text": "hath",
+          "position": 15,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.16",
+          "text": "been",
+          "position": 16,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.17",
+          "text": "already",
+          "position": 17,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.19",
+          "text": "old",
+          "position": 19,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.20",
+          "text": "time",
+          "position": 20,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.10.21",
+          "text": "which",
+          "position": 21,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.22",
+          "text": "was",
+          "position": 22,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.23",
+          "text": "before",
+          "position": 23,
+          "verseId": "eccl.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.10.24",
+          "text": "us",
+          "position": 24,
+          "verseId": "eccl.1.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.11",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "eccl.1.11.1",
+          "text": "There",
+          "position": 1,
+          "verseId": "eccl.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.11.2",
+          "text": "is",
+          "position": 2,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.3",
+          "text": "no",
+          "position": 3,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.4",
+          "text": "remembrance",
+          "position": 4,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.6",
+          "text": "former",
+          "position": 6,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.7",
+          "text": "things",
+          "position": 7,
+          "verseId": "eccl.1.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.11.8",
+          "text": "neither",
+          "position": 8,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.9",
+          "text": "shall",
+          "position": 9,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.10",
+          "text": "there",
+          "position": 10,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.11",
+          "text": "be",
+          "position": 11,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.12",
+          "text": "any",
+          "position": 12,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.13",
+          "text": "remembrance",
+          "position": 13,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.15",
+          "text": "things",
+          "position": 15,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.16",
+          "text": "that",
+          "position": 16,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.17",
+          "text": "are",
+          "position": 17,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.18",
+          "text": "to",
+          "position": 18,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.19",
+          "text": "come",
+          "position": 19,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.20",
+          "text": "with",
+          "position": 20,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.21",
+          "text": "those",
+          "position": 21,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.23",
+          "text": "shall",
+          "position": 23,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.24",
+          "text": "come",
+          "position": 24,
+          "verseId": "eccl.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.11.25",
+          "text": "after",
+          "position": 25,
+          "verseId": "eccl.1.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.12",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "eccl.1.12.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "eccl.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.12.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "eccl.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.12.4",
+          "text": "Preacher",
+          "position": 4,
+          "verseId": "eccl.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.12.5",
+          "text": "was",
+          "position": 5,
+          "verseId": "eccl.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.12.6",
+          "text": "king",
+          "position": 6,
+          "verseId": "eccl.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.12.7",
+          "text": "over",
+          "position": 7,
+          "verseId": "eccl.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.12.8",
+          "text": "Israel",
+          "position": 8,
+          "verseId": "eccl.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.12.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "eccl.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.12.10",
+          "text": "Jerusalem",
+          "position": 10,
+          "verseId": "eccl.1.12",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.13",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "eccl.1.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "eccl.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.13.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "eccl.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.13.3",
+          "text": "gave",
+          "position": 3,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.4",
+          "text": "my",
+          "position": 4,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.5",
+          "text": "heart",
+          "position": 5,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.6",
+          "text": "to",
+          "position": 6,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.7",
+          "text": "seek",
+          "position": 7,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.9",
+          "text": "search",
+          "position": 9,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.10",
+          "text": "out",
+          "position": 10,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.11",
+          "text": "by",
+          "position": 11,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.12",
+          "text": "wisdom",
+          "position": 12,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.13",
+          "text": "concerning",
+          "position": 13,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.14",
+          "text": "all",
+          "position": 14,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.15",
+          "text": "things",
+          "position": 15,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.16",
+          "text": "that",
+          "position": 16,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.17",
+          "text": "are",
+          "position": 17,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.18",
+          "text": "done",
+          "position": 18,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.19",
+          "text": "under",
+          "position": 19,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.20",
+          "text": "heaven",
+          "position": 20,
+          "verseId": "eccl.1.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.13.21",
+          "text": "this",
+          "position": 21,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.22",
+          "text": "sore",
+          "position": 22,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.23",
+          "text": "travail",
+          "position": 23,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.24",
+          "text": "hath",
+          "position": 24,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.25",
+          "text": "God",
+          "position": 25,
+          "verseId": "eccl.1.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "eccl.1.13.26",
+          "text": "given",
+          "position": 26,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.27",
+          "text": "to",
+          "position": 27,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.29",
+          "text": "sons",
+          "position": 29,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.31",
+          "text": "man",
+          "position": 31,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.32",
+          "text": "to",
+          "position": 32,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.33",
+          "text": "be",
+          "position": 33,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.34",
+          "text": "exercised",
+          "position": 34,
+          "verseId": "eccl.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.13.35",
+          "text": "therewith",
+          "position": 35,
+          "verseId": "eccl.1.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.14",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "eccl.1.14.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "eccl.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.14.2",
+          "text": "have",
+          "position": 2,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.3",
+          "text": "seen",
+          "position": 3,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.4",
+          "text": "all",
+          "position": 4,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.6",
+          "text": "works",
+          "position": 6,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.7",
+          "text": "that",
+          "position": 7,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.8",
+          "text": "are",
+          "position": 8,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.9",
+          "text": "done",
+          "position": 9,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.10",
+          "text": "under",
+          "position": 10,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.12",
+          "text": "sun",
+          "position": 12,
+          "verseId": "eccl.1.14",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "eccl.1.14.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "eccl.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.14.14",
+          "text": "behold",
+          "position": 14,
+          "verseId": "eccl.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.14.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.16",
+          "text": "is",
+          "position": 16,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.17",
+          "text": "vanity",
+          "position": 17,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.19",
+          "text": "vexation",
+          "position": 19,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "eccl.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.14.21",
+          "text": "spirit",
+          "position": 21,
+          "verseId": "eccl.1.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.15",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "eccl.1.15.1",
+          "text": "That",
+          "position": 1,
+          "verseId": "eccl.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.15.2",
+          "text": "which",
+          "position": 2,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.3",
+          "text": "is",
+          "position": 3,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.4",
+          "text": "crooked",
+          "position": 4,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.5",
+          "text": "cannot",
+          "position": 5,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.7",
+          "text": "made",
+          "position": 7,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.8",
+          "text": "straight",
+          "position": 8,
+          "verseId": "eccl.1.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.15.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.11",
+          "text": "which",
+          "position": 11,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.12",
+          "text": "is",
+          "position": 12,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.13",
+          "text": "wanting",
+          "position": 13,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.14",
+          "text": "cannot",
+          "position": 14,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.15",
+          "text": "be",
+          "position": 15,
+          "verseId": "eccl.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.15.16",
+          "text": "numbered",
+          "position": 16,
+          "verseId": "eccl.1.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.16",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "eccl.1.16.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.16.2",
+          "text": "communed",
+          "position": 2,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.3",
+          "text": "with",
+          "position": 3,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.4",
+          "text": "mine",
+          "position": 4,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.5",
+          "text": "own",
+          "position": 5,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.6",
+          "text": "heart",
+          "position": 6,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.16.7",
+          "text": "saying",
+          "position": 7,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.16.8",
+          "text": "Lo",
+          "position": 8,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.16.9",
+          "text": "I",
+          "position": 9,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.16.10",
+          "text": "am",
+          "position": 10,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.11",
+          "text": "come",
+          "position": 11,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.13",
+          "text": "great",
+          "position": 13,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.14",
+          "text": "estate",
+          "position": 14,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.16.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.16",
+          "text": "have",
+          "position": 16,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.17",
+          "text": "gotten",
+          "position": 17,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.18",
+          "text": "more",
+          "position": 18,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.19",
+          "text": "wisdom",
+          "position": 19,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.20",
+          "text": "than",
+          "position": 20,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.21",
+          "text": "all",
+          "position": 21,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.22",
+          "text": "they",
+          "position": 22,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.23",
+          "text": "that",
+          "position": 23,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.24",
+          "text": "have",
+          "position": 24,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.25",
+          "text": "been",
+          "position": 25,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.26",
+          "text": "before",
+          "position": 26,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.27",
+          "text": "me",
+          "position": 27,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.28",
+          "text": "in",
+          "position": 28,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.29",
+          "text": "Jerusalem",
+          "position": 29,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.16.30",
+          "text": "yea",
+          "position": 30,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.16.31",
+          "text": "my",
+          "position": 31,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.32",
+          "text": "heart",
+          "position": 32,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.33",
+          "text": "had",
+          "position": 33,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.34",
+          "text": "great",
+          "position": 34,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.35",
+          "text": "experience",
+          "position": 35,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.36",
+          "text": "of",
+          "position": 36,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.37",
+          "text": "wisdom",
+          "position": 37,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.38",
+          "text": "and",
+          "position": 38,
+          "verseId": "eccl.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.16.39",
+          "text": "knowledge",
+          "position": 39,
+          "verseId": "eccl.1.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.17",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "eccl.1.17.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.17.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.17.3",
+          "text": "gave",
+          "position": 3,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.4",
+          "text": "my",
+          "position": 4,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.5",
+          "text": "heart",
+          "position": 5,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.6",
+          "text": "to",
+          "position": 6,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.7",
+          "text": "know",
+          "position": 7,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.8",
+          "text": "wisdom",
+          "position": 8,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "eccl.1.17.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.11",
+          "text": "know",
+          "position": 11,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.12",
+          "text": "madness",
+          "position": 12,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.14",
+          "text": "folly",
+          "position": 14,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.17.15",
+          "text": "I",
+          "position": 15,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.17.16",
+          "text": "perceived",
+          "position": 16,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.18",
+          "text": "this",
+          "position": 18,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.19",
+          "text": "also",
+          "position": 19,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.20",
+          "text": "is",
+          "position": 20,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.21",
+          "text": "vexation",
+          "position": 21,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "eccl.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.17.23",
+          "text": "spirit",
+          "position": 23,
+          "verseId": "eccl.1.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "eccl.1.18",
+      "book": "eccl",
+      "chapter": 1,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "eccl.1.18.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "eccl.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "eccl.1.18.2",
+          "text": "in",
+          "position": 2,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.3",
+          "text": "much",
+          "position": 3,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.4",
+          "text": "wisdom",
+          "position": 4,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.5",
+          "text": "is",
+          "position": 5,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.6",
+          "text": "much",
+          "position": 6,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.7",
+          "text": "grief",
+          "position": 7,
+          "verseId": "eccl.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "eccl.1.18.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.11",
+          "text": "increaseth",
+          "position": 11,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.12",
+          "text": "knowledge",
+          "position": 12,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.13",
+          "text": "increaseth",
+          "position": 13,
+          "verseId": "eccl.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "eccl.1.18.14",
+          "text": "sorrow",
+          "position": 14,
+          "verseId": "eccl.1.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

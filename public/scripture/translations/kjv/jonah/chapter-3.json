@@ -1,0 +1,2163 @@
+{
+  "id": "jonah.3",
+  "book": "jonah",
+  "chapter": 3,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "jonah.3.1",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "jonah.3.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "jonah.3.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.1.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.3",
+          "text": "word",
+          "position": 3,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.6",
+          "text": "Lord",
+          "position": 6,
+          "verseId": "jonah.3.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.1.7",
+          "text": "came",
+          "position": 7,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.9",
+          "text": "Jonah",
+          "position": 9,
+          "verseId": "jonah.3.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.1.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.11",
+          "text": "second",
+          "position": 11,
+          "verseId": "jonah.3.1",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.1.12",
+          "text": "time",
+          "position": 12,
+          "verseId": "jonah.3.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.1.13",
+          "text": "saying",
+          "position": 13,
+          "verseId": "jonah.3.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.2",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "jonah.3.2.1",
+          "text": "Arise",
+          "position": 1,
+          "verseId": "jonah.3.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.2.2",
+          "text": "go",
+          "position": 2,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.3",
+          "text": "unto",
+          "position": 3,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.4",
+          "text": "Nineveh",
+          "position": 4,
+          "verseId": "jonah.3.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.2.5",
+          "text": "that",
+          "position": 5,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.6",
+          "text": "great",
+          "position": 6,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.7",
+          "text": "city",
+          "position": 7,
+          "verseId": "jonah.3.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.2.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.9",
+          "text": "preach",
+          "position": 9,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.11",
+          "text": "it",
+          "position": 11,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.13",
+          "text": "preaching",
+          "position": 13,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.14",
+          "text": "that",
+          "position": 14,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.15",
+          "text": "I",
+          "position": 15,
+          "verseId": "jonah.3.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.2.16",
+          "text": "bid",
+          "position": 16,
+          "verseId": "jonah.3.2",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.2.17",
+          "text": "thee",
+          "position": 17,
+          "verseId": "jonah.3.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.3",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "jonah.3.3.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.3.2",
+          "text": "Jonah",
+          "position": 2,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.3.3",
+          "text": "arose",
+          "position": 3,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.3.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.5",
+          "text": "went",
+          "position": 5,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.7",
+          "text": "Nineveh",
+          "position": 7,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.3.8",
+          "text": "according",
+          "position": 8,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.9",
+          "text": "to",
+          "position": 9,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.11",
+          "text": "word",
+          "position": 11,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.14",
+          "text": "Lord",
+          "position": 14,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.3.15",
+          "text": "Now",
+          "position": 15,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.3.16",
+          "text": "Nineveh",
+          "position": 16,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.3.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.18",
+          "text": "an",
+          "position": 18,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.19",
+          "text": "exceeding",
+          "position": 19,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.20",
+          "text": "great",
+          "position": 20,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.21",
+          "text": "city",
+          "position": 21,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.23",
+          "text": "three",
+          "position": 23,
+          "verseId": "jonah.3.3",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.3.24",
+          "text": "days",
+          "position": 24,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "followingPunctuation": "’"
+          }
+        },
+        {
+          "id": "jonah.3.3.25",
+          "text": "journey",
+          "position": 25,
+          "verseId": "jonah.3.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.4",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "jonah.3.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.4.2",
+          "text": "Jonah",
+          "position": 2,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.4.3",
+          "text": "began",
+          "position": 3,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.5",
+          "text": "enter",
+          "position": 5,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.6",
+          "text": "into",
+          "position": 6,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.8",
+          "text": "city",
+          "position": 8,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.9",
+          "text": "a",
+          "position": 9,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.10",
+          "text": "day’s",
+          "position": 10,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.11",
+          "text": "journey",
+          "position": 11,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.4.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.13",
+          "text": "he",
+          "position": 13,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.14",
+          "text": "cried",
+          "position": 14,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.4.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.16",
+          "text": "said",
+          "position": 16,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.4.17",
+          "text": "Yet",
+          "position": 17,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.4.18",
+          "text": "forty",
+          "position": 18,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.19",
+          "text": "days",
+          "position": 19,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.4.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.21",
+          "text": "Nineveh",
+          "position": 21,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.4.22",
+          "text": "shall",
+          "position": 22,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.23",
+          "text": "be",
+          "position": 23,
+          "verseId": "jonah.3.4",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.4.24",
+          "text": "overthrown",
+          "position": 24,
+          "verseId": "jonah.3.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.5",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "jonah.3.5.2",
+          "text": "So",
+          "position": 2,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.5.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.4",
+          "text": "people",
+          "position": 4,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.6",
+          "text": "Nineveh",
+          "position": 6,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.5.7",
+          "text": "believed",
+          "position": 7,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.8",
+          "text": "God",
+          "position": 8,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.5.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.10",
+          "text": "proclaimed",
+          "position": 10,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.11",
+          "text": "a",
+          "position": 11,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.12",
+          "text": "fast",
+          "position": 12,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.5.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.14",
+          "text": "put",
+          "position": 14,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.15",
+          "text": "on",
+          "position": 15,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.16",
+          "text": "sackcloth",
+          "position": 16,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.5.17",
+          "text": "from",
+          "position": 17,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.19",
+          "text": "greatest",
+          "position": 19,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.21",
+          "text": "them",
+          "position": 21,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.22",
+          "text": "even",
+          "position": 22,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.25",
+          "text": "least",
+          "position": 25,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.26",
+          "text": "of",
+          "position": 26,
+          "verseId": "jonah.3.5",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.5.27",
+          "text": "them",
+          "position": 27,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.6",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "jonah.3.6.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.6.2",
+          "text": "word",
+          "position": 2,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.6",
+          "text": "king",
+          "position": 6,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.8",
+          "text": "Nineveh",
+          "position": 8,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.6.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.11",
+          "text": "arose",
+          "position": 11,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.12",
+          "text": "from",
+          "position": 12,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.14",
+          "text": "throne",
+          "position": 14,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.6.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.17",
+          "text": "laid",
+          "position": 17,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.18",
+          "text": "his",
+          "position": 18,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.19",
+          "text": "robe",
+          "position": 19,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.20",
+          "text": "from",
+          "position": 20,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.21",
+          "text": "him",
+          "position": 21,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.6.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.23",
+          "text": "covered",
+          "position": 23,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.24",
+          "text": "him",
+          "position": 24,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.25",
+          "text": "with",
+          "position": 25,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.26",
+          "text": "sackcloth",
+          "position": 26,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.6.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.28",
+          "text": "sat",
+          "position": 28,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.29",
+          "text": "in",
+          "position": 29,
+          "verseId": "jonah.3.6",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.6.30",
+          "text": "ashes",
+          "position": 30,
+          "verseId": "jonah.3.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.7",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "jonah.3.7.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.7.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.3",
+          "text": "caused",
+          "position": 3,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.7",
+          "text": "proclaimed",
+          "position": 7,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.9",
+          "text": "published",
+          "position": 9,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.10",
+          "text": "through",
+          "position": 10,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.11",
+          "text": "Nineveh",
+          "position": 11,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.7.12",
+          "text": "by",
+          "position": 12,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.14",
+          "text": "decree",
+          "position": 14,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.17",
+          "text": "king",
+          "position": 17,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.19",
+          "text": "his",
+          "position": 19,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.20",
+          "text": "nobles",
+          "position": 20,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.7.21",
+          "text": "saying",
+          "position": 21,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.7.22",
+          "text": "Let",
+          "position": 22,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.7.23",
+          "text": "neither",
+          "position": 23,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.24",
+          "text": "man",
+          "position": 24,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.25",
+          "text": "nor",
+          "position": 25,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.26",
+          "text": "beast",
+          "position": 26,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.7.27",
+          "text": "herd",
+          "position": 27,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.28",
+          "text": "nor",
+          "position": 28,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.29",
+          "text": "flock",
+          "position": 29,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.7.30",
+          "text": "taste",
+          "position": 30,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.31",
+          "text": "any",
+          "position": 31,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.32",
+          "text": "thing",
+          "position": 32,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "jonah.3.7.33",
+          "text": "let",
+          "position": 33,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.34",
+          "text": "them",
+          "position": 34,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.35",
+          "text": "not",
+          "position": 35,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.36",
+          "text": "feed",
+          "position": 36,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.7.37",
+          "text": "nor",
+          "position": 37,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.38",
+          "text": "drink",
+          "position": 38,
+          "verseId": "jonah.3.7",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.7.39",
+          "text": "water",
+          "position": 39,
+          "verseId": "jonah.3.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.8",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "jonah.3.8.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.8.2",
+          "text": "let",
+          "position": 2,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.3",
+          "text": "man",
+          "position": 3,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.5",
+          "text": "beast",
+          "position": 5,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.7",
+          "text": "covered",
+          "position": 7,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.8",
+          "text": "with",
+          "position": 8,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.9",
+          "text": "sackcloth",
+          "position": 9,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.8.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.11",
+          "text": "cry",
+          "position": 11,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.12",
+          "text": "mightily",
+          "position": 12,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.13",
+          "text": "unto",
+          "position": 13,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.14",
+          "text": "God",
+          "position": 14,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.8.15",
+          "text": "yea",
+          "position": 15,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.8.16",
+          "text": "let",
+          "position": 16,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.17",
+          "text": "them",
+          "position": 17,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.18",
+          "text": "turn",
+          "position": 18,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.19",
+          "text": "every",
+          "position": 19,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.20",
+          "text": "one",
+          "position": 20,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.21",
+          "text": "from",
+          "position": 21,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.22",
+          "text": "his",
+          "position": 22,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.23",
+          "text": "evil",
+          "position": 23,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.24",
+          "text": "way",
+          "position": 24,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.8.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.26",
+          "text": "from",
+          "position": 26,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.28",
+          "text": "violence",
+          "position": 28,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.29",
+          "text": "that",
+          "position": 29,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.30",
+          "text": "is",
+          "position": 30,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.31",
+          "text": "in",
+          "position": 31,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.32",
+          "text": "their",
+          "position": 32,
+          "verseId": "jonah.3.8",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.8.33",
+          "text": "hands",
+          "position": 33,
+          "verseId": "jonah.3.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.9",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "jonah.3.9.1",
+          "text": "Who",
+          "position": 1,
+          "verseId": "jonah.3.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.9.2",
+          "text": "can",
+          "position": 2,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.3",
+          "text": "tell",
+          "position": 3,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.4",
+          "text": "if",
+          "position": 4,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.5",
+          "text": "God",
+          "position": 5,
+          "verseId": "jonah.3.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.9.6",
+          "text": "will",
+          "position": 6,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.7",
+          "text": "turn",
+          "position": 7,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.9",
+          "text": "repent",
+          "position": 9,
+          "verseId": "jonah.3.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.9.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.11",
+          "text": "turn",
+          "position": 11,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.12",
+          "text": "away",
+          "position": 12,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.13",
+          "text": "from",
+          "position": 13,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.15",
+          "text": "fierce",
+          "position": 15,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.16",
+          "text": "anger",
+          "position": 16,
+          "verseId": "jonah.3.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.9.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.18",
+          "text": "we",
+          "position": 18,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.19",
+          "text": "perish",
+          "position": 19,
+          "verseId": "jonah.3.9",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.9.20",
+          "text": "not",
+          "position": 20,
+          "verseId": "jonah.3.9",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "jonah.3.10",
+      "book": "jonah",
+      "chapter": 3,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "jonah.3.10.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "jonah.3.10.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.10.4",
+          "text": "saw",
+          "position": 4,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.5",
+          "text": "their",
+          "position": 5,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.6",
+          "text": "works",
+          "position": 6,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.10.7",
+          "text": "that",
+          "position": 7,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.8",
+          "text": "they",
+          "position": 8,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.9",
+          "text": "turned",
+          "position": 9,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.10",
+          "text": "from",
+          "position": 10,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.11",
+          "text": "their",
+          "position": 11,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.12",
+          "text": "evil",
+          "position": 12,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.13",
+          "text": "way",
+          "position": 13,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "jonah.3.10.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.15",
+          "text": "God",
+          "position": 15,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "jonah.3.10.16",
+          "text": "repented",
+          "position": 16,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.19",
+          "text": "evil",
+          "position": 19,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "jonah.3.10.20",
+          "text": "that",
+          "position": 20,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.22",
+          "text": "had",
+          "position": 22,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.23",
+          "text": "said",
+          "position": 23,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.24",
+          "text": "that",
+          "position": 24,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.25",
+          "text": "he",
+          "position": 25,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.26",
+          "text": "would",
+          "position": 26,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.27",
+          "text": "do",
+          "position": 27,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.28",
+          "text": "unto",
+          "position": 28,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.29",
+          "text": "them",
+          "position": 29,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "jonah.3.10.30",
+          "text": "and",
+          "position": 30,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.31",
+          "text": "he",
+          "position": 31,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.32",
+          "text": "did",
+          "position": 32,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.33",
+          "text": "it",
+          "position": 33,
+          "verseId": "jonah.3.10",
+          "presentation": {}
+        },
+        {
+          "id": "jonah.3.10.34",
+          "text": "not",
+          "position": 34,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

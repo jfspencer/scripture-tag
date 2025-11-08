@@ -1,0 +1,176 @@
+{
+  "version": "1.0.0",
+  "translations": [
+    {
+      "id": "kjv-nt",
+      "name": "KJV-NT",
+      "abbreviation": "KJV-NT",
+      "language": "en",
+      "copyright": "Public Domain",
+      "books": [
+        {
+          "id": "matt",
+          "name": "Matthew",
+          "category": "gospels",
+          "chapters": 28
+        },
+        {
+          "id": "mark",
+          "name": "Mark",
+          "category": "gospels",
+          "chapters": 16
+        },
+        {
+          "id": "luke",
+          "name": "Luke",
+          "category": "gospels",
+          "chapters": 24
+        },
+        {
+          "id": "john",
+          "name": "John",
+          "category": "gospels",
+          "chapters": 21
+        },
+        {
+          "id": "acts",
+          "name": "Acts",
+          "category": "acts",
+          "chapters": 28
+        },
+        {
+          "id": "rom",
+          "name": "Romans",
+          "category": "epistles-paul",
+          "chapters": 16
+        },
+        {
+          "id": "1-cor",
+          "name": "1 Corinthians",
+          "category": "epistles-paul",
+          "chapters": 16
+        },
+        {
+          "id": "2-cor",
+          "name": "2 Corinthians",
+          "category": "epistles-paul",
+          "chapters": 13
+        },
+        {
+          "id": "gal",
+          "name": "Galatians",
+          "category": "epistles-paul",
+          "chapters": 6
+        },
+        {
+          "id": "eph",
+          "name": "Ephesians",
+          "category": "epistles-paul",
+          "chapters": 6
+        },
+        {
+          "id": "philip",
+          "name": "Philippians",
+          "category": "epistles-paul",
+          "chapters": 4
+        },
+        {
+          "id": "col",
+          "name": "Colossians",
+          "category": "epistles-paul",
+          "chapters": 4
+        },
+        {
+          "id": "1-thes",
+          "name": "1 Thessalonians",
+          "category": "epistles-paul",
+          "chapters": 5
+        },
+        {
+          "id": "2-thes",
+          "name": "2 Thessalonians",
+          "category": "epistles-paul",
+          "chapters": 3
+        },
+        {
+          "id": "1-tim",
+          "name": "1 Timothy",
+          "category": "epistles-paul",
+          "chapters": 6
+        },
+        {
+          "id": "2-tim",
+          "name": "2 Timothy",
+          "category": "epistles-paul",
+          "chapters": 4
+        },
+        {
+          "id": "titus",
+          "name": "Titus",
+          "category": "epistles-paul",
+          "chapters": 3
+        },
+        {
+          "id": "philem",
+          "name": "Philemon",
+          "category": "epistles-paul",
+          "chapters": 1
+        },
+        {
+          "id": "heb",
+          "name": "Hebrews",
+          "category": "epistles-general",
+          "chapters": 13
+        },
+        {
+          "id": "james",
+          "name": "James",
+          "category": "epistles-general",
+          "chapters": 5
+        },
+        {
+          "id": "1-pet",
+          "name": "1 Peter",
+          "category": "epistles-general",
+          "chapters": 5
+        },
+        {
+          "id": "2-pet",
+          "name": "2 Peter",
+          "category": "epistles-general",
+          "chapters": 3
+        },
+        {
+          "id": "1-jn",
+          "name": "1 John",
+          "category": "epistles-general",
+          "chapters": 5
+        },
+        {
+          "id": "2-jn",
+          "name": "2 John",
+          "category": "epistles-general",
+          "chapters": 1
+        },
+        {
+          "id": "3-jn",
+          "name": "3 John",
+          "category": "epistles-general",
+          "chapters": 1
+        },
+        {
+          "id": "jude",
+          "name": "Jude",
+          "category": "epistles-general",
+          "chapters": 1
+        },
+        {
+          "id": "rev",
+          "name": "Revelation",
+          "category": "apocalyptic",
+          "chapters": 22
+        }
+      ]
+    }
+  ]
+}

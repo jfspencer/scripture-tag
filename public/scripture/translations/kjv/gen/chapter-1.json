@@ -1,0 +1,6569 @@
+{
+  "id": "gen.1",
+  "book": "gen",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "gen.1.1",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "gen.1.1.1",
+          "text": "In",
+          "position": 1,
+          "verseId": "gen.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.1.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.3",
+          "text": "beginning",
+          "position": 3,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.4",
+          "text": "God",
+          "position": 4,
+          "verseId": "gen.1.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.1.5",
+          "text": "created",
+          "position": 5,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.7",
+          "text": "heaven",
+          "position": 7,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.1.10",
+          "text": "earth",
+          "position": 10,
+          "verseId": "gen.1.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.2",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "gen.1.2.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.2.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.3",
+          "text": "earth",
+          "position": 3,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.5",
+          "text": "without",
+          "position": 5,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.6",
+          "text": "form",
+          "position": 6,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.2.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.8",
+          "text": "void",
+          "position": 8,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.1.2.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.10",
+          "text": "darkness",
+          "position": 10,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.11",
+          "text": "was",
+          "position": 11,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.12",
+          "text": "upon",
+          "position": 12,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.14",
+          "text": "face",
+          "position": 14,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.17",
+          "text": "deep",
+          "position": 17,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "gen.1.2.18",
+          "text": "And",
+          "position": 18,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.2.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.20",
+          "text": "Spirit",
+          "position": 20,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.2.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.22",
+          "text": "God",
+          "position": 22,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.2.23",
+          "text": "moved",
+          "position": 23,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.24",
+          "text": "upon",
+          "position": 24,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.26",
+          "text": "face",
+          "position": 26,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "gen.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.2.29",
+          "text": "waters",
+          "position": 29,
+          "verseId": "gen.1.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.3",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "gen.1.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.3.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.3.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.3.4",
+          "text": "Let",
+          "position": 4,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.3.5",
+          "text": "there",
+          "position": 5,
+          "verseId": "gen.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.3.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "gen.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.3.7",
+          "text": "light",
+          "position": 7,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.3.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "gen.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.3.9",
+          "text": "there",
+          "position": 9,
+          "verseId": "gen.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.3.10",
+          "text": "was",
+          "position": 10,
+          "verseId": "gen.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.3.11",
+          "text": "light",
+          "position": 11,
+          "verseId": "gen.1.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.4",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "gen.1.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.4.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.4.3",
+          "text": "saw",
+          "position": 3,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.5",
+          "text": "light",
+          "position": 5,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.4.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.7",
+          "text": "it",
+          "position": 7,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.8",
+          "text": "was",
+          "position": 8,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.9",
+          "text": "good",
+          "position": 9,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.4.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.11",
+          "text": "God",
+          "position": 11,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.4.12",
+          "text": "divided",
+          "position": 12,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.14",
+          "text": "light",
+          "position": 14,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.15",
+          "text": "from",
+          "position": 15,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "gen.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.4.17",
+          "text": "darkness",
+          "position": 17,
+          "verseId": "gen.1.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.5",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "gen.1.5.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.5.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.5.3",
+          "text": "called",
+          "position": 3,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.5",
+          "text": "light",
+          "position": 5,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.6",
+          "text": "Day",
+          "position": 6,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.5.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.9",
+          "text": "darkness",
+          "position": 9,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.11",
+          "text": "called",
+          "position": 11,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.12",
+          "text": "Night",
+          "position": 12,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.5.13",
+          "text": "And",
+          "position": 13,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.5.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.15",
+          "text": "evening",
+          "position": 15,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.18",
+          "text": "morning",
+          "position": 18,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.19",
+          "text": "were",
+          "position": 19,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.21",
+          "text": "first",
+          "position": 21,
+          "verseId": "gen.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.5.22",
+          "text": "day",
+          "position": 22,
+          "verseId": "gen.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.6",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "gen.1.6.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.6.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.6.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.6.5",
+          "text": "Let",
+          "position": 5,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.6.6",
+          "text": "there",
+          "position": 6,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.7",
+          "text": "be",
+          "position": 7,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.8",
+          "text": "a",
+          "position": 8,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.9",
+          "text": "firmament",
+          "position": 9,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.10",
+          "text": "in",
+          "position": 10,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.12",
+          "text": "midst",
+          "position": 12,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.15",
+          "text": "waters",
+          "position": 15,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.6.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.17",
+          "text": "let",
+          "position": 17,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.18",
+          "text": "it",
+          "position": 18,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.19",
+          "text": "divide",
+          "position": 19,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.21",
+          "text": "waters",
+          "position": 21,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.22",
+          "text": "from",
+          "position": 22,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "gen.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.6.24",
+          "text": "waters",
+          "position": 24,
+          "verseId": "gen.1.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.7",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "gen.1.7.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.7.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.7",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.7.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.5",
+          "text": "firmament",
+          "position": 5,
+          "verseId": "gen.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.7.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.7",
+          "text": "divided",
+          "position": 7,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.9",
+          "text": "waters",
+          "position": 9,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.10",
+          "text": "which",
+          "position": 10,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.11",
+          "text": "were",
+          "position": 11,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.12",
+          "text": "under",
+          "position": 12,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.14",
+          "text": "firmament",
+          "position": 14,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.15",
+          "text": "from",
+          "position": 15,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.17",
+          "text": "waters",
+          "position": 17,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.18",
+          "text": "which",
+          "position": 18,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.19",
+          "text": "were",
+          "position": 19,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.20",
+          "text": "above",
+          "position": 20,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.22",
+          "text": "firmament",
+          "position": 22,
+          "verseId": "gen.1.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.7.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.24",
+          "text": "it",
+          "position": 24,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.25",
+          "text": "was",
+          "position": 25,
+          "verseId": "gen.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.7.26",
+          "text": "so",
+          "position": 26,
+          "verseId": "gen.1.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.8",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "gen.1.8.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.8.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.8",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.8.3",
+          "text": "called",
+          "position": 3,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.5",
+          "text": "firmament",
+          "position": 5,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.6",
+          "text": "Heaven",
+          "position": 6,
+          "verseId": "gen.1.8",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.8.7",
+          "text": "And",
+          "position": 7,
+          "verseId": "gen.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.8.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.9",
+          "text": "evening",
+          "position": 9,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.12",
+          "text": "morning",
+          "position": 12,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.13",
+          "text": "were",
+          "position": 13,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.15",
+          "text": "second",
+          "position": 15,
+          "verseId": "gen.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.8.16",
+          "text": "day",
+          "position": 16,
+          "verseId": "gen.1.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.9",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "gen.1.9.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.9.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.9.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.9.5",
+          "text": "Let",
+          "position": 5,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.9.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.7",
+          "text": "waters",
+          "position": 7,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.8",
+          "text": "under",
+          "position": 8,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.10",
+          "text": "heaven",
+          "position": 10,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.11",
+          "text": "be",
+          "position": 11,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.12",
+          "text": "gathered",
+          "position": 12,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.13",
+          "text": "together",
+          "position": 13,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.14",
+          "text": "unto",
+          "position": 14,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.15",
+          "text": "one",
+          "position": 15,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.16",
+          "text": "place",
+          "position": 16,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.9.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.18",
+          "text": "let",
+          "position": 18,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.20",
+          "text": "dry",
+          "position": 20,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.21",
+          "text": "land",
+          "position": 21,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.22",
+          "text": "appear",
+          "position": 22,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.9.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.24",
+          "text": "it",
+          "position": 24,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.25",
+          "text": "was",
+          "position": 25,
+          "verseId": "gen.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.9.26",
+          "text": "so",
+          "position": 26,
+          "verseId": "gen.1.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.10",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "gen.1.10.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.10.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.10.3",
+          "text": "called",
+          "position": 3,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.5",
+          "text": "dry",
+          "position": 5,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.6",
+          "text": "land",
+          "position": 6,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.7",
+          "text": "Earth",
+          "position": 7,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.10.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.10",
+          "text": "gathering",
+          "position": 10,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.11",
+          "text": "together",
+          "position": 11,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.14",
+          "text": "waters",
+          "position": 14,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.15",
+          "text": "called",
+          "position": 15,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.17",
+          "text": "Seas",
+          "position": 17,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.10.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.19",
+          "text": "God",
+          "position": 19,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.10.20",
+          "text": "saw",
+          "position": 20,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.21",
+          "text": "that",
+          "position": 21,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.22",
+          "text": "it",
+          "position": 22,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.23",
+          "text": "was",
+          "position": 23,
+          "verseId": "gen.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.10.24",
+          "text": "good",
+          "position": 24,
+          "verseId": "gen.1.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.11",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "gen.1.11.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.11.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.11.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.11.4",
+          "text": "Let",
+          "position": 4,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.11.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.6",
+          "text": "earth",
+          "position": 6,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.7",
+          "text": "bring",
+          "position": 7,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.8",
+          "text": "forth",
+          "position": 8,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.9",
+          "text": "grass",
+          "position": 9,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.11.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.11",
+          "text": "herb",
+          "position": 11,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.12",
+          "text": "yielding",
+          "position": 12,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.13",
+          "text": "seed",
+          "position": 13,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.11.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.16",
+          "text": "fruit",
+          "position": 16,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.17",
+          "text": "tree",
+          "position": 17,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.18",
+          "text": "yielding",
+          "position": 18,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.19",
+          "text": "fruit",
+          "position": 19,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.20",
+          "text": "after",
+          "position": 20,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.21",
+          "text": "his",
+          "position": 21,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.22",
+          "text": "kind",
+          "position": 22,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.11.23",
+          "text": "whose",
+          "position": 23,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.24",
+          "text": "seed",
+          "position": 24,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.25",
+          "text": "is",
+          "position": 25,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.26",
+          "text": "in",
+          "position": 26,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.27",
+          "text": "itself",
+          "position": 27,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.11.28",
+          "text": "upon",
+          "position": 28,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.30",
+          "text": "earth",
+          "position": 30,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.11.31",
+          "text": "and",
+          "position": 31,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.32",
+          "text": "it",
+          "position": 32,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.33",
+          "text": "was",
+          "position": 33,
+          "verseId": "gen.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.11.34",
+          "text": "so",
+          "position": 34,
+          "verseId": "gen.1.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.12",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "gen.1.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.12.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.3",
+          "text": "earth",
+          "position": 3,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.4",
+          "text": "brought",
+          "position": 4,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.5",
+          "text": "forth",
+          "position": 5,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.6",
+          "text": "grass",
+          "position": 6,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.12.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.8",
+          "text": "herb",
+          "position": 8,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.9",
+          "text": "yielding",
+          "position": 9,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.10",
+          "text": "seed",
+          "position": 10,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.11",
+          "text": "after",
+          "position": 11,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.13",
+          "text": "kind",
+          "position": 13,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.12.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.16",
+          "text": "tree",
+          "position": 16,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.17",
+          "text": "yielding",
+          "position": 17,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.18",
+          "text": "fruit",
+          "position": 18,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.12.19",
+          "text": "whose",
+          "position": 19,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.20",
+          "text": "seed",
+          "position": 20,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.21",
+          "text": "was",
+          "position": 21,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.22",
+          "text": "in",
+          "position": 22,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.23",
+          "text": "itself",
+          "position": 23,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.12.24",
+          "text": "after",
+          "position": 24,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.25",
+          "text": "his",
+          "position": 25,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.26",
+          "text": "kind",
+          "position": 26,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.12.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.28",
+          "text": "God",
+          "position": 28,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.12.29",
+          "text": "saw",
+          "position": 29,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.30",
+          "text": "that",
+          "position": 30,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.31",
+          "text": "it",
+          "position": 31,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.32",
+          "text": "was",
+          "position": 32,
+          "verseId": "gen.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.12.33",
+          "text": "good",
+          "position": 33,
+          "verseId": "gen.1.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.13",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "gen.1.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.13.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.3",
+          "text": "evening",
+          "position": 3,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.6",
+          "text": "morning",
+          "position": 6,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.7",
+          "text": "were",
+          "position": 7,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.9",
+          "text": "third",
+          "position": 9,
+          "verseId": "gen.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.13.10",
+          "text": "day",
+          "position": 10,
+          "verseId": "gen.1.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.14",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "gen.1.14.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.14.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.14.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.14.5",
+          "text": "Let",
+          "position": 5,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.14.6",
+          "text": "there",
+          "position": 6,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.7",
+          "text": "be",
+          "position": 7,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.8",
+          "text": "lights",
+          "position": 8,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.11",
+          "text": "firmament",
+          "position": 11,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.14",
+          "text": "heaven",
+          "position": 14,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.15",
+          "text": "to",
+          "position": 15,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.16",
+          "text": "divide",
+          "position": 16,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.18",
+          "text": "day",
+          "position": 18,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.19",
+          "text": "from",
+          "position": 19,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.21",
+          "text": "night",
+          "position": 21,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.1.14.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.23",
+          "text": "let",
+          "position": 23,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.24",
+          "text": "them",
+          "position": 24,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.25",
+          "text": "be",
+          "position": 25,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.26",
+          "text": "for",
+          "position": 26,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.27",
+          "text": "signs",
+          "position": 27,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.14.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.29",
+          "text": "for",
+          "position": 29,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.30",
+          "text": "seasons",
+          "position": 30,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.14.31",
+          "text": "and",
+          "position": 31,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.32",
+          "text": "for",
+          "position": 32,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.33",
+          "text": "days",
+          "position": 33,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.14.34",
+          "text": "and",
+          "position": 34,
+          "verseId": "gen.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.14.35",
+          "text": "years",
+          "position": 35,
+          "verseId": "gen.1.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.15",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "gen.1.15.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.15.2",
+          "text": "let",
+          "position": 2,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.3",
+          "text": "them",
+          "position": 3,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.4",
+          "text": "be",
+          "position": 4,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.5",
+          "text": "for",
+          "position": 5,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.6",
+          "text": "lights",
+          "position": 6,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.7",
+          "text": "in",
+          "position": 7,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.9",
+          "text": "firmament",
+          "position": 9,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.12",
+          "text": "heaven",
+          "position": 12,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.13",
+          "text": "to",
+          "position": 13,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.14",
+          "text": "give",
+          "position": 14,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.15",
+          "text": "light",
+          "position": 15,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.16",
+          "text": "upon",
+          "position": 16,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.18",
+          "text": "earth",
+          "position": 18,
+          "verseId": "gen.1.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.15.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.21",
+          "text": "was",
+          "position": 21,
+          "verseId": "gen.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.15.22",
+          "text": "so",
+          "position": 22,
+          "verseId": "gen.1.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.16",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "gen.1.16.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.16.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.16.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.4",
+          "text": "two",
+          "position": 4,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.5",
+          "text": "great",
+          "position": 5,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.6",
+          "text": "lights",
+          "position": 6,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.1.16.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.8",
+          "text": "greater",
+          "position": 8,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.9",
+          "text": "light",
+          "position": 9,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.11",
+          "text": "rule",
+          "position": 11,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.13",
+          "text": "day",
+          "position": 13,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.16.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.16",
+          "text": "lesser",
+          "position": 16,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.17",
+          "text": "light",
+          "position": 17,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.18",
+          "text": "to",
+          "position": 18,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.19",
+          "text": "rule",
+          "position": 19,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.21",
+          "text": "night",
+          "position": 21,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.16.22",
+          "text": "he",
+          "position": 22,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.23",
+          "text": "made",
+          "position": 23,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.25",
+          "text": "stars",
+          "position": 25,
+          "verseId": "gen.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.16.26",
+          "text": "also",
+          "position": 26,
+          "verseId": "gen.1.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.17",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "gen.1.17.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.17.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.17.3",
+          "text": "set",
+          "position": 3,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.4",
+          "text": "them",
+          "position": 4,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.5",
+          "text": "in",
+          "position": 5,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.7",
+          "text": "firmament",
+          "position": 7,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.10",
+          "text": "heaven",
+          "position": 10,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.12",
+          "text": "give",
+          "position": 12,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.13",
+          "text": "light",
+          "position": 13,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.14",
+          "text": "upon",
+          "position": 14,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.17.16",
+          "text": "earth",
+          "position": 16,
+          "verseId": "gen.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.18",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "gen.1.18.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.18.2",
+          "text": "to",
+          "position": 2,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.3",
+          "text": "rule",
+          "position": 3,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.4",
+          "text": "over",
+          "position": 4,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.6",
+          "text": "day",
+          "position": 6,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.8",
+          "text": "over",
+          "position": 8,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.10",
+          "text": "night",
+          "position": 10,
+          "verseId": "gen.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.18.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.13",
+          "text": "divide",
+          "position": 13,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.15",
+          "text": "light",
+          "position": 15,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.16",
+          "text": "from",
+          "position": 16,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.18",
+          "text": "darkness",
+          "position": 18,
+          "verseId": "gen.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.18.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.20",
+          "text": "God",
+          "position": 20,
+          "verseId": "gen.1.18",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.18.21",
+          "text": "saw",
+          "position": 21,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.23",
+          "text": "it",
+          "position": 23,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.24",
+          "text": "was",
+          "position": 24,
+          "verseId": "gen.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.18.25",
+          "text": "good",
+          "position": 25,
+          "verseId": "gen.1.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.19",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "gen.1.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.19.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.3",
+          "text": "evening",
+          "position": 3,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.6",
+          "text": "morning",
+          "position": 6,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.7",
+          "text": "were",
+          "position": 7,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.9",
+          "text": "fourth",
+          "position": 9,
+          "verseId": "gen.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.19.10",
+          "text": "day",
+          "position": 10,
+          "verseId": "gen.1.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.20",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "gen.1.20.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.20.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.20.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.20.4",
+          "text": "Let",
+          "position": 4,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.20.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.6",
+          "text": "waters",
+          "position": 6,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.7",
+          "text": "bring",
+          "position": 7,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.8",
+          "text": "forth",
+          "position": 8,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.9",
+          "text": "abundantly",
+          "position": 9,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.11",
+          "text": "moving",
+          "position": 11,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.12",
+          "text": "creature",
+          "position": 12,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.14",
+          "text": "hath",
+          "position": 14,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.15",
+          "text": "life",
+          "position": 15,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.20.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.17",
+          "text": "fowl",
+          "position": 17,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.18",
+          "text": "that",
+          "position": 18,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.19",
+          "text": "may",
+          "position": 19,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.20",
+          "text": "fly",
+          "position": 20,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.21",
+          "text": "above",
+          "position": 21,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.23",
+          "text": "earth",
+          "position": 23,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.24",
+          "text": "in",
+          "position": 24,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.26",
+          "text": "open",
+          "position": 26,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.27",
+          "text": "firmament",
+          "position": 27,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.28",
+          "text": "of",
+          "position": 28,
+          "verseId": "gen.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.20.29",
+          "text": "heaven",
+          "position": 29,
+          "verseId": "gen.1.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.21",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "gen.1.21.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.21.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.21.3",
+          "text": "created",
+          "position": 3,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.4",
+          "text": "great",
+          "position": 4,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.5",
+          "text": "whales",
+          "position": 5,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.21.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.7",
+          "text": "every",
+          "position": 7,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.8",
+          "text": "living",
+          "position": 8,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.9",
+          "text": "creature",
+          "position": 9,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.11",
+          "text": "moveth",
+          "position": 11,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.21.12",
+          "text": "which",
+          "position": 12,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.14",
+          "text": "waters",
+          "position": 14,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.15",
+          "text": "brought",
+          "position": 15,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.16",
+          "text": "forth",
+          "position": 16,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.17",
+          "text": "abundantly",
+          "position": 17,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.21.18",
+          "text": "after",
+          "position": 18,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.19",
+          "text": "their",
+          "position": 19,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.20",
+          "text": "kind",
+          "position": 20,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.21.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.22",
+          "text": "every",
+          "position": 22,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.23",
+          "text": "winged",
+          "position": 23,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.24",
+          "text": "fowl",
+          "position": 24,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.25",
+          "text": "after",
+          "position": 25,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.26",
+          "text": "his",
+          "position": 26,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.27",
+          "text": "kind",
+          "position": 27,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.21.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.29",
+          "text": "God",
+          "position": 29,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.21.30",
+          "text": "saw",
+          "position": 30,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.31",
+          "text": "that",
+          "position": 31,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.32",
+          "text": "it",
+          "position": 32,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.33",
+          "text": "was",
+          "position": 33,
+          "verseId": "gen.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.21.34",
+          "text": "good",
+          "position": 34,
+          "verseId": "gen.1.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.22",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "gen.1.22.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.22.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.22.3",
+          "text": "blessed",
+          "position": 3,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.4",
+          "text": "them",
+          "position": 4,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.22.5",
+          "text": "saying",
+          "position": 5,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.22.6",
+          "text": "Be",
+          "position": 6,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.22.7",
+          "text": "fruitful",
+          "position": 7,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.22.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.9",
+          "text": "multiply",
+          "position": 9,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.22.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.11",
+          "text": "fill",
+          "position": 11,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.13",
+          "text": "waters",
+          "position": 13,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.14",
+          "text": "in",
+          "position": 14,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.16",
+          "text": "seas",
+          "position": 16,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.22.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.18",
+          "text": "let",
+          "position": 18,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.19",
+          "text": "fowl",
+          "position": 19,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.20",
+          "text": "multiply",
+          "position": 20,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.21",
+          "text": "in",
+          "position": 21,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "gen.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.22.23",
+          "text": "earth",
+          "position": 23,
+          "verseId": "gen.1.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.23",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 23,
+      "tokens": [
+        {
+          "id": "gen.1.23.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.23.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.3",
+          "text": "evening",
+          "position": 3,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.6",
+          "text": "morning",
+          "position": 6,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.7",
+          "text": "were",
+          "position": 7,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.9",
+          "text": "fifth",
+          "position": 9,
+          "verseId": "gen.1.23",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.23.10",
+          "text": "day",
+          "position": 10,
+          "verseId": "gen.1.23",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.24",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 24,
+      "tokens": [
+        {
+          "id": "gen.1.24.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.24.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.24.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.24.5",
+          "text": "Let",
+          "position": 5,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.24.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.7",
+          "text": "earth",
+          "position": 7,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.8",
+          "text": "bring",
+          "position": 8,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.9",
+          "text": "forth",
+          "position": 9,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.11",
+          "text": "living",
+          "position": 11,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.12",
+          "text": "creature",
+          "position": 12,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.13",
+          "text": "after",
+          "position": 13,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.15",
+          "text": "kind",
+          "position": 15,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.24.16",
+          "text": "cattle",
+          "position": 16,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.24.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.18",
+          "text": "creeping",
+          "position": 18,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.19",
+          "text": "thing",
+          "position": 19,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.24.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.21",
+          "text": "beast",
+          "position": 21,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.24",
+          "text": "earth",
+          "position": 24,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.25",
+          "text": "after",
+          "position": 25,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.26",
+          "text": "his",
+          "position": 26,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.27",
+          "text": "kind",
+          "position": 27,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.24.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.29",
+          "text": "it",
+          "position": 29,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.30",
+          "text": "was",
+          "position": 30,
+          "verseId": "gen.1.24",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.24.31",
+          "text": "so",
+          "position": 31,
+          "verseId": "gen.1.24",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.25",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 25,
+      "tokens": [
+        {
+          "id": "gen.1.25.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.25.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.25.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.5",
+          "text": "beast",
+          "position": 5,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.8",
+          "text": "earth",
+          "position": 8,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.9",
+          "text": "after",
+          "position": 9,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.11",
+          "text": "kind",
+          "position": 11,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.25.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.13",
+          "text": "cattle",
+          "position": 13,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.14",
+          "text": "after",
+          "position": 14,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.15",
+          "text": "their",
+          "position": 15,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.16",
+          "text": "kind",
+          "position": 16,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.25.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.18",
+          "text": "every",
+          "position": 18,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.19",
+          "text": "thing",
+          "position": 19,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.20",
+          "text": "that",
+          "position": 20,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.21",
+          "text": "creepeth",
+          "position": 21,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.22",
+          "text": "upon",
+          "position": 22,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.24",
+          "text": "earth",
+          "position": 24,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.25",
+          "text": "after",
+          "position": 25,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.26",
+          "text": "his",
+          "position": 26,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.27",
+          "text": "kind",
+          "position": 27,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.25.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.29",
+          "text": "God",
+          "position": 29,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.25.30",
+          "text": "saw",
+          "position": 30,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.31",
+          "text": "that",
+          "position": 31,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.32",
+          "text": "it",
+          "position": 32,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.33",
+          "text": "was",
+          "position": 33,
+          "verseId": "gen.1.25",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.25.34",
+          "text": "good",
+          "position": 34,
+          "verseId": "gen.1.25",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.26",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 26,
+      "tokens": [
+        {
+          "id": "gen.1.26.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.26.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.26.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.5",
+          "text": "Let",
+          "position": 5,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.26.6",
+          "text": "us",
+          "position": 6,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.7",
+          "text": "make",
+          "position": 7,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.8",
+          "text": "man",
+          "position": 8,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.10",
+          "text": "our",
+          "position": 10,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.11",
+          "text": "image",
+          "position": 11,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.12",
+          "text": "after",
+          "position": 12,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.13",
+          "text": "our",
+          "position": 13,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.14",
+          "text": "likeness",
+          "position": 14,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.26.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.16",
+          "text": "let",
+          "position": 16,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.17",
+          "text": "them",
+          "position": 17,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.18",
+          "text": "have",
+          "position": 18,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.19",
+          "text": "dominion",
+          "position": 19,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.20",
+          "text": "over",
+          "position": 20,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.22",
+          "text": "fish",
+          "position": 22,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.25",
+          "text": "sea",
+          "position": 25,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.27",
+          "text": "over",
+          "position": 27,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.29",
+          "text": "fowl",
+          "position": 29,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.32",
+          "text": "air",
+          "position": 32,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.33",
+          "text": "and",
+          "position": 33,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.34",
+          "text": "over",
+          "position": 34,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.36",
+          "text": "cattle",
+          "position": 36,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.37",
+          "text": "and",
+          "position": 37,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.38",
+          "text": "over",
+          "position": 38,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.39",
+          "text": "all",
+          "position": 39,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.40",
+          "text": "the",
+          "position": 40,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.41",
+          "text": "earth",
+          "position": 41,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.26.42",
+          "text": "and",
+          "position": 42,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.43",
+          "text": "over",
+          "position": 43,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.44",
+          "text": "every",
+          "position": 44,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.45",
+          "text": "creeping",
+          "position": 45,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.46",
+          "text": "thing",
+          "position": 46,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.47",
+          "text": "that",
+          "position": 47,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.48",
+          "text": "creepeth",
+          "position": 48,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.49",
+          "text": "upon",
+          "position": 49,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.50",
+          "text": "the",
+          "position": 50,
+          "verseId": "gen.1.26",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.26.51",
+          "text": "earth",
+          "position": 51,
+          "verseId": "gen.1.26",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.27",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 27,
+      "tokens": [
+        {
+          "id": "gen.1.27.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.27.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.27.3",
+          "text": "created",
+          "position": 3,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.4",
+          "text": "man",
+          "position": 4,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.5",
+          "text": "in",
+          "position": 5,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.7",
+          "text": "own",
+          "position": 7,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.8",
+          "text": "image",
+          "position": 8,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.27.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.11",
+          "text": "image",
+          "position": 11,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.13",
+          "text": "God",
+          "position": 13,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.27.14",
+          "text": "created",
+          "position": 14,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.1.27.17",
+          "text": "male",
+          "position": 17,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.19",
+          "text": "female",
+          "position": 19,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.20",
+          "text": "created",
+          "position": 20,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "gen.1.27",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.27.22",
+          "text": "them",
+          "position": 22,
+          "verseId": "gen.1.27",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.28",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 28,
+      "tokens": [
+        {
+          "id": "gen.1.28.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.28.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.28.3",
+          "text": "blessed",
+          "position": 3,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.4",
+          "text": "them",
+          "position": 4,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.6",
+          "text": "God",
+          "position": 6,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.28.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.9",
+          "text": "them",
+          "position": 9,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.10",
+          "text": "Be",
+          "position": 10,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.28.11",
+          "text": "fruitful",
+          "position": 11,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.13",
+          "text": "multiply",
+          "position": 13,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.15",
+          "text": "replenish",
+          "position": 15,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.17",
+          "text": "earth",
+          "position": 17,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.19",
+          "text": "subdue",
+          "position": 19,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.28.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.22",
+          "text": "have",
+          "position": 22,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.23",
+          "text": "dominion",
+          "position": 23,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.24",
+          "text": "over",
+          "position": 24,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.26",
+          "text": "fish",
+          "position": 26,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.29",
+          "text": "sea",
+          "position": 29,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.30",
+          "text": "and",
+          "position": 30,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.31",
+          "text": "over",
+          "position": 31,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.33",
+          "text": "fowl",
+          "position": 33,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.34",
+          "text": "of",
+          "position": 34,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.36",
+          "text": "air",
+          "position": 36,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.28.37",
+          "text": "and",
+          "position": 37,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.38",
+          "text": "over",
+          "position": 38,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.39",
+          "text": "every",
+          "position": 39,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.40",
+          "text": "living",
+          "position": 40,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.41",
+          "text": "thing",
+          "position": 41,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.42",
+          "text": "that",
+          "position": 42,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.43",
+          "text": "moveth",
+          "position": 43,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.44",
+          "text": "upon",
+          "position": 44,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.45",
+          "text": "the",
+          "position": 45,
+          "verseId": "gen.1.28",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.28.46",
+          "text": "earth",
+          "position": 46,
+          "verseId": "gen.1.28",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.29",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 29,
+      "tokens": [
+        {
+          "id": "gen.1.29.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.29.3",
+          "text": "God",
+          "position": 3,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.29.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.29.5",
+          "text": "Behold",
+          "position": 5,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.29.6",
+          "text": "I",
+          "position": 6,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.29.7",
+          "text": "have",
+          "position": 7,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.8",
+          "text": "given",
+          "position": 8,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.9",
+          "text": "you",
+          "position": 9,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.10",
+          "text": "every",
+          "position": 10,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.11",
+          "text": "herb",
+          "position": 11,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.12",
+          "text": "bearing",
+          "position": 12,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.13",
+          "text": "seed",
+          "position": 13,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.29.14",
+          "text": "which",
+          "position": 14,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.15",
+          "text": "is",
+          "position": 15,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.16",
+          "text": "upon",
+          "position": 16,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.18",
+          "text": "face",
+          "position": 18,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.19",
+          "text": "of",
+          "position": 19,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.20",
+          "text": "all",
+          "position": 20,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.22",
+          "text": "earth",
+          "position": 22,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.29.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.24",
+          "text": "every",
+          "position": 24,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.25",
+          "text": "tree",
+          "position": 25,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.29.26",
+          "text": "in",
+          "position": 26,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.28",
+          "text": "which",
+          "position": 28,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.29",
+          "text": "is",
+          "position": 29,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.31",
+          "text": "fruit",
+          "position": 31,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.33",
+          "text": "a",
+          "position": 33,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.34",
+          "text": "tree",
+          "position": 34,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.35",
+          "text": "yielding",
+          "position": 35,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.36",
+          "text": "seed",
+          "position": 36,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.1.29.37",
+          "text": "to",
+          "position": 37,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.38",
+          "text": "you",
+          "position": 38,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.39",
+          "text": "it",
+          "position": 39,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.40",
+          "text": "shall",
+          "position": 40,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.41",
+          "text": "be",
+          "position": 41,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.42",
+          "text": "for",
+          "position": 42,
+          "verseId": "gen.1.29",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.29.43",
+          "text": "meat",
+          "position": 43,
+          "verseId": "gen.1.29",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.30",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 30,
+      "tokens": [
+        {
+          "id": "gen.1.30.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.30.2",
+          "text": "to",
+          "position": 2,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.3",
+          "text": "every",
+          "position": 3,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.4",
+          "text": "beast",
+          "position": 4,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.7",
+          "text": "earth",
+          "position": 7,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.30.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.9",
+          "text": "to",
+          "position": 9,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.10",
+          "text": "every",
+          "position": 10,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.11",
+          "text": "fowl",
+          "position": 11,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.14",
+          "text": "air",
+          "position": 14,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.30.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.16",
+          "text": "to",
+          "position": 16,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.17",
+          "text": "every",
+          "position": 17,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.18",
+          "text": "thing",
+          "position": 18,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.20",
+          "text": "creepeth",
+          "position": 20,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.21",
+          "text": "upon",
+          "position": 21,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.23",
+          "text": "earth",
+          "position": 23,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.30.24",
+          "text": "wherein",
+          "position": 24,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.25",
+          "text": "there",
+          "position": 25,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.26",
+          "text": "is",
+          "position": 26,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.27",
+          "text": "life",
+          "position": 27,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.30.28",
+          "text": "I",
+          "position": 28,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.30.29",
+          "text": "have",
+          "position": 29,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.30",
+          "text": "given",
+          "position": 30,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.31",
+          "text": "every",
+          "position": 31,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.32",
+          "text": "green",
+          "position": 32,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.33",
+          "text": "herb",
+          "position": 33,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.34",
+          "text": "for",
+          "position": 34,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.35",
+          "text": "meat",
+          "position": 35,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.1.30.36",
+          "text": "and",
+          "position": 36,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.37",
+          "text": "it",
+          "position": 37,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.38",
+          "text": "was",
+          "position": 38,
+          "verseId": "gen.1.30",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.30.39",
+          "text": "so",
+          "position": 39,
+          "verseId": "gen.1.30",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.1.31",
+      "book": "gen",
+      "chapter": 1,
+      "verse": 31,
+      "tokens": [
+        {
+          "id": "gen.1.31.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.31.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.1.31.3",
+          "text": "saw",
+          "position": 3,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.4",
+          "text": "every",
+          "position": 4,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.5",
+          "text": "thing",
+          "position": 5,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.7",
+          "text": "he",
+          "position": 7,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.8",
+          "text": "had",
+          "position": 8,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.9",
+          "text": "made",
+          "position": 9,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.31.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.31.11",
+          "text": "behold",
+          "position": 11,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.1.31.12",
+          "text": "it",
+          "position": 12,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.13",
+          "text": "was",
+          "position": 13,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.14",
+          "text": "very",
+          "position": 14,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.15",
+          "text": "good",
+          "position": 15,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "gen.1.31.16",
+          "text": "And",
+          "position": 16,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.1.31.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.18",
+          "text": "evening",
+          "position": 18,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.21",
+          "text": "morning",
+          "position": 21,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.22",
+          "text": "were",
+          "position": 22,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.24",
+          "text": "sixth",
+          "position": 24,
+          "verseId": "gen.1.31",
+          "presentation": {}
+        },
+        {
+          "id": "gen.1.31.25",
+          "text": "day",
+          "position": 25,
+          "verseId": "gen.1.31",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

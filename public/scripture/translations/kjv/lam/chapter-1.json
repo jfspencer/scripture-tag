@@ -1,0 +1,6052 @@
+{
+  "id": "lam.1",
+  "book": "lam",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "lam.1.1",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "lam.1.1.1",
+          "text": "How",
+          "position": 1,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.1.2",
+          "text": "doth",
+          "position": 2,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.4",
+          "text": "city",
+          "position": 4,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.5",
+          "text": "sit",
+          "position": 5,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.6",
+          "text": "solitary",
+          "position": 6,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.1.7",
+          "text": "that",
+          "position": 7,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.8",
+          "text": "was",
+          "position": 8,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.9",
+          "text": "full",
+          "position": 9,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.11",
+          "text": "people",
+          "position": 11,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": "!"
+          }
+        },
+        {
+          "id": "lam.1.1.12",
+          "text": "how",
+          "position": 12,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.13",
+          "text": "is",
+          "position": 13,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.14",
+          "text": "she",
+          "position": 14,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.15",
+          "text": "become",
+          "position": 15,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.16",
+          "text": "as",
+          "position": 16,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.17",
+          "text": "a",
+          "position": 17,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.18",
+          "text": "widow",
+          "position": 18,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": "!"
+          }
+        },
+        {
+          "id": "lam.1.1.19",
+          "text": "she",
+          "position": 19,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.20",
+          "text": "that",
+          "position": 20,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.21",
+          "text": "was",
+          "position": 21,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.22",
+          "text": "great",
+          "position": 22,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.23",
+          "text": "among",
+          "position": 23,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.25",
+          "text": "nations",
+          "position": 25,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.1.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.27",
+          "text": "princess",
+          "position": 27,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.28",
+          "text": "among",
+          "position": 28,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.30",
+          "text": "provinces",
+          "position": 30,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.1.31",
+          "text": "how",
+          "position": 31,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.32",
+          "text": "is",
+          "position": 32,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.33",
+          "text": "she",
+          "position": 33,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.34",
+          "text": "become",
+          "position": 34,
+          "verseId": "lam.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.1.35",
+          "text": "tributary",
+          "position": 35,
+          "verseId": "lam.1.1",
+          "presentation": {
+            "followingPunctuation": "!"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.2",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "lam.1.2.1",
+          "text": "She",
+          "position": 1,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.2.2",
+          "text": "weepeth",
+          "position": 2,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.3",
+          "text": "sore",
+          "position": 3,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.4",
+          "text": "in",
+          "position": 4,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.6",
+          "text": "night",
+          "position": 6,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.2.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.8",
+          "text": "her",
+          "position": 8,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.9",
+          "text": "tears",
+          "position": 9,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.10",
+          "text": "are",
+          "position": 10,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.11",
+          "text": "on",
+          "position": 11,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.12",
+          "text": "her",
+          "position": 12,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.13",
+          "text": "cheeks",
+          "position": 13,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.2.14",
+          "text": "among",
+          "position": 14,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.16",
+          "text": "her",
+          "position": 16,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.17",
+          "text": "lovers",
+          "position": 17,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.18",
+          "text": "she",
+          "position": 18,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.19",
+          "text": "hath",
+          "position": 19,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.20",
+          "text": "none",
+          "position": 20,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.21",
+          "text": "to",
+          "position": 21,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.22",
+          "text": "comfort",
+          "position": 22,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.23",
+          "text": "her",
+          "position": 23,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.2.24",
+          "text": "all",
+          "position": 24,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.25",
+          "text": "her",
+          "position": 25,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.26",
+          "text": "friends",
+          "position": 26,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.27",
+          "text": "have",
+          "position": 27,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.28",
+          "text": "dealt",
+          "position": 28,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.29",
+          "text": "treacherously",
+          "position": 29,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.30",
+          "text": "with",
+          "position": 30,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.31",
+          "text": "her",
+          "position": 31,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.2.32",
+          "text": "they",
+          "position": 32,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.33",
+          "text": "are",
+          "position": 33,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.34",
+          "text": "become",
+          "position": 34,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.35",
+          "text": "her",
+          "position": 35,
+          "verseId": "lam.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.2.36",
+          "text": "enemies",
+          "position": 36,
+          "verseId": "lam.1.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.3",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "lam.1.3.1",
+          "text": "Judah",
+          "position": 1,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.3.2",
+          "text": "is",
+          "position": 2,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.3",
+          "text": "gone",
+          "position": 3,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.4",
+          "text": "into",
+          "position": 4,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.5",
+          "text": "captivity",
+          "position": 5,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.6",
+          "text": "because",
+          "position": 6,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.8",
+          "text": "affliction",
+          "position": 8,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.3.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.10",
+          "text": "because",
+          "position": 10,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.12",
+          "text": "great",
+          "position": 12,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.13",
+          "text": "servitude",
+          "position": 13,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.3.14",
+          "text": "she",
+          "position": 14,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.15",
+          "text": "dwelleth",
+          "position": 15,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.16",
+          "text": "among",
+          "position": 16,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.18",
+          "text": "heathen",
+          "position": 18,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.3.19",
+          "text": "she",
+          "position": 19,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.20",
+          "text": "findeth",
+          "position": 20,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.21",
+          "text": "no",
+          "position": 21,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.22",
+          "text": "rest",
+          "position": 22,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.3.23",
+          "text": "all",
+          "position": 23,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.24",
+          "text": "her",
+          "position": 24,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.25",
+          "text": "persecutors",
+          "position": 25,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.26",
+          "text": "overtook",
+          "position": 26,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.27",
+          "text": "her",
+          "position": 27,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.28",
+          "text": "between",
+          "position": 28,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "lam.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.3.30",
+          "text": "straits",
+          "position": 30,
+          "verseId": "lam.1.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.4",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "lam.1.4.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.4.2",
+          "text": "ways",
+          "position": 2,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.3",
+          "text": "of",
+          "position": 3,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.4",
+          "text": "Zion",
+          "position": 4,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.4.5",
+          "text": "do",
+          "position": 5,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.6",
+          "text": "mourn",
+          "position": 6,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.4.7",
+          "text": "because",
+          "position": 7,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.8",
+          "text": "none",
+          "position": 8,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.9",
+          "text": "come",
+          "position": 9,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.12",
+          "text": "solemn",
+          "position": 12,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.13",
+          "text": "feasts",
+          "position": 13,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.4.14",
+          "text": "all",
+          "position": 14,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.15",
+          "text": "her",
+          "position": 15,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.16",
+          "text": "gates",
+          "position": 16,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.17",
+          "text": "are",
+          "position": 17,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.18",
+          "text": "desolate",
+          "position": 18,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.4.19",
+          "text": "her",
+          "position": 19,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.20",
+          "text": "priests",
+          "position": 20,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.21",
+          "text": "sigh",
+          "position": 21,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.4.22",
+          "text": "her",
+          "position": 22,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.23",
+          "text": "virgins",
+          "position": 23,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.24",
+          "text": "are",
+          "position": 24,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.25",
+          "text": "afflicted",
+          "position": 25,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.4.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.27",
+          "text": "she",
+          "position": 27,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.28",
+          "text": "is",
+          "position": 28,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.29",
+          "text": "in",
+          "position": 29,
+          "verseId": "lam.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.4.30",
+          "text": "bitterness",
+          "position": 30,
+          "verseId": "lam.1.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.5",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "lam.1.5.1",
+          "text": "Her",
+          "position": 1,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.5.2",
+          "text": "adversaries",
+          "position": 2,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.3",
+          "text": "are",
+          "position": 3,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.5",
+          "text": "chief",
+          "position": 5,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.5.6",
+          "text": "her",
+          "position": 6,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.7",
+          "text": "enemies",
+          "position": 7,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.8",
+          "text": "prosper",
+          "position": 8,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.5.9",
+          "text": "for",
+          "position": 9,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.11",
+          "text": "Lord",
+          "position": 11,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.5.12",
+          "text": "hath",
+          "position": 12,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.13",
+          "text": "afflicted",
+          "position": 13,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.14",
+          "text": "her",
+          "position": 14,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.17",
+          "text": "multitude",
+          "position": 17,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.19",
+          "text": "her",
+          "position": 19,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.20",
+          "text": "transgressions",
+          "position": 20,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.5.21",
+          "text": "her",
+          "position": 21,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.22",
+          "text": "children",
+          "position": 22,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.23",
+          "text": "are",
+          "position": 23,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.24",
+          "text": "gone",
+          "position": 24,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.25",
+          "text": "into",
+          "position": 25,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.26",
+          "text": "captivity",
+          "position": 26,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.27",
+          "text": "before",
+          "position": 27,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "lam.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.5.29",
+          "text": "enemy",
+          "position": 29,
+          "verseId": "lam.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.6",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "lam.1.6.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lam.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.6.2",
+          "text": "from",
+          "position": 2,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.4",
+          "text": "daughter",
+          "position": 4,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.6",
+          "text": "Zion",
+          "position": 6,
+          "verseId": "lam.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.6.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.8",
+          "text": "her",
+          "position": 8,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.9",
+          "text": "beauty",
+          "position": 9,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.10",
+          "text": "is",
+          "position": 10,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.11",
+          "text": "departed",
+          "position": 11,
+          "verseId": "lam.1.6",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.6.12",
+          "text": "her",
+          "position": 12,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.13",
+          "text": "princes",
+          "position": 13,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.14",
+          "text": "are",
+          "position": 14,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.15",
+          "text": "become",
+          "position": 15,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.16",
+          "text": "like",
+          "position": 16,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.17",
+          "text": "harts",
+          "position": 17,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.18",
+          "text": "that",
+          "position": 18,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.19",
+          "text": "find",
+          "position": 19,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.20",
+          "text": "no",
+          "position": 20,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.21",
+          "text": "pasture",
+          "position": 21,
+          "verseId": "lam.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.6.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.24",
+          "text": "are",
+          "position": 24,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.25",
+          "text": "gone",
+          "position": 25,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.26",
+          "text": "without",
+          "position": 26,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.27",
+          "text": "strength",
+          "position": 27,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.28",
+          "text": "before",
+          "position": 28,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "lam.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.6.30",
+          "text": "pursuer",
+          "position": 30,
+          "verseId": "lam.1.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.7",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "lam.1.7.1",
+          "text": "Jerusalem",
+          "position": 1,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.7.2",
+          "text": "remembered",
+          "position": 2,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.3",
+          "text": "in",
+          "position": 3,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.5",
+          "text": "days",
+          "position": 5,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.7",
+          "text": "her",
+          "position": 7,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.8",
+          "text": "affliction",
+          "position": 8,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.11",
+          "text": "her",
+          "position": 11,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.12",
+          "text": "miseries",
+          "position": 12,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.13",
+          "text": "all",
+          "position": 13,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.14",
+          "text": "her",
+          "position": 14,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.15",
+          "text": "pleasant",
+          "position": 15,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.16",
+          "text": "things",
+          "position": 16,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.18",
+          "text": "she",
+          "position": 18,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.19",
+          "text": "had",
+          "position": 19,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.20",
+          "text": "in",
+          "position": 20,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.22",
+          "text": "days",
+          "position": 22,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.24",
+          "text": "old",
+          "position": 24,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.7.25",
+          "text": "when",
+          "position": 25,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.26",
+          "text": "her",
+          "position": 26,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.27",
+          "text": "people",
+          "position": 27,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.28",
+          "text": "fell",
+          "position": 28,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.29",
+          "text": "into",
+          "position": 29,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.31",
+          "text": "hand",
+          "position": 31,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.34",
+          "text": "enemy",
+          "position": 34,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.7.35",
+          "text": "and",
+          "position": 35,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.36",
+          "text": "none",
+          "position": 36,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.37",
+          "text": "did",
+          "position": 37,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.38",
+          "text": "help",
+          "position": 38,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.39",
+          "text": "her",
+          "position": 39,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.7.40",
+          "text": "the",
+          "position": 40,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.41",
+          "text": "adversaries",
+          "position": 41,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.42",
+          "text": "saw",
+          "position": 42,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.43",
+          "text": "her",
+          "position": 43,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.7.44",
+          "text": "and",
+          "position": 44,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.45",
+          "text": "did",
+          "position": 45,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.46",
+          "text": "mock",
+          "position": 46,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.47",
+          "text": "at",
+          "position": 47,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.48",
+          "text": "her",
+          "position": 48,
+          "verseId": "lam.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.7.49",
+          "text": "sabbaths",
+          "position": 49,
+          "verseId": "lam.1.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.8",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "lam.1.8.1",
+          "text": "Jerusalem",
+          "position": 1,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.8.2",
+          "text": "hath",
+          "position": 2,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.3",
+          "text": "grievously",
+          "position": 3,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.4",
+          "text": "sinned",
+          "position": 4,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.8.5",
+          "text": "therefore",
+          "position": 5,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.6",
+          "text": "she",
+          "position": 6,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.7",
+          "text": "is",
+          "position": 7,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.8",
+          "text": "removed",
+          "position": 8,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.8.9",
+          "text": "all",
+          "position": 9,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.11",
+          "text": "honoured",
+          "position": 11,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.12",
+          "text": "her",
+          "position": 12,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.13",
+          "text": "despise",
+          "position": 13,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.14",
+          "text": "her",
+          "position": 14,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.8.15",
+          "text": "because",
+          "position": 15,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.16",
+          "text": "they",
+          "position": 16,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.17",
+          "text": "have",
+          "position": 17,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.18",
+          "text": "seen",
+          "position": 18,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.19",
+          "text": "her",
+          "position": 19,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.20",
+          "text": "nakedness",
+          "position": 20,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.8.21",
+          "text": "yea",
+          "position": 21,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.8.22",
+          "text": "she",
+          "position": 22,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.23",
+          "text": "sigheth",
+          "position": 23,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.8.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.25",
+          "text": "turneth",
+          "position": 25,
+          "verseId": "lam.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.8.26",
+          "text": "backward",
+          "position": 26,
+          "verseId": "lam.1.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.9",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "lam.1.9.1",
+          "text": "Her",
+          "position": 1,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.9.2",
+          "text": "filthiness",
+          "position": 2,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.3",
+          "text": "is",
+          "position": 3,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.4",
+          "text": "in",
+          "position": 4,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.5",
+          "text": "her",
+          "position": 5,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.6",
+          "text": "skirts",
+          "position": 6,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.9.7",
+          "text": "she",
+          "position": 7,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.8",
+          "text": "remembereth",
+          "position": 8,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.9",
+          "text": "not",
+          "position": 9,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.10",
+          "text": "her",
+          "position": 10,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.11",
+          "text": "last",
+          "position": 11,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.12",
+          "text": "end",
+          "position": 12,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.9.13",
+          "text": "therefore",
+          "position": 13,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.14",
+          "text": "she",
+          "position": 14,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.15",
+          "text": "came",
+          "position": 15,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.16",
+          "text": "down",
+          "position": 16,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.17",
+          "text": "wonderfully",
+          "position": 17,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.9.18",
+          "text": "she",
+          "position": 18,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.19",
+          "text": "had",
+          "position": 19,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.20",
+          "text": "no",
+          "position": 20,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.21",
+          "text": "comforter",
+          "position": 21,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "lam.1.9.22",
+          "text": "O",
+          "position": 22,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.9.23",
+          "text": "Lord",
+          "position": 23,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.9.24",
+          "text": "behold",
+          "position": 24,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.25",
+          "text": "my",
+          "position": 25,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.26",
+          "text": "affliction",
+          "position": 26,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.9.27",
+          "text": "for",
+          "position": 27,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.29",
+          "text": "enemy",
+          "position": 29,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.30",
+          "text": "hath",
+          "position": 30,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.31",
+          "text": "magnified",
+          "position": 31,
+          "verseId": "lam.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.9.32",
+          "text": "himself",
+          "position": 32,
+          "verseId": "lam.1.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.10",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "lam.1.10.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "lam.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.10.2",
+          "text": "adversary",
+          "position": 2,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.3",
+          "text": "hath",
+          "position": 3,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.4",
+          "text": "spread",
+          "position": 4,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.5",
+          "text": "out",
+          "position": 5,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.7",
+          "text": "hand",
+          "position": 7,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.8",
+          "text": "upon",
+          "position": 8,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.9",
+          "text": "all",
+          "position": 9,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.10",
+          "text": "her",
+          "position": 10,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.11",
+          "text": "pleasant",
+          "position": 11,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.12",
+          "text": "things",
+          "position": 12,
+          "verseId": "lam.1.10",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.10.13",
+          "text": "for",
+          "position": 13,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.14",
+          "text": "she",
+          "position": 14,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.15",
+          "text": "hath",
+          "position": 15,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.16",
+          "text": "seen",
+          "position": 16,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.19",
+          "text": "heathen",
+          "position": 19,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.20",
+          "text": "entered",
+          "position": 20,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.21",
+          "text": "into",
+          "position": 21,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.22",
+          "text": "her",
+          "position": 22,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.23",
+          "text": "sanctuary",
+          "position": 23,
+          "verseId": "lam.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.10.24",
+          "text": "whom",
+          "position": 24,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.25",
+          "text": "thou",
+          "position": 25,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.26",
+          "text": "didst",
+          "position": 26,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.27",
+          "text": "command",
+          "position": 27,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.28",
+          "text": "that",
+          "position": 28,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.29",
+          "text": "they",
+          "position": 29,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.30",
+          "text": "should",
+          "position": 30,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.31",
+          "text": "not",
+          "position": 31,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.32",
+          "text": "enter",
+          "position": 32,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.33",
+          "text": "into",
+          "position": 33,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.34",
+          "text": "thy",
+          "position": 34,
+          "verseId": "lam.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.10.35",
+          "text": "congregation",
+          "position": 35,
+          "verseId": "lam.1.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.11",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "lam.1.11.1",
+          "text": "All",
+          "position": 1,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.11.2",
+          "text": "her",
+          "position": 2,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.3",
+          "text": "people",
+          "position": 3,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.4",
+          "text": "sigh",
+          "position": 4,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.11.5",
+          "text": "they",
+          "position": 5,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.6",
+          "text": "seek",
+          "position": 6,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.7",
+          "text": "bread",
+          "position": 7,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.11.8",
+          "text": "they",
+          "position": 8,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.9",
+          "text": "have",
+          "position": 9,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.10",
+          "text": "given",
+          "position": 10,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.11",
+          "text": "their",
+          "position": 11,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.12",
+          "text": "pleasant",
+          "position": 12,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.13",
+          "text": "things",
+          "position": 13,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.14",
+          "text": "for",
+          "position": 14,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.15",
+          "text": "meat",
+          "position": 15,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.16",
+          "text": "to",
+          "position": 16,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.17",
+          "text": "relieve",
+          "position": 17,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.19",
+          "text": "soul",
+          "position": 19,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.11.20",
+          "text": "see",
+          "position": 20,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.11.21",
+          "text": "O",
+          "position": 21,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.11.22",
+          "text": "Lord",
+          "position": 22,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.11.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.24",
+          "text": "consider",
+          "position": 24,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.11.25",
+          "text": "for",
+          "position": 25,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.26",
+          "text": "I",
+          "position": 26,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.11.27",
+          "text": "am",
+          "position": 27,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.28",
+          "text": "become",
+          "position": 28,
+          "verseId": "lam.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.11.29",
+          "text": "vile",
+          "position": 29,
+          "verseId": "lam.1.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.12",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "lam.1.12.2",
+          "text": "Is",
+          "position": 2,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.12.3",
+          "text": "it",
+          "position": 3,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.4",
+          "text": "nothing",
+          "position": 4,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.6",
+          "text": "you",
+          "position": 6,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.12.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.8",
+          "text": "ye",
+          "position": 8,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.9",
+          "text": "that",
+          "position": 9,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.10",
+          "text": "pass",
+          "position": 10,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.11",
+          "text": "by",
+          "position": 11,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "lam.1.12.12",
+          "text": "behold",
+          "position": 12,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.12.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.14",
+          "text": "see",
+          "position": 14,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.15",
+          "text": "if",
+          "position": 15,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.16",
+          "text": "there",
+          "position": 16,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.17",
+          "text": "be",
+          "position": 17,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.18",
+          "text": "any",
+          "position": 18,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.19",
+          "text": "sorrow",
+          "position": 19,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.20",
+          "text": "like",
+          "position": 20,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.21",
+          "text": "unto",
+          "position": 21,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.22",
+          "text": "my",
+          "position": 22,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.23",
+          "text": "sorrow",
+          "position": 23,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.12.24",
+          "text": "which",
+          "position": 24,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.25",
+          "text": "is",
+          "position": 25,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.26",
+          "text": "done",
+          "position": 26,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.27",
+          "text": "unto",
+          "position": 27,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.28",
+          "text": "me",
+          "position": 28,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.12.29",
+          "text": "wherewith",
+          "position": 29,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.31",
+          "text": "Lord",
+          "position": 31,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.12.32",
+          "text": "hath",
+          "position": 32,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.33",
+          "text": "afflicted",
+          "position": 33,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.34",
+          "text": "me",
+          "position": 34,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.35",
+          "text": "in",
+          "position": 35,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.37",
+          "text": "day",
+          "position": 37,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.38",
+          "text": "of",
+          "position": 38,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.39",
+          "text": "his",
+          "position": 39,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.40",
+          "text": "fierce",
+          "position": 40,
+          "verseId": "lam.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.12.41",
+          "text": "anger",
+          "position": 41,
+          "verseId": "lam.1.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.13",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "lam.1.13.1",
+          "text": "From",
+          "position": 1,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.13.2",
+          "text": "above",
+          "position": 2,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.3",
+          "text": "hath",
+          "position": 3,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.4",
+          "text": "he",
+          "position": 4,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.5",
+          "text": "sent",
+          "position": 5,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.6",
+          "text": "fire",
+          "position": 6,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.7",
+          "text": "into",
+          "position": 7,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.8",
+          "text": "my",
+          "position": 8,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.9",
+          "text": "bones",
+          "position": 9,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.13.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.11",
+          "text": "it",
+          "position": 11,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.12",
+          "text": "prevaileth",
+          "position": 12,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.13",
+          "text": "against",
+          "position": 13,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.14",
+          "text": "them",
+          "position": 14,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.13.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.16",
+          "text": "hath",
+          "position": 16,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.17",
+          "text": "spread",
+          "position": 17,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.18",
+          "text": "a",
+          "position": 18,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.19",
+          "text": "net",
+          "position": 19,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.20",
+          "text": "for",
+          "position": 20,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.21",
+          "text": "my",
+          "position": 21,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.22",
+          "text": "feet",
+          "position": 22,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.13.23",
+          "text": "he",
+          "position": 23,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.24",
+          "text": "hath",
+          "position": 24,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.25",
+          "text": "turned",
+          "position": 25,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.26",
+          "text": "me",
+          "position": 26,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.27",
+          "text": "back",
+          "position": 27,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.13.28",
+          "text": "he",
+          "position": 28,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.29",
+          "text": "hath",
+          "position": 29,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.30",
+          "text": "made",
+          "position": 30,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.31",
+          "text": "me",
+          "position": 31,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.32",
+          "text": "desolate",
+          "position": 32,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.33",
+          "text": "and",
+          "position": 33,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.34",
+          "text": "faint",
+          "position": 34,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.35",
+          "text": "all",
+          "position": 35,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "lam.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.13.37",
+          "text": "day",
+          "position": 37,
+          "verseId": "lam.1.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.14",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "lam.1.14.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.14.2",
+          "text": "yoke",
+          "position": 2,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.3",
+          "text": "of",
+          "position": 3,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.4",
+          "text": "my",
+          "position": 4,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.5",
+          "text": "transgressions",
+          "position": 5,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.6",
+          "text": "is",
+          "position": 6,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.7",
+          "text": "bound",
+          "position": 7,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.8",
+          "text": "by",
+          "position": 8,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.9",
+          "text": "his",
+          "position": 9,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.10",
+          "text": "hand",
+          "position": 10,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.14.11",
+          "text": "they",
+          "position": 11,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.12",
+          "text": "are",
+          "position": 12,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.13",
+          "text": "wreathed",
+          "position": 13,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.14.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.15",
+          "text": "come",
+          "position": 15,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.16",
+          "text": "up",
+          "position": 16,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.17",
+          "text": "upon",
+          "position": 17,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.18",
+          "text": "my",
+          "position": 18,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.19",
+          "text": "neck",
+          "position": 19,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.14.20",
+          "text": "he",
+          "position": 20,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.21",
+          "text": "hath",
+          "position": 21,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.22",
+          "text": "made",
+          "position": 22,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.23",
+          "text": "my",
+          "position": 23,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.24",
+          "text": "strength",
+          "position": 24,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.25",
+          "text": "to",
+          "position": 25,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.26",
+          "text": "fall",
+          "position": 26,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.14.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.28",
+          "text": "Lord",
+          "position": 28,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.14.29",
+          "text": "hath",
+          "position": 29,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.30",
+          "text": "delivered",
+          "position": 30,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.31",
+          "text": "me",
+          "position": 31,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.32",
+          "text": "into",
+          "position": 32,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.33",
+          "text": "their",
+          "position": 33,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.34",
+          "text": "hands",
+          "position": 34,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.14.35",
+          "text": "from",
+          "position": 35,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.36",
+          "text": "whom",
+          "position": 36,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.37",
+          "text": "I",
+          "position": 37,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.14.38",
+          "text": "am",
+          "position": 38,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.39",
+          "text": "not",
+          "position": 39,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.40",
+          "text": "able",
+          "position": 40,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.41",
+          "text": "to",
+          "position": 41,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.42",
+          "text": "rise",
+          "position": 42,
+          "verseId": "lam.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.14.43",
+          "text": "up",
+          "position": 43,
+          "verseId": "lam.1.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.15",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "lam.1.15.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.15.2",
+          "text": "Lord",
+          "position": 2,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.15.3",
+          "text": "hath",
+          "position": 3,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.4",
+          "text": "trodden",
+          "position": 4,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.5",
+          "text": "under",
+          "position": 5,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.6",
+          "text": "foot",
+          "position": 6,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.8",
+          "text": "my",
+          "position": 8,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.9",
+          "text": "mighty",
+          "position": 9,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.10",
+          "text": "men",
+          "position": 10,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.13",
+          "text": "midst",
+          "position": 13,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.15",
+          "text": "me",
+          "position": 15,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.15.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.17",
+          "text": "hath",
+          "position": 17,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.18",
+          "text": "called",
+          "position": 18,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.19",
+          "text": "an",
+          "position": 19,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.20",
+          "text": "assembly",
+          "position": 20,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.21",
+          "text": "against",
+          "position": 21,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.22",
+          "text": "me",
+          "position": 22,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.24",
+          "text": "crush",
+          "position": 24,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.25",
+          "text": "my",
+          "position": 25,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.26",
+          "text": "young",
+          "position": 26,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.27",
+          "text": "men",
+          "position": 27,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.15.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.29",
+          "text": "Lord",
+          "position": 29,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.15.30",
+          "text": "hath",
+          "position": 30,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.31",
+          "text": "trodden",
+          "position": 31,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.33",
+          "text": "virgin",
+          "position": 33,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.15.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.35",
+          "text": "daughter",
+          "position": 35,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.36",
+          "text": "of",
+          "position": 36,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.37",
+          "text": "Judah",
+          "position": 37,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.15.38",
+          "text": "as",
+          "position": 38,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.39",
+          "text": "in",
+          "position": 39,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.40",
+          "text": "a",
+          "position": 40,
+          "verseId": "lam.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.15.41",
+          "text": "winepress",
+          "position": 41,
+          "verseId": "lam.1.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.16",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "lam.1.16.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.16.2",
+          "text": "these",
+          "position": 2,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.3",
+          "text": "things",
+          "position": 3,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.4",
+          "text": "I",
+          "position": 4,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.16.5",
+          "text": "weep",
+          "position": 5,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.16.6",
+          "text": "mine",
+          "position": 6,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.7",
+          "text": "eye",
+          "position": 7,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.16.8",
+          "text": "mine",
+          "position": 8,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.9",
+          "text": "eye",
+          "position": 9,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.10",
+          "text": "runneth",
+          "position": 10,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.11",
+          "text": "down",
+          "position": 11,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.12",
+          "text": "with",
+          "position": 12,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.13",
+          "text": "water",
+          "position": 13,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.16.14",
+          "text": "because",
+          "position": 14,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.16",
+          "text": "comforter",
+          "position": 16,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.18",
+          "text": "should",
+          "position": 18,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.19",
+          "text": "relieve",
+          "position": 19,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.20",
+          "text": "my",
+          "position": 20,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.21",
+          "text": "soul",
+          "position": 21,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.22",
+          "text": "is",
+          "position": 22,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.23",
+          "text": "far",
+          "position": 23,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.24",
+          "text": "from",
+          "position": 24,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.25",
+          "text": "me",
+          "position": 25,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.16.26",
+          "text": "my",
+          "position": 26,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.27",
+          "text": "children",
+          "position": 27,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.28",
+          "text": "are",
+          "position": 28,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.29",
+          "text": "desolate",
+          "position": 29,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.16.30",
+          "text": "because",
+          "position": 30,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.32",
+          "text": "enemy",
+          "position": 32,
+          "verseId": "lam.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.16.33",
+          "text": "prevailed",
+          "position": 33,
+          "verseId": "lam.1.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.17",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "lam.1.17.1",
+          "text": "Zion",
+          "position": 1,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.17.2",
+          "text": "spreadeth",
+          "position": 2,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.3",
+          "text": "forth",
+          "position": 3,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.4",
+          "text": "her",
+          "position": 4,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.5",
+          "text": "hands",
+          "position": 5,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.17.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.7",
+          "text": "there",
+          "position": 7,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.8",
+          "text": "is",
+          "position": 8,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.9",
+          "text": "none",
+          "position": 9,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.11",
+          "text": "comfort",
+          "position": 11,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.12",
+          "text": "her",
+          "position": 12,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.17.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.14",
+          "text": "Lord",
+          "position": 14,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.17.15",
+          "text": "hath",
+          "position": 15,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.16",
+          "text": "commanded",
+          "position": 16,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.17",
+          "text": "concerning",
+          "position": 17,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.18",
+          "text": "Jacob",
+          "position": 18,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.17.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.20",
+          "text": "his",
+          "position": 20,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.21",
+          "text": "adversaries",
+          "position": 21,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.22",
+          "text": "should",
+          "position": 22,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.23",
+          "text": "be",
+          "position": 23,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.24",
+          "text": "round",
+          "position": 24,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.25",
+          "text": "about",
+          "position": 25,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.26",
+          "text": "him",
+          "position": 26,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.17.27",
+          "text": "Jerusalem",
+          "position": 27,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.17.28",
+          "text": "is",
+          "position": 28,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.29",
+          "text": "as",
+          "position": 29,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.30",
+          "text": "a",
+          "position": 30,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.31",
+          "text": "menstruous",
+          "position": 31,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.32",
+          "text": "woman",
+          "position": 32,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.33",
+          "text": "among",
+          "position": 33,
+          "verseId": "lam.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.17.34",
+          "text": "them",
+          "position": 34,
+          "verseId": "lam.1.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.18",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "lam.1.18.2",
+          "text": "The",
+          "position": 2,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.18.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.18.4",
+          "text": "is",
+          "position": 4,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.5",
+          "text": "righteous",
+          "position": 5,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.18.6",
+          "text": "for",
+          "position": 6,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.7",
+          "text": "I",
+          "position": 7,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.18.8",
+          "text": "have",
+          "position": 8,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.9",
+          "text": "rebelled",
+          "position": 9,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.10",
+          "text": "against",
+          "position": 10,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.11",
+          "text": "his",
+          "position": 11,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.12",
+          "text": "commandment",
+          "position": 12,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.18.13",
+          "text": "hear",
+          "position": 13,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.18.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.18.15",
+          "text": "pray",
+          "position": 15,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.16",
+          "text": "you",
+          "position": 16,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.18.17",
+          "text": "all",
+          "position": 17,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.18",
+          "text": "people",
+          "position": 18,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.18.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.20",
+          "text": "behold",
+          "position": 20,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.21",
+          "text": "my",
+          "position": 21,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.22",
+          "text": "sorrow",
+          "position": 22,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.18.23",
+          "text": "my",
+          "position": 23,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.24",
+          "text": "virgins",
+          "position": 24,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.26",
+          "text": "my",
+          "position": 26,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.27",
+          "text": "young",
+          "position": 27,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.28",
+          "text": "men",
+          "position": 28,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.29",
+          "text": "are",
+          "position": 29,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.30",
+          "text": "gone",
+          "position": 30,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.31",
+          "text": "into",
+          "position": 31,
+          "verseId": "lam.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.18.32",
+          "text": "captivity",
+          "position": 32,
+          "verseId": "lam.1.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.19",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "lam.1.19.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "lam.1.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.19.2",
+          "text": "called",
+          "position": 2,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.3",
+          "text": "for",
+          "position": 3,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.4",
+          "text": "my",
+          "position": 4,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.5",
+          "text": "lovers",
+          "position": 5,
+          "verseId": "lam.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.19.6",
+          "text": "but",
+          "position": 6,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.7",
+          "text": "they",
+          "position": 7,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.8",
+          "text": "deceived",
+          "position": 8,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.9",
+          "text": "me",
+          "position": 9,
+          "verseId": "lam.1.19",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.19.10",
+          "text": "my",
+          "position": 10,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.11",
+          "text": "priests",
+          "position": 11,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.13",
+          "text": "mine",
+          "position": 13,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.14",
+          "text": "elders",
+          "position": 14,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.15",
+          "text": "gave",
+          "position": 15,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.16",
+          "text": "up",
+          "position": 16,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.18",
+          "text": "ghost",
+          "position": 18,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.19",
+          "text": "in",
+          "position": 19,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.21",
+          "text": "city",
+          "position": 21,
+          "verseId": "lam.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.19.22",
+          "text": "while",
+          "position": 22,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.24",
+          "text": "sought",
+          "position": 24,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.25",
+          "text": "their",
+          "position": 25,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.26",
+          "text": "meat",
+          "position": 26,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.27",
+          "text": "to",
+          "position": 27,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.28",
+          "text": "relieve",
+          "position": 28,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.29",
+          "text": "their",
+          "position": 29,
+          "verseId": "lam.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.19.30",
+          "text": "souls",
+          "position": 30,
+          "verseId": "lam.1.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.20",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "lam.1.20.1",
+          "text": "Behold",
+          "position": 1,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.20.2",
+          "text": "O",
+          "position": 2,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.20.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lam.1.20.4",
+          "text": "for",
+          "position": 4,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.5",
+          "text": "I",
+          "position": 5,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.20.6",
+          "text": "am",
+          "position": 6,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.7",
+          "text": "in",
+          "position": 7,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.8",
+          "text": "distress",
+          "position": 8,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.20.9",
+          "text": "my",
+          "position": 9,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.10",
+          "text": "bowels",
+          "position": 10,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.11",
+          "text": "are",
+          "position": 11,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.12",
+          "text": "troubled",
+          "position": 12,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.20.13",
+          "text": "mine",
+          "position": 13,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.14",
+          "text": "heart",
+          "position": 14,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.15",
+          "text": "is",
+          "position": 15,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.16",
+          "text": "turned",
+          "position": 16,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.17",
+          "text": "within",
+          "position": 17,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.18",
+          "text": "me",
+          "position": 18,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.20.19",
+          "text": "for",
+          "position": 19,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.20",
+          "text": "I",
+          "position": 20,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.20.21",
+          "text": "have",
+          "position": 21,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.22",
+          "text": "grievously",
+          "position": 22,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.23",
+          "text": "rebelled",
+          "position": 23,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.20.24",
+          "text": "abroad",
+          "position": 24,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.26",
+          "text": "sword",
+          "position": 26,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.27",
+          "text": "bereaveth",
+          "position": 27,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.20.28",
+          "text": "at",
+          "position": 28,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.29",
+          "text": "home",
+          "position": 29,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.30",
+          "text": "there",
+          "position": 30,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.31",
+          "text": "is",
+          "position": 31,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.32",
+          "text": "as",
+          "position": 32,
+          "verseId": "lam.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.20.33",
+          "text": "death",
+          "position": 33,
+          "verseId": "lam.1.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.21",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "lam.1.21.1",
+          "text": "They",
+          "position": 1,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.21.2",
+          "text": "have",
+          "position": 2,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.3",
+          "text": "heard",
+          "position": 3,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.5",
+          "text": "I",
+          "position": 5,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.21.6",
+          "text": "sigh",
+          "position": 6,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.21.7",
+          "text": "there",
+          "position": 7,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.8",
+          "text": "is",
+          "position": 8,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.9",
+          "text": "none",
+          "position": 9,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.11",
+          "text": "comfort",
+          "position": 11,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.12",
+          "text": "me",
+          "position": 12,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.21.13",
+          "text": "all",
+          "position": 13,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.14",
+          "text": "mine",
+          "position": 14,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.15",
+          "text": "enemies",
+          "position": 15,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.16",
+          "text": "have",
+          "position": 16,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.17",
+          "text": "heard",
+          "position": 17,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.19",
+          "text": "my",
+          "position": 19,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.20",
+          "text": "trouble",
+          "position": 20,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.21.21",
+          "text": "they",
+          "position": 21,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.22",
+          "text": "are",
+          "position": 22,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.23",
+          "text": "glad",
+          "position": 23,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.24",
+          "text": "that",
+          "position": 24,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.25",
+          "text": "thou",
+          "position": 25,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.26",
+          "text": "hast",
+          "position": 26,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.27",
+          "text": "done",
+          "position": 27,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.28",
+          "text": "it",
+          "position": 28,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.21.29",
+          "text": "thou",
+          "position": 29,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.30",
+          "text": "wilt",
+          "position": 30,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.31",
+          "text": "bring",
+          "position": 31,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.33",
+          "text": "day",
+          "position": 33,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.34",
+          "text": "that",
+          "position": 34,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.35",
+          "text": "thou",
+          "position": 35,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.36",
+          "text": "hast",
+          "position": 36,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.37",
+          "text": "called",
+          "position": 37,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.21.38",
+          "text": "and",
+          "position": 38,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.39",
+          "text": "they",
+          "position": 39,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.40",
+          "text": "shall",
+          "position": 40,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.41",
+          "text": "be",
+          "position": 41,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.42",
+          "text": "like",
+          "position": 42,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.43",
+          "text": "unto",
+          "position": 43,
+          "verseId": "lam.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.21.44",
+          "text": "me",
+          "position": 44,
+          "verseId": "lam.1.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lam.1.22",
+      "book": "lam",
+      "chapter": 1,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "lam.1.22.1",
+          "text": "Let",
+          "position": 1,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lam.1.22.2",
+          "text": "all",
+          "position": 2,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.3",
+          "text": "their",
+          "position": 3,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.4",
+          "text": "wickedness",
+          "position": 4,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.5",
+          "text": "come",
+          "position": 5,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.6",
+          "text": "before",
+          "position": 6,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.7",
+          "text": "thee",
+          "position": 7,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lam.1.22.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.9",
+          "text": "do",
+          "position": 9,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.11",
+          "text": "them",
+          "position": 11,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.22.12",
+          "text": "as",
+          "position": 12,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.13",
+          "text": "thou",
+          "position": 13,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.14",
+          "text": "hast",
+          "position": 14,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.15",
+          "text": "done",
+          "position": 15,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.16",
+          "text": "unto",
+          "position": 16,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.17",
+          "text": "me",
+          "position": 17,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.18",
+          "text": "for",
+          "position": 18,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.19",
+          "text": "all",
+          "position": 19,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.20",
+          "text": "my",
+          "position": 20,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.21",
+          "text": "transgressions",
+          "position": 21,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lam.1.22.22",
+          "text": "for",
+          "position": 22,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.23",
+          "text": "my",
+          "position": 23,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.24",
+          "text": "sighs",
+          "position": 24,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.25",
+          "text": "are",
+          "position": 25,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.26",
+          "text": "many",
+          "position": 26,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lam.1.22.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.28",
+          "text": "my",
+          "position": 28,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.29",
+          "text": "heart",
+          "position": 29,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.30",
+          "text": "is",
+          "position": 30,
+          "verseId": "lam.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "lam.1.22.31",
+          "text": "faint",
+          "position": 31,
+          "verseId": "lam.1.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

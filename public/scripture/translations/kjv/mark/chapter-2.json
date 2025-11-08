@@ -1,0 +1,5939 @@
+{
+  "id": "mark.2",
+  "book": "mark",
+  "chapter": 2,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Jesus forgives sins, heals a paralytic, eats with tax gatherers and sinners, and announces that He is Lord of the Sabbath.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "mark.2.1",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "mark.2.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.1.2",
+          "text": "again",
+          "position": 2,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.4",
+          "text": "entered",
+          "position": 4,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.5",
+          "text": "into",
+          "position": 5,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.6",
+          "text": "Capernaum",
+          "position": 6,
+          "verseId": "mark.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.1.7",
+          "text": "after",
+          "position": 7,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.8",
+          "text": "some",
+          "position": 8,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.9",
+          "text": "days",
+          "position": 9,
+          "verseId": "mark.2.1",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "mark.2.1.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.11",
+          "text": "it",
+          "position": 11,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.12",
+          "text": "was",
+          "position": 12,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.13",
+          "text": "noised",
+          "position": 13,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.14",
+          "text": "that",
+          "position": 14,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.16",
+          "text": "was",
+          "position": 16,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.17",
+          "text": "in",
+          "position": 17,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "mark.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.1.19",
+          "text": "house",
+          "position": 19,
+          "verseId": "mark.2.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.2",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "mark.2.2.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.2.2",
+          "text": "straightway",
+          "position": 2,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.3",
+          "text": "many",
+          "position": 3,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.4",
+          "text": "were",
+          "position": 4,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.5",
+          "text": "gathered",
+          "position": 5,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.6",
+          "text": "together",
+          "position": 6,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.2.7",
+          "text": "insomuch",
+          "position": 7,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.9",
+          "text": "there",
+          "position": 9,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.10",
+          "text": "was",
+          "position": 10,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.11",
+          "text": "no",
+          "position": 11,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.12",
+          "text": "room",
+          "position": 12,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.13",
+          "text": "to",
+          "position": 13,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.14",
+          "text": "receive",
+          "position": 14,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.15",
+          "text": "them",
+          "position": 15,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.2.16",
+          "text": "no",
+          "position": 16,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.2.17",
+          "text": "not",
+          "position": 17,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.18",
+          "text": "so",
+          "position": 18,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.19",
+          "text": "much",
+          "position": 19,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.20",
+          "text": "as",
+          "position": 20,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.21",
+          "text": "about",
+          "position": 21,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.23",
+          "text": "door",
+          "position": 23,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.2.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.25",
+          "text": "he",
+          "position": 25,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.26",
+          "text": "preached",
+          "position": 26,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.28",
+          "text": "word",
+          "position": 28,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.29",
+          "text": "unto",
+          "position": 29,
+          "verseId": "mark.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.2.30",
+          "text": "them",
+          "position": 30,
+          "verseId": "mark.2.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.3",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "mark.2.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.3.2",
+          "text": "they",
+          "position": 2,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.3",
+          "text": "come",
+          "position": 3,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "mark.2.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.3.6",
+          "text": "bringing",
+          "position": 6,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.7",
+          "text": "one",
+          "position": 7,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.8",
+          "text": "sick",
+          "position": 8,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.11",
+          "text": "palsy",
+          "position": 11,
+          "verseId": "mark.2.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.3.12",
+          "text": "which",
+          "position": 12,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.13",
+          "text": "was",
+          "position": 13,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.14",
+          "text": "borne",
+          "position": 14,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "mark.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.3.16",
+          "text": "four",
+          "position": 16,
+          "verseId": "mark.2.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.4",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "mark.2.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.4.2",
+          "text": "when",
+          "position": 2,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.3",
+          "text": "they",
+          "position": 3,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.4",
+          "text": "could",
+          "position": 4,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.5",
+          "text": "not",
+          "position": 5,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.6",
+          "text": "come",
+          "position": 6,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.7",
+          "text": "nigh",
+          "position": 7,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.9",
+          "text": "him",
+          "position": 9,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.10",
+          "text": "for",
+          "position": 10,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.12",
+          "text": "press",
+          "position": 12,
+          "verseId": "mark.2.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.4.13",
+          "text": "they",
+          "position": 13,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.14",
+          "text": "uncovered",
+          "position": 14,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.16",
+          "text": "roof",
+          "position": 16,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.17",
+          "text": "where",
+          "position": 17,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.18",
+          "text": "he",
+          "position": 18,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.19",
+          "text": "was",
+          "position": 19,
+          "verseId": "mark.2.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.4.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.21",
+          "text": "when",
+          "position": 21,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.22",
+          "text": "they",
+          "position": 22,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.23",
+          "text": "had",
+          "position": 23,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.24",
+          "text": "broken",
+          "position": 24,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.25",
+          "text": "it",
+          "position": 25,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.26",
+          "text": "up",
+          "position": 26,
+          "verseId": "mark.2.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.4.27",
+          "text": "they",
+          "position": 27,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.28",
+          "text": "let",
+          "position": 28,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.29",
+          "text": "down",
+          "position": 29,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.31",
+          "text": "bed",
+          "position": 31,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.32",
+          "text": "wherein",
+          "position": 32,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.34",
+          "text": "sick",
+          "position": 34,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.37",
+          "text": "palsy",
+          "position": 37,
+          "verseId": "mark.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.4.38",
+          "text": "lay",
+          "position": 38,
+          "verseId": "mark.2.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.5",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "mark.2.5.1",
+          "text": "When",
+          "position": 1,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.5.2",
+          "text": "Jesus",
+          "position": 2,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.5.3",
+          "text": "saw",
+          "position": 3,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.4",
+          "text": "their",
+          "position": 4,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.5",
+          "text": "faith",
+          "position": 5,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.5.6",
+          "text": "he",
+          "position": 6,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.10",
+          "text": "sick",
+          "position": 10,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.13",
+          "text": "palsy",
+          "position": 13,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.5.14",
+          "text": "Son",
+          "position": 14,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.5.15",
+          "text": "thy",
+          "position": 15,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.16",
+          "text": "sins",
+          "position": 16,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.17",
+          "text": "be",
+          "position": 17,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.18",
+          "text": "forgiven",
+          "position": 18,
+          "verseId": "mark.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.5.19",
+          "text": "thee",
+          "position": 19,
+          "verseId": "mark.2.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.6",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "mark.2.6.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "mark.2.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.6.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.3",
+          "text": "were",
+          "position": 3,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.4",
+          "text": "certain",
+          "position": 4,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.7",
+          "text": "scribes",
+          "position": 7,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.8",
+          "text": "sitting",
+          "position": 8,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.9",
+          "text": "there",
+          "position": 9,
+          "verseId": "mark.2.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.6.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.11",
+          "text": "reasoning",
+          "position": 11,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.12",
+          "text": "in",
+          "position": 12,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.13",
+          "text": "their",
+          "position": 13,
+          "verseId": "mark.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.6.14",
+          "text": "hearts",
+          "position": 14,
+          "verseId": "mark.2.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.7",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "mark.2.7.1",
+          "text": "Why",
+          "position": 1,
+          "verseId": "mark.2.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.7.2",
+          "text": "doth",
+          "position": 2,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.3",
+          "text": "this",
+          "position": 3,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.4",
+          "text": "man",
+          "position": 4,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.5",
+          "text": "thus",
+          "position": 5,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.6",
+          "text": "speak",
+          "position": 6,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.7",
+          "text": "blasphemies",
+          "position": 7,
+          "verseId": "mark.2.7",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "mark.2.7.8",
+          "text": "who",
+          "position": 8,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.9",
+          "text": "can",
+          "position": 9,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.10",
+          "text": "forgive",
+          "position": 10,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.11",
+          "text": "sins",
+          "position": 11,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.12",
+          "text": "but",
+          "position": 12,
+          "verseId": "mark.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.7.13",
+          "text": "God",
+          "position": 13,
+          "verseId": "mark.2.7",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "mark.2.7.14",
+          "text": "only",
+          "position": 14,
+          "verseId": "mark.2.7",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.8",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "mark.2.8.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.8.2",
+          "text": "immediately",
+          "position": 2,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.3",
+          "text": "when",
+          "position": 3,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.4",
+          "text": "Jesus",
+          "position": 4,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.8.5",
+          "text": "perceived",
+          "position": 5,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.6",
+          "text": "in",
+          "position": 6,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.7",
+          "text": "his",
+          "position": 7,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.8",
+          "text": "spirit",
+          "position": 8,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.9",
+          "text": "that",
+          "position": 9,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.10",
+          "text": "they",
+          "position": 10,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.11",
+          "text": "so",
+          "position": 11,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.12",
+          "text": "reasoned",
+          "position": 12,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.13",
+          "text": "within",
+          "position": 13,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.14",
+          "text": "themselves",
+          "position": 14,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.8.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.16",
+          "text": "said",
+          "position": 16,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.17",
+          "text": "unto",
+          "position": 17,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.18",
+          "text": "them",
+          "position": 18,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.8.19",
+          "text": "Why",
+          "position": 19,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.8.20",
+          "text": "reason",
+          "position": 20,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.21",
+          "text": "ye",
+          "position": 21,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.22",
+          "text": "these",
+          "position": 22,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.23",
+          "text": "things",
+          "position": 23,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.24",
+          "text": "in",
+          "position": 24,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.25",
+          "text": "your",
+          "position": 25,
+          "verseId": "mark.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.8.26",
+          "text": "hearts",
+          "position": 26,
+          "verseId": "mark.2.8",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.9",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "mark.2.9.1",
+          "text": "Whether",
+          "position": 1,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.9.2",
+          "text": "is",
+          "position": 2,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.3",
+          "text": "it",
+          "position": 3,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.4",
+          "text": "easier",
+          "position": 4,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.6",
+          "text": "say",
+          "position": 6,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.9",
+          "text": "sick",
+          "position": 9,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.12",
+          "text": "palsy",
+          "position": 12,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.9.13",
+          "text": "Thy",
+          "position": 13,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.9.14",
+          "text": "sins",
+          "position": 14,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.15",
+          "text": "be",
+          "position": 15,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.16",
+          "text": "forgiven",
+          "position": 16,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.17",
+          "text": "thee",
+          "position": 17,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "mark.2.9.18",
+          "text": "or",
+          "position": 18,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.19",
+          "text": "to",
+          "position": 19,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.20",
+          "text": "say",
+          "position": 20,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.9.21",
+          "text": "Arise",
+          "position": 21,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.9.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.23",
+          "text": "take",
+          "position": 23,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.24",
+          "text": "up",
+          "position": 24,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.25",
+          "text": "thy",
+          "position": 25,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.26",
+          "text": "bed",
+          "position": 26,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.9.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "mark.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.9.28",
+          "text": "walk",
+          "position": 28,
+          "verseId": "mark.2.9",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.10",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "mark.2.10.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "mark.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.10.2",
+          "text": "that",
+          "position": 2,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.3",
+          "text": "ye",
+          "position": 3,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.4",
+          "text": "may",
+          "position": 4,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.5",
+          "text": "know",
+          "position": 5,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.8",
+          "text": "Son",
+          "position": 8,
+          "verseId": "mark.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.10.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.10",
+          "text": "man",
+          "position": 10,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.11",
+          "text": "hath",
+          "position": 11,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.12",
+          "text": "power",
+          "position": 12,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.13",
+          "text": "on",
+          "position": 13,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.14",
+          "text": "earth",
+          "position": 14,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.15",
+          "text": "to",
+          "position": 15,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.16",
+          "text": "forgive",
+          "position": 16,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.17",
+          "text": "sins",
+          "position": 17,
+          "verseId": "mark.2.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.10.18",
+          "text": "he",
+          "position": 18,
+          "verseId": "mark.2.10",
+          "presentation": {
+            "precedingPunctuation": "("
+          }
+        },
+        {
+          "id": "mark.2.10.19",
+          "text": "saith",
+          "position": 19,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.20",
+          "text": "to",
+          "position": 20,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.22",
+          "text": "sick",
+          "position": 22,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "mark.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.10.25",
+          "text": "palsy",
+          "position": 25,
+          "verseId": "mark.2.10",
+          "presentation": {
+            "followingPunctuation": ",)"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.11",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "mark.2.11.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "mark.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.11.2",
+          "text": "say",
+          "position": 2,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.3",
+          "text": "unto",
+          "position": 3,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.4",
+          "text": "thee",
+          "position": 4,
+          "verseId": "mark.2.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.11.5",
+          "text": "Arise",
+          "position": 5,
+          "verseId": "mark.2.11",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.11.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.7",
+          "text": "take",
+          "position": 7,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.8",
+          "text": "up",
+          "position": 8,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.9",
+          "text": "thy",
+          "position": 9,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.10",
+          "text": "bed",
+          "position": 10,
+          "verseId": "mark.2.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.11.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.12",
+          "text": "go",
+          "position": 12,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.13",
+          "text": "thy",
+          "position": 13,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.14",
+          "text": "way",
+          "position": 14,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.15",
+          "text": "into",
+          "position": 15,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.16",
+          "text": "thine",
+          "position": 16,
+          "verseId": "mark.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.11.17",
+          "text": "house",
+          "position": 17,
+          "verseId": "mark.2.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.12",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "mark.2.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.12.2",
+          "text": "immediately",
+          "position": 2,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.4",
+          "text": "arose",
+          "position": 4,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.12.5",
+          "text": "took",
+          "position": 5,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.6",
+          "text": "up",
+          "position": 6,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.8",
+          "text": "bed",
+          "position": 8,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.12.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.10",
+          "text": "went",
+          "position": 10,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.11",
+          "text": "forth",
+          "position": 11,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.12",
+          "text": "before",
+          "position": 12,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.13",
+          "text": "them",
+          "position": 13,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.14",
+          "text": "all",
+          "position": 14,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "mark.2.12.15",
+          "text": "insomuch",
+          "position": 15,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.16",
+          "text": "that",
+          "position": 16,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.17",
+          "text": "they",
+          "position": 17,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.18",
+          "text": "were",
+          "position": 18,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.19",
+          "text": "all",
+          "position": 19,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.20",
+          "text": "amazed",
+          "position": 20,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.12.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.22",
+          "text": "glorified",
+          "position": 22,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.23",
+          "text": "God",
+          "position": 23,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "mark.2.12.24",
+          "text": "saying",
+          "position": 24,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.12.25",
+          "text": "We",
+          "position": 25,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.12.26",
+          "text": "never",
+          "position": 26,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.27",
+          "text": "saw",
+          "position": 27,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.28",
+          "text": "it",
+          "position": 28,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.29",
+          "text": "on",
+          "position": 29,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.30",
+          "text": "this",
+          "position": 30,
+          "verseId": "mark.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.12.31",
+          "text": "fashion",
+          "position": 31,
+          "verseId": "mark.2.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.13",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "mark.2.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.13.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.3",
+          "text": "went",
+          "position": 3,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.4",
+          "text": "forth",
+          "position": 4,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.5",
+          "text": "again",
+          "position": 5,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.6",
+          "text": "by",
+          "position": 6,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.8",
+          "text": "sea",
+          "position": 8,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.9",
+          "text": "side",
+          "position": 9,
+          "verseId": "mark.2.13",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "mark.2.13.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.11",
+          "text": "all",
+          "position": 11,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.13",
+          "text": "multitude",
+          "position": 13,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.14",
+          "text": "resorted",
+          "position": 14,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.15",
+          "text": "unto",
+          "position": 15,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "mark.2.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.13.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.18",
+          "text": "he",
+          "position": 18,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.19",
+          "text": "taught",
+          "position": 19,
+          "verseId": "mark.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.13.20",
+          "text": "them",
+          "position": 20,
+          "verseId": "mark.2.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.14",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "mark.2.14.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.14.2",
+          "text": "as",
+          "position": 2,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.4",
+          "text": "passed",
+          "position": 4,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.5",
+          "text": "by",
+          "position": 5,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.14.6",
+          "text": "he",
+          "position": 6,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.7",
+          "text": "saw",
+          "position": 7,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.8",
+          "text": "Levi",
+          "position": 8,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.14.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.10",
+          "text": "son",
+          "position": 10,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.12",
+          "text": "Alphæus",
+          "position": 12,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.14.13",
+          "text": "sitting",
+          "position": 13,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.14",
+          "text": "at",
+          "position": 14,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.16",
+          "text": "receipt",
+          "position": 16,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.18",
+          "text": "custom",
+          "position": 18,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.14.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.20",
+          "text": "said",
+          "position": 20,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.21",
+          "text": "unto",
+          "position": 21,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.22",
+          "text": "him",
+          "position": 22,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.14.23",
+          "text": "Follow",
+          "position": 23,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.14.24",
+          "text": "me",
+          "position": 24,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "mark.2.14.25",
+          "text": "And",
+          "position": 25,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.14.26",
+          "text": "he",
+          "position": 26,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.27",
+          "text": "arose",
+          "position": 27,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.29",
+          "text": "followed",
+          "position": 29,
+          "verseId": "mark.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.14.30",
+          "text": "him",
+          "position": 30,
+          "verseId": "mark.2.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.15",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "mark.2.15.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.15.2",
+          "text": "it",
+          "position": 2,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.5",
+          "text": "pass",
+          "position": 5,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.15.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.15.7",
+          "text": "as",
+          "position": 7,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.8",
+          "text": "Jesus",
+          "position": 8,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.15.9",
+          "text": "sat",
+          "position": 9,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.10",
+          "text": "at",
+          "position": 10,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.11",
+          "text": "meat",
+          "position": 11,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.12",
+          "text": "in",
+          "position": 12,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.14",
+          "text": "house",
+          "position": 14,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.15.15",
+          "text": "many",
+          "position": 15,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.16",
+          "text": "publicans",
+          "position": 16,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.18",
+          "text": "sinners",
+          "position": 18,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.19",
+          "text": "sat",
+          "position": 19,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.20",
+          "text": "also",
+          "position": 20,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.21",
+          "text": "together",
+          "position": 21,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.22",
+          "text": "with",
+          "position": 22,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.23",
+          "text": "Jesus",
+          "position": 23,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.15.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.25",
+          "text": "his",
+          "position": 25,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.26",
+          "text": "disciples",
+          "position": 26,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.15.27",
+          "text": "for",
+          "position": 27,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.28",
+          "text": "there",
+          "position": 28,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.29",
+          "text": "were",
+          "position": 29,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.30",
+          "text": "many",
+          "position": 30,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.15.31",
+          "text": "and",
+          "position": 31,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.32",
+          "text": "they",
+          "position": 32,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.33",
+          "text": "followed",
+          "position": 33,
+          "verseId": "mark.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.15.34",
+          "text": "him",
+          "position": 34,
+          "verseId": "mark.2.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.16",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "mark.2.16.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.16.2",
+          "text": "when",
+          "position": 2,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.4",
+          "text": "scribes",
+          "position": 4,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.6",
+          "text": "Pharisees",
+          "position": 6,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.16.7",
+          "text": "saw",
+          "position": 7,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.8",
+          "text": "him",
+          "position": 8,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.9",
+          "text": "eat",
+          "position": 9,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.10",
+          "text": "with",
+          "position": 10,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.11",
+          "text": "publicans",
+          "position": 11,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.13",
+          "text": "sinners",
+          "position": 13,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.16.14",
+          "text": "they",
+          "position": 14,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.15",
+          "text": "said",
+          "position": 15,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.16",
+          "text": "unto",
+          "position": 16,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.17",
+          "text": "his",
+          "position": 17,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.18",
+          "text": "disciples",
+          "position": 18,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.16.19",
+          "text": "How",
+          "position": 19,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.16.20",
+          "text": "is",
+          "position": 20,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.21",
+          "text": "it",
+          "position": 21,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.23",
+          "text": "he",
+          "position": 23,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.24",
+          "text": "eateth",
+          "position": 24,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.26",
+          "text": "drinketh",
+          "position": 26,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.27",
+          "text": "with",
+          "position": 27,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.28",
+          "text": "publicans",
+          "position": 28,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "mark.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.16.30",
+          "text": "sinners",
+          "position": 30,
+          "verseId": "mark.2.16",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.17",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "mark.2.17.1",
+          "text": "When",
+          "position": 1,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.17.2",
+          "text": "Jesus",
+          "position": 2,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.17.3",
+          "text": "heard",
+          "position": 3,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.17.5",
+          "text": "he",
+          "position": 5,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.6",
+          "text": "saith",
+          "position": 6,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.7",
+          "text": "unto",
+          "position": 7,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.8",
+          "text": "them",
+          "position": 8,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.17.9",
+          "text": "They",
+          "position": 9,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.17.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.11",
+          "text": "are",
+          "position": 11,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.12",
+          "text": "whole",
+          "position": 12,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.13",
+          "text": "have",
+          "position": 13,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.14",
+          "text": "no",
+          "position": 14,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.15",
+          "text": "need",
+          "position": 15,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.18",
+          "text": "physician",
+          "position": 18,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.17.19",
+          "text": "but",
+          "position": 19,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.20",
+          "text": "they",
+          "position": 20,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.21",
+          "text": "that",
+          "position": 21,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.22",
+          "text": "are",
+          "position": 22,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.23",
+          "text": "sick",
+          "position": 23,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.17.24",
+          "text": "I",
+          "position": 24,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.17.25",
+          "text": "came",
+          "position": 25,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.26",
+          "text": "not",
+          "position": 26,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.27",
+          "text": "to",
+          "position": 27,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.28",
+          "text": "call",
+          "position": 28,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.30",
+          "text": "righteous",
+          "position": 30,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.17.31",
+          "text": "but",
+          "position": 31,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.32",
+          "text": "sinners",
+          "position": 32,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.33",
+          "text": "to",
+          "position": 33,
+          "verseId": "mark.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.17.34",
+          "text": "repentance",
+          "position": 34,
+          "verseId": "mark.2.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.18",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "mark.2.18.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.3",
+          "text": "disciples",
+          "position": 3,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.5",
+          "text": "John",
+          "position": 5,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.9",
+          "text": "Pharisees",
+          "position": 9,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.10",
+          "text": "used",
+          "position": 10,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.12",
+          "text": "fast",
+          "position": 12,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.18.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.14",
+          "text": "they",
+          "position": 14,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.15",
+          "text": "come",
+          "position": 15,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.17",
+          "text": "say",
+          "position": 17,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.18",
+          "text": "unto",
+          "position": 18,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.19",
+          "text": "him",
+          "position": 19,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.18.20",
+          "text": "Why",
+          "position": 20,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.21",
+          "text": "do",
+          "position": 21,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.23",
+          "text": "disciples",
+          "position": 23,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.25",
+          "text": "John",
+          "position": 25,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.29",
+          "text": "Pharisees",
+          "position": 29,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.18.30",
+          "text": "fast",
+          "position": 30,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.18.31",
+          "text": "but",
+          "position": 31,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.32",
+          "text": "thy",
+          "position": 32,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.33",
+          "text": "disciples",
+          "position": 33,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.34",
+          "text": "fast",
+          "position": 34,
+          "verseId": "mark.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.18.35",
+          "text": "not",
+          "position": 35,
+          "verseId": "mark.2.18",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.19",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "mark.2.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.19.2",
+          "text": "Jesus",
+          "position": 2,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.19.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.5",
+          "text": "them",
+          "position": 5,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.19.6",
+          "text": "Can",
+          "position": 6,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.19.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.8",
+          "text": "children",
+          "position": 8,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.11",
+          "text": "bridechamber",
+          "position": 11,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.12",
+          "text": "fast",
+          "position": 12,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.19.13",
+          "text": "while",
+          "position": 13,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.15",
+          "text": "bridegroom",
+          "position": 15,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.16",
+          "text": "is",
+          "position": 16,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.17",
+          "text": "with",
+          "position": 17,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.18",
+          "text": "them",
+          "position": 18,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "mark.2.19.19",
+          "text": "as",
+          "position": 19,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.20",
+          "text": "long",
+          "position": 20,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.21",
+          "text": "as",
+          "position": 21,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.22",
+          "text": "they",
+          "position": 22,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.23",
+          "text": "have",
+          "position": 23,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.25",
+          "text": "bridegroom",
+          "position": 25,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.26",
+          "text": "with",
+          "position": 26,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.27",
+          "text": "them",
+          "position": 27,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.19.28",
+          "text": "they",
+          "position": 28,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.29",
+          "text": "cannot",
+          "position": 29,
+          "verseId": "mark.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.19.30",
+          "text": "fast",
+          "position": 30,
+          "verseId": "mark.2.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.20",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "mark.2.20.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "mark.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.20.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.3",
+          "text": "days",
+          "position": 3,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.4",
+          "text": "will",
+          "position": 4,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.5",
+          "text": "come",
+          "position": 5,
+          "verseId": "mark.2.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.20.6",
+          "text": "when",
+          "position": 6,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.8",
+          "text": "bridegroom",
+          "position": 8,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.9",
+          "text": "shall",
+          "position": 9,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.10",
+          "text": "be",
+          "position": 10,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.11",
+          "text": "taken",
+          "position": 11,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.12",
+          "text": "away",
+          "position": 12,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.13",
+          "text": "from",
+          "position": 13,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.14",
+          "text": "them",
+          "position": 14,
+          "verseId": "mark.2.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.20.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.16",
+          "text": "then",
+          "position": 16,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.17",
+          "text": "shall",
+          "position": 17,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.18",
+          "text": "they",
+          "position": 18,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.19",
+          "text": "fast",
+          "position": 19,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.20",
+          "text": "in",
+          "position": 20,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.21",
+          "text": "those",
+          "position": 21,
+          "verseId": "mark.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.20.22",
+          "text": "days",
+          "position": 22,
+          "verseId": "mark.2.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.21",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "mark.2.21.1",
+          "text": "No",
+          "position": 1,
+          "verseId": "mark.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.21.2",
+          "text": "man",
+          "position": 2,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.3",
+          "text": "also",
+          "position": 3,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.4",
+          "text": "seweth",
+          "position": 4,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.5",
+          "text": "a",
+          "position": 5,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.6",
+          "text": "piece",
+          "position": 6,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.8",
+          "text": "new",
+          "position": 8,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.9",
+          "text": "cloth",
+          "position": 9,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.10",
+          "text": "on",
+          "position": 10,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.11",
+          "text": "an",
+          "position": 11,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.12",
+          "text": "old",
+          "position": 12,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.13",
+          "text": "garment",
+          "position": 13,
+          "verseId": "mark.2.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.21.14",
+          "text": "else",
+          "position": 14,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.16",
+          "text": "new",
+          "position": 16,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.17",
+          "text": "piece",
+          "position": 17,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.18",
+          "text": "that",
+          "position": 18,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.19",
+          "text": "filled",
+          "position": 19,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.21",
+          "text": "up",
+          "position": 21,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.22",
+          "text": "taketh",
+          "position": 22,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.23",
+          "text": "away",
+          "position": 23,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.24",
+          "text": "from",
+          "position": 24,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.26",
+          "text": "old",
+          "position": 26,
+          "verseId": "mark.2.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.21.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.29",
+          "text": "rent",
+          "position": 29,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.30",
+          "text": "is",
+          "position": 30,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.31",
+          "text": "made",
+          "position": 31,
+          "verseId": "mark.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.21.32",
+          "text": "worse",
+          "position": 32,
+          "verseId": "mark.2.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.22",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "mark.2.22.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.22.2",
+          "text": "no",
+          "position": 2,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.3",
+          "text": "man",
+          "position": 3,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.4",
+          "text": "putteth",
+          "position": 4,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.5",
+          "text": "new",
+          "position": 5,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.6",
+          "text": "wine",
+          "position": 6,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.7",
+          "text": "into",
+          "position": 7,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.8",
+          "text": "old",
+          "position": 8,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.9",
+          "text": "bottles",
+          "position": 9,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.22.10",
+          "text": "else",
+          "position": 10,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.12",
+          "text": "new",
+          "position": 12,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.13",
+          "text": "wine",
+          "position": 13,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.14",
+          "text": "doth",
+          "position": 14,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.15",
+          "text": "burst",
+          "position": 15,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.17",
+          "text": "bottles",
+          "position": 17,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.22.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.20",
+          "text": "wine",
+          "position": 20,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.21",
+          "text": "is",
+          "position": 21,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.22",
+          "text": "spilled",
+          "position": 22,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.22.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.25",
+          "text": "bottles",
+          "position": 25,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.26",
+          "text": "will",
+          "position": 26,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.27",
+          "text": "be",
+          "position": 27,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.28",
+          "text": "marred",
+          "position": 28,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "mark.2.22.29",
+          "text": "but",
+          "position": 29,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.30",
+          "text": "new",
+          "position": 30,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.31",
+          "text": "wine",
+          "position": 31,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.32",
+          "text": "must",
+          "position": 32,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.33",
+          "text": "be",
+          "position": 33,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.34",
+          "text": "put",
+          "position": 34,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.35",
+          "text": "into",
+          "position": 35,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.36",
+          "text": "new",
+          "position": 36,
+          "verseId": "mark.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.22.37",
+          "text": "bottles",
+          "position": 37,
+          "verseId": "mark.2.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.23",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 23,
+      "tokens": [
+        {
+          "id": "mark.2.23.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.23.2",
+          "text": "it",
+          "position": 2,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.5",
+          "text": "pass",
+          "position": 5,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.23.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.7",
+          "text": "he",
+          "position": 7,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.8",
+          "text": "went",
+          "position": 8,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.9",
+          "text": "through",
+          "position": 9,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.11",
+          "text": "corn",
+          "position": 11,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.12",
+          "text": "fields",
+          "position": 12,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.13",
+          "text": "on",
+          "position": 13,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.15",
+          "text": "sabbath",
+          "position": 15,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.16",
+          "text": "day",
+          "position": 16,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "mark.2.23.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.18",
+          "text": "his",
+          "position": 18,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.19",
+          "text": "disciples",
+          "position": 19,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.20",
+          "text": "began",
+          "position": 20,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.23.21",
+          "text": "as",
+          "position": 21,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.22",
+          "text": "they",
+          "position": 22,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.23",
+          "text": "went",
+          "position": 23,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.23.24",
+          "text": "to",
+          "position": 24,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.25",
+          "text": "pluck",
+          "position": 25,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.26",
+          "text": "the",
+          "position": 26,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.27",
+          "text": "ears",
+          "position": 27,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.28",
+          "text": "of",
+          "position": 28,
+          "verseId": "mark.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.23.29",
+          "text": "corn",
+          "position": 29,
+          "verseId": "mark.2.23",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.24",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 24,
+      "tokens": [
+        {
+          "id": "mark.2.24.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.24.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.3",
+          "text": "Pharisees",
+          "position": 3,
+          "verseId": "mark.2.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.24.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.6",
+          "text": "him",
+          "position": 6,
+          "verseId": "mark.2.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.24.7",
+          "text": "Behold",
+          "position": 7,
+          "verseId": "mark.2.24",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.24.8",
+          "text": "why",
+          "position": 8,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.9",
+          "text": "do",
+          "position": 9,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.10",
+          "text": "they",
+          "position": 10,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.11",
+          "text": "on",
+          "position": 11,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.13",
+          "text": "sabbath",
+          "position": 13,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.14",
+          "text": "day",
+          "position": 14,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.15",
+          "text": "that",
+          "position": 15,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.16",
+          "text": "which",
+          "position": 16,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.17",
+          "text": "is",
+          "position": 17,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.18",
+          "text": "not",
+          "position": 18,
+          "verseId": "mark.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.24.19",
+          "text": "lawful",
+          "position": 19,
+          "verseId": "mark.2.24",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.25",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 25,
+      "tokens": [
+        {
+          "id": "mark.2.25.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.25.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.5",
+          "text": "them",
+          "position": 5,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.25.6",
+          "text": "Have",
+          "position": 6,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.25.7",
+          "text": "ye",
+          "position": 7,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.8",
+          "text": "never",
+          "position": 8,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.9",
+          "text": "read",
+          "position": 9,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.10",
+          "text": "what",
+          "position": 10,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.11",
+          "text": "David",
+          "position": 11,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.25.12",
+          "text": "did",
+          "position": 12,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.25.13",
+          "text": "when",
+          "position": 13,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.14",
+          "text": "he",
+          "position": 14,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.15",
+          "text": "had",
+          "position": 15,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.16",
+          "text": "need",
+          "position": 16,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.25.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.18",
+          "text": "was",
+          "position": 18,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.19",
+          "text": "an",
+          "position": 19,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.20",
+          "text": "hungred",
+          "position": 20,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.25.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.25.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.24",
+          "text": "that",
+          "position": 24,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.25",
+          "text": "were",
+          "position": 25,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.26",
+          "text": "with",
+          "position": 26,
+          "verseId": "mark.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.25.27",
+          "text": "him",
+          "position": 27,
+          "verseId": "mark.2.25",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.26",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 26,
+      "tokens": [
+        {
+          "id": "mark.2.26.1",
+          "text": "How",
+          "position": 1,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.26.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.3",
+          "text": "went",
+          "position": 3,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.4",
+          "text": "into",
+          "position": 4,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.6",
+          "text": "house",
+          "position": 6,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.8",
+          "text": "God",
+          "position": 8,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "mark.2.26.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.11",
+          "text": "days",
+          "position": 11,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.13",
+          "text": "Abiathar",
+          "position": 13,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.26.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.15",
+          "text": "high",
+          "position": 15,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.16",
+          "text": "priest",
+          "position": 16,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.26.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.18",
+          "text": "did",
+          "position": 18,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.19",
+          "text": "eat",
+          "position": 19,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.21",
+          "text": "shewbread",
+          "position": 21,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.26.22",
+          "text": "which",
+          "position": 22,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.23",
+          "text": "is",
+          "position": 23,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.24",
+          "text": "not",
+          "position": 24,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.25",
+          "text": "lawful",
+          "position": 25,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.26",
+          "text": "to",
+          "position": 26,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.27",
+          "text": "eat",
+          "position": 27,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.28",
+          "text": "but",
+          "position": 28,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.29",
+          "text": "for",
+          "position": 29,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.31",
+          "text": "priests",
+          "position": 31,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.26.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.33",
+          "text": "gave",
+          "position": 33,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.34",
+          "text": "also",
+          "position": 34,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.35",
+          "text": "to",
+          "position": 35,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.36",
+          "text": "them",
+          "position": 36,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.37",
+          "text": "which",
+          "position": 37,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.38",
+          "text": "were",
+          "position": 38,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.39",
+          "text": "with",
+          "position": 39,
+          "verseId": "mark.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.26.40",
+          "text": "him",
+          "position": 40,
+          "verseId": "mark.2.26",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.27",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 27,
+      "tokens": [
+        {
+          "id": "mark.2.27.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "mark.2.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.27.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.5",
+          "text": "them",
+          "position": 5,
+          "verseId": "mark.2.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.27.6",
+          "text": "The",
+          "position": 6,
+          "verseId": "mark.2.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.27.7",
+          "text": "sabbath",
+          "position": 7,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.8",
+          "text": "was",
+          "position": 8,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.9",
+          "text": "made",
+          "position": 9,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.10",
+          "text": "for",
+          "position": 10,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.11",
+          "text": "man",
+          "position": 11,
+          "verseId": "mark.2.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "mark.2.27.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.13",
+          "text": "not",
+          "position": 13,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.14",
+          "text": "man",
+          "position": 14,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "mark.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.27.17",
+          "text": "sabbath",
+          "position": 17,
+          "verseId": "mark.2.27",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "mark.2.28",
+      "book": "mark",
+      "chapter": 2,
+      "verse": 28,
+      "tokens": [
+        {
+          "id": "mark.2.28.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "mark.2.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.28.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.3",
+          "text": "Son",
+          "position": 3,
+          "verseId": "mark.2.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "mark.2.28.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.5",
+          "text": "man",
+          "position": 5,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.6",
+          "text": "is",
+          "position": 6,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.7",
+          "text": "Lord",
+          "position": 7,
+          "verseId": "mark.2.28",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "mark.2.28.8",
+          "text": "also",
+          "position": 8,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "mark.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "mark.2.28.11",
+          "text": "sabbath",
+          "position": 11,
+          "verseId": "mark.2.28",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

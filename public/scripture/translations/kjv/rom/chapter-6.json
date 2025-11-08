@@ -1,0 +1,4034 @@
+{
+  "id": "rom.6",
+  "book": "rom",
+  "chapter": 6,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Baptism is in similitude of the death, burial, and resurrection of Christ—The wages of sin is death—Christ brings eternal life.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "rom.6.1",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "rom.6.1.1",
+          "text": "What",
+          "position": 1,
+          "verseId": "rom.6.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.1.2",
+          "text": "shall",
+          "position": 2,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.3",
+          "text": "we",
+          "position": 3,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.4",
+          "text": "say",
+          "position": 4,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.5",
+          "text": "then",
+          "position": 5,
+          "verseId": "rom.6.1",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "rom.6.1.6",
+          "text": "Shall",
+          "position": 6,
+          "verseId": "rom.6.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.1.7",
+          "text": "we",
+          "position": 7,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.8",
+          "text": "continue",
+          "position": 8,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.10",
+          "text": "sin",
+          "position": 10,
+          "verseId": "rom.6.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.1.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.12",
+          "text": "grace",
+          "position": 12,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.13",
+          "text": "may",
+          "position": 13,
+          "verseId": "rom.6.1",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.1.14",
+          "text": "abound",
+          "position": 14,
+          "verseId": "rom.6.1",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.2",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "rom.6.2.1",
+          "text": "God",
+          "position": 1,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.2.2",
+          "text": "forbid",
+          "position": 2,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "rom.6.2.3",
+          "text": "How",
+          "position": 3,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.2.4",
+          "text": "shall",
+          "position": 4,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.5",
+          "text": "we",
+          "position": 5,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.2.6",
+          "text": "that",
+          "position": 6,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.7",
+          "text": "are",
+          "position": 7,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.8",
+          "text": "dead",
+          "position": 8,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.9",
+          "text": "to",
+          "position": 9,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.10",
+          "text": "sin",
+          "position": 10,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.2.11",
+          "text": "live",
+          "position": 11,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.12",
+          "text": "any",
+          "position": 12,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.13",
+          "text": "longer",
+          "position": 13,
+          "verseId": "rom.6.2",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.2.14",
+          "text": "therein",
+          "position": 14,
+          "verseId": "rom.6.2",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.3",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "rom.6.3.1",
+          "text": "Know",
+          "position": 1,
+          "verseId": "rom.6.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.3.2",
+          "text": "ye",
+          "position": 2,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.3",
+          "text": "not",
+          "position": 3,
+          "verseId": "rom.6.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.3.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.5",
+          "text": "so",
+          "position": 5,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.6",
+          "text": "many",
+          "position": 6,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.8",
+          "text": "us",
+          "position": 8,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.9",
+          "text": "as",
+          "position": 9,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.10",
+          "text": "were",
+          "position": 10,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.11",
+          "text": "baptized",
+          "position": 11,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.12",
+          "text": "into",
+          "position": 12,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.13",
+          "text": "Jesus",
+          "position": 13,
+          "verseId": "rom.6.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.3.14",
+          "text": "Christ",
+          "position": 14,
+          "verseId": "rom.6.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.3.15",
+          "text": "were",
+          "position": 15,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.16",
+          "text": "baptized",
+          "position": 16,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.17",
+          "text": "into",
+          "position": 17,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.18",
+          "text": "his",
+          "position": 18,
+          "verseId": "rom.6.3",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.3.19",
+          "text": "death",
+          "position": 19,
+          "verseId": "rom.6.3",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.4",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "rom.6.4.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "rom.6.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.4.2",
+          "text": "we",
+          "position": 2,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.3",
+          "text": "are",
+          "position": 3,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.4",
+          "text": "buried",
+          "position": 4,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.5",
+          "text": "with",
+          "position": 5,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.6",
+          "text": "him",
+          "position": 6,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.7",
+          "text": "by",
+          "position": 7,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.8",
+          "text": "baptism",
+          "position": 8,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.9",
+          "text": "into",
+          "position": 9,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.10",
+          "text": "death",
+          "position": 10,
+          "verseId": "rom.6.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "rom.6.4.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.12",
+          "text": "like",
+          "position": 12,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.13",
+          "text": "as",
+          "position": 13,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.14",
+          "text": "Christ",
+          "position": 14,
+          "verseId": "rom.6.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.4.15",
+          "text": "was",
+          "position": 15,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.16",
+          "text": "raised",
+          "position": 16,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.17",
+          "text": "up",
+          "position": 17,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.18",
+          "text": "from",
+          "position": 18,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.20",
+          "text": "dead",
+          "position": 20,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.21",
+          "text": "by",
+          "position": 21,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.23",
+          "text": "glory",
+          "position": 23,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.26",
+          "text": "Father",
+          "position": 26,
+          "verseId": "rom.6.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.4.27",
+          "text": "even",
+          "position": 27,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.28",
+          "text": "so",
+          "position": 28,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.29",
+          "text": "we",
+          "position": 29,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.30",
+          "text": "also",
+          "position": 30,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.31",
+          "text": "should",
+          "position": 31,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.32",
+          "text": "walk",
+          "position": 32,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.33",
+          "text": "in",
+          "position": 33,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.34",
+          "text": "newness",
+          "position": 34,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "rom.6.4",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.4.36",
+          "text": "life",
+          "position": 36,
+          "verseId": "rom.6.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.5",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "rom.6.5.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.5.2",
+          "text": "if",
+          "position": 2,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.3",
+          "text": "we",
+          "position": 3,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.4",
+          "text": "have",
+          "position": 4,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.5",
+          "text": "been",
+          "position": 5,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.6",
+          "text": "planted",
+          "position": 6,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.7",
+          "text": "together",
+          "position": 7,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.8",
+          "text": "in",
+          "position": 8,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.10",
+          "text": "likeness",
+          "position": 10,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.13",
+          "text": "death",
+          "position": 13,
+          "verseId": "rom.6.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.5.14",
+          "text": "we",
+          "position": 14,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.15",
+          "text": "shall",
+          "position": 15,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.16",
+          "text": "be",
+          "position": 16,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.17",
+          "text": "also",
+          "position": 17,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.18",
+          "text": "in",
+          "position": 18,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.20",
+          "text": "likeness",
+          "position": 20,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.22",
+          "text": "his",
+          "position": 22,
+          "verseId": "rom.6.5",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.5.23",
+          "text": "resurrection",
+          "position": 23,
+          "verseId": "rom.6.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.6",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "rom.6.6.1",
+          "text": "Knowing",
+          "position": 1,
+          "verseId": "rom.6.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.6.2",
+          "text": "this",
+          "position": 2,
+          "verseId": "rom.6.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.6.3",
+          "text": "that",
+          "position": 3,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.4",
+          "text": "our",
+          "position": 4,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.5",
+          "text": "old",
+          "position": 5,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.6",
+          "text": "man",
+          "position": 6,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.7",
+          "text": "is",
+          "position": 7,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.8",
+          "text": "crucified",
+          "position": 8,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.9",
+          "text": "with",
+          "position": 9,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.10",
+          "text": "him",
+          "position": 10,
+          "verseId": "rom.6.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.6.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.13",
+          "text": "body",
+          "position": 13,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.15",
+          "text": "sin",
+          "position": 15,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.16",
+          "text": "might",
+          "position": 16,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.17",
+          "text": "be",
+          "position": 17,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.18",
+          "text": "destroyed",
+          "position": 18,
+          "verseId": "rom.6.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.6.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.20",
+          "text": "henceforth",
+          "position": 20,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.21",
+          "text": "we",
+          "position": 21,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.22",
+          "text": "should",
+          "position": 22,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.23",
+          "text": "not",
+          "position": 23,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.24",
+          "text": "serve",
+          "position": 24,
+          "verseId": "rom.6.6",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.6.25",
+          "text": "sin",
+          "position": 25,
+          "verseId": "rom.6.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.7",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "rom.6.7.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.7.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.3",
+          "text": "that",
+          "position": 3,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.4",
+          "text": "is",
+          "position": 4,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.5",
+          "text": "dead",
+          "position": 5,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.6",
+          "text": "is",
+          "position": 6,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.7",
+          "text": "freed",
+          "position": 7,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.8",
+          "text": "from",
+          "position": 8,
+          "verseId": "rom.6.7",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.7.9",
+          "text": "sin",
+          "position": 9,
+          "verseId": "rom.6.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.8",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "rom.6.8.1",
+          "text": "Now",
+          "position": 1,
+          "verseId": "rom.6.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.8.2",
+          "text": "if",
+          "position": 2,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.3",
+          "text": "we",
+          "position": 3,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.4",
+          "text": "be",
+          "position": 4,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.5",
+          "text": "dead",
+          "position": 5,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.6",
+          "text": "with",
+          "position": 6,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.7",
+          "text": "Christ",
+          "position": 7,
+          "verseId": "rom.6.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.8.8",
+          "text": "we",
+          "position": 8,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.9",
+          "text": "believe",
+          "position": 9,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.11",
+          "text": "we",
+          "position": 11,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.12",
+          "text": "shall",
+          "position": 12,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.13",
+          "text": "also",
+          "position": 13,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.14",
+          "text": "live",
+          "position": 14,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.15",
+          "text": "with",
+          "position": 15,
+          "verseId": "rom.6.8",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.8.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "rom.6.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.9",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "rom.6.9.1",
+          "text": "Knowing",
+          "position": 1,
+          "verseId": "rom.6.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.9.2",
+          "text": "that",
+          "position": 2,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.3",
+          "text": "Christ",
+          "position": 3,
+          "verseId": "rom.6.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.9.4",
+          "text": "being",
+          "position": 4,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.5",
+          "text": "raised",
+          "position": 5,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.6",
+          "text": "from",
+          "position": 6,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.8",
+          "text": "dead",
+          "position": 8,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.9",
+          "text": "dieth",
+          "position": 9,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.10",
+          "text": "no",
+          "position": 10,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.11",
+          "text": "more",
+          "position": 11,
+          "verseId": "rom.6.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "rom.6.9.12",
+          "text": "death",
+          "position": 12,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.13",
+          "text": "hath",
+          "position": 13,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.14",
+          "text": "no",
+          "position": 14,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.15",
+          "text": "more",
+          "position": 15,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.16",
+          "text": "dominion",
+          "position": 16,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.17",
+          "text": "over",
+          "position": 17,
+          "verseId": "rom.6.9",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.9.18",
+          "text": "him",
+          "position": 18,
+          "verseId": "rom.6.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.10",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "rom.6.10.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.10.2",
+          "text": "in",
+          "position": 2,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.3",
+          "text": "that",
+          "position": 3,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.4",
+          "text": "he",
+          "position": 4,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.5",
+          "text": "died",
+          "position": 5,
+          "verseId": "rom.6.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.10.6",
+          "text": "he",
+          "position": 6,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.7",
+          "text": "died",
+          "position": 7,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.9",
+          "text": "sin",
+          "position": 9,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.10",
+          "text": "once",
+          "position": 10,
+          "verseId": "rom.6.10",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "rom.6.10.11",
+          "text": "but",
+          "position": 11,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.12",
+          "text": "in",
+          "position": 12,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.14",
+          "text": "he",
+          "position": 14,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.15",
+          "text": "liveth",
+          "position": 15,
+          "verseId": "rom.6.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.10.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.17",
+          "text": "liveth",
+          "position": 17,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.18",
+          "text": "unto",
+          "position": 18,
+          "verseId": "rom.6.10",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.10.19",
+          "text": "God",
+          "position": 19,
+          "verseId": "rom.6.10",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.11",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "rom.6.11.1",
+          "text": "Likewise",
+          "position": 1,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.11.2",
+          "text": "reckon",
+          "position": 2,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.3",
+          "text": "ye",
+          "position": 3,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.4",
+          "text": "also",
+          "position": 4,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.5",
+          "text": "yourselves",
+          "position": 5,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.6",
+          "text": "to",
+          "position": 6,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.7",
+          "text": "be",
+          "position": 7,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.8",
+          "text": "dead",
+          "position": 8,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.9",
+          "text": "indeed",
+          "position": 9,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.11",
+          "text": "sin",
+          "position": 11,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.11.12",
+          "text": "but",
+          "position": 12,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.13",
+          "text": "alive",
+          "position": 13,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.14",
+          "text": "unto",
+          "position": 14,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.15",
+          "text": "God",
+          "position": 15,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.11.16",
+          "text": "through",
+          "position": 16,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.17",
+          "text": "Jesus",
+          "position": 17,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.11.18",
+          "text": "Christ",
+          "position": 18,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.11.19",
+          "text": "our",
+          "position": 19,
+          "verseId": "rom.6.11",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.11.20",
+          "text": "Lord",
+          "position": 20,
+          "verseId": "rom.6.11",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.12",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "rom.6.12.1",
+          "text": "Let",
+          "position": 1,
+          "verseId": "rom.6.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.12.2",
+          "text": "not",
+          "position": 2,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.3",
+          "text": "sin",
+          "position": 3,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.4",
+          "text": "therefore",
+          "position": 4,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.5",
+          "text": "reign",
+          "position": 5,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.6",
+          "text": "in",
+          "position": 6,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.7",
+          "text": "your",
+          "position": 7,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.8",
+          "text": "mortal",
+          "position": 8,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.9",
+          "text": "body",
+          "position": 9,
+          "verseId": "rom.6.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.12.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.11",
+          "text": "ye",
+          "position": 11,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.12",
+          "text": "should",
+          "position": 12,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.13",
+          "text": "obey",
+          "position": 13,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.14",
+          "text": "it",
+          "position": 14,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.15",
+          "text": "in",
+          "position": 15,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.17",
+          "text": "lusts",
+          "position": 17,
+          "verseId": "rom.6.12",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.12.18",
+          "text": "thereof",
+          "position": 18,
+          "verseId": "rom.6.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.13",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "rom.6.13.1",
+          "text": "Neither",
+          "position": 1,
+          "verseId": "rom.6.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.13.2",
+          "text": "yield",
+          "position": 2,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.3",
+          "text": "ye",
+          "position": 3,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.4",
+          "text": "your",
+          "position": 4,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.5",
+          "text": "members",
+          "position": 5,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.6",
+          "text": "as",
+          "position": 6,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.7",
+          "text": "instruments",
+          "position": 7,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.9",
+          "text": "unrighteousness",
+          "position": 9,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.11",
+          "text": "sin",
+          "position": 11,
+          "verseId": "rom.6.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "rom.6.13.12",
+          "text": "but",
+          "position": 12,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.13",
+          "text": "yield",
+          "position": 13,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.14",
+          "text": "yourselves",
+          "position": 14,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.15",
+          "text": "unto",
+          "position": 15,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.16",
+          "text": "God",
+          "position": 16,
+          "verseId": "rom.6.13",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.13.17",
+          "text": "as",
+          "position": 17,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.18",
+          "text": "those",
+          "position": 18,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.20",
+          "text": "are",
+          "position": 20,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.21",
+          "text": "alive",
+          "position": 21,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.22",
+          "text": "from",
+          "position": 22,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.24",
+          "text": "dead",
+          "position": 24,
+          "verseId": "rom.6.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.13.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.26",
+          "text": "your",
+          "position": 26,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.27",
+          "text": "members",
+          "position": 27,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.28",
+          "text": "as",
+          "position": 28,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.29",
+          "text": "instruments",
+          "position": 29,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.31",
+          "text": "righteousness",
+          "position": 31,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.32",
+          "text": "unto",
+          "position": 32,
+          "verseId": "rom.6.13",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.13.33",
+          "text": "God",
+          "position": 33,
+          "verseId": "rom.6.13",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.14",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "rom.6.14.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.14.2",
+          "text": "sin",
+          "position": 2,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.3",
+          "text": "shall",
+          "position": 3,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.4",
+          "text": "not",
+          "position": 4,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.5",
+          "text": "have",
+          "position": 5,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.6",
+          "text": "dominion",
+          "position": 6,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.7",
+          "text": "over",
+          "position": 7,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.8",
+          "text": "you",
+          "position": 8,
+          "verseId": "rom.6.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "rom.6.14.9",
+          "text": "for",
+          "position": 9,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.10",
+          "text": "ye",
+          "position": 10,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.11",
+          "text": "are",
+          "position": 11,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.12",
+          "text": "not",
+          "position": 12,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.13",
+          "text": "under",
+          "position": 13,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.15",
+          "text": "law",
+          "position": 15,
+          "verseId": "rom.6.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.14.16",
+          "text": "but",
+          "position": 16,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.17",
+          "text": "under",
+          "position": 17,
+          "verseId": "rom.6.14",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.14.18",
+          "text": "grace",
+          "position": 18,
+          "verseId": "rom.6.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.15",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "rom.6.15.1",
+          "text": "What",
+          "position": 1,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.15.2",
+          "text": "then",
+          "position": 2,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "rom.6.15.3",
+          "text": "shall",
+          "position": 3,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.4",
+          "text": "we",
+          "position": 4,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.5",
+          "text": "sin",
+          "position": 5,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.15.6",
+          "text": "because",
+          "position": 6,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.7",
+          "text": "we",
+          "position": 7,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.8",
+          "text": "are",
+          "position": 8,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.9",
+          "text": "not",
+          "position": 9,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.10",
+          "text": "under",
+          "position": 10,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.12",
+          "text": "law",
+          "position": 12,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.15.13",
+          "text": "but",
+          "position": 13,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.14",
+          "text": "under",
+          "position": 14,
+          "verseId": "rom.6.15",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.15.15",
+          "text": "grace",
+          "position": 15,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "rom.6.15.16",
+          "text": "God",
+          "position": 16,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.15.17",
+          "text": "forbid",
+          "position": 17,
+          "verseId": "rom.6.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.16",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "rom.6.16.1",
+          "text": "Know",
+          "position": 1,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.16.2",
+          "text": "ye",
+          "position": 2,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.3",
+          "text": "not",
+          "position": 3,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.16.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.6",
+          "text": "whom",
+          "position": 6,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.7",
+          "text": "ye",
+          "position": 7,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.8",
+          "text": "yield",
+          "position": 8,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.9",
+          "text": "yourselves",
+          "position": 9,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.10",
+          "text": "servants",
+          "position": 10,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.12",
+          "text": "obey",
+          "position": 12,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.16.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.14",
+          "text": "servants",
+          "position": 14,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.15",
+          "text": "ye",
+          "position": 15,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.16",
+          "text": "are",
+          "position": 16,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.17",
+          "text": "to",
+          "position": 17,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.18",
+          "text": "whom",
+          "position": 18,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.19",
+          "text": "ye",
+          "position": 19,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.20",
+          "text": "obey",
+          "position": 20,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "rom.6.16.21",
+          "text": "whether",
+          "position": 21,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.23",
+          "text": "sin",
+          "position": 23,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.24",
+          "text": "unto",
+          "position": 24,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.25",
+          "text": "death",
+          "position": 25,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.16.26",
+          "text": "or",
+          "position": 26,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.28",
+          "text": "obedience",
+          "position": 28,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.29",
+          "text": "unto",
+          "position": 29,
+          "verseId": "rom.6.16",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.16.30",
+          "text": "righteousness",
+          "position": 30,
+          "verseId": "rom.6.16",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.17",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "rom.6.17.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "rom.6.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.17.2",
+          "text": "God",
+          "position": 2,
+          "verseId": "rom.6.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.17.3",
+          "text": "be",
+          "position": 3,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.4",
+          "text": "thanked",
+          "position": 4,
+          "verseId": "rom.6.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.17.5",
+          "text": "that",
+          "position": 5,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.6",
+          "text": "ye",
+          "position": 6,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.7",
+          "text": "were",
+          "position": 7,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.9",
+          "text": "servants",
+          "position": 9,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.11",
+          "text": "sin",
+          "position": 11,
+          "verseId": "rom.6.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.17.12",
+          "text": "but",
+          "position": 12,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.13",
+          "text": "ye",
+          "position": 13,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.14",
+          "text": "have",
+          "position": 14,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.15",
+          "text": "obeyed",
+          "position": 15,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.16",
+          "text": "from",
+          "position": 16,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.18",
+          "text": "heart",
+          "position": 18,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.20",
+          "text": "form",
+          "position": 20,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.22",
+          "text": "doctrine",
+          "position": 22,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.23",
+          "text": "which",
+          "position": 23,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.24",
+          "text": "was",
+          "position": 24,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.25",
+          "text": "delivered",
+          "position": 25,
+          "verseId": "rom.6.17",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.17.26",
+          "text": "you",
+          "position": 26,
+          "verseId": "rom.6.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.18",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "rom.6.18.1",
+          "text": "Being",
+          "position": 1,
+          "verseId": "rom.6.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.18.2",
+          "text": "then",
+          "position": 2,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.4",
+          "text": "free",
+          "position": 4,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.5",
+          "text": "from",
+          "position": 5,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.6",
+          "text": "sin",
+          "position": 6,
+          "verseId": "rom.6.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.18.7",
+          "text": "ye",
+          "position": 7,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.8",
+          "text": "became",
+          "position": 8,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.10",
+          "text": "servants",
+          "position": 10,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "rom.6.18",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.18.12",
+          "text": "righteousness",
+          "position": 12,
+          "verseId": "rom.6.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.19",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "rom.6.19.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "rom.6.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.19.2",
+          "text": "speak",
+          "position": 2,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.3",
+          "text": "after",
+          "position": 3,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.5",
+          "text": "manner",
+          "position": 5,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.7",
+          "text": "men",
+          "position": 7,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.8",
+          "text": "because",
+          "position": 8,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.11",
+          "text": "infirmity",
+          "position": 11,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.13",
+          "text": "your",
+          "position": 13,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.14",
+          "text": "flesh",
+          "position": 14,
+          "verseId": "rom.6.19",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "rom.6.19.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.16",
+          "text": "as",
+          "position": 16,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.17",
+          "text": "ye",
+          "position": 17,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.18",
+          "text": "have",
+          "position": 18,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.19",
+          "text": "yielded",
+          "position": 19,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.20",
+          "text": "your",
+          "position": 20,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.21",
+          "text": "members",
+          "position": 21,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.22",
+          "text": "servants",
+          "position": 22,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.24",
+          "text": "uncleanness",
+          "position": 24,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.26",
+          "text": "to",
+          "position": 26,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.27",
+          "text": "iniquity",
+          "position": 27,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.28",
+          "text": "unto",
+          "position": 28,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.29",
+          "text": "iniquity",
+          "position": 29,
+          "verseId": "rom.6.19",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "rom.6.19.30",
+          "text": "even",
+          "position": 30,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.31",
+          "text": "so",
+          "position": 31,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.32",
+          "text": "now",
+          "position": 32,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.33",
+          "text": "yield",
+          "position": 33,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.34",
+          "text": "your",
+          "position": 34,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.35",
+          "text": "members",
+          "position": 35,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.36",
+          "text": "servants",
+          "position": 36,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.37",
+          "text": "to",
+          "position": 37,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.38",
+          "text": "righteousness",
+          "position": 38,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.39",
+          "text": "unto",
+          "position": 39,
+          "verseId": "rom.6.19",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.19.40",
+          "text": "holiness",
+          "position": 40,
+          "verseId": "rom.6.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.20",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "rom.6.20.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.20.2",
+          "text": "when",
+          "position": 2,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.3",
+          "text": "ye",
+          "position": 3,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.4",
+          "text": "were",
+          "position": 4,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.6",
+          "text": "servants",
+          "position": 6,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.8",
+          "text": "sin",
+          "position": 8,
+          "verseId": "rom.6.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.20.9",
+          "text": "ye",
+          "position": 9,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.10",
+          "text": "were",
+          "position": 10,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.11",
+          "text": "free",
+          "position": 11,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.12",
+          "text": "from",
+          "position": 12,
+          "verseId": "rom.6.20",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.20.13",
+          "text": "righteousness",
+          "position": 13,
+          "verseId": "rom.6.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.21",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "rom.6.21.1",
+          "text": "What",
+          "position": 1,
+          "verseId": "rom.6.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.21.2",
+          "text": "fruit",
+          "position": 2,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.3",
+          "text": "had",
+          "position": 3,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.4",
+          "text": "ye",
+          "position": 4,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.5",
+          "text": "then",
+          "position": 5,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.6",
+          "text": "in",
+          "position": 6,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.7",
+          "text": "those",
+          "position": 7,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.8",
+          "text": "things",
+          "position": 8,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.9",
+          "text": "whereof",
+          "position": 9,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.10",
+          "text": "ye",
+          "position": 10,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.11",
+          "text": "are",
+          "position": 11,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.12",
+          "text": "now",
+          "position": 12,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.13",
+          "text": "ashamed",
+          "position": 13,
+          "verseId": "rom.6.21",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "rom.6.21.14",
+          "text": "for",
+          "position": 14,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.16",
+          "text": "end",
+          "position": 16,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.18",
+          "text": "those",
+          "position": 18,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.19",
+          "text": "things",
+          "position": 19,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.20",
+          "text": "is",
+          "position": 20,
+          "verseId": "rom.6.21",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.21.21",
+          "text": "death",
+          "position": 21,
+          "verseId": "rom.6.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.22",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "rom.6.22.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "rom.6.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.22.2",
+          "text": "now",
+          "position": 2,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.3",
+          "text": "being",
+          "position": 3,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.4",
+          "text": "made",
+          "position": 4,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.5",
+          "text": "free",
+          "position": 5,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.6",
+          "text": "from",
+          "position": 6,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.7",
+          "text": "sin",
+          "position": 7,
+          "verseId": "rom.6.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.22.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.9",
+          "text": "become",
+          "position": 9,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.10",
+          "text": "servants",
+          "position": 10,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.12",
+          "text": "God",
+          "position": 12,
+          "verseId": "rom.6.22",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.22.13",
+          "text": "ye",
+          "position": 13,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.14",
+          "text": "have",
+          "position": 14,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.15",
+          "text": "your",
+          "position": 15,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.16",
+          "text": "fruit",
+          "position": 16,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.17",
+          "text": "unto",
+          "position": 17,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.18",
+          "text": "holiness",
+          "position": 18,
+          "verseId": "rom.6.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "rom.6.22.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.21",
+          "text": "end",
+          "position": 21,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.22",
+          "text": "everlasting",
+          "position": 22,
+          "verseId": "rom.6.22",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.22.23",
+          "text": "life",
+          "position": 23,
+          "verseId": "rom.6.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "rom.6.23",
+      "book": "rom",
+      "chapter": 6,
+      "verse": 23,
+      "tokens": [
+        {
+          "id": "rom.6.23.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.23.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.3",
+          "text": "wages",
+          "position": 3,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.5",
+          "text": "sin",
+          "position": 5,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.6",
+          "text": "is",
+          "position": 6,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.7",
+          "text": "death",
+          "position": 7,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "rom.6.23.8",
+          "text": "but",
+          "position": 8,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.10",
+          "text": "gift",
+          "position": 10,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.12",
+          "text": "God",
+          "position": 12,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "rom.6.23.13",
+          "text": "is",
+          "position": 13,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.14",
+          "text": "eternal",
+          "position": 14,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.15",
+          "text": "life",
+          "position": 15,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.16",
+          "text": "through",
+          "position": 16,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.17",
+          "text": "Jesus",
+          "position": 17,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.23.18",
+          "text": "Christ",
+          "position": 18,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "rom.6.23.19",
+          "text": "our",
+          "position": 19,
+          "verseId": "rom.6.23",
+          "presentation": {}
+        },
+        {
+          "id": "rom.6.23.20",
+          "text": "Lord",
+          "position": 20,
+          "verseId": "rom.6.23",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

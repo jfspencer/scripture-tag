@@ -1,0 +1,7539 @@
+{
+  "id": "2-sam.2",
+  "book": "2-sam",
+  "chapter": 2,
+  "translation": "kjv",
+  "heading": {
+    "summary": "David is anointed king over the house of Judah—Ishbosheth becomes the king of Israel—David’s followers defeat Abner and the men of Israel.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "2-sam.2.1",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "2-sam.2.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.2",
+          "text": "it",
+          "position": 2,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.5",
+          "text": "pass",
+          "position": 5,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.6",
+          "text": "after",
+          "position": 6,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.7",
+          "text": "this",
+          "position": 7,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.1.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.9",
+          "text": "David",
+          "position": 9,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.10",
+          "text": "inquired",
+          "position": 10,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.13",
+          "text": "Lord",
+          "position": 13,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.1.14",
+          "text": "saying",
+          "position": 14,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.1.15",
+          "text": "Shall",
+          "position": 15,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.16",
+          "text": "I",
+          "position": 16,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.17",
+          "text": "go",
+          "position": 17,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.18",
+          "text": "up",
+          "position": 18,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.19",
+          "text": "into",
+          "position": 19,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.20",
+          "text": "any",
+          "position": 20,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.23",
+          "text": "cities",
+          "position": 23,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.25",
+          "text": "Judah",
+          "position": 25,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": "?",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.26",
+          "text": "And",
+          "position": 26,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.28",
+          "text": "Lord",
+          "position": 28,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.1.29",
+          "text": "said",
+          "position": 29,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.30",
+          "text": "unto",
+          "position": 30,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.31",
+          "text": "him",
+          "position": 31,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.1.32",
+          "text": "Go",
+          "position": 32,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.33",
+          "text": "up",
+          "position": 33,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "2-sam.2.1.34",
+          "text": "And",
+          "position": 34,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.35",
+          "text": "David",
+          "position": 35,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.36",
+          "text": "said",
+          "position": 36,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.1.37",
+          "text": "Whither",
+          "position": 37,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.38",
+          "text": "shall",
+          "position": 38,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.39",
+          "text": "I",
+          "position": 39,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.40",
+          "text": "go",
+          "position": 40,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.41",
+          "text": "up",
+          "position": 41,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "2-sam.2.1.42",
+          "text": "And",
+          "position": 42,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.43",
+          "text": "he",
+          "position": 43,
+          "verseId": "2-sam.2.1",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.1.44",
+          "text": "said",
+          "position": 44,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.1.45",
+          "text": "Unto",
+          "position": 45,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.1.46",
+          "text": "Hebron",
+          "position": 46,
+          "verseId": "2-sam.2.1",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.2",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "2-sam.2.2.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.2",
+          "text": "David",
+          "position": 2,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.3",
+          "text": "went",
+          "position": 3,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.4",
+          "text": "up",
+          "position": 4,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.5",
+          "text": "thither",
+          "position": 5,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.2.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.7",
+          "text": "his",
+          "position": 7,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.8",
+          "text": "two",
+          "position": 8,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.9",
+          "text": "wives",
+          "position": 9,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.10",
+          "text": "also",
+          "position": 10,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.2.11",
+          "text": "Ahinoam",
+          "position": 11,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.13",
+          "text": "Jezreelitess",
+          "position": 13,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.15",
+          "text": "Abigail",
+          "position": 15,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.16",
+          "text": "Nabal’s",
+          "position": 16,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.2.17",
+          "text": "wife",
+          "position": 17,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "2-sam.2.2",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.2.19",
+          "text": "Carmelite",
+          "position": 19,
+          "verseId": "2-sam.2.2",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.3",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "2-sam.2.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.3.2",
+          "text": "his",
+          "position": 2,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.3",
+          "text": "men",
+          "position": 3,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.5",
+          "text": "were",
+          "position": 5,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.6",
+          "text": "with",
+          "position": 6,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.7",
+          "text": "him",
+          "position": 7,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.8",
+          "text": "did",
+          "position": 8,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.9",
+          "text": "David",
+          "position": 9,
+          "verseId": "2-sam.2.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.3.10",
+          "text": "bring",
+          "position": 10,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.11",
+          "text": "up",
+          "position": 11,
+          "verseId": "2-sam.2.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.3.12",
+          "text": "every",
+          "position": 12,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.13",
+          "text": "man",
+          "position": 13,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.16",
+          "text": "household",
+          "position": 16,
+          "verseId": "2-sam.2.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.3.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.18",
+          "text": "they",
+          "position": 18,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.19",
+          "text": "dwelt",
+          "position": 19,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.20",
+          "text": "in",
+          "position": 20,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.22",
+          "text": "cities",
+          "position": 22,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "2-sam.2.3",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.3.24",
+          "text": "Hebron",
+          "position": 24,
+          "verseId": "2-sam.2.3",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.4",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "2-sam.2.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.3",
+          "text": "men",
+          "position": 3,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.5",
+          "text": "Judah",
+          "position": 5,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.6",
+          "text": "came",
+          "position": 6,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.4.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.8",
+          "text": "there",
+          "position": 8,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.9",
+          "text": "they",
+          "position": 9,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.10",
+          "text": "anointed",
+          "position": 10,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.11",
+          "text": "David",
+          "position": 11,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.12",
+          "text": "king",
+          "position": 12,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.13",
+          "text": "over",
+          "position": 13,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.15",
+          "text": "house",
+          "position": 15,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.17",
+          "text": "Judah",
+          "position": 17,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.18",
+          "text": "And",
+          "position": 18,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.19",
+          "text": "they",
+          "position": 19,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.20",
+          "text": "told",
+          "position": 20,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.21",
+          "text": "David",
+          "position": 21,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.22",
+          "text": "saying",
+          "position": 22,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.4.23",
+          "text": "That",
+          "position": 23,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.25",
+          "text": "men",
+          "position": 25,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.26",
+          "text": "of",
+          "position": 26,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.27",
+          "text": "Jabesh-gilead",
+          "position": 27,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.4.28",
+          "text": "were",
+          "position": 28,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.29",
+          "text": "they",
+          "position": 29,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.30",
+          "text": "that",
+          "position": 30,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.31",
+          "text": "buried",
+          "position": 31,
+          "verseId": "2-sam.2.4",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.4.32",
+          "text": "Saul",
+          "position": 32,
+          "verseId": "2-sam.2.4",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.5",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "2-sam.2.5.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.5.3",
+          "text": "David",
+          "position": 3,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.5.4",
+          "text": "sent",
+          "position": 4,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.5",
+          "text": "messengers",
+          "position": 5,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.8",
+          "text": "men",
+          "position": 8,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.10",
+          "text": "Jabesh-gilead",
+          "position": 10,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.5.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.12",
+          "text": "said",
+          "position": 12,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.13",
+          "text": "unto",
+          "position": 13,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.14",
+          "text": "them",
+          "position": 14,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.5.15",
+          "text": "Blessed",
+          "position": 15,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.5.16",
+          "text": "be",
+          "position": 16,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.17",
+          "text": "ye",
+          "position": 17,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.20",
+          "text": "Lord",
+          "position": 20,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.5.21",
+          "text": "that",
+          "position": 21,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.22",
+          "text": "ye",
+          "position": 22,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.23",
+          "text": "have",
+          "position": 23,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.24",
+          "text": "shewed",
+          "position": 24,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.25",
+          "text": "this",
+          "position": 25,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.26",
+          "text": "kindness",
+          "position": 26,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.27",
+          "text": "unto",
+          "position": 27,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.28",
+          "text": "your",
+          "position": 28,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.29",
+          "text": "lord",
+          "position": 29,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.5.30",
+          "text": "even",
+          "position": 30,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.31",
+          "text": "unto",
+          "position": 31,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.32",
+          "text": "Saul",
+          "position": 32,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.5.33",
+          "text": "and",
+          "position": 33,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.34",
+          "text": "have",
+          "position": 34,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.35",
+          "text": "buried",
+          "position": 35,
+          "verseId": "2-sam.2.5",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.5.36",
+          "text": "him",
+          "position": 36,
+          "verseId": "2-sam.2.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.6",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "2-sam.2.6.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.6.2",
+          "text": "now",
+          "position": 2,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.4",
+          "text": "Lord",
+          "position": 4,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.6.5",
+          "text": "shew",
+          "position": 5,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.6",
+          "text": "kindness",
+          "position": 6,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.8",
+          "text": "truth",
+          "position": 8,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.9",
+          "text": "unto",
+          "position": 9,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.10",
+          "text": "you",
+          "position": 10,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.6.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.12",
+          "text": "I",
+          "position": 12,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.6.13",
+          "text": "also",
+          "position": 13,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.14",
+          "text": "will",
+          "position": 14,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.15",
+          "text": "requite",
+          "position": 15,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.16",
+          "text": "you",
+          "position": 16,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.17",
+          "text": "this",
+          "position": 17,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.18",
+          "text": "kindness",
+          "position": 18,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.6.19",
+          "text": "because",
+          "position": 19,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.20",
+          "text": "ye",
+          "position": 20,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.21",
+          "text": "have",
+          "position": 21,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.22",
+          "text": "done",
+          "position": 22,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.23",
+          "text": "this",
+          "position": 23,
+          "verseId": "2-sam.2.6",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.6.24",
+          "text": "thing",
+          "position": 24,
+          "verseId": "2-sam.2.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.7",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "2-sam.2.7.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.7.2",
+          "text": "now",
+          "position": 2,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.3",
+          "text": "let",
+          "position": 3,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.4",
+          "text": "your",
+          "position": 4,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.5",
+          "text": "hands",
+          "position": 5,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.7",
+          "text": "strengthened",
+          "position": 7,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.7.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.9",
+          "text": "be",
+          "position": 9,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.10",
+          "text": "ye",
+          "position": 10,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.11",
+          "text": "valiant",
+          "position": 11,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.7.12",
+          "text": "for",
+          "position": 12,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.13",
+          "text": "your",
+          "position": 13,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.14",
+          "text": "master",
+          "position": 14,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.15",
+          "text": "Saul",
+          "position": 15,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.7.16",
+          "text": "is",
+          "position": 16,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.17",
+          "text": "dead",
+          "position": 17,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.7.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.19",
+          "text": "also",
+          "position": 19,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.21",
+          "text": "house",
+          "position": 21,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.23",
+          "text": "Judah",
+          "position": 23,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.7.24",
+          "text": "have",
+          "position": 24,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.25",
+          "text": "anointed",
+          "position": 25,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.26",
+          "text": "me",
+          "position": 26,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.27",
+          "text": "king",
+          "position": 27,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.28",
+          "text": "over",
+          "position": 28,
+          "verseId": "2-sam.2.7",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.7.29",
+          "text": "them",
+          "position": 29,
+          "verseId": "2-sam.2.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.8",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "2-sam.2.8.2",
+          "text": "But",
+          "position": 2,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.3",
+          "text": "Abner",
+          "position": 3,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.5",
+          "text": "son",
+          "position": 5,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.7",
+          "text": "Ner",
+          "position": 7,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.8",
+          "text": "captain",
+          "position": 8,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.10",
+          "text": "Saul’s",
+          "position": 10,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.11",
+          "text": "host",
+          "position": 11,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.8.12",
+          "text": "took",
+          "position": 12,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.13",
+          "text": "Ish-bosheth",
+          "position": 13,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.15",
+          "text": "son",
+          "position": 15,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.17",
+          "text": "Saul",
+          "position": 17,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.8.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.19",
+          "text": "brought",
+          "position": 19,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.20",
+          "text": "him",
+          "position": 20,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.21",
+          "text": "over",
+          "position": 21,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.22",
+          "text": "to",
+          "position": 22,
+          "verseId": "2-sam.2.8",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.8.23",
+          "text": "Mahanaim",
+          "position": 23,
+          "verseId": "2-sam.2.8",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.9",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "2-sam.2.9.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.2",
+          "text": "made",
+          "position": 2,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.3",
+          "text": "him",
+          "position": 3,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.4",
+          "text": "king",
+          "position": 4,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.5",
+          "text": "over",
+          "position": 5,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.6",
+          "text": "Gilead",
+          "position": 6,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.8",
+          "text": "over",
+          "position": 8,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.10",
+          "text": "Ashurites",
+          "position": 10,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.12",
+          "text": "over",
+          "position": 12,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.13",
+          "text": "Jezreel",
+          "position": 13,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.15",
+          "text": "over",
+          "position": 15,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.16",
+          "text": "Ephraim",
+          "position": 16,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.18",
+          "text": "over",
+          "position": 18,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.19",
+          "text": "Benjamin",
+          "position": 19,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.9.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.21",
+          "text": "over",
+          "position": 21,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.22",
+          "text": "all",
+          "position": 22,
+          "verseId": "2-sam.2.9",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.9.23",
+          "text": "Israel",
+          "position": 23,
+          "verseId": "2-sam.2.9",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.10",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "2-sam.2.10.1",
+          "text": "Ish-bosheth",
+          "position": 1,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.10.2",
+          "text": "Saul’s",
+          "position": 2,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.10.3",
+          "text": "son",
+          "position": 3,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.5",
+          "text": "forty",
+          "position": 5,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.6",
+          "text": "years",
+          "position": 6,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.7",
+          "text": "old",
+          "position": 7,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.8",
+          "text": "when",
+          "position": 8,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.10",
+          "text": "began",
+          "position": 10,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.12",
+          "text": "reign",
+          "position": 12,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.13",
+          "text": "over",
+          "position": 13,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.14",
+          "text": "Israel",
+          "position": 14,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.10.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.16",
+          "text": "reigned",
+          "position": 16,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.17",
+          "text": "two",
+          "position": 17,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.18",
+          "text": "years",
+          "position": 18,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "2-sam.2.10.19",
+          "text": "But",
+          "position": 19,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.10.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.21",
+          "text": "house",
+          "position": 21,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.23",
+          "text": "Judah",
+          "position": 23,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.10.24",
+          "text": "followed",
+          "position": 24,
+          "verseId": "2-sam.2.10",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.10.25",
+          "text": "David",
+          "position": 25,
+          "verseId": "2-sam.2.10",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.11",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "2-sam.2.11.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.11.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.3",
+          "text": "time",
+          "position": 3,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.5",
+          "text": "David",
+          "position": 5,
+          "verseId": "2-sam.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.11.6",
+          "text": "was",
+          "position": 6,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.7",
+          "text": "king",
+          "position": 7,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.8",
+          "text": "in",
+          "position": 8,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.9",
+          "text": "Hebron",
+          "position": 9,
+          "verseId": "2-sam.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.11.10",
+          "text": "over",
+          "position": 10,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.12",
+          "text": "house",
+          "position": 12,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.14",
+          "text": "Judah",
+          "position": 14,
+          "verseId": "2-sam.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.11.15",
+          "text": "was",
+          "position": 15,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.16",
+          "text": "seven",
+          "position": 16,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.17",
+          "text": "years",
+          "position": 17,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.19",
+          "text": "six",
+          "position": 19,
+          "verseId": "2-sam.2.11",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.11.20",
+          "text": "months",
+          "position": 20,
+          "verseId": "2-sam.2.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.12",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "2-sam.2.12.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.3",
+          "text": "Abner",
+          "position": 3,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.5",
+          "text": "son",
+          "position": 5,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.7",
+          "text": "Ner",
+          "position": 7,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.10",
+          "text": "servants",
+          "position": 10,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.12",
+          "text": "Ish-bosheth",
+          "position": 12,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.14",
+          "text": "son",
+          "position": 14,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.16",
+          "text": "Saul",
+          "position": 16,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.17",
+          "text": "went",
+          "position": 17,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.18",
+          "text": "out",
+          "position": 18,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.19",
+          "text": "from",
+          "position": 19,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.20",
+          "text": "Mahanaim",
+          "position": 20,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.12.21",
+          "text": "to",
+          "position": 21,
+          "verseId": "2-sam.2.12",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.12.22",
+          "text": "Gibeon",
+          "position": 22,
+          "verseId": "2-sam.2.12",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.13",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "2-sam.2.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.13.2",
+          "text": "Joab",
+          "position": 2,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.13.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.4",
+          "text": "son",
+          "position": 4,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.6",
+          "text": "Zeruiah",
+          "position": 6,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.13.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.9",
+          "text": "servants",
+          "position": 9,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.11",
+          "text": "David",
+          "position": 11,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.13.12",
+          "text": "went",
+          "position": 12,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.13",
+          "text": "out",
+          "position": 13,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.13.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.15",
+          "text": "met",
+          "position": 15,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.16",
+          "text": "together",
+          "position": 16,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.17",
+          "text": "by",
+          "position": 17,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.19",
+          "text": "pool",
+          "position": 19,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.21",
+          "text": "Gibeon",
+          "position": 21,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.13.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.24",
+          "text": "sat",
+          "position": 24,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.25",
+          "text": "down",
+          "position": 25,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.13.26",
+          "text": "the",
+          "position": 26,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.27",
+          "text": "one",
+          "position": 27,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.28",
+          "text": "on",
+          "position": 28,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.30",
+          "text": "one",
+          "position": 30,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.31",
+          "text": "side",
+          "position": 31,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.34",
+          "text": "pool",
+          "position": 34,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.13.35",
+          "text": "and",
+          "position": 35,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.37",
+          "text": "other",
+          "position": 37,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.38",
+          "text": "on",
+          "position": 38,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.39",
+          "text": "the",
+          "position": 39,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.40",
+          "text": "other",
+          "position": 40,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.41",
+          "text": "side",
+          "position": 41,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.42",
+          "text": "of",
+          "position": 42,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.43",
+          "text": "the",
+          "position": 43,
+          "verseId": "2-sam.2.13",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.13.44",
+          "text": "pool",
+          "position": 44,
+          "verseId": "2-sam.2.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.14",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "2-sam.2.14.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.5",
+          "text": "Joab",
+          "position": 5,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.6",
+          "text": "Let",
+          "position": 6,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.8",
+          "text": "young",
+          "position": 8,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.9",
+          "text": "men",
+          "position": 9,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.10",
+          "text": "now",
+          "position": 10,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.11",
+          "text": "arise",
+          "position": 11,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.14.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.13",
+          "text": "play",
+          "position": 13,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.14",
+          "text": "before",
+          "position": 14,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.15",
+          "text": "us",
+          "position": 15,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "2-sam.2.14.16",
+          "text": "And",
+          "position": 16,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.17",
+          "text": "Joab",
+          "position": 17,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.18",
+          "text": "said",
+          "position": 18,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.14.19",
+          "text": "Let",
+          "position": 19,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.14.20",
+          "text": "them",
+          "position": 20,
+          "verseId": "2-sam.2.14",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.14.21",
+          "text": "arise",
+          "position": 21,
+          "verseId": "2-sam.2.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.15",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "2-sam.2.15.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "2-sam.2.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.15.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.3",
+          "text": "arose",
+          "position": 3,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.5",
+          "text": "went",
+          "position": 5,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.6",
+          "text": "over",
+          "position": 6,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.7",
+          "text": "by",
+          "position": 7,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.8",
+          "text": "number",
+          "position": 8,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.9",
+          "text": "twelve",
+          "position": 9,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.11",
+          "text": "Benjamin",
+          "position": 11,
+          "verseId": "2-sam.2.15",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.15.12",
+          "text": "which",
+          "position": 12,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.13",
+          "text": "pertained",
+          "position": 13,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.15",
+          "text": "Ish-bosheth",
+          "position": 15,
+          "verseId": "2-sam.2.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.15.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.17",
+          "text": "son",
+          "position": 17,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.19",
+          "text": "Saul",
+          "position": 19,
+          "verseId": "2-sam.2.15",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.15.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.21",
+          "text": "twelve",
+          "position": 21,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.24",
+          "text": "servants",
+          "position": 24,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.25",
+          "text": "of",
+          "position": 25,
+          "verseId": "2-sam.2.15",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.15.26",
+          "text": "David",
+          "position": 26,
+          "verseId": "2-sam.2.15",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.16",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "2-sam.2.16.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.16.2",
+          "text": "they",
+          "position": 2,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.3",
+          "text": "caught",
+          "position": 3,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.4",
+          "text": "every",
+          "position": 4,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.5",
+          "text": "one",
+          "position": 5,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.7",
+          "text": "fellow",
+          "position": 7,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.8",
+          "text": "by",
+          "position": 8,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.10",
+          "text": "head",
+          "position": 10,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.16.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.12",
+          "text": "thrust",
+          "position": 12,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.14",
+          "text": "sword",
+          "position": 14,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.15",
+          "text": "in",
+          "position": 15,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.16",
+          "text": "his",
+          "position": 16,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.17",
+          "text": "fellow’s",
+          "position": 17,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.18",
+          "text": "side",
+          "position": 18,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "2-sam.2.16.19",
+          "text": "so",
+          "position": 19,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.20",
+          "text": "they",
+          "position": 20,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.21",
+          "text": "fell",
+          "position": 21,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.22",
+          "text": "down",
+          "position": 22,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.23",
+          "text": "together",
+          "position": 23,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.16.24",
+          "text": "wherefore",
+          "position": 24,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.25",
+          "text": "that",
+          "position": 25,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.26",
+          "text": "place",
+          "position": 26,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.27",
+          "text": "was",
+          "position": 27,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.28",
+          "text": "called",
+          "position": 28,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.29",
+          "text": "Helkath-hazzurim",
+          "position": 29,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.16.30",
+          "text": "which",
+          "position": 30,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.31",
+          "text": "is",
+          "position": 31,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.32",
+          "text": "in",
+          "position": 32,
+          "verseId": "2-sam.2.16",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.16.33",
+          "text": "Gibeon",
+          "position": 33,
+          "verseId": "2-sam.2.16",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.17",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "2-sam.2.17.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.17.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.5",
+          "text": "very",
+          "position": 5,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.6",
+          "text": "sore",
+          "position": 6,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.7",
+          "text": "battle",
+          "position": 7,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.9",
+          "text": "day",
+          "position": 9,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "2-sam.2.17.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.11",
+          "text": "Abner",
+          "position": 11,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.17.12",
+          "text": "was",
+          "position": 12,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.13",
+          "text": "beaten",
+          "position": 13,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.17.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.16",
+          "text": "men",
+          "position": 16,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.18",
+          "text": "Israel",
+          "position": 18,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.17.19",
+          "text": "before",
+          "position": 19,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.21",
+          "text": "servants",
+          "position": 21,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "2-sam.2.17",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.17.23",
+          "text": "David",
+          "position": 23,
+          "verseId": "2-sam.2.17",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.18",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "2-sam.2.18.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.3",
+          "text": "there",
+          "position": 3,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.4",
+          "text": "were",
+          "position": 4,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.5",
+          "text": "three",
+          "position": 5,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.6",
+          "text": "sons",
+          "position": 6,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.8",
+          "text": "Zeruiah",
+          "position": 8,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.9",
+          "text": "there",
+          "position": 9,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.18.10",
+          "text": "Joab",
+          "position": 10,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.12",
+          "text": "Abishai",
+          "position": 12,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.14",
+          "text": "Asahel",
+          "position": 14,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.16",
+          "text": "Asahel",
+          "position": 16,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.18.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.18",
+          "text": "as",
+          "position": 18,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.19",
+          "text": "light",
+          "position": 19,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.21",
+          "text": "foot",
+          "position": 21,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.22",
+          "text": "as",
+          "position": 22,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.23",
+          "text": "a",
+          "position": 23,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.24",
+          "text": "wild",
+          "position": 24,
+          "verseId": "2-sam.2.18",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.18.25",
+          "text": "roe",
+          "position": 25,
+          "verseId": "2-sam.2.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.19",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "2-sam.2.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.19.2",
+          "text": "Asahel",
+          "position": 2,
+          "verseId": "2-sam.2.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.19.3",
+          "text": "pursued",
+          "position": 3,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.4",
+          "text": "after",
+          "position": 4,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.5",
+          "text": "Abner",
+          "position": 5,
+          "verseId": "2-sam.2.19",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.19.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.7",
+          "text": "in",
+          "position": 7,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.8",
+          "text": "going",
+          "position": 8,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.10",
+          "text": "turned",
+          "position": 10,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.11",
+          "text": "not",
+          "position": 11,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.14",
+          "text": "right",
+          "position": 14,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.15",
+          "text": "hand",
+          "position": 15,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.16",
+          "text": "nor",
+          "position": 16,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.17",
+          "text": "to",
+          "position": 17,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.19",
+          "text": "left",
+          "position": 19,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.20",
+          "text": "from",
+          "position": 20,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.21",
+          "text": "following",
+          "position": 21,
+          "verseId": "2-sam.2.19",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.19.22",
+          "text": "Abner",
+          "position": 22,
+          "verseId": "2-sam.2.19",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.20",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "2-sam.2.20.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.3",
+          "text": "looked",
+          "position": 3,
+          "verseId": "2-sam.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.20.4",
+          "text": "behind",
+          "position": 4,
+          "verseId": "2-sam.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.20.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.20.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "2-sam.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.20.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.20.8",
+          "text": "Art",
+          "position": 8,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.9",
+          "text": "thou",
+          "position": 9,
+          "verseId": "2-sam.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.20.10",
+          "text": "Asahel",
+          "position": 10,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "followingPunctuation": "?",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.11",
+          "text": "And",
+          "position": 11,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.12",
+          "text": "he",
+          "position": 12,
+          "verseId": "2-sam.2.20",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.20.13",
+          "text": "answered",
+          "position": 13,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.20.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.20.15",
+          "text": "am",
+          "position": 15,
+          "verseId": "2-sam.2.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.21",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "2-sam.2.21.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.21.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.21.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.21.6",
+          "text": "Turn",
+          "position": 6,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.21.7",
+          "text": "thee",
+          "position": 7,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.8",
+          "text": "aside",
+          "position": 8,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.9",
+          "text": "to",
+          "position": 9,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.10",
+          "text": "thy",
+          "position": 10,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.11",
+          "text": "right",
+          "position": 11,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.12",
+          "text": "hand",
+          "position": 12,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.13",
+          "text": "or",
+          "position": 13,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.15",
+          "text": "thy",
+          "position": 15,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.16",
+          "text": "left",
+          "position": 16,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.21.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.18",
+          "text": "lay",
+          "position": 18,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.19",
+          "text": "thee",
+          "position": 19,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.20",
+          "text": "hold",
+          "position": 20,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.21",
+          "text": "on",
+          "position": 21,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.22",
+          "text": "one",
+          "position": 22,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.25",
+          "text": "young",
+          "position": 25,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.26",
+          "text": "men",
+          "position": 26,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.21.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.28",
+          "text": "take",
+          "position": 28,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.29",
+          "text": "thee",
+          "position": 29,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.30",
+          "text": "his",
+          "position": 30,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.31",
+          "text": "armour",
+          "position": 31,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "2-sam.2.21.32",
+          "text": "But",
+          "position": 32,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.21.33",
+          "text": "Asahel",
+          "position": 33,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.21.34",
+          "text": "would",
+          "position": 34,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.35",
+          "text": "not",
+          "position": 35,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.36",
+          "text": "turn",
+          "position": 36,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.37",
+          "text": "aside",
+          "position": 37,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.38",
+          "text": "from",
+          "position": 38,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.39",
+          "text": "following",
+          "position": 39,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.40",
+          "text": "of",
+          "position": 40,
+          "verseId": "2-sam.2.21",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.21.41",
+          "text": "him",
+          "position": 41,
+          "verseId": "2-sam.2.21",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.22",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "2-sam.2.22.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.4",
+          "text": "again",
+          "position": 4,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.6",
+          "text": "Asahel",
+          "position": 6,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.7",
+          "text": "Turn",
+          "position": 7,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.8",
+          "text": "thee",
+          "position": 8,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.9",
+          "text": "aside",
+          "position": 9,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.10",
+          "text": "from",
+          "position": 10,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.11",
+          "text": "following",
+          "position": 11,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.12",
+          "text": "me",
+          "position": 12,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.22.13",
+          "text": "wherefore",
+          "position": 13,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.14",
+          "text": "should",
+          "position": 14,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.15",
+          "text": "I",
+          "position": 15,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.16",
+          "text": "smite",
+          "position": 16,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.17",
+          "text": "thee",
+          "position": 17,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.18",
+          "text": "to",
+          "position": 18,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.20",
+          "text": "ground",
+          "position": 20,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "2-sam.2.22.21",
+          "text": "how",
+          "position": 21,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.22",
+          "text": "then",
+          "position": 22,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.23",
+          "text": "should",
+          "position": 23,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.24",
+          "text": "I",
+          "position": 24,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.25",
+          "text": "hold",
+          "position": 25,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.26",
+          "text": "up",
+          "position": 26,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.27",
+          "text": "my",
+          "position": 27,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.28",
+          "text": "face",
+          "position": 28,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.29",
+          "text": "to",
+          "position": 29,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.30",
+          "text": "Joab",
+          "position": 30,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.22.31",
+          "text": "thy",
+          "position": 31,
+          "verseId": "2-sam.2.22",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.22.32",
+          "text": "brother",
+          "position": 32,
+          "verseId": "2-sam.2.22",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.23",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 23,
+      "tokens": [
+        {
+          "id": "2-sam.2.23.1",
+          "text": "Howbeit",
+          "position": 1,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.23.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.3",
+          "text": "refused",
+          "position": 3,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.5",
+          "text": "turn",
+          "position": 5,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.6",
+          "text": "aside",
+          "position": 6,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.23.7",
+          "text": "wherefore",
+          "position": 7,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.8",
+          "text": "Abner",
+          "position": 8,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.23.9",
+          "text": "with",
+          "position": 9,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.11",
+          "text": "hinder",
+          "position": 11,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.12",
+          "text": "end",
+          "position": 12,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.15",
+          "text": "spear",
+          "position": 15,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.16",
+          "text": "smote",
+          "position": 16,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.17",
+          "text": "him",
+          "position": 17,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.18",
+          "text": "under",
+          "position": 18,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.20",
+          "text": "fifth",
+          "position": 20,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.21",
+          "text": "rib",
+          "position": 21,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.23.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.24",
+          "text": "spear",
+          "position": 24,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.25",
+          "text": "came",
+          "position": 25,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.26",
+          "text": "out",
+          "position": 26,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.27",
+          "text": "behind",
+          "position": 27,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.28",
+          "text": "him",
+          "position": 28,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "2-sam.2.23.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.30",
+          "text": "he",
+          "position": 30,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.31",
+          "text": "fell",
+          "position": 31,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.32",
+          "text": "down",
+          "position": 32,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.33",
+          "text": "there",
+          "position": 33,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.23.34",
+          "text": "and",
+          "position": 34,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.35",
+          "text": "died",
+          "position": 35,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.36",
+          "text": "in",
+          "position": 36,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.37",
+          "text": "the",
+          "position": 37,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.38",
+          "text": "same",
+          "position": 38,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.39",
+          "text": "place",
+          "position": 39,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "2-sam.2.23.40",
+          "text": "and",
+          "position": 40,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.41",
+          "text": "it",
+          "position": 41,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.42",
+          "text": "came",
+          "position": 42,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.43",
+          "text": "to",
+          "position": 43,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.44",
+          "text": "pass",
+          "position": 44,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.23.45",
+          "text": "that",
+          "position": 45,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.46",
+          "text": "as",
+          "position": 46,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.47",
+          "text": "many",
+          "position": 47,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.48",
+          "text": "as",
+          "position": 48,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.49",
+          "text": "came",
+          "position": 49,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.50",
+          "text": "to",
+          "position": 50,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.51",
+          "text": "the",
+          "position": 51,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.52",
+          "text": "place",
+          "position": 52,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.53",
+          "text": "where",
+          "position": 53,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.54",
+          "text": "Asahel",
+          "position": 54,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.23.55",
+          "text": "fell",
+          "position": 55,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.56",
+          "text": "down",
+          "position": 56,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.57",
+          "text": "and",
+          "position": 57,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.58",
+          "text": "died",
+          "position": 58,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.59",
+          "text": "stood",
+          "position": 59,
+          "verseId": "2-sam.2.23",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.23.60",
+          "text": "still",
+          "position": 60,
+          "verseId": "2-sam.2.23",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.24",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 24,
+      "tokens": [
+        {
+          "id": "2-sam.2.24.1",
+          "text": "Joab",
+          "position": 1,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.24.2",
+          "text": "also",
+          "position": 2,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.3",
+          "text": "and",
+          "position": 3,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.4",
+          "text": "Abishai",
+          "position": 4,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.24.5",
+          "text": "pursued",
+          "position": 5,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.6",
+          "text": "after",
+          "position": 6,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.7",
+          "text": "Abner",
+          "position": 7,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.24.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.10",
+          "text": "sun",
+          "position": 10,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.11",
+          "text": "went",
+          "position": 11,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.12",
+          "text": "down",
+          "position": 12,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.13",
+          "text": "when",
+          "position": 13,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.14",
+          "text": "they",
+          "position": 14,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.15",
+          "text": "were",
+          "position": 15,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.16",
+          "text": "come",
+          "position": 16,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.17",
+          "text": "to",
+          "position": 17,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.19",
+          "text": "hill",
+          "position": 19,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.21",
+          "text": "Ammah",
+          "position": 21,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.24.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.23",
+          "text": "lieth",
+          "position": 23,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.24",
+          "text": "before",
+          "position": 24,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.25",
+          "text": "Giah",
+          "position": 25,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.24.26",
+          "text": "by",
+          "position": 26,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.28",
+          "text": "way",
+          "position": 28,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.29",
+          "text": "of",
+          "position": 29,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.31",
+          "text": "wilderness",
+          "position": 31,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "2-sam.2.24",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.24.33",
+          "text": "Gibeon",
+          "position": 33,
+          "verseId": "2-sam.2.24",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.25",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 25,
+      "tokens": [
+        {
+          "id": "2-sam.2.25.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "2-sam.2.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.25.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.4",
+          "text": "children",
+          "position": 4,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.6",
+          "text": "Benjamin",
+          "position": 6,
+          "verseId": "2-sam.2.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.25.7",
+          "text": "gathered",
+          "position": 7,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.8",
+          "text": "themselves",
+          "position": 8,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.9",
+          "text": "together",
+          "position": 9,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.10",
+          "text": "after",
+          "position": 10,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.11",
+          "text": "Abner",
+          "position": 11,
+          "verseId": "2-sam.2.25",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.25.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.13",
+          "text": "became",
+          "position": 13,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.14",
+          "text": "one",
+          "position": 14,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.15",
+          "text": "troop",
+          "position": 15,
+          "verseId": "2-sam.2.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.25.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.17",
+          "text": "stood",
+          "position": 17,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.18",
+          "text": "on",
+          "position": 18,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.20",
+          "text": "top",
+          "position": 20,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.22",
+          "text": "an",
+          "position": 22,
+          "verseId": "2-sam.2.25",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.25.23",
+          "text": "hill",
+          "position": 23,
+          "verseId": "2-sam.2.25",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.26",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 26,
+      "tokens": [
+        {
+          "id": "2-sam.2.26.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.26.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.26.3",
+          "text": "called",
+          "position": 3,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.5",
+          "text": "Joab",
+          "position": 5,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.26.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.26.8",
+          "text": "Shall",
+          "position": 8,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.26.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.10",
+          "text": "sword",
+          "position": 10,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.11",
+          "text": "devour",
+          "position": 11,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.12",
+          "text": "for",
+          "position": 12,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.13",
+          "text": "ever",
+          "position": 13,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "2-sam.2.26.14",
+          "text": "knowest",
+          "position": 14,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.15",
+          "text": "thou",
+          "position": 15,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.16",
+          "text": "not",
+          "position": 16,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.17",
+          "text": "that",
+          "position": 17,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.18",
+          "text": "it",
+          "position": 18,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.19",
+          "text": "will",
+          "position": 19,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.20",
+          "text": "be",
+          "position": 20,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.21",
+          "text": "bitterness",
+          "position": 21,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.22",
+          "text": "in",
+          "position": 22,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.24",
+          "text": "latter",
+          "position": 24,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.25",
+          "text": "end",
+          "position": 25,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "2-sam.2.26.26",
+          "text": "how",
+          "position": 26,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.27",
+          "text": "long",
+          "position": 27,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.28",
+          "text": "shall",
+          "position": 28,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.29",
+          "text": "it",
+          "position": 29,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.30",
+          "text": "be",
+          "position": 30,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.31",
+          "text": "then",
+          "position": 31,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.26.32",
+          "text": "ere",
+          "position": 32,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.33",
+          "text": "thou",
+          "position": 33,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.34",
+          "text": "bid",
+          "position": 34,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.36",
+          "text": "people",
+          "position": 36,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.37",
+          "text": "return",
+          "position": 37,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.38",
+          "text": "from",
+          "position": 38,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.39",
+          "text": "following",
+          "position": 39,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.40",
+          "text": "their",
+          "position": 40,
+          "verseId": "2-sam.2.26",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.26.41",
+          "text": "brethren",
+          "position": 41,
+          "verseId": "2-sam.2.26",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.27",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 27,
+      "tokens": [
+        {
+          "id": "2-sam.2.27.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.27.2",
+          "text": "Joab",
+          "position": 2,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.27.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.27.4",
+          "text": "As",
+          "position": 4,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.27.5",
+          "text": "God",
+          "position": 5,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "2-sam.2.27.6",
+          "text": "liveth",
+          "position": 6,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.27.7",
+          "text": "unless",
+          "position": 7,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.8",
+          "text": "thou",
+          "position": 8,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.9",
+          "text": "hadst",
+          "position": 9,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.10",
+          "text": "spoken",
+          "position": 10,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.27.11",
+          "text": "surely",
+          "position": 11,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.12",
+          "text": "then",
+          "position": 12,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.15",
+          "text": "morning",
+          "position": 15,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.17",
+          "text": "people",
+          "position": 17,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.18",
+          "text": "had",
+          "position": 18,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.19",
+          "text": "gone",
+          "position": 19,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.20",
+          "text": "up",
+          "position": 20,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.21",
+          "text": "every",
+          "position": 21,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.22",
+          "text": "one",
+          "position": 22,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.23",
+          "text": "from",
+          "position": 23,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.24",
+          "text": "following",
+          "position": 24,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.25",
+          "text": "his",
+          "position": 25,
+          "verseId": "2-sam.2.27",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.27.26",
+          "text": "brother",
+          "position": 26,
+          "verseId": "2-sam.2.27",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.28",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 28,
+      "tokens": [
+        {
+          "id": "2-sam.2.28.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.28.2",
+          "text": "Joab",
+          "position": 2,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.28.3",
+          "text": "blew",
+          "position": 3,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.5",
+          "text": "trumpet",
+          "position": 5,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.28.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.9",
+          "text": "people",
+          "position": 9,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.10",
+          "text": "stood",
+          "position": 10,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.11",
+          "text": "still",
+          "position": 11,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.28.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.13",
+          "text": "pursued",
+          "position": 13,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.14",
+          "text": "after",
+          "position": 14,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.15",
+          "text": "Israel",
+          "position": 15,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.28.16",
+          "text": "no",
+          "position": 16,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.17",
+          "text": "more",
+          "position": 17,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.28.18",
+          "text": "neither",
+          "position": 18,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.19",
+          "text": "fought",
+          "position": 19,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.20",
+          "text": "they",
+          "position": 20,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.21",
+          "text": "any",
+          "position": 21,
+          "verseId": "2-sam.2.28",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.28.22",
+          "text": "more",
+          "position": 22,
+          "verseId": "2-sam.2.28",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.29",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 29,
+      "tokens": [
+        {
+          "id": "2-sam.2.29.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.29.2",
+          "text": "Abner",
+          "position": 2,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.29.3",
+          "text": "and",
+          "position": 3,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.4",
+          "text": "his",
+          "position": 4,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.5",
+          "text": "men",
+          "position": 5,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.6",
+          "text": "walked",
+          "position": 6,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.9",
+          "text": "night",
+          "position": 9,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.10",
+          "text": "through",
+          "position": 10,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.12",
+          "text": "plain",
+          "position": 12,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.29.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.14",
+          "text": "passed",
+          "position": 14,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.15",
+          "text": "over",
+          "position": 15,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.16",
+          "text": "Jordan",
+          "position": 16,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.29.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.18",
+          "text": "went",
+          "position": 18,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.19",
+          "text": "through",
+          "position": 19,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.20",
+          "text": "all",
+          "position": 20,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.21",
+          "text": "Bithron",
+          "position": 21,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.29.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.23",
+          "text": "they",
+          "position": 23,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.24",
+          "text": "came",
+          "position": 24,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.25",
+          "text": "to",
+          "position": 25,
+          "verseId": "2-sam.2.29",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.29.26",
+          "text": "Mahanaim",
+          "position": 26,
+          "verseId": "2-sam.2.29",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.30",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 30,
+      "tokens": [
+        {
+          "id": "2-sam.2.30.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.30.2",
+          "text": "Joab",
+          "position": 2,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.30.3",
+          "text": "returned",
+          "position": 3,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.4",
+          "text": "from",
+          "position": 4,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.5",
+          "text": "following",
+          "position": 5,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.6",
+          "text": "Abner",
+          "position": 6,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.30.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.8",
+          "text": "when",
+          "position": 8,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.10",
+          "text": "had",
+          "position": 10,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.11",
+          "text": "gathered",
+          "position": 11,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.12",
+          "text": "all",
+          "position": 12,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.14",
+          "text": "people",
+          "position": 14,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.15",
+          "text": "together",
+          "position": 15,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.30.16",
+          "text": "there",
+          "position": 16,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.17",
+          "text": "lacked",
+          "position": 17,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.19",
+          "text": "David’s",
+          "position": 19,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.30.20",
+          "text": "servants",
+          "position": 20,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.21",
+          "text": "nineteen",
+          "position": 21,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.22",
+          "text": "men",
+          "position": 22,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "2-sam.2.30",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.30.24",
+          "text": "Asahel",
+          "position": 24,
+          "verseId": "2-sam.2.30",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.31",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 31,
+      "tokens": [
+        {
+          "id": "2-sam.2.31.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.31.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.3",
+          "text": "servants",
+          "position": 3,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.5",
+          "text": "David",
+          "position": 5,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.31.6",
+          "text": "had",
+          "position": 6,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.7",
+          "text": "smitten",
+          "position": 7,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.9",
+          "text": "Benjamin",
+          "position": 9,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.31.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.12",
+          "text": "Abner’s",
+          "position": 12,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.31.13",
+          "text": "men",
+          "position": 13,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.31.14",
+          "text": "so",
+          "position": 14,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.15",
+          "text": "that",
+          "position": 15,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.16",
+          "text": "three",
+          "position": 16,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.17",
+          "text": "hundred",
+          "position": 17,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.19",
+          "text": "threescore",
+          "position": 19,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.20",
+          "text": "men",
+          "position": 20,
+          "verseId": "2-sam.2.31",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.31.21",
+          "text": "died",
+          "position": 21,
+          "verseId": "2-sam.2.31",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "2-sam.2.32",
+      "book": "2-sam",
+      "chapter": 2,
+      "verse": 32,
+      "tokens": [
+        {
+          "id": "2-sam.2.32.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.3",
+          "text": "they",
+          "position": 3,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.4",
+          "text": "took",
+          "position": 4,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.5",
+          "text": "up",
+          "position": 5,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.6",
+          "text": "Asahel",
+          "position": 6,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.8",
+          "text": "buried",
+          "position": 8,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.9",
+          "text": "him",
+          "position": 9,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.10",
+          "text": "in",
+          "position": 10,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.12",
+          "text": "sepulchre",
+          "position": 12,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.15",
+          "text": "father",
+          "position": 15,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.32.16",
+          "text": "which",
+          "position": 16,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.18",
+          "text": "in",
+          "position": 18,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.19",
+          "text": "Beth-lehem",
+          "position": 19,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.20",
+          "text": "And",
+          "position": 20,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.21",
+          "text": "Joab",
+          "position": 21,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.23",
+          "text": "his",
+          "position": 23,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.24",
+          "text": "men",
+          "position": 24,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.25",
+          "text": "went",
+          "position": 25,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.26",
+          "text": "all",
+          "position": 26,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.27",
+          "text": "night",
+          "position": 27,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "2-sam.2.32.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.29",
+          "text": "they",
+          "position": 29,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.30",
+          "text": "came",
+          "position": 30,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.31",
+          "text": "to",
+          "position": 31,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.32",
+          "text": "Hebron",
+          "position": 32,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "2-sam.2.32.33",
+          "text": "at",
+          "position": 33,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.34",
+          "text": "break",
+          "position": 34,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "2-sam.2.32",
+          "presentation": {}
+        },
+        {
+          "id": "2-sam.2.32.36",
+          "text": "day",
+          "position": 36,
+          "verseId": "2-sam.2.32",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

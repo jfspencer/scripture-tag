@@ -1,0 +1,5251 @@
+{
+  "id": "job.1",
+  "book": "job",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Job, a just and perfect man, is blessed with great riches—Satan obtains permission from the Lord to tempt and try Job—Job’s property and children are destroyed, and yet he praises and blesses the Lord.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "job.1.1",
+      "book": "job",
+      "chapter": 1,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "job.1.1.1",
+          "text": "There",
+          "position": 1,
+          "verseId": "job.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.1.2",
+          "text": "was",
+          "position": 2,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.3",
+          "text": "a",
+          "position": 3,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.4",
+          "text": "man",
+          "position": 4,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.5",
+          "text": "in",
+          "position": 5,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.7",
+          "text": "land",
+          "position": 7,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.9",
+          "text": "Uz",
+          "position": 9,
+          "verseId": "job.1.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.1.10",
+          "text": "whose",
+          "position": 10,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.11",
+          "text": "name",
+          "position": 11,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.12",
+          "text": "was",
+          "position": 12,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.13",
+          "text": "Job",
+          "position": 13,
+          "verseId": "job.1.1",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.1.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.15",
+          "text": "that",
+          "position": 15,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.16",
+          "text": "man",
+          "position": 16,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.18",
+          "text": "perfect",
+          "position": 18,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.20",
+          "text": "upright",
+          "position": 20,
+          "verseId": "job.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.1.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.22",
+          "text": "one",
+          "position": 22,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.23",
+          "text": "that",
+          "position": 23,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.24",
+          "text": "feared",
+          "position": 24,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.25",
+          "text": "God",
+          "position": 25,
+          "verseId": "job.1.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.1.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.27",
+          "text": "eschewed",
+          "position": 27,
+          "verseId": "job.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.1.28",
+          "text": "evil",
+          "position": 28,
+          "verseId": "job.1.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.2",
+      "book": "job",
+      "chapter": 1,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "job.1.2.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.2.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.3",
+          "text": "were",
+          "position": 3,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.4",
+          "text": "born",
+          "position": 4,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.6",
+          "text": "him",
+          "position": 6,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.7",
+          "text": "seven",
+          "position": 7,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.8",
+          "text": "sons",
+          "position": 8,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.10",
+          "text": "three",
+          "position": 10,
+          "verseId": "job.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.2.11",
+          "text": "daughters",
+          "position": 11,
+          "verseId": "job.1.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.3",
+      "book": "job",
+      "chapter": 1,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "job.1.3.1",
+          "text": "His",
+          "position": 1,
+          "verseId": "job.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.3.2",
+          "text": "substance",
+          "position": 2,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.3",
+          "text": "also",
+          "position": 3,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.5",
+          "text": "seven",
+          "position": 5,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.6",
+          "text": "thousand",
+          "position": 6,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.7",
+          "text": "sheep",
+          "position": 7,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.3.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.9",
+          "text": "three",
+          "position": 9,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.10",
+          "text": "thousand",
+          "position": 10,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.11",
+          "text": "camels",
+          "position": 11,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.3.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.13",
+          "text": "five",
+          "position": 13,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.14",
+          "text": "hundred",
+          "position": 14,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.15",
+          "text": "yoke",
+          "position": 15,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.17",
+          "text": "oxen",
+          "position": 17,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.3.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.19",
+          "text": "five",
+          "position": 19,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.20",
+          "text": "hundred",
+          "position": 20,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.21",
+          "text": "she",
+          "position": 21,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.22",
+          "text": "asses",
+          "position": 22,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.3.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.24",
+          "text": "a",
+          "position": 24,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.25",
+          "text": "very",
+          "position": 25,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.26",
+          "text": "great",
+          "position": 26,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.27",
+          "text": "household",
+          "position": 27,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.3.28",
+          "text": "so",
+          "position": 28,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.29",
+          "text": "that",
+          "position": 29,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.30",
+          "text": "this",
+          "position": 30,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.31",
+          "text": "man",
+          "position": 31,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.32",
+          "text": "was",
+          "position": 32,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.34",
+          "text": "greatest",
+          "position": 34,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.36",
+          "text": "all",
+          "position": 36,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.37",
+          "text": "the",
+          "position": 37,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.38",
+          "text": "men",
+          "position": 38,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.39",
+          "text": "of",
+          "position": 39,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.40",
+          "text": "the",
+          "position": 40,
+          "verseId": "job.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.3.41",
+          "text": "east",
+          "position": 41,
+          "verseId": "job.1.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.4",
+      "book": "job",
+      "chapter": 1,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "job.1.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.4.2",
+          "text": "his",
+          "position": 2,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.3",
+          "text": "sons",
+          "position": 3,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.4",
+          "text": "went",
+          "position": 4,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.6",
+          "text": "feasted",
+          "position": 6,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.7",
+          "text": "in",
+          "position": 7,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.8",
+          "text": "their",
+          "position": 8,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.9",
+          "text": "houses",
+          "position": 9,
+          "verseId": "job.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.4.10",
+          "text": "every",
+          "position": 10,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.11",
+          "text": "one",
+          "position": 11,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.13",
+          "text": "day",
+          "position": 13,
+          "verseId": "job.1.4",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.4.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.15",
+          "text": "sent",
+          "position": 15,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.17",
+          "text": "called",
+          "position": 17,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.18",
+          "text": "for",
+          "position": 18,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.19",
+          "text": "their",
+          "position": 19,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.20",
+          "text": "three",
+          "position": 20,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.21",
+          "text": "sisters",
+          "position": 21,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.22",
+          "text": "to",
+          "position": 22,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.23",
+          "text": "eat",
+          "position": 23,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.25",
+          "text": "to",
+          "position": 25,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.26",
+          "text": "drink",
+          "position": 26,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.27",
+          "text": "with",
+          "position": 27,
+          "verseId": "job.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.4.28",
+          "text": "them",
+          "position": 28,
+          "verseId": "job.1.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.5",
+      "book": "job",
+      "chapter": 1,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "job.1.5.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.2",
+          "text": "it",
+          "position": 2,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.4",
+          "text": "so",
+          "position": 4,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.5",
+          "text": "when",
+          "position": 5,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.7",
+          "text": "days",
+          "position": 7,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.9",
+          "text": "their",
+          "position": 9,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.10",
+          "text": "feasting",
+          "position": 10,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.11",
+          "text": "were",
+          "position": 11,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.12",
+          "text": "gone",
+          "position": 12,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.13",
+          "text": "about",
+          "position": 13,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.14",
+          "text": "that",
+          "position": 14,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.15",
+          "text": "Job",
+          "position": 15,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.16",
+          "text": "sent",
+          "position": 16,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.18",
+          "text": "sanctified",
+          "position": 18,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.19",
+          "text": "them",
+          "position": 19,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.21",
+          "text": "rose",
+          "position": 21,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.22",
+          "text": "up",
+          "position": 22,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.23",
+          "text": "early",
+          "position": 23,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.24",
+          "text": "in",
+          "position": 24,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.26",
+          "text": "morning",
+          "position": 26,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.28",
+          "text": "offered",
+          "position": 28,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.29",
+          "text": "burnt",
+          "position": 29,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.30",
+          "text": "offerings",
+          "position": 30,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.31",
+          "text": "according",
+          "position": 31,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.32",
+          "text": "to",
+          "position": 32,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.34",
+          "text": "number",
+          "position": 34,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.36",
+          "text": "them",
+          "position": 36,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.37",
+          "text": "all",
+          "position": 37,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "job.1.5.38",
+          "text": "for",
+          "position": 38,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.39",
+          "text": "Job",
+          "position": 39,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.40",
+          "text": "said",
+          "position": 40,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.41",
+          "text": "It",
+          "position": 41,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.42",
+          "text": "may",
+          "position": 42,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.43",
+          "text": "be",
+          "position": 43,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.44",
+          "text": "that",
+          "position": 44,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.45",
+          "text": "my",
+          "position": 45,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.46",
+          "text": "sons",
+          "position": 46,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.47",
+          "text": "have",
+          "position": 47,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.48",
+          "text": "sinned",
+          "position": 48,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.5.49",
+          "text": "and",
+          "position": 49,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.50",
+          "text": "cursed",
+          "position": 50,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.51",
+          "text": "God",
+          "position": 51,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.5.52",
+          "text": "in",
+          "position": 52,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.53",
+          "text": "their",
+          "position": 53,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.54",
+          "text": "hearts",
+          "position": 54,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "job.1.5.55",
+          "text": "Thus",
+          "position": 55,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.56",
+          "text": "did",
+          "position": 56,
+          "verseId": "job.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.5.57",
+          "text": "Job",
+          "position": 57,
+          "verseId": "job.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.5.58",
+          "text": "continually",
+          "position": 58,
+          "verseId": "job.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.6",
+      "book": "job",
+      "chapter": 1,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "job.1.6.2",
+          "text": "Now",
+          "position": 2,
+          "verseId": "job.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.6.3",
+          "text": "there",
+          "position": 3,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.5",
+          "text": "a",
+          "position": 5,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.6",
+          "text": "day",
+          "position": 6,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.7",
+          "text": "when",
+          "position": 7,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.9",
+          "text": "sons",
+          "position": 9,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.11",
+          "text": "God",
+          "position": 11,
+          "verseId": "job.1.6",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.6.12",
+          "text": "came",
+          "position": 12,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.13",
+          "text": "to",
+          "position": 13,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.14",
+          "text": "present",
+          "position": 14,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.15",
+          "text": "themselves",
+          "position": 15,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.16",
+          "text": "before",
+          "position": 16,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.18",
+          "text": "Lord",
+          "position": 18,
+          "verseId": "job.1.6",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.6.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.20",
+          "text": "Satan",
+          "position": 20,
+          "verseId": "job.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.6.21",
+          "text": "came",
+          "position": 21,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.22",
+          "text": "also",
+          "position": 22,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.23",
+          "text": "among",
+          "position": 23,
+          "verseId": "job.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.6.24",
+          "text": "them",
+          "position": 24,
+          "verseId": "job.1.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.7",
+      "book": "job",
+      "chapter": 1,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "job.1.7.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.7.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.6",
+          "text": "Satan",
+          "position": 6,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.7",
+          "text": "Whence",
+          "position": 7,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.8",
+          "text": "comest",
+          "position": 8,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.9",
+          "text": "thou",
+          "position": 9,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "job.1.7.10",
+          "text": "Then",
+          "position": 10,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.11",
+          "text": "Satan",
+          "position": 11,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.12",
+          "text": "answered",
+          "position": 12,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.14",
+          "text": "Lord",
+          "position": 14,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.7.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.16",
+          "text": "said",
+          "position": 16,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.7.17",
+          "text": "From",
+          "position": 17,
+          "verseId": "job.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.7.18",
+          "text": "going",
+          "position": 18,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.19",
+          "text": "to",
+          "position": 19,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.21",
+          "text": "fro",
+          "position": 21,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.22",
+          "text": "in",
+          "position": 22,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.24",
+          "text": "earth",
+          "position": 24,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.7.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.26",
+          "text": "from",
+          "position": 26,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.27",
+          "text": "walking",
+          "position": 27,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.28",
+          "text": "up",
+          "position": 28,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.30",
+          "text": "down",
+          "position": 30,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.31",
+          "text": "in",
+          "position": 31,
+          "verseId": "job.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.7.32",
+          "text": "it",
+          "position": 32,
+          "verseId": "job.1.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.8",
+      "book": "job",
+      "chapter": 1,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "job.1.8.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.8.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "job.1.8",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.8.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.6",
+          "text": "Satan",
+          "position": 6,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.8.7",
+          "text": "Hast",
+          "position": 7,
+          "verseId": "job.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.8.8",
+          "text": "thou",
+          "position": 8,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.9",
+          "text": "considered",
+          "position": 9,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.10",
+          "text": "my",
+          "position": 10,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.11",
+          "text": "servant",
+          "position": 11,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.12",
+          "text": "Job",
+          "position": 12,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.8.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.14",
+          "text": "there",
+          "position": 14,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.15",
+          "text": "is",
+          "position": 15,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.16",
+          "text": "none",
+          "position": 16,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.17",
+          "text": "like",
+          "position": 17,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.18",
+          "text": "him",
+          "position": 18,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.19",
+          "text": "in",
+          "position": 19,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.21",
+          "text": "earth",
+          "position": 21,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.8.22",
+          "text": "a",
+          "position": 22,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.23",
+          "text": "perfect",
+          "position": 23,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.25",
+          "text": "an",
+          "position": 25,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.26",
+          "text": "upright",
+          "position": 26,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.27",
+          "text": "man",
+          "position": 27,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.8.28",
+          "text": "one",
+          "position": 28,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.29",
+          "text": "that",
+          "position": 29,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.30",
+          "text": "feareth",
+          "position": 30,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.31",
+          "text": "God",
+          "position": 31,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.8.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.33",
+          "text": "escheweth",
+          "position": 33,
+          "verseId": "job.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.8.34",
+          "text": "evil",
+          "position": 34,
+          "verseId": "job.1.8",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.9",
+      "book": "job",
+      "chapter": 1,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "job.1.9.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "job.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.9.2",
+          "text": "Satan",
+          "position": 2,
+          "verseId": "job.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.9.3",
+          "text": "answered",
+          "position": 3,
+          "verseId": "job.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.9.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "job.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.9.5",
+          "text": "Lord",
+          "position": 5,
+          "verseId": "job.1.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.9.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "job.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.9.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "job.1.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.9.8",
+          "text": "Doth",
+          "position": 8,
+          "verseId": "job.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.9.9",
+          "text": "Job",
+          "position": 9,
+          "verseId": "job.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.9.10",
+          "text": "fear",
+          "position": 10,
+          "verseId": "job.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.9.11",
+          "text": "God",
+          "position": 11,
+          "verseId": "job.1.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.9.12",
+          "text": "for",
+          "position": 12,
+          "verseId": "job.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.9.13",
+          "text": "nought",
+          "position": 13,
+          "verseId": "job.1.9",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.10",
+      "book": "job",
+      "chapter": 1,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "job.1.10.1",
+          "text": "Hast",
+          "position": 1,
+          "verseId": "job.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.10.2",
+          "text": "not",
+          "position": 2,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.3",
+          "text": "thou",
+          "position": 3,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.4",
+          "text": "made",
+          "position": 4,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.5",
+          "text": "an",
+          "position": 5,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.6",
+          "text": "hedge",
+          "position": 6,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.7",
+          "text": "about",
+          "position": 7,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.8",
+          "text": "him",
+          "position": 8,
+          "verseId": "job.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.10.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.10",
+          "text": "about",
+          "position": 10,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.11",
+          "text": "his",
+          "position": 11,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.12",
+          "text": "house",
+          "position": 12,
+          "verseId": "job.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.10.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.14",
+          "text": "about",
+          "position": 14,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.16",
+          "text": "that",
+          "position": 16,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.17",
+          "text": "he",
+          "position": 17,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.18",
+          "text": "hath",
+          "position": 18,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.19",
+          "text": "on",
+          "position": 19,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.20",
+          "text": "every",
+          "position": 20,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.21",
+          "text": "side",
+          "position": 21,
+          "verseId": "job.1.10",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "job.1.10.22",
+          "text": "thou",
+          "position": 22,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.23",
+          "text": "hast",
+          "position": 23,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.24",
+          "text": "blessed",
+          "position": 24,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.26",
+          "text": "work",
+          "position": 26,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.28",
+          "text": "his",
+          "position": 28,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.29",
+          "text": "hands",
+          "position": 29,
+          "verseId": "job.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.10.30",
+          "text": "and",
+          "position": 30,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.31",
+          "text": "his",
+          "position": 31,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.32",
+          "text": "substance",
+          "position": 32,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.33",
+          "text": "is",
+          "position": 33,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.34",
+          "text": "increased",
+          "position": 34,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.35",
+          "text": "in",
+          "position": 35,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "job.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.10.37",
+          "text": "land",
+          "position": 37,
+          "verseId": "job.1.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.11",
+      "book": "job",
+      "chapter": 1,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "job.1.11.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "job.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.11.2",
+          "text": "put",
+          "position": 2,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.3",
+          "text": "forth",
+          "position": 3,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.4",
+          "text": "thine",
+          "position": 4,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.5",
+          "text": "hand",
+          "position": 5,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.6",
+          "text": "now",
+          "position": 6,
+          "verseId": "job.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.11.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.8",
+          "text": "touch",
+          "position": 8,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.9",
+          "text": "all",
+          "position": 9,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.11",
+          "text": "he",
+          "position": 11,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.12",
+          "text": "hath",
+          "position": 12,
+          "verseId": "job.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.11.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.14",
+          "text": "he",
+          "position": 14,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.15",
+          "text": "will",
+          "position": 15,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.16",
+          "text": "curse",
+          "position": 16,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.17",
+          "text": "thee",
+          "position": 17,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.18",
+          "text": "to",
+          "position": 18,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.19",
+          "text": "thy",
+          "position": 19,
+          "verseId": "job.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.11.20",
+          "text": "face",
+          "position": 20,
+          "verseId": "job.1.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.12",
+      "book": "job",
+      "chapter": 1,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "job.1.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.12.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "job.1.12",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.12.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.6",
+          "text": "Satan",
+          "position": 6,
+          "verseId": "job.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.12.7",
+          "text": "Behold",
+          "position": 7,
+          "verseId": "job.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.12.8",
+          "text": "all",
+          "position": 8,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.9",
+          "text": "that",
+          "position": 9,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.11",
+          "text": "hath",
+          "position": 11,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.12",
+          "text": "is",
+          "position": 12,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.14",
+          "text": "thy",
+          "position": 14,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.15",
+          "text": "power",
+          "position": 15,
+          "verseId": "job.1.12",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.12.16",
+          "text": "only",
+          "position": 16,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.17",
+          "text": "upon",
+          "position": 17,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.18",
+          "text": "himself",
+          "position": 18,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.19",
+          "text": "put",
+          "position": 19,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.20",
+          "text": "not",
+          "position": 20,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.21",
+          "text": "forth",
+          "position": 21,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.22",
+          "text": "thine",
+          "position": 22,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.23",
+          "text": "hand",
+          "position": 23,
+          "verseId": "job.1.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "job.1.12.24",
+          "text": "So",
+          "position": 24,
+          "verseId": "job.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.12.25",
+          "text": "Satan",
+          "position": 25,
+          "verseId": "job.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.12.26",
+          "text": "went",
+          "position": 26,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.27",
+          "text": "forth",
+          "position": 27,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.28",
+          "text": "from",
+          "position": 28,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.30",
+          "text": "presence",
+          "position": 30,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "job.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.12.33",
+          "text": "Lord",
+          "position": 33,
+          "verseId": "job.1.12",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.13",
+      "book": "job",
+      "chapter": 1,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "job.1.13.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "job.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.13.3",
+          "text": "there",
+          "position": 3,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.5",
+          "text": "a",
+          "position": 5,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.6",
+          "text": "day",
+          "position": 6,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.7",
+          "text": "when",
+          "position": 7,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.8",
+          "text": "his",
+          "position": 8,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.9",
+          "text": "sons",
+          "position": 9,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.11",
+          "text": "his",
+          "position": 11,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.12",
+          "text": "daughters",
+          "position": 12,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.13",
+          "text": "were",
+          "position": 13,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.14",
+          "text": "eating",
+          "position": 14,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.16",
+          "text": "drinking",
+          "position": 16,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.17",
+          "text": "wine",
+          "position": 17,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.18",
+          "text": "in",
+          "position": 18,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.19",
+          "text": "their",
+          "position": 19,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.20",
+          "text": "eldest",
+          "position": 20,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.21",
+          "text": "brother’s",
+          "position": 21,
+          "verseId": "job.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.13.22",
+          "text": "house",
+          "position": 22,
+          "verseId": "job.1.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.14",
+      "book": "job",
+      "chapter": 1,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "job.1.14.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.14.2",
+          "text": "there",
+          "position": 2,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.5",
+          "text": "messenger",
+          "position": 5,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.7",
+          "text": "Job",
+          "position": 7,
+          "verseId": "job.1.14",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.14.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.9",
+          "text": "said",
+          "position": 9,
+          "verseId": "job.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.14.10",
+          "text": "The",
+          "position": 10,
+          "verseId": "job.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.14.11",
+          "text": "oxen",
+          "position": 11,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.12",
+          "text": "were",
+          "position": 12,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.13",
+          "text": "plowing",
+          "position": 13,
+          "verseId": "job.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.14.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.16",
+          "text": "asses",
+          "position": 16,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.17",
+          "text": "feeding",
+          "position": 17,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.18",
+          "text": "beside",
+          "position": 18,
+          "verseId": "job.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.14.19",
+          "text": "them",
+          "position": 19,
+          "verseId": "job.1.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.15",
+      "book": "job",
+      "chapter": 1,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "job.1.15.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.15.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.3",
+          "text": "Sabeans",
+          "position": 3,
+          "verseId": "job.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.15.4",
+          "text": "fell",
+          "position": 4,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.5",
+          "text": "upon",
+          "position": 5,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.6",
+          "text": "them",
+          "position": 6,
+          "verseId": "job.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.15.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.8",
+          "text": "took",
+          "position": 8,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.9",
+          "text": "them",
+          "position": 9,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.10",
+          "text": "away",
+          "position": 10,
+          "verseId": "job.1.15",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.15.11",
+          "text": "yea",
+          "position": 11,
+          "verseId": "job.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.15.12",
+          "text": "they",
+          "position": 12,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.13",
+          "text": "have",
+          "position": 13,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.14",
+          "text": "slain",
+          "position": 14,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.16",
+          "text": "servants",
+          "position": 16,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.17",
+          "text": "with",
+          "position": 17,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.19",
+          "text": "edge",
+          "position": 19,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.22",
+          "text": "sword",
+          "position": 22,
+          "verseId": "job.1.15",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.15.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.24",
+          "text": "I",
+          "position": 24,
+          "verseId": "job.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.15.25",
+          "text": "only",
+          "position": 25,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.26",
+          "text": "am",
+          "position": 26,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.27",
+          "text": "escaped",
+          "position": 27,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.28",
+          "text": "alone",
+          "position": 28,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.29",
+          "text": "to",
+          "position": 29,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.30",
+          "text": "tell",
+          "position": 30,
+          "verseId": "job.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.15.31",
+          "text": "thee",
+          "position": 31,
+          "verseId": "job.1.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.16",
+      "book": "job",
+      "chapter": 1,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "job.1.16.1",
+          "text": "While",
+          "position": 1,
+          "verseId": "job.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.16.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.4",
+          "text": "yet",
+          "position": 4,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.5",
+          "text": "speaking",
+          "position": 5,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.6",
+          "text": "there",
+          "position": 6,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.7",
+          "text": "came",
+          "position": 7,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.8",
+          "text": "also",
+          "position": 8,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.9",
+          "text": "another",
+          "position": 9,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.11",
+          "text": "said",
+          "position": 11,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.12",
+          "text": "The",
+          "position": 12,
+          "verseId": "job.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.16.13",
+          "text": "fire",
+          "position": 13,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.15",
+          "text": "God",
+          "position": 15,
+          "verseId": "job.1.16",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.16.16",
+          "text": "is",
+          "position": 16,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.17",
+          "text": "fallen",
+          "position": 17,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.18",
+          "text": "from",
+          "position": 18,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.19",
+          "text": "heaven",
+          "position": 19,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.21",
+          "text": "hath",
+          "position": 21,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.22",
+          "text": "burned",
+          "position": 22,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.23",
+          "text": "up",
+          "position": 23,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.25",
+          "text": "sheep",
+          "position": 25,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.28",
+          "text": "servants",
+          "position": 28,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.16.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.30",
+          "text": "consumed",
+          "position": 30,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.31",
+          "text": "them",
+          "position": 31,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.16.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.33",
+          "text": "I",
+          "position": 33,
+          "verseId": "job.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.16.34",
+          "text": "only",
+          "position": 34,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.35",
+          "text": "am",
+          "position": 35,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.36",
+          "text": "escaped",
+          "position": 36,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.37",
+          "text": "alone",
+          "position": 37,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.38",
+          "text": "to",
+          "position": 38,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.39",
+          "text": "tell",
+          "position": 39,
+          "verseId": "job.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.16.40",
+          "text": "thee",
+          "position": 40,
+          "verseId": "job.1.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.17",
+      "book": "job",
+      "chapter": 1,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "job.1.17.1",
+          "text": "While",
+          "position": 1,
+          "verseId": "job.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.17.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.4",
+          "text": "yet",
+          "position": 4,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.5",
+          "text": "speaking",
+          "position": 5,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.6",
+          "text": "there",
+          "position": 6,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.7",
+          "text": "came",
+          "position": 7,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.8",
+          "text": "also",
+          "position": 8,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.9",
+          "text": "another",
+          "position": 9,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.11",
+          "text": "said",
+          "position": 11,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.12",
+          "text": "The",
+          "position": 12,
+          "verseId": "job.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.17.13",
+          "text": "Chaldeans",
+          "position": 13,
+          "verseId": "job.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.17.14",
+          "text": "made",
+          "position": 14,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.15",
+          "text": "out",
+          "position": 15,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.16",
+          "text": "three",
+          "position": 16,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.17",
+          "text": "bands",
+          "position": 17,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.19",
+          "text": "fell",
+          "position": 19,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.22",
+          "text": "camels",
+          "position": 22,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.24",
+          "text": "have",
+          "position": 24,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.25",
+          "text": "carried",
+          "position": 25,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.26",
+          "text": "them",
+          "position": 26,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.27",
+          "text": "away",
+          "position": 27,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.28",
+          "text": "yea",
+          "position": 28,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.17.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.30",
+          "text": "slain",
+          "position": 30,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.32",
+          "text": "servants",
+          "position": 32,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.33",
+          "text": "with",
+          "position": 33,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.35",
+          "text": "edge",
+          "position": 35,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.36",
+          "text": "of",
+          "position": 36,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.37",
+          "text": "the",
+          "position": 37,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.38",
+          "text": "sword",
+          "position": 38,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.17.39",
+          "text": "and",
+          "position": 39,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.40",
+          "text": "I",
+          "position": 40,
+          "verseId": "job.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.17.41",
+          "text": "only",
+          "position": 41,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.42",
+          "text": "am",
+          "position": 42,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.43",
+          "text": "escaped",
+          "position": 43,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.44",
+          "text": "alone",
+          "position": 44,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.45",
+          "text": "to",
+          "position": 45,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.46",
+          "text": "tell",
+          "position": 46,
+          "verseId": "job.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.17.47",
+          "text": "thee",
+          "position": 47,
+          "verseId": "job.1.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.18",
+      "book": "job",
+      "chapter": 1,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "job.1.18.1",
+          "text": "While",
+          "position": 1,
+          "verseId": "job.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.18.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.4",
+          "text": "yet",
+          "position": 4,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.5",
+          "text": "speaking",
+          "position": 5,
+          "verseId": "job.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.18.6",
+          "text": "there",
+          "position": 6,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.7",
+          "text": "came",
+          "position": 7,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.8",
+          "text": "also",
+          "position": 8,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.9",
+          "text": "another",
+          "position": 9,
+          "verseId": "job.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.18.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.11",
+          "text": "said",
+          "position": 11,
+          "verseId": "job.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.18.12",
+          "text": "Thy",
+          "position": 12,
+          "verseId": "job.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.18.13",
+          "text": "sons",
+          "position": 13,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.15",
+          "text": "thy",
+          "position": 15,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.16",
+          "text": "daughters",
+          "position": 16,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.17",
+          "text": "were",
+          "position": 17,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.18",
+          "text": "eating",
+          "position": 18,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.20",
+          "text": "drinking",
+          "position": 20,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.21",
+          "text": "wine",
+          "position": 21,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.22",
+          "text": "in",
+          "position": 22,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.23",
+          "text": "their",
+          "position": 23,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.24",
+          "text": "eldest",
+          "position": 24,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.25",
+          "text": "brother’s",
+          "position": 25,
+          "verseId": "job.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.18.26",
+          "text": "house",
+          "position": 26,
+          "verseId": "job.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.19",
+      "book": "job",
+      "chapter": 1,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "job.1.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.19.2",
+          "text": "behold",
+          "position": 2,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.19.3",
+          "text": "there",
+          "position": 3,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.4",
+          "text": "came",
+          "position": 4,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.5",
+          "text": "a",
+          "position": 5,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.6",
+          "text": "great",
+          "position": 6,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.7",
+          "text": "wind",
+          "position": 7,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.8",
+          "text": "from",
+          "position": 8,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.10",
+          "text": "wilderness",
+          "position": 10,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.19.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.12",
+          "text": "smote",
+          "position": 12,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.14",
+          "text": "four",
+          "position": 14,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.15",
+          "text": "corners",
+          "position": 15,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.18",
+          "text": "house",
+          "position": 18,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.19.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.21",
+          "text": "fell",
+          "position": 21,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.22",
+          "text": "upon",
+          "position": 22,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.24",
+          "text": "young",
+          "position": 24,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.25",
+          "text": "men",
+          "position": 25,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.19.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.27",
+          "text": "they",
+          "position": 27,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.28",
+          "text": "are",
+          "position": 28,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.29",
+          "text": "dead",
+          "position": 29,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.19.30",
+          "text": "and",
+          "position": 30,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.31",
+          "text": "I",
+          "position": 31,
+          "verseId": "job.1.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.19.32",
+          "text": "only",
+          "position": 32,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.33",
+          "text": "am",
+          "position": 33,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.34",
+          "text": "escaped",
+          "position": 34,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.35",
+          "text": "alone",
+          "position": 35,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.36",
+          "text": "to",
+          "position": 36,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.37",
+          "text": "tell",
+          "position": 37,
+          "verseId": "job.1.19",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.19.38",
+          "text": "thee",
+          "position": 38,
+          "verseId": "job.1.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.20",
+      "book": "job",
+      "chapter": 1,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "job.1.20.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "job.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.20.2",
+          "text": "Job",
+          "position": 2,
+          "verseId": "job.1.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.20.3",
+          "text": "arose",
+          "position": 3,
+          "verseId": "job.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.20.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.5",
+          "text": "rent",
+          "position": 5,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.7",
+          "text": "mantle",
+          "position": 7,
+          "verseId": "job.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.20.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.9",
+          "text": "shaved",
+          "position": 9,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.11",
+          "text": "head",
+          "position": 11,
+          "verseId": "job.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.20.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.13",
+          "text": "fell",
+          "position": 13,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.14",
+          "text": "down",
+          "position": 14,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.15",
+          "text": "upon",
+          "position": 15,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.17",
+          "text": "ground",
+          "position": 17,
+          "verseId": "job.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.20.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "job.1.20",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.20.19",
+          "text": "worshipped",
+          "position": 19,
+          "verseId": "job.1.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.21",
+      "book": "job",
+      "chapter": 1,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "job.1.21.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.21.2",
+          "text": "said",
+          "position": 2,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.21.3",
+          "text": "Naked",
+          "position": 3,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.21.4",
+          "text": "came",
+          "position": 4,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.5",
+          "text": "I",
+          "position": 5,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.21.6",
+          "text": "out",
+          "position": 6,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.8",
+          "text": "my",
+          "position": 8,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.9",
+          "text": "mother’s",
+          "position": 9,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.10",
+          "text": "womb",
+          "position": 10,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.21.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.12",
+          "text": "naked",
+          "position": 12,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.13",
+          "text": "shall",
+          "position": 13,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.21.15",
+          "text": "return",
+          "position": 15,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.16",
+          "text": "thither",
+          "position": 16,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "job.1.21.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.18",
+          "text": "Lord",
+          "position": 18,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.21.19",
+          "text": "gave",
+          "position": 19,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.21.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.22",
+          "text": "Lord",
+          "position": 22,
+          "verseId": "job.1.21",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.21.23",
+          "text": "hath",
+          "position": 23,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.24",
+          "text": "taken",
+          "position": 24,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.25",
+          "text": "away",
+          "position": 25,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "job.1.21.26",
+          "text": "blessed",
+          "position": 26,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.27",
+          "text": "be",
+          "position": 27,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.29",
+          "text": "name",
+          "position": 29,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "job.1.21",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.21.32",
+          "text": "Lord",
+          "position": 32,
+          "verseId": "job.1.21",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "job.1.22",
+      "book": "job",
+      "chapter": 1,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "job.1.22.1",
+          "text": "In",
+          "position": 1,
+          "verseId": "job.1.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.22.2",
+          "text": "all",
+          "position": 2,
+          "verseId": "job.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.22.3",
+          "text": "this",
+          "position": 3,
+          "verseId": "job.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.22.4",
+          "text": "Job",
+          "position": 4,
+          "verseId": "job.1.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "job.1.22.5",
+          "text": "sinned",
+          "position": 5,
+          "verseId": "job.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.22.6",
+          "text": "not",
+          "position": 6,
+          "verseId": "job.1.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "job.1.22.7",
+          "text": "nor",
+          "position": 7,
+          "verseId": "job.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.22.8",
+          "text": "charged",
+          "position": 8,
+          "verseId": "job.1.22",
+          "presentation": {}
+        },
+        {
+          "id": "job.1.22.9",
+          "text": "God",
+          "position": 9,
+          "verseId": "job.1.22",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "job.1.22.10",
+          "text": "foolishly",
+          "position": 10,
+          "verseId": "job.1.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

@@ -1,0 +1,8055 @@
+{
+  "id": "lev.8",
+  "book": "lev",
+  "chapter": 8,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Aaron and his sons are washed, anointed, clothed in their priesthood robes, and consecrated before all Israel—Moses and Aaron offer sacrifices to make reconciliation and atonement with the Lord.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "lev.8.1",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "lev.8.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.1.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "lev.8.1",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.1.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "lev.8.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.1.4",
+          "text": "spake",
+          "position": 4,
+          "verseId": "lev.8.1",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.1.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "lev.8.1",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.1.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "lev.8.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.1.7",
+          "text": "saying",
+          "position": 7,
+          "verseId": "lev.8.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.2",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "lev.8.2.1",
+          "text": "Take",
+          "position": 1,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.2.2",
+          "text": "Aaron",
+          "position": 2,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.2.3",
+          "text": "and",
+          "position": 3,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.4",
+          "text": "his",
+          "position": 4,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.5",
+          "text": "sons",
+          "position": 5,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.6",
+          "text": "with",
+          "position": 6,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.7",
+          "text": "him",
+          "position": 7,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.2.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.10",
+          "text": "garments",
+          "position": 10,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.2.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.13",
+          "text": "anointing",
+          "position": 13,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.14",
+          "text": "oil",
+          "position": 14,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.2.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.16",
+          "text": "a",
+          "position": 16,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.17",
+          "text": "bullock",
+          "position": 17,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.18",
+          "text": "for",
+          "position": 18,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.20",
+          "text": "sin",
+          "position": 20,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.21",
+          "text": "offering",
+          "position": 21,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.2.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.23",
+          "text": "two",
+          "position": 23,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.24",
+          "text": "rams",
+          "position": 24,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.2.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.26",
+          "text": "a",
+          "position": 26,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.27",
+          "text": "basket",
+          "position": 27,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.28",
+          "text": "of",
+          "position": 28,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.29",
+          "text": "unleavened",
+          "position": 29,
+          "verseId": "lev.8.2",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.2.30",
+          "text": "bread",
+          "position": 30,
+          "verseId": "lev.8.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.3",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "lev.8.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.3.2",
+          "text": "gather",
+          "position": 2,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.3",
+          "text": "thou",
+          "position": 3,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.4",
+          "text": "all",
+          "position": 4,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.6",
+          "text": "congregation",
+          "position": 6,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.7",
+          "text": "together",
+          "position": 7,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.10",
+          "text": "door",
+          "position": 10,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.13",
+          "text": "tabernacle",
+          "position": 13,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "lev.8.3",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.3.16",
+          "text": "congregation",
+          "position": 16,
+          "verseId": "lev.8.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.4",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "lev.8.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.4.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.4.3",
+          "text": "did",
+          "position": 3,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.4",
+          "text": "as",
+          "position": 4,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.6",
+          "text": "Lord",
+          "position": 6,
+          "verseId": "lev.8.4",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.4.7",
+          "text": "commanded",
+          "position": 7,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.8",
+          "text": "him",
+          "position": 8,
+          "verseId": "lev.8.4",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.4.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.11",
+          "text": "assembly",
+          "position": 11,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.12",
+          "text": "was",
+          "position": 12,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.13",
+          "text": "gathered",
+          "position": 13,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.14",
+          "text": "together",
+          "position": 14,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.15",
+          "text": "unto",
+          "position": 15,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.17",
+          "text": "door",
+          "position": 17,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.20",
+          "text": "tabernacle",
+          "position": 20,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "lev.8.4",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.4.23",
+          "text": "congregation",
+          "position": 23,
+          "verseId": "lev.8.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.5",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "lev.8.5.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.5.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.5.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.6",
+          "text": "congregation",
+          "position": 6,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.5.7",
+          "text": "This",
+          "position": 7,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.5.8",
+          "text": "is",
+          "position": 8,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.10",
+          "text": "thing",
+          "position": 10,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.11",
+          "text": "which",
+          "position": 11,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.13",
+          "text": "Lord",
+          "position": 13,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.5.14",
+          "text": "commanded",
+          "position": 14,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.15",
+          "text": "to",
+          "position": 15,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.16",
+          "text": "be",
+          "position": 16,
+          "verseId": "lev.8.5",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.5.17",
+          "text": "done",
+          "position": 17,
+          "verseId": "lev.8.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.6",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "lev.8.6.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.6.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.6.3",
+          "text": "brought",
+          "position": 3,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.4",
+          "text": "Aaron",
+          "position": 4,
+          "verseId": "lev.8.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.6.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.7",
+          "text": "sons",
+          "position": 7,
+          "verseId": "lev.8.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.6.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.9",
+          "text": "washed",
+          "position": 9,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.10",
+          "text": "them",
+          "position": 10,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.11",
+          "text": "with",
+          "position": 11,
+          "verseId": "lev.8.6",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.6.12",
+          "text": "water",
+          "position": 12,
+          "verseId": "lev.8.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.7",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "lev.8.7.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.7.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.3",
+          "text": "put",
+          "position": 3,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.4",
+          "text": "upon",
+          "position": 4,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.7",
+          "text": "coat",
+          "position": 7,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.7.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.9",
+          "text": "girded",
+          "position": 9,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.10",
+          "text": "him",
+          "position": 10,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.11",
+          "text": "with",
+          "position": 11,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.13",
+          "text": "girdle",
+          "position": 13,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.7.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.15",
+          "text": "clothed",
+          "position": 15,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.17",
+          "text": "with",
+          "position": 17,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.19",
+          "text": "robe",
+          "position": 19,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.7.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.21",
+          "text": "put",
+          "position": 21,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.23",
+          "text": "ephod",
+          "position": 23,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.24",
+          "text": "upon",
+          "position": 24,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.25",
+          "text": "him",
+          "position": 25,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.7.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.27",
+          "text": "he",
+          "position": 27,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.28",
+          "text": "girded",
+          "position": 28,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.29",
+          "text": "him",
+          "position": 29,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.30",
+          "text": "with",
+          "position": 30,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.32",
+          "text": "curious",
+          "position": 32,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.33",
+          "text": "girdle",
+          "position": 33,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.34",
+          "text": "of",
+          "position": 34,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.36",
+          "text": "ephod",
+          "position": 36,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.7.37",
+          "text": "and",
+          "position": 37,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.38",
+          "text": "bound",
+          "position": 38,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.39",
+          "text": "it",
+          "position": 39,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.40",
+          "text": "unto",
+          "position": 40,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.41",
+          "text": "him",
+          "position": 41,
+          "verseId": "lev.8.7",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.7.42",
+          "text": "therewith",
+          "position": 42,
+          "verseId": "lev.8.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.8",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "lev.8.8.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.8.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.3",
+          "text": "put",
+          "position": 3,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.5",
+          "text": "breastplate",
+          "position": 5,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.6",
+          "text": "upon",
+          "position": 6,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.7",
+          "text": "him",
+          "position": 7,
+          "verseId": "lev.8.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.8.8",
+          "text": "also",
+          "position": 8,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.10",
+          "text": "put",
+          "position": 10,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.13",
+          "text": "breastplate",
+          "position": 13,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.15",
+          "text": "Urim",
+          "position": 15,
+          "verseId": "lev.8.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.8.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lev.8.8",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.8.18",
+          "text": "Thummim",
+          "position": 18,
+          "verseId": "lev.8.8",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.9",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "lev.8.9.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.9.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.3",
+          "text": "put",
+          "position": 3,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.5",
+          "text": "mitre",
+          "position": 5,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.6",
+          "text": "upon",
+          "position": 6,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.7",
+          "text": "his",
+          "position": 7,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.8",
+          "text": "head",
+          "position": 8,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.9.9",
+          "text": "also",
+          "position": 9,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.10",
+          "text": "upon",
+          "position": 10,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.12",
+          "text": "mitre",
+          "position": 12,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.9.13",
+          "text": "even",
+          "position": 13,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.14",
+          "text": "upon",
+          "position": 14,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.16",
+          "text": "forefront",
+          "position": 16,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.9.17",
+          "text": "did",
+          "position": 17,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.18",
+          "text": "he",
+          "position": 18,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.19",
+          "text": "put",
+          "position": 19,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.21",
+          "text": "golden",
+          "position": 21,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.22",
+          "text": "plate",
+          "position": 22,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.9.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.24",
+          "text": "holy",
+          "position": 24,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.25",
+          "text": "crown",
+          "position": 25,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.9.26",
+          "text": "as",
+          "position": 26,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.28",
+          "text": "Lord",
+          "position": 28,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.9.29",
+          "text": "commanded",
+          "position": 29,
+          "verseId": "lev.8.9",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.9.30",
+          "text": "Moses",
+          "position": 30,
+          "verseId": "lev.8.9",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.10",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "lev.8.10.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.10.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.10.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.5",
+          "text": "anointing",
+          "position": 5,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.6",
+          "text": "oil",
+          "position": 6,
+          "verseId": "lev.8.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.10.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.8",
+          "text": "anointed",
+          "position": 8,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.10",
+          "text": "tabernacle",
+          "position": 10,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.12",
+          "text": "all",
+          "position": 12,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.14",
+          "text": "was",
+          "position": 14,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.15",
+          "text": "therein",
+          "position": 15,
+          "verseId": "lev.8.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.10.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.17",
+          "text": "sanctified",
+          "position": 17,
+          "verseId": "lev.8.10",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.10.18",
+          "text": "them",
+          "position": 18,
+          "verseId": "lev.8.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.11",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "lev.8.11.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.11.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.3",
+          "text": "sprinkled",
+          "position": 3,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.4",
+          "text": "thereof",
+          "position": 4,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.5",
+          "text": "upon",
+          "position": 5,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.7",
+          "text": "altar",
+          "position": 7,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.8",
+          "text": "seven",
+          "position": 8,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.9",
+          "text": "times",
+          "position": 9,
+          "verseId": "lev.8.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.11.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.11",
+          "text": "anointed",
+          "position": 11,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.13",
+          "text": "altar",
+          "position": 13,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.16",
+          "text": "his",
+          "position": 16,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.17",
+          "text": "vessels",
+          "position": 17,
+          "verseId": "lev.8.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.11.18",
+          "text": "both",
+          "position": 18,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.20",
+          "text": "laver",
+          "position": 20,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.22",
+          "text": "his",
+          "position": 22,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.23",
+          "text": "foot",
+          "position": 23,
+          "verseId": "lev.8.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.11.24",
+          "text": "to",
+          "position": 24,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.25",
+          "text": "sanctify",
+          "position": 25,
+          "verseId": "lev.8.11",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.11.26",
+          "text": "them",
+          "position": 26,
+          "verseId": "lev.8.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.12",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "lev.8.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.12.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.3",
+          "text": "poured",
+          "position": 3,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.6",
+          "text": "anointing",
+          "position": 6,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.7",
+          "text": "oil",
+          "position": 7,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.8",
+          "text": "upon",
+          "position": 8,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.9",
+          "text": "Aaron’s",
+          "position": 9,
+          "verseId": "lev.8.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.12.10",
+          "text": "head",
+          "position": 10,
+          "verseId": "lev.8.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.12.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.12",
+          "text": "anointed",
+          "position": 12,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.13",
+          "text": "him",
+          "position": 13,
+          "verseId": "lev.8.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.12.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.15",
+          "text": "sanctify",
+          "position": 15,
+          "verseId": "lev.8.12",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.12.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "lev.8.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.13",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "lev.8.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.13.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.13.3",
+          "text": "brought",
+          "position": 3,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.4",
+          "text": "Aaron’s",
+          "position": 4,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.13.5",
+          "text": "sons",
+          "position": 5,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.13.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.7",
+          "text": "put",
+          "position": 7,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.8",
+          "text": "coats",
+          "position": 8,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.9",
+          "text": "upon",
+          "position": 9,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.10",
+          "text": "them",
+          "position": 10,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.13.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.12",
+          "text": "girded",
+          "position": 12,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.13",
+          "text": "them",
+          "position": 13,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.15",
+          "text": "girdles",
+          "position": 15,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.13.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.17",
+          "text": "put",
+          "position": 17,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.18",
+          "text": "bonnets",
+          "position": 18,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.19",
+          "text": "upon",
+          "position": 19,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.20",
+          "text": "them",
+          "position": 20,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.13.21",
+          "text": "as",
+          "position": 21,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.23",
+          "text": "Lord",
+          "position": 23,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.13.24",
+          "text": "commanded",
+          "position": 24,
+          "verseId": "lev.8.13",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.13.25",
+          "text": "Moses",
+          "position": 25,
+          "verseId": "lev.8.13",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.14",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "lev.8.14.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.14.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.3",
+          "text": "brought",
+          "position": 3,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.5",
+          "text": "bullock",
+          "position": 5,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.6",
+          "text": "for",
+          "position": 6,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.8",
+          "text": "sin",
+          "position": 8,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.9",
+          "text": "offering",
+          "position": 9,
+          "verseId": "lev.8.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.14.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.11",
+          "text": "Aaron",
+          "position": 11,
+          "verseId": "lev.8.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.14.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.14",
+          "text": "sons",
+          "position": 14,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.15",
+          "text": "laid",
+          "position": 15,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.16",
+          "text": "their",
+          "position": 16,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.17",
+          "text": "hands",
+          "position": 17,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.18",
+          "text": "upon",
+          "position": 18,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.20",
+          "text": "head",
+          "position": 20,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.23",
+          "text": "bullock",
+          "position": 23,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.24",
+          "text": "for",
+          "position": 24,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.26",
+          "text": "sin",
+          "position": 26,
+          "verseId": "lev.8.14",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.14.27",
+          "text": "offering",
+          "position": 27,
+          "verseId": "lev.8.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.15",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "lev.8.15.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.15.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.3",
+          "text": "slew",
+          "position": 3,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.15.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.15.7",
+          "text": "took",
+          "position": 7,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.9",
+          "text": "blood",
+          "position": 9,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.15.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.11",
+          "text": "put",
+          "position": 11,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.12",
+          "text": "it",
+          "position": 12,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.13",
+          "text": "upon",
+          "position": 13,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.15",
+          "text": "horns",
+          "position": 15,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.18",
+          "text": "altar",
+          "position": 18,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.19",
+          "text": "round",
+          "position": 19,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.20",
+          "text": "about",
+          "position": 20,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.21",
+          "text": "with",
+          "position": 21,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.22",
+          "text": "his",
+          "position": 22,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.23",
+          "text": "finger",
+          "position": 23,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.15.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.25",
+          "text": "purified",
+          "position": 25,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.26",
+          "text": "the",
+          "position": 26,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.27",
+          "text": "altar",
+          "position": 27,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.15.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.29",
+          "text": "poured",
+          "position": 29,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.31",
+          "text": "blood",
+          "position": 31,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.32",
+          "text": "at",
+          "position": 32,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.34",
+          "text": "bottom",
+          "position": 34,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.37",
+          "text": "altar",
+          "position": 37,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.15.38",
+          "text": "and",
+          "position": 38,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.39",
+          "text": "sanctified",
+          "position": 39,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.40",
+          "text": "it",
+          "position": 40,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.15.41",
+          "text": "to",
+          "position": 41,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.42",
+          "text": "make",
+          "position": 42,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.43",
+          "text": "reconciliation",
+          "position": 43,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.44",
+          "text": "upon",
+          "position": 44,
+          "verseId": "lev.8.15",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.15.45",
+          "text": "it",
+          "position": 45,
+          "verseId": "lev.8.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.16",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "lev.8.16.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.16.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.4",
+          "text": "all",
+          "position": 4,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.6",
+          "text": "fat",
+          "position": 6,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.7",
+          "text": "that",
+          "position": 7,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.8",
+          "text": "was",
+          "position": 8,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.9",
+          "text": "upon",
+          "position": 9,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.11",
+          "text": "inwards",
+          "position": 11,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.16.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.14",
+          "text": "caul",
+          "position": 14,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.15",
+          "text": "above",
+          "position": 15,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.17",
+          "text": "liver",
+          "position": 17,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.16.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.20",
+          "text": "two",
+          "position": 20,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.21",
+          "text": "kidneys",
+          "position": 21,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.16.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.23",
+          "text": "their",
+          "position": 23,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.24",
+          "text": "fat",
+          "position": 24,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.16.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.26",
+          "text": "Moses",
+          "position": 26,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.16.27",
+          "text": "burned",
+          "position": 27,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.28",
+          "text": "it",
+          "position": 28,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.29",
+          "text": "upon",
+          "position": 29,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "lev.8.16",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.16.31",
+          "text": "altar",
+          "position": 31,
+          "verseId": "lev.8.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.17",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "lev.8.17.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.17.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.3",
+          "text": "bullock",
+          "position": 3,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.17.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.5",
+          "text": "his",
+          "position": 5,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.6",
+          "text": "hide",
+          "position": 6,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.17.7",
+          "text": "his",
+          "position": 7,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.8",
+          "text": "flesh",
+          "position": 8,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.17.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.11",
+          "text": "dung",
+          "position": 11,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.17.12",
+          "text": "he",
+          "position": 12,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.13",
+          "text": "burnt",
+          "position": 13,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.15",
+          "text": "fire",
+          "position": 15,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.16",
+          "text": "without",
+          "position": 16,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.18",
+          "text": "camp",
+          "position": 18,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.17.19",
+          "text": "as",
+          "position": 19,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.21",
+          "text": "Lord",
+          "position": 21,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.17.22",
+          "text": "commanded",
+          "position": 22,
+          "verseId": "lev.8.17",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.17.23",
+          "text": "Moses",
+          "position": 23,
+          "verseId": "lev.8.17",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.18",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "lev.8.18.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "lev.8.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.18.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.4",
+          "text": "brought",
+          "position": 4,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.6",
+          "text": "ram",
+          "position": 6,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.7",
+          "text": "for",
+          "position": 7,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.9",
+          "text": "burnt",
+          "position": 9,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.10",
+          "text": "offering",
+          "position": 10,
+          "verseId": "lev.8.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.18.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.12",
+          "text": "Aaron",
+          "position": 12,
+          "verseId": "lev.8.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.18.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.15",
+          "text": "sons",
+          "position": 15,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.16",
+          "text": "laid",
+          "position": 16,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.17",
+          "text": "their",
+          "position": 17,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.18",
+          "text": "hands",
+          "position": 18,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.19",
+          "text": "upon",
+          "position": 19,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.21",
+          "text": "head",
+          "position": 21,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "lev.8.18",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.18.24",
+          "text": "ram",
+          "position": 24,
+          "verseId": "lev.8.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.19",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "lev.8.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.19.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.3",
+          "text": "killed",
+          "position": 3,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "lev.8.19",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.19.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "lev.8.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.19.7",
+          "text": "sprinkled",
+          "position": 7,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.9",
+          "text": "blood",
+          "position": 9,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.10",
+          "text": "upon",
+          "position": 10,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.12",
+          "text": "altar",
+          "position": 12,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.13",
+          "text": "round",
+          "position": 13,
+          "verseId": "lev.8.19",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.19.14",
+          "text": "about",
+          "position": 14,
+          "verseId": "lev.8.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.20",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "lev.8.20.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.20.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.3",
+          "text": "cut",
+          "position": 3,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.5",
+          "text": "ram",
+          "position": 5,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.6",
+          "text": "into",
+          "position": 6,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.7",
+          "text": "pieces",
+          "position": 7,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.20.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.9",
+          "text": "Moses",
+          "position": 9,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.20.10",
+          "text": "burnt",
+          "position": 10,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.12",
+          "text": "head",
+          "position": 12,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.20.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.15",
+          "text": "pieces",
+          "position": 15,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.20.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lev.8.20",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.20.18",
+          "text": "fat",
+          "position": 18,
+          "verseId": "lev.8.20",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.21",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 21,
+      "tokens": [
+        {
+          "id": "lev.8.21.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.21.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.3",
+          "text": "washed",
+          "position": 3,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.5",
+          "text": "inwards",
+          "position": 5,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.8",
+          "text": "legs",
+          "position": 8,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.10",
+          "text": "water",
+          "position": 10,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.21.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.12",
+          "text": "Moses",
+          "position": 12,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.21.13",
+          "text": "burnt",
+          "position": 13,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.15",
+          "text": "whole",
+          "position": 15,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.16",
+          "text": "ram",
+          "position": 16,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.17",
+          "text": "upon",
+          "position": 17,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.19",
+          "text": "altar",
+          "position": 19,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.21.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.21",
+          "text": "was",
+          "position": 21,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.22",
+          "text": "a",
+          "position": 22,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.23",
+          "text": "burnt",
+          "position": 23,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.24",
+          "text": "sacrifice",
+          "position": 24,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.25",
+          "text": "for",
+          "position": 25,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.26",
+          "text": "a",
+          "position": 26,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.27",
+          "text": "sweet",
+          "position": 27,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.28",
+          "text": "savour",
+          "position": 28,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.21.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.30",
+          "text": "an",
+          "position": 30,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.31",
+          "text": "offering",
+          "position": 31,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.32",
+          "text": "made",
+          "position": 32,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.33",
+          "text": "by",
+          "position": 33,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.34",
+          "text": "fire",
+          "position": 34,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.35",
+          "text": "unto",
+          "position": 35,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.37",
+          "text": "Lord",
+          "position": 37,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.21.38",
+          "text": "as",
+          "position": 38,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.39",
+          "text": "the",
+          "position": 39,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.40",
+          "text": "Lord",
+          "position": 40,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.21.41",
+          "text": "commanded",
+          "position": 41,
+          "verseId": "lev.8.21",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.21.42",
+          "text": "Moses",
+          "position": 42,
+          "verseId": "lev.8.21",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.22",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 22,
+      "tokens": [
+        {
+          "id": "lev.8.22.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "lev.8.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.22.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.4",
+          "text": "brought",
+          "position": 4,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.6",
+          "text": "other",
+          "position": 6,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.7",
+          "text": "ram",
+          "position": 7,
+          "verseId": "lev.8.22",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.22.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.9",
+          "text": "ram",
+          "position": 9,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.11",
+          "text": "consecration",
+          "position": 11,
+          "verseId": "lev.8.22",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.22.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.13",
+          "text": "Aaron",
+          "position": 13,
+          "verseId": "lev.8.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.22.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.16",
+          "text": "sons",
+          "position": 16,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.17",
+          "text": "laid",
+          "position": 17,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.18",
+          "text": "their",
+          "position": 18,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.19",
+          "text": "hands",
+          "position": 19,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.22",
+          "text": "head",
+          "position": 22,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "lev.8.22",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.22.25",
+          "text": "ram",
+          "position": 25,
+          "verseId": "lev.8.22",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.23",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 23,
+      "tokens": [
+        {
+          "id": "lev.8.23.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.23.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.3",
+          "text": "slew",
+          "position": 3,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.23.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.23.7",
+          "text": "took",
+          "position": 7,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.10",
+          "text": "blood",
+          "position": 10,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.12",
+          "text": "it",
+          "position": 12,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.23.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.14",
+          "text": "put",
+          "position": 14,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.15",
+          "text": "it",
+          "position": 15,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.16",
+          "text": "upon",
+          "position": 16,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.18",
+          "text": "tip",
+          "position": 18,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.19",
+          "text": "of",
+          "position": 19,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.20",
+          "text": "Aaron’s",
+          "position": 20,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.23.21",
+          "text": "right",
+          "position": 21,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.22",
+          "text": "ear",
+          "position": 22,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.23.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.24",
+          "text": "upon",
+          "position": 24,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.26",
+          "text": "thumb",
+          "position": 26,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.28",
+          "text": "his",
+          "position": 28,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.29",
+          "text": "right",
+          "position": 29,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.30",
+          "text": "hand",
+          "position": 30,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.23.31",
+          "text": "and",
+          "position": 31,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.32",
+          "text": "upon",
+          "position": 32,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.34",
+          "text": "great",
+          "position": 34,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.35",
+          "text": "toe",
+          "position": 35,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.36",
+          "text": "of",
+          "position": 36,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.37",
+          "text": "his",
+          "position": 37,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.38",
+          "text": "right",
+          "position": 38,
+          "verseId": "lev.8.23",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.23.39",
+          "text": "foot",
+          "position": 39,
+          "verseId": "lev.8.23",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.24",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 24,
+      "tokens": [
+        {
+          "id": "lev.8.24.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.24.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.3",
+          "text": "brought",
+          "position": 3,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.4",
+          "text": "Aaron’s",
+          "position": 4,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.24.5",
+          "text": "sons",
+          "position": 5,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.24.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.7",
+          "text": "Moses",
+          "position": 7,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.24.8",
+          "text": "put",
+          "position": 8,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.11",
+          "text": "blood",
+          "position": 11,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.12",
+          "text": "upon",
+          "position": 12,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.14",
+          "text": "tip",
+          "position": 14,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.16",
+          "text": "their",
+          "position": 16,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.17",
+          "text": "right",
+          "position": 17,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.18",
+          "text": "ear",
+          "position": 18,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.24.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.22",
+          "text": "thumbs",
+          "position": 22,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.24",
+          "text": "their",
+          "position": 24,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.25",
+          "text": "right",
+          "position": 25,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.26",
+          "text": "hands",
+          "position": 26,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.24.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.28",
+          "text": "upon",
+          "position": 28,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.30",
+          "text": "great",
+          "position": 30,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.31",
+          "text": "toes",
+          "position": 31,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.33",
+          "text": "their",
+          "position": 33,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.34",
+          "text": "right",
+          "position": 34,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.35",
+          "text": "feet",
+          "position": 35,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.24.36",
+          "text": "and",
+          "position": 36,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.37",
+          "text": "Moses",
+          "position": 37,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.24.38",
+          "text": "sprinkled",
+          "position": 38,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.39",
+          "text": "the",
+          "position": 39,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.40",
+          "text": "blood",
+          "position": 40,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.41",
+          "text": "upon",
+          "position": 41,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.42",
+          "text": "the",
+          "position": 42,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.43",
+          "text": "altar",
+          "position": 43,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.44",
+          "text": "round",
+          "position": 44,
+          "verseId": "lev.8.24",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.24.45",
+          "text": "about",
+          "position": 45,
+          "verseId": "lev.8.24",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.25",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 25,
+      "tokens": [
+        {
+          "id": "lev.8.25.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.25.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.5",
+          "text": "fat",
+          "position": 5,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.8",
+          "text": "rump",
+          "position": 8,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.10",
+          "text": "all",
+          "position": 10,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.12",
+          "text": "fat",
+          "position": 12,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.14",
+          "text": "was",
+          "position": 14,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.15",
+          "text": "upon",
+          "position": 15,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.17",
+          "text": "inwards",
+          "position": 17,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.20",
+          "text": "caul",
+          "position": 20,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.21",
+          "text": "above",
+          "position": 21,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.23",
+          "text": "liver",
+          "position": 23,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.26",
+          "text": "two",
+          "position": 26,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.27",
+          "text": "kidneys",
+          "position": 27,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.29",
+          "text": "their",
+          "position": 29,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.30",
+          "text": "fat",
+          "position": 30,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.25.31",
+          "text": "and",
+          "position": 31,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.33",
+          "text": "right",
+          "position": 33,
+          "verseId": "lev.8.25",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.25.34",
+          "text": "shoulder",
+          "position": 34,
+          "verseId": "lev.8.25",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.26",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 26,
+      "tokens": [
+        {
+          "id": "lev.8.26.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.26.2",
+          "text": "out",
+          "position": 2,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.3",
+          "text": "of",
+          "position": 3,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.5",
+          "text": "basket",
+          "position": 5,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.7",
+          "text": "unleavened",
+          "position": 7,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.8",
+          "text": "bread",
+          "position": 8,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.26.9",
+          "text": "that",
+          "position": 9,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.10",
+          "text": "was",
+          "position": 10,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.11",
+          "text": "before",
+          "position": 11,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.13",
+          "text": "Lord",
+          "position": 13,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.26.14",
+          "text": "he",
+          "position": 14,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.15",
+          "text": "took",
+          "position": 15,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.16",
+          "text": "one",
+          "position": 16,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.17",
+          "text": "unleavened",
+          "position": 17,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.18",
+          "text": "cake",
+          "position": 18,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.26.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.20",
+          "text": "a",
+          "position": 20,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.21",
+          "text": "cake",
+          "position": 21,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.23",
+          "text": "oiled",
+          "position": 23,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.24",
+          "text": "bread",
+          "position": 24,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.26.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.26",
+          "text": "one",
+          "position": 26,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.27",
+          "text": "wafer",
+          "position": 27,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.26.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.29",
+          "text": "put",
+          "position": 29,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.30",
+          "text": "them",
+          "position": 30,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.31",
+          "text": "on",
+          "position": 31,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.33",
+          "text": "fat",
+          "position": 33,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.26.34",
+          "text": "and",
+          "position": 34,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.35",
+          "text": "upon",
+          "position": 35,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.37",
+          "text": "right",
+          "position": 37,
+          "verseId": "lev.8.26",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.26.38",
+          "text": "shoulder",
+          "position": 38,
+          "verseId": "lev.8.26",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.27",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 27,
+      "tokens": [
+        {
+          "id": "lev.8.27.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.27.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.3",
+          "text": "put",
+          "position": 3,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.4",
+          "text": "all",
+          "position": 4,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.5",
+          "text": "upon",
+          "position": 5,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.6",
+          "text": "Aaron’s",
+          "position": 6,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.27.7",
+          "text": "hands",
+          "position": 7,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.27.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.9",
+          "text": "upon",
+          "position": 9,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.11",
+          "text": "sons",
+          "position": 11,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "followingPunctuation": "’"
+          }
+        },
+        {
+          "id": "lev.8.27.12",
+          "text": "hands",
+          "position": 12,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.27.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.14",
+          "text": "waved",
+          "position": 14,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.15",
+          "text": "them",
+          "position": 15,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.16",
+          "text": "for",
+          "position": 16,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.17",
+          "text": "a",
+          "position": 17,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.18",
+          "text": "wave",
+          "position": 18,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.19",
+          "text": "offering",
+          "position": 19,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.20",
+          "text": "before",
+          "position": 20,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lev.8.27",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.27.22",
+          "text": "Lord",
+          "position": 22,
+          "verseId": "lev.8.27",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.28",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 28,
+      "tokens": [
+        {
+          "id": "lev.8.28.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.28.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.28.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.4",
+          "text": "them",
+          "position": 4,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.5",
+          "text": "from",
+          "position": 5,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.6",
+          "text": "off",
+          "position": 6,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.7",
+          "text": "their",
+          "position": 7,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.8",
+          "text": "hands",
+          "position": 8,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.28.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.10",
+          "text": "burnt",
+          "position": 10,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.11",
+          "text": "them",
+          "position": 11,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.12",
+          "text": "on",
+          "position": 12,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.14",
+          "text": "altar",
+          "position": 14,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.15",
+          "text": "upon",
+          "position": 15,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.17",
+          "text": "burnt",
+          "position": 17,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.18",
+          "text": "offering",
+          "position": 18,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.28.19",
+          "text": "they",
+          "position": 19,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.20",
+          "text": "were",
+          "position": 20,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.21",
+          "text": "consecrations",
+          "position": 21,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.22",
+          "text": "for",
+          "position": 22,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.23",
+          "text": "a",
+          "position": 23,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.24",
+          "text": "sweet",
+          "position": 24,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.25",
+          "text": "savour",
+          "position": 25,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.28.26",
+          "text": "it",
+          "position": 26,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.27",
+          "text": "is",
+          "position": 27,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.28",
+          "text": "an",
+          "position": 28,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.29",
+          "text": "offering",
+          "position": 29,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.30",
+          "text": "made",
+          "position": 30,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.31",
+          "text": "by",
+          "position": 31,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.32",
+          "text": "fire",
+          "position": 32,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.33",
+          "text": "unto",
+          "position": 33,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "lev.8.28",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.28.35",
+          "text": "Lord",
+          "position": 35,
+          "verseId": "lev.8.28",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.29",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 29,
+      "tokens": [
+        {
+          "id": "lev.8.29.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.29.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.29.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.5",
+          "text": "breast",
+          "position": 5,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.29.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.7",
+          "text": "waved",
+          "position": 7,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.8",
+          "text": "it",
+          "position": 8,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.9",
+          "text": "for",
+          "position": 9,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.10",
+          "text": "a",
+          "position": 10,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.11",
+          "text": "wave",
+          "position": 11,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.12",
+          "text": "offering",
+          "position": 12,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.13",
+          "text": "before",
+          "position": 13,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.15",
+          "text": "Lord",
+          "position": 15,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "followingPunctuation": ":",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.29.16",
+          "text": "for",
+          "position": 16,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.19",
+          "text": "ram",
+          "position": 19,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.21",
+          "text": "consecration",
+          "position": 21,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.22",
+          "text": "it",
+          "position": 22,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.23",
+          "text": "was",
+          "position": 23,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.24",
+          "text": "Moses",
+          "position": 24,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "followingPunctuation": "’",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.29.25",
+          "text": "part",
+          "position": 25,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.29.26",
+          "text": "as",
+          "position": 26,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.28",
+          "text": "Lord",
+          "position": 28,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.29.29",
+          "text": "commanded",
+          "position": 29,
+          "verseId": "lev.8.29",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.29.30",
+          "text": "Moses",
+          "position": 30,
+          "verseId": "lev.8.29",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.30",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 30,
+      "tokens": [
+        {
+          "id": "lev.8.30.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.30.2",
+          "text": "Moses",
+          "position": 2,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.30.3",
+          "text": "took",
+          "position": 3,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.6",
+          "text": "anointing",
+          "position": 6,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.7",
+          "text": "oil",
+          "position": 7,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.11",
+          "text": "blood",
+          "position": 11,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.12",
+          "text": "which",
+          "position": 12,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.13",
+          "text": "was",
+          "position": 13,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.14",
+          "text": "upon",
+          "position": 14,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.16",
+          "text": "altar",
+          "position": 16,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.18",
+          "text": "sprinkled",
+          "position": 18,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.19",
+          "text": "it",
+          "position": 19,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.21",
+          "text": "Aaron",
+          "position": 21,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.30.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.23",
+          "text": "upon",
+          "position": 23,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.25",
+          "text": "garments",
+          "position": 25,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.27",
+          "text": "upon",
+          "position": 27,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.28",
+          "text": "his",
+          "position": 28,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.29",
+          "text": "sons",
+          "position": 29,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.30",
+          "text": "and",
+          "position": 30,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.31",
+          "text": "upon",
+          "position": 31,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.32",
+          "text": "his",
+          "position": 32,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.33",
+          "text": "sons",
+          "position": 33,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": "’"
+          }
+        },
+        {
+          "id": "lev.8.30.34",
+          "text": "garments",
+          "position": 34,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.35",
+          "text": "with",
+          "position": 35,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.36",
+          "text": "him",
+          "position": 36,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "lev.8.30.37",
+          "text": "and",
+          "position": 37,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.38",
+          "text": "sanctified",
+          "position": 38,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.39",
+          "text": "Aaron",
+          "position": 39,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.30.40",
+          "text": "and",
+          "position": 40,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.41",
+          "text": "his",
+          "position": 41,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.42",
+          "text": "garments",
+          "position": 42,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.43",
+          "text": "and",
+          "position": 43,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.44",
+          "text": "his",
+          "position": 44,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.45",
+          "text": "sons",
+          "position": 45,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.30.46",
+          "text": "and",
+          "position": 46,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.47",
+          "text": "his",
+          "position": 47,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.48",
+          "text": "sons",
+          "position": 48,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": "’"
+          }
+        },
+        {
+          "id": "lev.8.30.49",
+          "text": "garments",
+          "position": 49,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.50",
+          "text": "with",
+          "position": 50,
+          "verseId": "lev.8.30",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.30.51",
+          "text": "him",
+          "position": 51,
+          "verseId": "lev.8.30",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.31",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 31,
+      "tokens": [
+        {
+          "id": "lev.8.31.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.3",
+          "text": "Moses",
+          "position": 3,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.6",
+          "text": "Aaron",
+          "position": 6,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.8",
+          "text": "to",
+          "position": 8,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.9",
+          "text": "his",
+          "position": 9,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.10",
+          "text": "sons",
+          "position": 10,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.31.11",
+          "text": "Boil",
+          "position": 11,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.13",
+          "text": "flesh",
+          "position": 13,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.14",
+          "text": "at",
+          "position": 14,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.16",
+          "text": "door",
+          "position": 16,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.19",
+          "text": "tabernacle",
+          "position": 19,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.22",
+          "text": "congregation",
+          "position": 22,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.31.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.24",
+          "text": "there",
+          "position": 24,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.25",
+          "text": "eat",
+          "position": 25,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.26",
+          "text": "it",
+          "position": 26,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.27",
+          "text": "with",
+          "position": 27,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.29",
+          "text": "bread",
+          "position": 29,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.30",
+          "text": "that",
+          "position": 30,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.31",
+          "text": "is",
+          "position": 31,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.32",
+          "text": "in",
+          "position": 32,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.34",
+          "text": "basket",
+          "position": 34,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.36",
+          "text": "consecrations",
+          "position": 36,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.31.37",
+          "text": "as",
+          "position": 37,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.38",
+          "text": "I",
+          "position": 38,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.39",
+          "text": "commanded",
+          "position": 39,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.31.40",
+          "text": "saying",
+          "position": 40,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.31.41",
+          "text": "Aaron",
+          "position": 41,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.31.42",
+          "text": "and",
+          "position": 42,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.43",
+          "text": "his",
+          "position": 43,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.44",
+          "text": "sons",
+          "position": 44,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.45",
+          "text": "shall",
+          "position": 45,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.46",
+          "text": "eat",
+          "position": 46,
+          "verseId": "lev.8.31",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.31.47",
+          "text": "it",
+          "position": 47,
+          "verseId": "lev.8.31",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.32",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 32,
+      "tokens": [
+        {
+          "id": "lev.8.32.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.32",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.32.2",
+          "text": "that",
+          "position": 2,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.3",
+          "text": "which",
+          "position": 3,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.4",
+          "text": "remaineth",
+          "position": 4,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.7",
+          "text": "flesh",
+          "position": 7,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.11",
+          "text": "bread",
+          "position": 11,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.12",
+          "text": "shall",
+          "position": 12,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.13",
+          "text": "ye",
+          "position": 13,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.14",
+          "text": "burn",
+          "position": 14,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.15",
+          "text": "with",
+          "position": 15,
+          "verseId": "lev.8.32",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.32.16",
+          "text": "fire",
+          "position": 16,
+          "verseId": "lev.8.32",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.33",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 33,
+      "tokens": [
+        {
+          "id": "lev.8.33.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "lev.8.33",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.33.2",
+          "text": "ye",
+          "position": 2,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.3",
+          "text": "shall",
+          "position": 3,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.4",
+          "text": "not",
+          "position": 4,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.5",
+          "text": "go",
+          "position": 5,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.6",
+          "text": "out",
+          "position": 6,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.9",
+          "text": "door",
+          "position": 9,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.12",
+          "text": "tabernacle",
+          "position": 12,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.15",
+          "text": "congregation",
+          "position": 15,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.16",
+          "text": "in",
+          "position": 16,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.17",
+          "text": "seven",
+          "position": 17,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.18",
+          "text": "days",
+          "position": 18,
+          "verseId": "lev.8.33",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.33.19",
+          "text": "until",
+          "position": 19,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.21",
+          "text": "days",
+          "position": 21,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.22",
+          "text": "of",
+          "position": 22,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.23",
+          "text": "your",
+          "position": 23,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.24",
+          "text": "consecration",
+          "position": 24,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.25",
+          "text": "be",
+          "position": 25,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.26",
+          "text": "at",
+          "position": 26,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.27",
+          "text": "an",
+          "position": 27,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.28",
+          "text": "end",
+          "position": 28,
+          "verseId": "lev.8.33",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.33.29",
+          "text": "for",
+          "position": 29,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.30",
+          "text": "seven",
+          "position": 30,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.31",
+          "text": "days",
+          "position": 31,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.32",
+          "text": "shall",
+          "position": 32,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.33",
+          "text": "he",
+          "position": 33,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.34",
+          "text": "consecrate",
+          "position": 34,
+          "verseId": "lev.8.33",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.33.35",
+          "text": "you",
+          "position": 35,
+          "verseId": "lev.8.33",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.34",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 34,
+      "tokens": [
+        {
+          "id": "lev.8.34.1",
+          "text": "As",
+          "position": 1,
+          "verseId": "lev.8.34",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.34.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.3",
+          "text": "hath",
+          "position": 3,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.4",
+          "text": "done",
+          "position": 4,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.5",
+          "text": "this",
+          "position": 5,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.6",
+          "text": "day",
+          "position": 6,
+          "verseId": "lev.8.34",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.34.7",
+          "text": "so",
+          "position": 7,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.9",
+          "text": "Lord",
+          "position": 9,
+          "verseId": "lev.8.34",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.34.10",
+          "text": "hath",
+          "position": 10,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.11",
+          "text": "commanded",
+          "position": 11,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.13",
+          "text": "do",
+          "position": 13,
+          "verseId": "lev.8.34",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.34.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.15",
+          "text": "make",
+          "position": 15,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.16",
+          "text": "an",
+          "position": 16,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.17",
+          "text": "atonement",
+          "position": 17,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.18",
+          "text": "for",
+          "position": 18,
+          "verseId": "lev.8.34",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.34.19",
+          "text": "you",
+          "position": 19,
+          "verseId": "lev.8.34",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.35",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 35,
+      "tokens": [
+        {
+          "id": "lev.8.35.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.35.2",
+          "text": "shall",
+          "position": 2,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.3",
+          "text": "ye",
+          "position": 3,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.4",
+          "text": "abide",
+          "position": 4,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.5",
+          "text": "at",
+          "position": 5,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.7",
+          "text": "door",
+          "position": 7,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.10",
+          "text": "tabernacle",
+          "position": 10,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.13",
+          "text": "congregation",
+          "position": 13,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.14",
+          "text": "day",
+          "position": 14,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.16",
+          "text": "night",
+          "position": 16,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.17",
+          "text": "seven",
+          "position": 17,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.18",
+          "text": "days",
+          "position": 18,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "lev.8.35.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.20",
+          "text": "keep",
+          "position": 20,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.22",
+          "text": "charge",
+          "position": 22,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.25",
+          "text": "Lord",
+          "position": 25,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.35.26",
+          "text": "that",
+          "position": 26,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.27",
+          "text": "ye",
+          "position": 27,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.28",
+          "text": "die",
+          "position": 28,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.29",
+          "text": "not",
+          "position": 29,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "lev.8.35.30",
+          "text": "for",
+          "position": 30,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.31",
+          "text": "so",
+          "position": 31,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.32",
+          "text": "I",
+          "position": 32,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.35.33",
+          "text": "am",
+          "position": 33,
+          "verseId": "lev.8.35",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.35.34",
+          "text": "commanded",
+          "position": 34,
+          "verseId": "lev.8.35",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "lev.8.36",
+      "book": "lev",
+      "chapter": 8,
+      "verse": 36,
+      "tokens": [
+        {
+          "id": "lev.8.36.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "lev.8.36",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.36.2",
+          "text": "Aaron",
+          "position": 2,
+          "verseId": "lev.8.36",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "lev.8.36.3",
+          "text": "and",
+          "position": 3,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.4",
+          "text": "his",
+          "position": 4,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.5",
+          "text": "sons",
+          "position": 5,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.6",
+          "text": "did",
+          "position": 6,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.8",
+          "text": "things",
+          "position": 8,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.9",
+          "text": "which",
+          "position": 9,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.11",
+          "text": "Lord",
+          "position": 11,
+          "verseId": "lev.8.36",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "lev.8.36.12",
+          "text": "commanded",
+          "position": 12,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.13",
+          "text": "by",
+          "position": 13,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.15",
+          "text": "hand",
+          "position": 15,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "lev.8.36",
+          "presentation": {}
+        },
+        {
+          "id": "lev.8.36.17",
+          "text": "Moses",
+          "position": 17,
+          "verseId": "lev.8.36",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

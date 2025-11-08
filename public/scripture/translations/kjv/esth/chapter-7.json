@@ -1,0 +1,2803 @@
+{
+  "id": "esth.7",
+  "book": "esth",
+  "chapter": 7,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Esther reveals Haman’s plot to destroy the Jews—He is hanged on his own gallows.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "esth.7.1",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "esth.7.1.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "esth.7.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.1.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.3",
+          "text": "king",
+          "position": 3,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.5",
+          "text": "Haman",
+          "position": 5,
+          "verseId": "esth.7.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.1.6",
+          "text": "came",
+          "position": 6,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.8",
+          "text": "banquet",
+          "position": 8,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.9",
+          "text": "with",
+          "position": 9,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.10",
+          "text": "Esther",
+          "position": 10,
+          "verseId": "esth.7.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.1.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "esth.7.1",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.1.12",
+          "text": "queen",
+          "position": 12,
+          "verseId": "esth.7.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.2",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "esth.7.2.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.2.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.3",
+          "text": "king",
+          "position": 3,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.4",
+          "text": "said",
+          "position": 4,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.5",
+          "text": "again",
+          "position": 5,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.7",
+          "text": "Esther",
+          "position": 7,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.2.8",
+          "text": "on",
+          "position": 8,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.10",
+          "text": "second",
+          "position": 10,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.11",
+          "text": "day",
+          "position": 11,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.12",
+          "text": "at",
+          "position": 12,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.14",
+          "text": "banquet",
+          "position": 14,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.16",
+          "text": "wine",
+          "position": 16,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.2.17",
+          "text": "What",
+          "position": 17,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.2.18",
+          "text": "is",
+          "position": 18,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.19",
+          "text": "thy",
+          "position": 19,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.20",
+          "text": "petition",
+          "position": 20,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.2.21",
+          "text": "queen",
+          "position": 21,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.22",
+          "text": "Esther",
+          "position": 22,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": "?",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.2.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.24",
+          "text": "it",
+          "position": 24,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.25",
+          "text": "shall",
+          "position": 25,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.26",
+          "text": "be",
+          "position": 26,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.27",
+          "text": "granted",
+          "position": 27,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.28",
+          "text": "thee",
+          "position": 28,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "esth.7.2.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.30",
+          "text": "what",
+          "position": 30,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.31",
+          "text": "is",
+          "position": 31,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.32",
+          "text": "thy",
+          "position": 32,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.33",
+          "text": "request",
+          "position": 33,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "esth.7.2.34",
+          "text": "and",
+          "position": 34,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.35",
+          "text": "it",
+          "position": 35,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.36",
+          "text": "shall",
+          "position": 36,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.37",
+          "text": "be",
+          "position": 37,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.38",
+          "text": "performed",
+          "position": 38,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.2.39",
+          "text": "even",
+          "position": 39,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.40",
+          "text": "to",
+          "position": 40,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.41",
+          "text": "the",
+          "position": 41,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.42",
+          "text": "half",
+          "position": 42,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.43",
+          "text": "of",
+          "position": 43,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.44",
+          "text": "the",
+          "position": 44,
+          "verseId": "esth.7.2",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.2.45",
+          "text": "kingdom",
+          "position": 45,
+          "verseId": "esth.7.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.3",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "esth.7.3.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.3.2",
+          "text": "Esther",
+          "position": 2,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.3.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.4",
+          "text": "queen",
+          "position": 4,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.5",
+          "text": "answered",
+          "position": 5,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.3.8",
+          "text": "If",
+          "position": 8,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.3.9",
+          "text": "I",
+          "position": 9,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.3.10",
+          "text": "have",
+          "position": 10,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.11",
+          "text": "found",
+          "position": 11,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.12",
+          "text": "favour",
+          "position": 12,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.14",
+          "text": "thy",
+          "position": 14,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.15",
+          "text": "sight",
+          "position": 15,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.3.16",
+          "text": "O",
+          "position": 16,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.3.17",
+          "text": "king",
+          "position": 17,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.3.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.19",
+          "text": "if",
+          "position": 19,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.21",
+          "text": "please",
+          "position": 21,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.23",
+          "text": "king",
+          "position": 23,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.3.24",
+          "text": "let",
+          "position": 24,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.25",
+          "text": "my",
+          "position": 25,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.26",
+          "text": "life",
+          "position": 26,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.27",
+          "text": "be",
+          "position": 27,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.28",
+          "text": "given",
+          "position": 28,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.29",
+          "text": "me",
+          "position": 29,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.30",
+          "text": "at",
+          "position": 30,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.31",
+          "text": "my",
+          "position": 31,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.32",
+          "text": "petition",
+          "position": 32,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.3.33",
+          "text": "and",
+          "position": 33,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.34",
+          "text": "my",
+          "position": 34,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.35",
+          "text": "people",
+          "position": 35,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.36",
+          "text": "at",
+          "position": 36,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.37",
+          "text": "my",
+          "position": 37,
+          "verseId": "esth.7.3",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.3.38",
+          "text": "request",
+          "position": 38,
+          "verseId": "esth.7.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.4",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "esth.7.4.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.4.2",
+          "text": "we",
+          "position": 2,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.3",
+          "text": "are",
+          "position": 3,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.4",
+          "text": "sold",
+          "position": 4,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.5",
+          "text": "I",
+          "position": 5,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.4.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.7",
+          "text": "my",
+          "position": 7,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.8",
+          "text": "people",
+          "position": 8,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.9",
+          "text": "to",
+          "position": 9,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.10",
+          "text": "be",
+          "position": 10,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.11",
+          "text": "destroyed",
+          "position": 11,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.13",
+          "text": "be",
+          "position": 13,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.14",
+          "text": "slain",
+          "position": 14,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.16",
+          "text": "to",
+          "position": 16,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.17",
+          "text": "perish",
+          "position": 17,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "esth.7.4.18",
+          "text": "But",
+          "position": 18,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.4.19",
+          "text": "if",
+          "position": 19,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.20",
+          "text": "we",
+          "position": 20,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.21",
+          "text": "had",
+          "position": 21,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.22",
+          "text": "been",
+          "position": 22,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.23",
+          "text": "sold",
+          "position": 23,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.24",
+          "text": "for",
+          "position": 24,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.25",
+          "text": "bondmen",
+          "position": 25,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.27",
+          "text": "bondwomen",
+          "position": 27,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.28",
+          "text": "I",
+          "position": 28,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.4.29",
+          "text": "had",
+          "position": 29,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.30",
+          "text": "held",
+          "position": 30,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.31",
+          "text": "my",
+          "position": 31,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.32",
+          "text": "tongue",
+          "position": 32,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.4.33",
+          "text": "although",
+          "position": 33,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.35",
+          "text": "enemy",
+          "position": 35,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.36",
+          "text": "could",
+          "position": 36,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.37",
+          "text": "not",
+          "position": 37,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.38",
+          "text": "countervail",
+          "position": 38,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.39",
+          "text": "the",
+          "position": 39,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.40",
+          "text": "king’s",
+          "position": 40,
+          "verseId": "esth.7.4",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.4.41",
+          "text": "damage",
+          "position": 41,
+          "verseId": "esth.7.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.5",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "esth.7.5.2",
+          "text": "Then",
+          "position": 2,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.5.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.4",
+          "text": "king",
+          "position": 4,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.5",
+          "text": "Ahasuerus",
+          "position": 5,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.5.6",
+          "text": "answered",
+          "position": 6,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.8",
+          "text": "said",
+          "position": 8,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.9",
+          "text": "unto",
+          "position": 9,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.10",
+          "text": "Esther",
+          "position": 10,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.5.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.12",
+          "text": "queen",
+          "position": 12,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.5.13",
+          "text": "Who",
+          "position": 13,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.5.14",
+          "text": "is",
+          "position": 14,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.5.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.17",
+          "text": "where",
+          "position": 17,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.18",
+          "text": "is",
+          "position": 18,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.19",
+          "text": "he",
+          "position": 19,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.5.20",
+          "text": "that",
+          "position": 20,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.21",
+          "text": "durst",
+          "position": 21,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.22",
+          "text": "presume",
+          "position": 22,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.23",
+          "text": "in",
+          "position": 23,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.25",
+          "text": "heart",
+          "position": 25,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.26",
+          "text": "to",
+          "position": 26,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.27",
+          "text": "do",
+          "position": 27,
+          "verseId": "esth.7.5",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.5.28",
+          "text": "so",
+          "position": 28,
+          "verseId": "esth.7.5",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.6",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "esth.7.6.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.2",
+          "text": "Esther",
+          "position": 2,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.6.4",
+          "text": "The",
+          "position": 4,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.5",
+          "text": "adversary",
+          "position": 5,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.7",
+          "text": "enemy",
+          "position": 7,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.8",
+          "text": "is",
+          "position": 8,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.9",
+          "text": "this",
+          "position": 9,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.10",
+          "text": "wicked",
+          "position": 10,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.11",
+          "text": "Haman",
+          "position": 11,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.12",
+          "text": "Then",
+          "position": 12,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.13",
+          "text": "Haman",
+          "position": 13,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.6.14",
+          "text": "was",
+          "position": 14,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.15",
+          "text": "afraid",
+          "position": 15,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.16",
+          "text": "before",
+          "position": 16,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.18",
+          "text": "king",
+          "position": 18,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "esth.7.6",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.6.21",
+          "text": "queen",
+          "position": 21,
+          "verseId": "esth.7.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.7",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "esth.7.7.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.7.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.4",
+          "text": "king",
+          "position": 4,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.5",
+          "text": "arising",
+          "position": 5,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.6",
+          "text": "from",
+          "position": 6,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.8",
+          "text": "banquet",
+          "position": 8,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.10",
+          "text": "wine",
+          "position": 10,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.13",
+          "text": "wrath",
+          "position": 13,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.14",
+          "text": "went",
+          "position": 14,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.15",
+          "text": "into",
+          "position": 15,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.17",
+          "text": "palace",
+          "position": 17,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.18",
+          "text": "garden",
+          "position": 18,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "esth.7.7.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.20",
+          "text": "Haman",
+          "position": 20,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.7.21",
+          "text": "stood",
+          "position": 21,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.22",
+          "text": "up",
+          "position": 22,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.24",
+          "text": "make",
+          "position": 24,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.25",
+          "text": "request",
+          "position": 25,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.26",
+          "text": "for",
+          "position": 26,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.27",
+          "text": "his",
+          "position": 27,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.28",
+          "text": "life",
+          "position": 28,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.29",
+          "text": "to",
+          "position": 29,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.30",
+          "text": "Esther",
+          "position": 30,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.7.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.32",
+          "text": "queen",
+          "position": 32,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "esth.7.7.33",
+          "text": "for",
+          "position": 33,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.34",
+          "text": "he",
+          "position": 34,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.35",
+          "text": "saw",
+          "position": 35,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.36",
+          "text": "that",
+          "position": 36,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.37",
+          "text": "there",
+          "position": 37,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.38",
+          "text": "was",
+          "position": 38,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.39",
+          "text": "evil",
+          "position": 39,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.40",
+          "text": "determined",
+          "position": 40,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.41",
+          "text": "against",
+          "position": 41,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.42",
+          "text": "him",
+          "position": 42,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.43",
+          "text": "by",
+          "position": 43,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.44",
+          "text": "the",
+          "position": 44,
+          "verseId": "esth.7.7",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.7.45",
+          "text": "king",
+          "position": 45,
+          "verseId": "esth.7.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.8",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "esth.7.8.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.3",
+          "text": "king",
+          "position": 3,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.4",
+          "text": "returned",
+          "position": 4,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.5",
+          "text": "out",
+          "position": 5,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.8",
+          "text": "palace",
+          "position": 8,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.9",
+          "text": "garden",
+          "position": 9,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.10",
+          "text": "into",
+          "position": 10,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.12",
+          "text": "place",
+          "position": 12,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.15",
+          "text": "banquet",
+          "position": 15,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.17",
+          "text": "wine",
+          "position": 17,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "esth.7.8.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.19",
+          "text": "Haman",
+          "position": 19,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.20",
+          "text": "was",
+          "position": 20,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.21",
+          "text": "fallen",
+          "position": 21,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.22",
+          "text": "upon",
+          "position": 22,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.24",
+          "text": "bed",
+          "position": 24,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.25",
+          "text": "whereon",
+          "position": 25,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.26",
+          "text": "Esther",
+          "position": 26,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.27",
+          "text": "was",
+          "position": 27,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "esth.7.8.28",
+          "text": "Then",
+          "position": 28,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.29",
+          "text": "said",
+          "position": 29,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.31",
+          "text": "king",
+          "position": 31,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.8.32",
+          "text": "Will",
+          "position": 32,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.33",
+          "text": "he",
+          "position": 33,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.34",
+          "text": "force",
+          "position": 34,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.36",
+          "text": "queen",
+          "position": 36,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.37",
+          "text": "also",
+          "position": 37,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.38",
+          "text": "before",
+          "position": 38,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.39",
+          "text": "me",
+          "position": 39,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.40",
+          "text": "in",
+          "position": 40,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.41",
+          "text": "the",
+          "position": 41,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.42",
+          "text": "house",
+          "position": 42,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "esth.7.8.43",
+          "text": "As",
+          "position": 43,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.44",
+          "text": "the",
+          "position": 44,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.45",
+          "text": "word",
+          "position": 45,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.46",
+          "text": "went",
+          "position": 46,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.47",
+          "text": "out",
+          "position": 47,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.48",
+          "text": "of",
+          "position": 48,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.49",
+          "text": "the",
+          "position": 49,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.50",
+          "text": "king’s",
+          "position": 50,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.51",
+          "text": "mouth",
+          "position": 51,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.8.52",
+          "text": "they",
+          "position": 52,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.53",
+          "text": "covered",
+          "position": 53,
+          "verseId": "esth.7.8",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.8.54",
+          "text": "Haman’s",
+          "position": 54,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.8.55",
+          "text": "face",
+          "position": 55,
+          "verseId": "esth.7.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.9",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "esth.7.9.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.2",
+          "text": "Harbonah",
+          "position": 2,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.3",
+          "text": "one",
+          "position": 3,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.6",
+          "text": "chamberlains",
+          "position": 6,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.7",
+          "text": "said",
+          "position": 7,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.8",
+          "text": "before",
+          "position": 8,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.10",
+          "text": "king",
+          "position": 10,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.11",
+          "text": "Behold",
+          "position": 11,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.12",
+          "text": "also",
+          "position": 12,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.14",
+          "text": "gallows",
+          "position": 14,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.15",
+          "text": "fifty",
+          "position": 15,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.16",
+          "text": "cubits",
+          "position": 16,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.17",
+          "text": "high",
+          "position": 17,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.18",
+          "text": "which",
+          "position": 18,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.19",
+          "text": "Haman",
+          "position": 19,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.20",
+          "text": "had",
+          "position": 20,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.21",
+          "text": "made",
+          "position": 21,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.22",
+          "text": "for",
+          "position": 22,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.23",
+          "text": "Mordecai",
+          "position": 23,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.24",
+          "text": "who",
+          "position": 24,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.25",
+          "text": "had",
+          "position": 25,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.26",
+          "text": "spoken",
+          "position": 26,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.27",
+          "text": "good",
+          "position": 27,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.28",
+          "text": "for",
+          "position": 28,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.30",
+          "text": "king",
+          "position": 30,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.31",
+          "text": "standeth",
+          "position": 31,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.32",
+          "text": "in",
+          "position": 32,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.34",
+          "text": "house",
+          "position": 34,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.36",
+          "text": "Haman",
+          "position": 36,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.37",
+          "text": "Then",
+          "position": 37,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.38",
+          "text": "the",
+          "position": 38,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.39",
+          "text": "king",
+          "position": 39,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.40",
+          "text": "said",
+          "position": 40,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "esth.7.9.41",
+          "text": "Hang",
+          "position": 41,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.9.42",
+          "text": "him",
+          "position": 42,
+          "verseId": "esth.7.9",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.9.43",
+          "text": "thereon",
+          "position": 43,
+          "verseId": "esth.7.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "esth.7.10",
+      "book": "esth",
+      "chapter": 7,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "esth.7.10.1",
+          "text": "So",
+          "position": 1,
+          "verseId": "esth.7.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.10.2",
+          "text": "they",
+          "position": 2,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.3",
+          "text": "hanged",
+          "position": 3,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.4",
+          "text": "Haman",
+          "position": 4,
+          "verseId": "esth.7.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.10.5",
+          "text": "on",
+          "position": 5,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.7",
+          "text": "gallows",
+          "position": 7,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.10",
+          "text": "had",
+          "position": 10,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.11",
+          "text": "prepared",
+          "position": 11,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.12",
+          "text": "for",
+          "position": 12,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.13",
+          "text": "Mordecai",
+          "position": 13,
+          "verseId": "esth.7.10",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.10.14",
+          "text": "Then",
+          "position": 14,
+          "verseId": "esth.7.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "esth.7.10.15",
+          "text": "was",
+          "position": 15,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.17",
+          "text": "king’s",
+          "position": 17,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.18",
+          "text": "wrath",
+          "position": 18,
+          "verseId": "esth.7.10",
+          "presentation": {}
+        },
+        {
+          "id": "esth.7.10.19",
+          "text": "pacified",
+          "position": 19,
+          "verseId": "esth.7.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

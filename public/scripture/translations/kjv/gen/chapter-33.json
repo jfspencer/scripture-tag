@@ -1,0 +1,4265 @@
+{
+  "id": "gen.33",
+  "book": "gen",
+  "chapter": 33,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Jacob and Esau meet and are reconciled—Esau receives Jacob’s presents—Jacob settles in Canaan, where he builds an altar.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "gen.33.1",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "gen.33.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.2",
+          "text": "Jacob",
+          "position": 2,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.3",
+          "text": "lifted",
+          "position": 3,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.4",
+          "text": "up",
+          "position": 4,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.5",
+          "text": "his",
+          "position": 5,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.6",
+          "text": "eyes",
+          "position": 6,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.1.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.8",
+          "text": "looked",
+          "position": 8,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.1.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.1.10",
+          "text": "behold",
+          "position": 10,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.1.11",
+          "text": "Esau",
+          "position": 11,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.12",
+          "text": "came",
+          "position": 12,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.1.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.15",
+          "text": "him",
+          "position": 15,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.16",
+          "text": "four",
+          "position": 16,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.17",
+          "text": "hundred",
+          "position": 17,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.18",
+          "text": "men",
+          "position": 18,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "gen.33.1.19",
+          "text": "And",
+          "position": 19,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.20",
+          "text": "he",
+          "position": 20,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.21",
+          "text": "divided",
+          "position": 21,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.23",
+          "text": "children",
+          "position": 23,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.24",
+          "text": "unto",
+          "position": 24,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.25",
+          "text": "Leah",
+          "position": 25,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.27",
+          "text": "unto",
+          "position": 27,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.28",
+          "text": "Rachel",
+          "position": 28,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.1.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.30",
+          "text": "unto",
+          "position": 30,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.32",
+          "text": "two",
+          "position": 32,
+          "verseId": "gen.33.1",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.1.33",
+          "text": "handmaids",
+          "position": 33,
+          "verseId": "gen.33.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.2",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "gen.33.2.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.2.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.3",
+          "text": "put",
+          "position": 3,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.5",
+          "text": "handmaids",
+          "position": 5,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.7",
+          "text": "their",
+          "position": 7,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.8",
+          "text": "children",
+          "position": 8,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.9",
+          "text": "foremost",
+          "position": 9,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.2.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.11",
+          "text": "Leah",
+          "position": 11,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.2.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.13",
+          "text": "her",
+          "position": 13,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.14",
+          "text": "children",
+          "position": 14,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.15",
+          "text": "after",
+          "position": 15,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.2.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.17",
+          "text": "Rachel",
+          "position": 17,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.2.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "gen.33.2",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.2.19",
+          "text": "Joseph",
+          "position": 19,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.2.20",
+          "text": "hindermost",
+          "position": 20,
+          "verseId": "gen.33.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.3",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "gen.33.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.3.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.3",
+          "text": "passed",
+          "position": 3,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.4",
+          "text": "over",
+          "position": 4,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.5",
+          "text": "before",
+          "position": 5,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.6",
+          "text": "them",
+          "position": 6,
+          "verseId": "gen.33.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.3.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.8",
+          "text": "bowed",
+          "position": 8,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.9",
+          "text": "himself",
+          "position": 9,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.12",
+          "text": "ground",
+          "position": 12,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.13",
+          "text": "seven",
+          "position": 13,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.14",
+          "text": "times",
+          "position": 14,
+          "verseId": "gen.33.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.3.15",
+          "text": "until",
+          "position": 15,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.17",
+          "text": "came",
+          "position": 17,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.18",
+          "text": "near",
+          "position": 18,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.19",
+          "text": "to",
+          "position": 19,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.20",
+          "text": "his",
+          "position": 20,
+          "verseId": "gen.33.3",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.3.21",
+          "text": "brother",
+          "position": 21,
+          "verseId": "gen.33.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.4",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "gen.33.4.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.4.2",
+          "text": "Esau",
+          "position": 2,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.4.3",
+          "text": "ran",
+          "position": 3,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.5",
+          "text": "meet",
+          "position": 5,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.6",
+          "text": "him",
+          "position": 6,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.4.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.8",
+          "text": "embraced",
+          "position": 8,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.9",
+          "text": "him",
+          "position": 9,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.4.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.11",
+          "text": "fell",
+          "position": 11,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.12",
+          "text": "on",
+          "position": 12,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.14",
+          "text": "neck",
+          "position": 14,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.4.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.16",
+          "text": "kissed",
+          "position": 16,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.17",
+          "text": "him",
+          "position": 17,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.4.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.19",
+          "text": "they",
+          "position": 19,
+          "verseId": "gen.33.4",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.4.20",
+          "text": "wept",
+          "position": 20,
+          "verseId": "gen.33.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.5",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "gen.33.5.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.5.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.3",
+          "text": "lifted",
+          "position": 3,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.4",
+          "text": "up",
+          "position": 4,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.5",
+          "text": "his",
+          "position": 5,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.6",
+          "text": "eyes",
+          "position": 6,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.5.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.8",
+          "text": "saw",
+          "position": 8,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.10",
+          "text": "women",
+          "position": 10,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.13",
+          "text": "children",
+          "position": 13,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.33.5.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.15",
+          "text": "said",
+          "position": 15,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.5.16",
+          "text": "Who",
+          "position": 16,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.5.17",
+          "text": "are",
+          "position": 17,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.18",
+          "text": "those",
+          "position": 18,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.19",
+          "text": "with",
+          "position": 19,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.20",
+          "text": "thee",
+          "position": 20,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "gen.33.5.21",
+          "text": "And",
+          "position": 21,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.5.22",
+          "text": "he",
+          "position": 22,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.23",
+          "text": "said",
+          "position": 23,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.5.24",
+          "text": "The",
+          "position": 24,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.5.25",
+          "text": "children",
+          "position": 25,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.26",
+          "text": "which",
+          "position": 26,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.27",
+          "text": "God",
+          "position": 27,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.5.28",
+          "text": "hath",
+          "position": 28,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.29",
+          "text": "graciously",
+          "position": 29,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.30",
+          "text": "given",
+          "position": 30,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.31",
+          "text": "thy",
+          "position": 31,
+          "verseId": "gen.33.5",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.5.32",
+          "text": "servant",
+          "position": 32,
+          "verseId": "gen.33.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.6",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "gen.33.6.1",
+          "text": "Then",
+          "position": 1,
+          "verseId": "gen.33.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.6.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.3",
+          "text": "handmaidens",
+          "position": 3,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.4",
+          "text": "came",
+          "position": 4,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.5",
+          "text": "near",
+          "position": 5,
+          "verseId": "gen.33.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.6.6",
+          "text": "they",
+          "position": 6,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.8",
+          "text": "their",
+          "position": 8,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.9",
+          "text": "children",
+          "position": 9,
+          "verseId": "gen.33.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.6.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.11",
+          "text": "they",
+          "position": 11,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.12",
+          "text": "bowed",
+          "position": 12,
+          "verseId": "gen.33.6",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.6.13",
+          "text": "themselves",
+          "position": 13,
+          "verseId": "gen.33.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.7",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "gen.33.7.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.7.2",
+          "text": "Leah",
+          "position": 2,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.7.3",
+          "text": "also",
+          "position": 3,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.4",
+          "text": "with",
+          "position": 4,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.5",
+          "text": "her",
+          "position": 5,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.6",
+          "text": "children",
+          "position": 6,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.7",
+          "text": "came",
+          "position": 7,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.8",
+          "text": "near",
+          "position": 8,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.7.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.10",
+          "text": "bowed",
+          "position": 10,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.11",
+          "text": "themselves",
+          "position": 11,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.7.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.13",
+          "text": "after",
+          "position": 13,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.14",
+          "text": "came",
+          "position": 14,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.15",
+          "text": "Joseph",
+          "position": 15,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.7.16",
+          "text": "near",
+          "position": 16,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.18",
+          "text": "Rachel",
+          "position": 18,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.7.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.20",
+          "text": "they",
+          "position": 20,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.21",
+          "text": "bowed",
+          "position": 21,
+          "verseId": "gen.33.7",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.7.22",
+          "text": "themselves",
+          "position": 22,
+          "verseId": "gen.33.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.8",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "gen.33.8.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.8.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.8.4",
+          "text": "What",
+          "position": 4,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.8.5",
+          "text": "meanest",
+          "position": 5,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.6",
+          "text": "thou",
+          "position": 6,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.7",
+          "text": "by",
+          "position": 7,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.8",
+          "text": "all",
+          "position": 8,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.9",
+          "text": "this",
+          "position": 9,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.10",
+          "text": "drove",
+          "position": 10,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.11",
+          "text": "which",
+          "position": 11,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.12",
+          "text": "I",
+          "position": 12,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.8.13",
+          "text": "met",
+          "position": 13,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "gen.33.8.14",
+          "text": "And",
+          "position": 14,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.8.15",
+          "text": "he",
+          "position": 15,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.16",
+          "text": "said",
+          "position": 16,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.8.17",
+          "text": "These",
+          "position": 17,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.8.18",
+          "text": "are",
+          "position": 18,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.19",
+          "text": "to",
+          "position": 19,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.20",
+          "text": "find",
+          "position": 20,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.21",
+          "text": "grace",
+          "position": 21,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.22",
+          "text": "in",
+          "position": 22,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.24",
+          "text": "sight",
+          "position": 24,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.25",
+          "text": "of",
+          "position": 25,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.26",
+          "text": "my",
+          "position": 26,
+          "verseId": "gen.33.8",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.8.27",
+          "text": "lord",
+          "position": 27,
+          "verseId": "gen.33.8",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.9",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "gen.33.9.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.9.2",
+          "text": "Esau",
+          "position": 2,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.9.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.9.4",
+          "text": "I",
+          "position": 4,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.9.5",
+          "text": "have",
+          "position": 5,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.6",
+          "text": "enough",
+          "position": 6,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.9.7",
+          "text": "my",
+          "position": 7,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.8",
+          "text": "brother",
+          "position": 8,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.33.9.9",
+          "text": "keep",
+          "position": 9,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.10",
+          "text": "that",
+          "position": 10,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.11",
+          "text": "thou",
+          "position": 11,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.12",
+          "text": "hast",
+          "position": 12,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.13",
+          "text": "unto",
+          "position": 13,
+          "verseId": "gen.33.9",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.9.14",
+          "text": "thyself",
+          "position": 14,
+          "verseId": "gen.33.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.10",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "gen.33.10.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.2",
+          "text": "Jacob",
+          "position": 2,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.10.4",
+          "text": "Nay",
+          "position": 4,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.5",
+          "text": "I",
+          "position": 5,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.6",
+          "text": "pray",
+          "position": 6,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.7",
+          "text": "thee",
+          "position": 7,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.10.8",
+          "text": "if",
+          "position": 8,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.9",
+          "text": "now",
+          "position": 9,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.10",
+          "text": "I",
+          "position": 10,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.11",
+          "text": "have",
+          "position": 11,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.12",
+          "text": "found",
+          "position": 12,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.13",
+          "text": "grace",
+          "position": 13,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.14",
+          "text": "in",
+          "position": 14,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.15",
+          "text": "thy",
+          "position": 15,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.16",
+          "text": "sight",
+          "position": 16,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.10.17",
+          "text": "then",
+          "position": 17,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.18",
+          "text": "receive",
+          "position": 18,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.19",
+          "text": "my",
+          "position": 19,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.20",
+          "text": "present",
+          "position": 20,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.21",
+          "text": "at",
+          "position": 21,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.22",
+          "text": "my",
+          "position": 22,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.23",
+          "text": "hand",
+          "position": 23,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.10.24",
+          "text": "for",
+          "position": 24,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.25",
+          "text": "therefore",
+          "position": 25,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.26",
+          "text": "I",
+          "position": 26,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.27",
+          "text": "have",
+          "position": 27,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.28",
+          "text": "seen",
+          "position": 28,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.29",
+          "text": "thy",
+          "position": 29,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.30",
+          "text": "face",
+          "position": 30,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.10.31",
+          "text": "as",
+          "position": 31,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.32",
+          "text": "though",
+          "position": 32,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.33",
+          "text": "I",
+          "position": 33,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.10.34",
+          "text": "had",
+          "position": 34,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.35",
+          "text": "seen",
+          "position": 35,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.36",
+          "text": "the",
+          "position": 36,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.37",
+          "text": "face",
+          "position": 37,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.38",
+          "text": "of",
+          "position": 38,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.39",
+          "text": "God",
+          "position": 39,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.10.40",
+          "text": "and",
+          "position": 40,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.41",
+          "text": "thou",
+          "position": 41,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.42",
+          "text": "wast",
+          "position": 42,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.43",
+          "text": "pleased",
+          "position": 43,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.44",
+          "text": "with",
+          "position": 44,
+          "verseId": "gen.33.10",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.10.45",
+          "text": "me",
+          "position": 45,
+          "verseId": "gen.33.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.11",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "gen.33.11.1",
+          "text": "Take",
+          "position": 1,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.11.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.11.3",
+          "text": "pray",
+          "position": 3,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.4",
+          "text": "thee",
+          "position": 4,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.11.5",
+          "text": "my",
+          "position": 5,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.6",
+          "text": "blessing",
+          "position": 6,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.7",
+          "text": "that",
+          "position": 7,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.8",
+          "text": "is",
+          "position": 8,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.9",
+          "text": "brought",
+          "position": 9,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.11",
+          "text": "thee",
+          "position": 11,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "gen.33.11.12",
+          "text": "because",
+          "position": 12,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.13",
+          "text": "God",
+          "position": 13,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.11.14",
+          "text": "hath",
+          "position": 14,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.15",
+          "text": "dealt",
+          "position": 15,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.16",
+          "text": "graciously",
+          "position": 16,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.17",
+          "text": "with",
+          "position": 17,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.18",
+          "text": "me",
+          "position": 18,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.11.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.20",
+          "text": "because",
+          "position": 20,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.21",
+          "text": "I",
+          "position": 21,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.11.22",
+          "text": "have",
+          "position": 22,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.23",
+          "text": "enough",
+          "position": 23,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "gen.33.11.24",
+          "text": "And",
+          "position": 24,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.11.25",
+          "text": "he",
+          "position": 25,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.26",
+          "text": "urged",
+          "position": 26,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.27",
+          "text": "him",
+          "position": 27,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.11.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.29",
+          "text": "he",
+          "position": 29,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.30",
+          "text": "took",
+          "position": 30,
+          "verseId": "gen.33.11",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.11.31",
+          "text": "it",
+          "position": 31,
+          "verseId": "gen.33.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.12",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "gen.33.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.12.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.12.4",
+          "text": "Let",
+          "position": 4,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.12.5",
+          "text": "us",
+          "position": 5,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.6",
+          "text": "take",
+          "position": 6,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.7",
+          "text": "our",
+          "position": 7,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.8",
+          "text": "journey",
+          "position": 8,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.12.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.10",
+          "text": "let",
+          "position": 10,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.11",
+          "text": "us",
+          "position": 11,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.12",
+          "text": "go",
+          "position": 12,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.12.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.12.15",
+          "text": "will",
+          "position": 15,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.16",
+          "text": "go",
+          "position": 16,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.17",
+          "text": "before",
+          "position": 17,
+          "verseId": "gen.33.12",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.12.18",
+          "text": "thee",
+          "position": 18,
+          "verseId": "gen.33.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.13",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "gen.33.13.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.13.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.13.6",
+          "text": "My",
+          "position": 6,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.13.7",
+          "text": "lord",
+          "position": 7,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.13.8",
+          "text": "knoweth",
+          "position": 8,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.9",
+          "text": "that",
+          "position": 9,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.11",
+          "text": "children",
+          "position": 11,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.12",
+          "text": "are",
+          "position": 12,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.13",
+          "text": "tender",
+          "position": 13,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.13.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.16",
+          "text": "flocks",
+          "position": 16,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.18",
+          "text": "herds",
+          "position": 18,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.19",
+          "text": "with",
+          "position": 19,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.20",
+          "text": "young",
+          "position": 20,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.21",
+          "text": "are",
+          "position": 21,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.22",
+          "text": "with",
+          "position": 22,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.23",
+          "text": "me",
+          "position": 23,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.13.24",
+          "text": "and",
+          "position": 24,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.25",
+          "text": "if",
+          "position": 25,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.26",
+          "text": "men",
+          "position": 26,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.27",
+          "text": "should",
+          "position": 27,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.28",
+          "text": "overdrive",
+          "position": 28,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.29",
+          "text": "them",
+          "position": 29,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.30",
+          "text": "one",
+          "position": 30,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.31",
+          "text": "day",
+          "position": 31,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.13.32",
+          "text": "all",
+          "position": 32,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.34",
+          "text": "flock",
+          "position": 34,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.35",
+          "text": "will",
+          "position": 35,
+          "verseId": "gen.33.13",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.13.36",
+          "text": "die",
+          "position": 36,
+          "verseId": "gen.33.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.14",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "gen.33.14.1",
+          "text": "Let",
+          "position": 1,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.14.2",
+          "text": "my",
+          "position": 2,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.3",
+          "text": "lord",
+          "position": 3,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.14.4",
+          "text": "I",
+          "position": 4,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.14.5",
+          "text": "pray",
+          "position": 5,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.6",
+          "text": "thee",
+          "position": 6,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.14.7",
+          "text": "pass",
+          "position": 7,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.8",
+          "text": "over",
+          "position": 8,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.9",
+          "text": "before",
+          "position": 9,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.11",
+          "text": "servant",
+          "position": 11,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.14.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.13",
+          "text": "I",
+          "position": 13,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.14.14",
+          "text": "will",
+          "position": 14,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.15",
+          "text": "lead",
+          "position": 15,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.16",
+          "text": "on",
+          "position": 16,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.17",
+          "text": "softly",
+          "position": 17,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.14.18",
+          "text": "according",
+          "position": 18,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.19",
+          "text": "as",
+          "position": 19,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.20",
+          "text": "the",
+          "position": 20,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.21",
+          "text": "cattle",
+          "position": 21,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.23",
+          "text": "goeth",
+          "position": 23,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.24",
+          "text": "before",
+          "position": 24,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.25",
+          "text": "me",
+          "position": 25,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.28",
+          "text": "children",
+          "position": 28,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.29",
+          "text": "be",
+          "position": 29,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.30",
+          "text": "able",
+          "position": 30,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.31",
+          "text": "to",
+          "position": 31,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.32",
+          "text": "endure",
+          "position": 32,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.14.33",
+          "text": "until",
+          "position": 33,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.34",
+          "text": "I",
+          "position": 34,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.14.35",
+          "text": "come",
+          "position": 35,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.36",
+          "text": "unto",
+          "position": 36,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.37",
+          "text": "my",
+          "position": 37,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.38",
+          "text": "lord",
+          "position": 38,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "gen.33.14.39",
+          "text": "unto",
+          "position": 39,
+          "verseId": "gen.33.14",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.14.40",
+          "text": "Seir",
+          "position": 40,
+          "verseId": "gen.33.14",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.15",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "gen.33.15.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.15.2",
+          "text": "Esau",
+          "position": 2,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.15.3",
+          "text": "said",
+          "position": 3,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.15.4",
+          "text": "Let",
+          "position": 4,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.15.5",
+          "text": "me",
+          "position": 5,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.6",
+          "text": "now",
+          "position": 6,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.7",
+          "text": "leave",
+          "position": 7,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.8",
+          "text": "with",
+          "position": 8,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.9",
+          "text": "thee",
+          "position": 9,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.10",
+          "text": "some",
+          "position": 10,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.13",
+          "text": "folk",
+          "position": 13,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.14",
+          "text": "that",
+          "position": 14,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.15",
+          "text": "are",
+          "position": 15,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.16",
+          "text": "with",
+          "position": 16,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.17",
+          "text": "me",
+          "position": 17,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "gen.33.15.18",
+          "text": "And",
+          "position": 18,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.15.19",
+          "text": "he",
+          "position": 19,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.20",
+          "text": "said",
+          "position": 20,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.15.21",
+          "text": "What",
+          "position": 21,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.15.22",
+          "text": "needeth",
+          "position": 22,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.23",
+          "text": "it",
+          "position": 23,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "gen.33.15.24",
+          "text": "let",
+          "position": 24,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.25",
+          "text": "me",
+          "position": 25,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.26",
+          "text": "find",
+          "position": 26,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.27",
+          "text": "grace",
+          "position": 27,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.28",
+          "text": "in",
+          "position": 28,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.30",
+          "text": "sight",
+          "position": 30,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.32",
+          "text": "my",
+          "position": 32,
+          "verseId": "gen.33.15",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.15.33",
+          "text": "lord",
+          "position": 33,
+          "verseId": "gen.33.15",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.16",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "gen.33.16.2",
+          "text": "So",
+          "position": 2,
+          "verseId": "gen.33.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.16.3",
+          "text": "Esau",
+          "position": 3,
+          "verseId": "gen.33.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.16.4",
+          "text": "returned",
+          "position": 4,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.5",
+          "text": "that",
+          "position": 5,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.6",
+          "text": "day",
+          "position": 6,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.7",
+          "text": "on",
+          "position": 7,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.8",
+          "text": "his",
+          "position": 8,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.9",
+          "text": "way",
+          "position": 9,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.10",
+          "text": "unto",
+          "position": 10,
+          "verseId": "gen.33.16",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.16.11",
+          "text": "Seir",
+          "position": 11,
+          "verseId": "gen.33.16",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.17",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "gen.33.17.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.17.2",
+          "text": "Jacob",
+          "position": 2,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.17.3",
+          "text": "journeyed",
+          "position": 3,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.5",
+          "text": "Succoth",
+          "position": 5,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.17.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.7",
+          "text": "built",
+          "position": 7,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.8",
+          "text": "him",
+          "position": 8,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.9",
+          "text": "an",
+          "position": 9,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.10",
+          "text": "house",
+          "position": 10,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.17.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.12",
+          "text": "made",
+          "position": 12,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.13",
+          "text": "booths",
+          "position": 13,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.14",
+          "text": "for",
+          "position": 14,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.16",
+          "text": "cattle",
+          "position": 16,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "gen.33.17.17",
+          "text": "therefore",
+          "position": 17,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.19",
+          "text": "name",
+          "position": 19,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.22",
+          "text": "place",
+          "position": 22,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.23",
+          "text": "is",
+          "position": 23,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.24",
+          "text": "called",
+          "position": 24,
+          "verseId": "gen.33.17",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.17.25",
+          "text": "Succoth",
+          "position": 25,
+          "verseId": "gen.33.17",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.18",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "gen.33.18.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.3",
+          "text": "Jacob",
+          "position": 3,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.4",
+          "text": "came",
+          "position": 4,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.6",
+          "text": "Shalem",
+          "position": 6,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.7",
+          "text": "a",
+          "position": 7,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.8",
+          "text": "city",
+          "position": 8,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.10",
+          "text": "Shechem",
+          "position": 10,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.11",
+          "text": "which",
+          "position": 11,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.12",
+          "text": "is",
+          "position": 12,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.15",
+          "text": "land",
+          "position": 15,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.17",
+          "text": "Canaan",
+          "position": 17,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.18",
+          "text": "when",
+          "position": 18,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.19",
+          "text": "he",
+          "position": 19,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.20",
+          "text": "came",
+          "position": 20,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.21",
+          "text": "from",
+          "position": 21,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.22",
+          "text": "Padan-aram",
+          "position": 22,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.18.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.24",
+          "text": "pitched",
+          "position": 24,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.25",
+          "text": "his",
+          "position": 25,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.26",
+          "text": "tent",
+          "position": 26,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.27",
+          "text": "before",
+          "position": 27,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "gen.33.18",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.18.29",
+          "text": "city",
+          "position": 29,
+          "verseId": "gen.33.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.19",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 19,
+      "tokens": [
+        {
+          "id": "gen.33.19.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.19.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.3",
+          "text": "bought",
+          "position": 3,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.5",
+          "text": "parcel",
+          "position": 5,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.7",
+          "text": "a",
+          "position": 7,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.8",
+          "text": "field",
+          "position": 8,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.19.9",
+          "text": "where",
+          "position": 9,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.11",
+          "text": "had",
+          "position": 11,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.12",
+          "text": "spread",
+          "position": 12,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.14",
+          "text": "tent",
+          "position": 14,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.19.15",
+          "text": "at",
+          "position": 15,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.17",
+          "text": "hand",
+          "position": 17,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.20",
+          "text": "children",
+          "position": 20,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.22",
+          "text": "Hamor",
+          "position": 22,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.19.23",
+          "text": "Shechem’s",
+          "position": 23,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.19.24",
+          "text": "father",
+          "position": 24,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.19.25",
+          "text": "for",
+          "position": 25,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.26",
+          "text": "an",
+          "position": 26,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.27",
+          "text": "hundred",
+          "position": 27,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.28",
+          "text": "pieces",
+          "position": 28,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.29",
+          "text": "of",
+          "position": 29,
+          "verseId": "gen.33.19",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.19.30",
+          "text": "money",
+          "position": 30,
+          "verseId": "gen.33.19",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "gen.33.20",
+      "book": "gen",
+      "chapter": 33,
+      "verse": 20,
+      "tokens": [
+        {
+          "id": "gen.33.20.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "gen.33.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "gen.33.20.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.3",
+          "text": "erected",
+          "position": 3,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.4",
+          "text": "there",
+          "position": 4,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.5",
+          "text": "an",
+          "position": 5,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.6",
+          "text": "altar",
+          "position": 6,
+          "verseId": "gen.33.20",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "gen.33.20.7",
+          "text": "and",
+          "position": 7,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.8",
+          "text": "called",
+          "position": 8,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.9",
+          "text": "it",
+          "position": 9,
+          "verseId": "gen.33.20",
+          "presentation": {}
+        },
+        {
+          "id": "gen.33.20.10",
+          "text": "El-elohe-Israel",
+          "position": 10,
+          "verseId": "gen.33.20",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

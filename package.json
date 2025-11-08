@@ -1,0 +1,43 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "import:test": "bun scripts/test-import.ts",
+    "import:bofm": "bun scripts/import.ts --source=bofm",
+    "import:ot": "bun scripts/import.ts --source=ot",
+    "import:nt": "bun scripts/import.ts --source=nt",
+    "import:dc": "bun scripts/import.ts --source=dc",
+    "import:pgp": "bun scripts/import.ts --source=pgp",
+    "import:all": "bun scripts/import.ts",
+    "validate:bofm": "bun scripts/validate.ts --source=bofm",
+    "validate:ot": "bun scripts/validate.ts --source=ot",
+    "validate:nt": "bun scripts/validate.ts --source=nt",
+    "validate:dc": "bun scripts/validate.ts --source=dc",
+    "validate:pgp": "bun scripts/validate.ts --source=pgp",
+    "validate:all": "bun scripts/validate.ts",
+    "validate": "bun scripts/validate.ts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^22.19.0",
+    "postcss": "^8.4.49",
+    "solid-devtools": "^0.34.3",
+    "tailwindcss": "^4.1.13",
+    "tsx": "^4.20.6",
+    "vite": "^7.1.4",
+    "vite-plugin-solid": "^2.11.8"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.15.1",
+    "cheerio": "^1.1.2",
+    "effect": "^3.19.2",
+    "solid-js": "^1.9.5"
+  }
+}

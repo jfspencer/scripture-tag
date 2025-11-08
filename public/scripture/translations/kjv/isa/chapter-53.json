@@ -1,0 +1,3088 @@
+{
+  "id": "isa.53",
+  "book": "isa",
+  "chapter": 53,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Isaiah speaks about the Messiah—His humiliation and sufferings are described—He makes His soul an offering for sin and makes intercession for the transgressors—Compare Mosiah 14.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "isa.53.1",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "isa.53.1.1",
+          "text": "Who",
+          "position": 1,
+          "verseId": "isa.53.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.1.2",
+          "text": "hath",
+          "position": 2,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.3",
+          "text": "believed",
+          "position": 3,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.4",
+          "text": "our",
+          "position": 4,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.5",
+          "text": "report",
+          "position": 5,
+          "verseId": "isa.53.1",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "isa.53.1.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.8",
+          "text": "whom",
+          "position": 8,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.9",
+          "text": "is",
+          "position": 9,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.11",
+          "text": "arm",
+          "position": 11,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.12",
+          "text": "of",
+          "position": 12,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "isa.53.1",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.1.14",
+          "text": "Lord",
+          "position": 14,
+          "verseId": "isa.53.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "isa.53.1.15",
+          "text": "revealed",
+          "position": 15,
+          "verseId": "isa.53.1",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.2",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "isa.53.2.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.2.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.3",
+          "text": "shall",
+          "position": 3,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.4",
+          "text": "grow",
+          "position": 4,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.5",
+          "text": "up",
+          "position": 5,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.6",
+          "text": "before",
+          "position": 6,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.7",
+          "text": "him",
+          "position": 7,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.8",
+          "text": "as",
+          "position": 8,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.9",
+          "text": "a",
+          "position": 9,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.10",
+          "text": "tender",
+          "position": 10,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.11",
+          "text": "plant",
+          "position": 11,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.2.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.13",
+          "text": "as",
+          "position": 13,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.14",
+          "text": "a",
+          "position": 14,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.15",
+          "text": "root",
+          "position": 15,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.16",
+          "text": "out",
+          "position": 16,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.18",
+          "text": "a",
+          "position": 18,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.19",
+          "text": "dry",
+          "position": 19,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.20",
+          "text": "ground",
+          "position": 20,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.2.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.22",
+          "text": "hath",
+          "position": 22,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.23",
+          "text": "no",
+          "position": 23,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.24",
+          "text": "form",
+          "position": 24,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.25",
+          "text": "nor",
+          "position": 25,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.26",
+          "text": "comeliness",
+          "position": 26,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.2.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.28",
+          "text": "when",
+          "position": 28,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.29",
+          "text": "we",
+          "position": 29,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.30",
+          "text": "shall",
+          "position": 30,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.31",
+          "text": "see",
+          "position": 31,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.32",
+          "text": "him",
+          "position": 32,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.2.33",
+          "text": "there",
+          "position": 33,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.34",
+          "text": "is",
+          "position": 34,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.35",
+          "text": "no",
+          "position": 35,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.36",
+          "text": "beauty",
+          "position": 36,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.37",
+          "text": "that",
+          "position": 37,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.38",
+          "text": "we",
+          "position": 38,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.39",
+          "text": "should",
+          "position": 39,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.40",
+          "text": "desire",
+          "position": 40,
+          "verseId": "isa.53.2",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.2.41",
+          "text": "him",
+          "position": 41,
+          "verseId": "isa.53.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.3",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "isa.53.3.1",
+          "text": "He",
+          "position": 1,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.3.2",
+          "text": "is",
+          "position": 2,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.3",
+          "text": "despised",
+          "position": 3,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.5",
+          "text": "rejected",
+          "position": 5,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.7",
+          "text": "men",
+          "position": 7,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.3.8",
+          "text": "a",
+          "position": 8,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.9",
+          "text": "man",
+          "position": 9,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.11",
+          "text": "sorrows",
+          "position": 11,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.3.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.13",
+          "text": "acquainted",
+          "position": 13,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.15",
+          "text": "grief",
+          "position": 15,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.3.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.17",
+          "text": "we",
+          "position": 17,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.18",
+          "text": "hid",
+          "position": 18,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.19",
+          "text": "as",
+          "position": 19,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.21",
+          "text": "were",
+          "position": 21,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.22",
+          "text": "our",
+          "position": 22,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.23",
+          "text": "faces",
+          "position": 23,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.24",
+          "text": "from",
+          "position": 24,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.25",
+          "text": "him",
+          "position": 25,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.3.26",
+          "text": "he",
+          "position": 26,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.27",
+          "text": "was",
+          "position": 27,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.28",
+          "text": "despised",
+          "position": 28,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.3.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.30",
+          "text": "we",
+          "position": 30,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.31",
+          "text": "esteemed",
+          "position": 31,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.32",
+          "text": "him",
+          "position": 32,
+          "verseId": "isa.53.3",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.3.33",
+          "text": "not",
+          "position": 33,
+          "verseId": "isa.53.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.4",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "isa.53.4.2",
+          "text": "Surely",
+          "position": 2,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.4.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.4",
+          "text": "hath",
+          "position": 4,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.5",
+          "text": "borne",
+          "position": 5,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.6",
+          "text": "our",
+          "position": 6,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.7",
+          "text": "griefs",
+          "position": 7,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.4.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.9",
+          "text": "carried",
+          "position": 9,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.10",
+          "text": "our",
+          "position": 10,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.11",
+          "text": "sorrows",
+          "position": 11,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.4.12",
+          "text": "yet",
+          "position": 12,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.13",
+          "text": "we",
+          "position": 13,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.14",
+          "text": "did",
+          "position": 14,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.15",
+          "text": "esteem",
+          "position": 15,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.17",
+          "text": "stricken",
+          "position": 17,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.4.18",
+          "text": "smitten",
+          "position": 18,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.19",
+          "text": "of",
+          "position": 19,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.20",
+          "text": "God",
+          "position": 20,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "isa.53.4.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "isa.53.4",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.4.22",
+          "text": "afflicted",
+          "position": 22,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.5",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "isa.53.5.1",
+          "text": "But",
+          "position": 1,
+          "verseId": "isa.53.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.5.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.3",
+          "text": "was",
+          "position": 3,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.4",
+          "text": "wounded",
+          "position": 4,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.5",
+          "text": "for",
+          "position": 5,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.6",
+          "text": "our",
+          "position": 6,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.7",
+          "text": "transgressions",
+          "position": 7,
+          "verseId": "isa.53.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.5.8",
+          "text": "he",
+          "position": 8,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.9",
+          "text": "was",
+          "position": 9,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.10",
+          "text": "bruised",
+          "position": 10,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.11",
+          "text": "for",
+          "position": 11,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.12",
+          "text": "our",
+          "position": 12,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.13",
+          "text": "iniquities",
+          "position": 13,
+          "verseId": "isa.53.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.5.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.15",
+          "text": "chastisement",
+          "position": 15,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.17",
+          "text": "our",
+          "position": 17,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.18",
+          "text": "peace",
+          "position": 18,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.19",
+          "text": "was",
+          "position": 19,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.21",
+          "text": "him",
+          "position": 21,
+          "verseId": "isa.53.5",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.5.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.23",
+          "text": "with",
+          "position": 23,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.25",
+          "text": "stripes",
+          "position": 25,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.26",
+          "text": "we",
+          "position": 26,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.27",
+          "text": "are",
+          "position": 27,
+          "verseId": "isa.53.5",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.5.28",
+          "text": "healed",
+          "position": 28,
+          "verseId": "isa.53.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.6",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "isa.53.6.1",
+          "text": "All",
+          "position": 1,
+          "verseId": "isa.53.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.6.2",
+          "text": "we",
+          "position": 2,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.3",
+          "text": "like",
+          "position": 3,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.4",
+          "text": "sheep",
+          "position": 4,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.5",
+          "text": "have",
+          "position": 5,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.6",
+          "text": "gone",
+          "position": 6,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.7",
+          "text": "astray",
+          "position": 7,
+          "verseId": "isa.53.6",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.6.8",
+          "text": "we",
+          "position": 8,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.9",
+          "text": "have",
+          "position": 9,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.10",
+          "text": "turned",
+          "position": 10,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.11",
+          "text": "every",
+          "position": 11,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.12",
+          "text": "one",
+          "position": 12,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.13",
+          "text": "to",
+          "position": 13,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.15",
+          "text": "own",
+          "position": 15,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.16",
+          "text": "way",
+          "position": 16,
+          "verseId": "isa.53.6",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.6.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.19",
+          "text": "Lord",
+          "position": 19,
+          "verseId": "isa.53.6",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "isa.53.6.20",
+          "text": "hath",
+          "position": 20,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.21",
+          "text": "laid",
+          "position": 21,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.22",
+          "text": "on",
+          "position": 22,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.23",
+          "text": "him",
+          "position": 23,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.25",
+          "text": "iniquity",
+          "position": 25,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.26",
+          "text": "of",
+          "position": 26,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.27",
+          "text": "us",
+          "position": 27,
+          "verseId": "isa.53.6",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.6.28",
+          "text": "all",
+          "position": 28,
+          "verseId": "isa.53.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.7",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "isa.53.7.1",
+          "text": "He",
+          "position": 1,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.7.2",
+          "text": "was",
+          "position": 2,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.3",
+          "text": "oppressed",
+          "position": 3,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.7.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.5",
+          "text": "he",
+          "position": 5,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.6",
+          "text": "was",
+          "position": 6,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.7",
+          "text": "afflicted",
+          "position": 7,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.7.8",
+          "text": "yet",
+          "position": 8,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.9",
+          "text": "he",
+          "position": 9,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.10",
+          "text": "opened",
+          "position": 10,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.11",
+          "text": "not",
+          "position": 11,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.13",
+          "text": "mouth",
+          "position": 13,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.7.14",
+          "text": "he",
+          "position": 14,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.15",
+          "text": "is",
+          "position": 15,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.16",
+          "text": "brought",
+          "position": 16,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.17",
+          "text": "as",
+          "position": 17,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.18",
+          "text": "a",
+          "position": 18,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.19",
+          "text": "lamb",
+          "position": 19,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.20",
+          "text": "to",
+          "position": 20,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.22",
+          "text": "slaughter",
+          "position": 22,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.7.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.24",
+          "text": "as",
+          "position": 24,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.25",
+          "text": "a",
+          "position": 25,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.26",
+          "text": "sheep",
+          "position": 26,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.27",
+          "text": "before",
+          "position": 27,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.28",
+          "text": "her",
+          "position": 28,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.29",
+          "text": "shearers",
+          "position": 29,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.30",
+          "text": "is",
+          "position": 30,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.31",
+          "text": "dumb",
+          "position": 31,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.7.32",
+          "text": "so",
+          "position": 32,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.33",
+          "text": "he",
+          "position": 33,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.34",
+          "text": "openeth",
+          "position": 34,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.35",
+          "text": "not",
+          "position": 35,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.36",
+          "text": "his",
+          "position": 36,
+          "verseId": "isa.53.7",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.7.37",
+          "text": "mouth",
+          "position": 37,
+          "verseId": "isa.53.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.8",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "isa.53.8.1",
+          "text": "He",
+          "position": 1,
+          "verseId": "isa.53.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.8.2",
+          "text": "was",
+          "position": 2,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.3",
+          "text": "taken",
+          "position": 3,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.4",
+          "text": "from",
+          "position": 4,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.5",
+          "text": "prison",
+          "position": 5,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.7",
+          "text": "from",
+          "position": 7,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.8",
+          "text": "judgment",
+          "position": 8,
+          "verseId": "isa.53.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.8.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.10",
+          "text": "who",
+          "position": 10,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.11",
+          "text": "shall",
+          "position": 11,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.12",
+          "text": "declare",
+          "position": 12,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.13",
+          "text": "his",
+          "position": 13,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.14",
+          "text": "generation",
+          "position": 14,
+          "verseId": "isa.53.8",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "isa.53.8.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.18",
+          "text": "cut",
+          "position": 18,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.19",
+          "text": "off",
+          "position": 19,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.20",
+          "text": "out",
+          "position": 20,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.23",
+          "text": "land",
+          "position": 23,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.26",
+          "text": "living",
+          "position": 26,
+          "verseId": "isa.53.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.8.27",
+          "text": "for",
+          "position": 27,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.29",
+          "text": "transgression",
+          "position": 29,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.31",
+          "text": "my",
+          "position": 31,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.32",
+          "text": "people",
+          "position": 32,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.33",
+          "text": "was",
+          "position": 33,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.34",
+          "text": "he",
+          "position": 34,
+          "verseId": "isa.53.8",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.8.35",
+          "text": "stricken",
+          "position": 35,
+          "verseId": "isa.53.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.9",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "isa.53.9.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "isa.53.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.9.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.4",
+          "text": "his",
+          "position": 4,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.5",
+          "text": "grave",
+          "position": 5,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.6",
+          "text": "with",
+          "position": 6,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.8",
+          "text": "wicked",
+          "position": 8,
+          "verseId": "isa.53.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.9.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.10",
+          "text": "with",
+          "position": 10,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.12",
+          "text": "rich",
+          "position": 12,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.15",
+          "text": "death",
+          "position": 15,
+          "verseId": "isa.53.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.9.16",
+          "text": "because",
+          "position": 16,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.17",
+          "text": "he",
+          "position": 17,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.18",
+          "text": "had",
+          "position": 18,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.19",
+          "text": "done",
+          "position": 19,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.20",
+          "text": "no",
+          "position": 20,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.21",
+          "text": "violence",
+          "position": 21,
+          "verseId": "isa.53.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.9.22",
+          "text": "neither",
+          "position": 22,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.23",
+          "text": "was",
+          "position": 23,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.24",
+          "text": "any",
+          "position": 24,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.25",
+          "text": "deceit",
+          "position": 25,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.26",
+          "text": "in",
+          "position": 26,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.27",
+          "text": "his",
+          "position": 27,
+          "verseId": "isa.53.9",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.9.28",
+          "text": "mouth",
+          "position": 28,
+          "verseId": "isa.53.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.10",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "isa.53.10.2",
+          "text": "Yet",
+          "position": 2,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.10.3",
+          "text": "it",
+          "position": 3,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.4",
+          "text": "pleased",
+          "position": 4,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.6",
+          "text": "Lord",
+          "position": 6,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "isa.53.10.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.8",
+          "text": "bruise",
+          "position": 8,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.9",
+          "text": "him",
+          "position": 9,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.10.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.11",
+          "text": "hath",
+          "position": 11,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.12",
+          "text": "put",
+          "position": 12,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.13",
+          "text": "him",
+          "position": 13,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.15",
+          "text": "grief",
+          "position": 15,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.10.16",
+          "text": "when",
+          "position": 16,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.17",
+          "text": "thou",
+          "position": 17,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.18",
+          "text": "shalt",
+          "position": 18,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.19",
+          "text": "make",
+          "position": 19,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.20",
+          "text": "his",
+          "position": 20,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.21",
+          "text": "soul",
+          "position": 21,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.22",
+          "text": "an",
+          "position": 22,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.23",
+          "text": "offering",
+          "position": 23,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.24",
+          "text": "for",
+          "position": 24,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.25",
+          "text": "sin",
+          "position": 25,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.10.26",
+          "text": "he",
+          "position": 26,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.27",
+          "text": "shall",
+          "position": 27,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.28",
+          "text": "see",
+          "position": 28,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.29",
+          "text": "his",
+          "position": 29,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.30",
+          "text": "seed",
+          "position": 30,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.10.31",
+          "text": "he",
+          "position": 31,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.32",
+          "text": "shall",
+          "position": 32,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.33",
+          "text": "prolong",
+          "position": 33,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.34",
+          "text": "his",
+          "position": 34,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.35",
+          "text": "days",
+          "position": 35,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.10.36",
+          "text": "and",
+          "position": 36,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.37",
+          "text": "the",
+          "position": 37,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.38",
+          "text": "pleasure",
+          "position": 38,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.39",
+          "text": "of",
+          "position": 39,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.40",
+          "text": "the",
+          "position": 40,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.41",
+          "text": "Lord",
+          "position": 41,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "isa.53.10.42",
+          "text": "shall",
+          "position": 42,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.43",
+          "text": "prosper",
+          "position": 43,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.44",
+          "text": "in",
+          "position": 44,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.45",
+          "text": "his",
+          "position": 45,
+          "verseId": "isa.53.10",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.10.46",
+          "text": "hand",
+          "position": 46,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.11",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "isa.53.11.1",
+          "text": "He",
+          "position": 1,
+          "verseId": "isa.53.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.11.2",
+          "text": "shall",
+          "position": 2,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.3",
+          "text": "see",
+          "position": 3,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.6",
+          "text": "travail",
+          "position": 6,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.8",
+          "text": "his",
+          "position": 8,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.9",
+          "text": "soul",
+          "position": 9,
+          "verseId": "isa.53.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.11.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.11",
+          "text": "shall",
+          "position": 11,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.12",
+          "text": "be",
+          "position": 12,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.13",
+          "text": "satisfied",
+          "position": 13,
+          "verseId": "isa.53.11",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.11.14",
+          "text": "by",
+          "position": 14,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.16",
+          "text": "knowledge",
+          "position": 16,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.17",
+          "text": "shall",
+          "position": 17,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.18",
+          "text": "my",
+          "position": 18,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.19",
+          "text": "righteous",
+          "position": 19,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.20",
+          "text": "servant",
+          "position": 20,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.21",
+          "text": "justify",
+          "position": 21,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.22",
+          "text": "many",
+          "position": 22,
+          "verseId": "isa.53.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.11.23",
+          "text": "for",
+          "position": 23,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.24",
+          "text": "he",
+          "position": 24,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.25",
+          "text": "shall",
+          "position": 25,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.26",
+          "text": "bear",
+          "position": 26,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.27",
+          "text": "their",
+          "position": 27,
+          "verseId": "isa.53.11",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.11.28",
+          "text": "iniquities",
+          "position": 28,
+          "verseId": "isa.53.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "isa.53.12",
+      "book": "isa",
+      "chapter": 53,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "isa.53.12.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.12.2",
+          "text": "will",
+          "position": 2,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.3",
+          "text": "I",
+          "position": 3,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "isa.53.12.4",
+          "text": "divide",
+          "position": 4,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.6",
+          "text": "a",
+          "position": 6,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.7",
+          "text": "portion",
+          "position": 7,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.8",
+          "text": "with",
+          "position": 8,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.10",
+          "text": "great",
+          "position": 10,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.12.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.12",
+          "text": "he",
+          "position": 12,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.13",
+          "text": "shall",
+          "position": 13,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.14",
+          "text": "divide",
+          "position": 14,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.16",
+          "text": "spoil",
+          "position": 16,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.17",
+          "text": "with",
+          "position": 17,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.19",
+          "text": "strong",
+          "position": 19,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.12.20",
+          "text": "because",
+          "position": 20,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.22",
+          "text": "hath",
+          "position": 22,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.23",
+          "text": "poured",
+          "position": 23,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.24",
+          "text": "out",
+          "position": 24,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.25",
+          "text": "his",
+          "position": 25,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.26",
+          "text": "soul",
+          "position": 26,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.27",
+          "text": "unto",
+          "position": 27,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.28",
+          "text": "death",
+          "position": 28,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "isa.53.12.29",
+          "text": "and",
+          "position": 29,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.30",
+          "text": "he",
+          "position": 30,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.31",
+          "text": "was",
+          "position": 31,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.32",
+          "text": "numbered",
+          "position": 32,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.33",
+          "text": "with",
+          "position": 33,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.35",
+          "text": "transgressors",
+          "position": 35,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "isa.53.12.36",
+          "text": "and",
+          "position": 36,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.37",
+          "text": "he",
+          "position": 37,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.38",
+          "text": "bare",
+          "position": 38,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.39",
+          "text": "the",
+          "position": 39,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.40",
+          "text": "sin",
+          "position": 40,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.41",
+          "text": "of",
+          "position": 41,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.42",
+          "text": "many",
+          "position": 42,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "isa.53.12.43",
+          "text": "and",
+          "position": 43,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.44",
+          "text": "made",
+          "position": 44,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.45",
+          "text": "intercession",
+          "position": 45,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.46",
+          "text": "for",
+          "position": 46,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.47",
+          "text": "the",
+          "position": 47,
+          "verseId": "isa.53.12",
+          "presentation": {}
+        },
+        {
+          "id": "isa.53.12.48",
+          "text": "transgressors",
+          "position": 48,
+          "verseId": "isa.53.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

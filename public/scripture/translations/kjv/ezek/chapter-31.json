@@ -1,0 +1,5352 @@
+{
+  "id": "ezek.31",
+  "book": "ezek",
+  "chapter": 31,
+  "translation": "kjv",
+  "heading": {
+    "summary": "Pharaoh’s glory and fall are compared to that of the Assyrians.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "ezek.31.1",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "ezek.31.1.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.1.2",
+          "text": "it",
+          "position": 2,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.3",
+          "text": "came",
+          "position": 3,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.4",
+          "text": "to",
+          "position": 4,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.5",
+          "text": "pass",
+          "position": 5,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.6",
+          "text": "in",
+          "position": 6,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.8",
+          "text": "eleventh",
+          "position": 8,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.9",
+          "text": "year",
+          "position": 9,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.1.10",
+          "text": "in",
+          "position": 10,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.12",
+          "text": "third",
+          "position": 12,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.13",
+          "text": "month",
+          "position": 13,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.1.14",
+          "text": "in",
+          "position": 14,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.16",
+          "text": "first",
+          "position": 16,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.17",
+          "text": "day",
+          "position": 17,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.20",
+          "text": "month",
+          "position": 20,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.1.21",
+          "text": "that",
+          "position": 21,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.23",
+          "text": "word",
+          "position": 23,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.26",
+          "text": "Lord",
+          "position": 26,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.1.27",
+          "text": "came",
+          "position": 27,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.28",
+          "text": "unto",
+          "position": 28,
+          "verseId": "ezek.31.1",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.1.29",
+          "text": "me",
+          "position": 29,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.1.30",
+          "text": "saying",
+          "position": 30,
+          "verseId": "ezek.31.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.2",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "ezek.31.2.1",
+          "text": "Son",
+          "position": 1,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.2.2",
+          "text": "of",
+          "position": 2,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.3",
+          "text": "man",
+          "position": 3,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.2.4",
+          "text": "speak",
+          "position": 4,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.6",
+          "text": "Pharaoh",
+          "position": 6,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.2.7",
+          "text": "king",
+          "position": 7,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.9",
+          "text": "Egypt",
+          "position": 9,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.2.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.13",
+          "text": "multitude",
+          "position": 13,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.2.14",
+          "text": "Whom",
+          "position": 14,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.2.15",
+          "text": "art",
+          "position": 15,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.16",
+          "text": "thou",
+          "position": 16,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.17",
+          "text": "like",
+          "position": 17,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.18",
+          "text": "in",
+          "position": 18,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.19",
+          "text": "thy",
+          "position": 19,
+          "verseId": "ezek.31.2",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.2.20",
+          "text": "greatness",
+          "position": 20,
+          "verseId": "ezek.31.2",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.3",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "ezek.31.3.2",
+          "text": "Behold",
+          "position": 2,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.3.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.4",
+          "text": "Assyrian",
+          "position": 4,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.3.5",
+          "text": "was",
+          "position": 5,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.6",
+          "text": "a",
+          "position": 6,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.7",
+          "text": "cedar",
+          "position": 7,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.8",
+          "text": "in",
+          "position": 8,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.9",
+          "text": "Lebanon",
+          "position": 9,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.3.10",
+          "text": "with",
+          "position": 10,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.11",
+          "text": "fair",
+          "position": 11,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.12",
+          "text": "branches",
+          "position": 12,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.3.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.15",
+          "text": "a",
+          "position": 15,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.16",
+          "text": "shadowing",
+          "position": 16,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.17",
+          "text": "shroud",
+          "position": 17,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.3.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.19",
+          "text": "of",
+          "position": 19,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.20",
+          "text": "an",
+          "position": 20,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.21",
+          "text": "high",
+          "position": 21,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.22",
+          "text": "stature",
+          "position": 22,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.3.23",
+          "text": "and",
+          "position": 23,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.25",
+          "text": "top",
+          "position": 25,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.26",
+          "text": "was",
+          "position": 26,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.27",
+          "text": "among",
+          "position": 27,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.29",
+          "text": "thick",
+          "position": 29,
+          "verseId": "ezek.31.3",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.3.30",
+          "text": "boughs",
+          "position": 30,
+          "verseId": "ezek.31.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.4",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "ezek.31.4.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "ezek.31.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.4.2",
+          "text": "waters",
+          "position": 2,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.4",
+          "text": "him",
+          "position": 4,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.5",
+          "text": "great",
+          "position": 5,
+          "verseId": "ezek.31.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.4.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.7",
+          "text": "deep",
+          "position": 7,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.8",
+          "text": "set",
+          "position": 8,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.9",
+          "text": "him",
+          "position": 9,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.10",
+          "text": "up",
+          "position": 10,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.11",
+          "text": "on",
+          "position": 11,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.12",
+          "text": "high",
+          "position": 12,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.13",
+          "text": "with",
+          "position": 13,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.14",
+          "text": "her",
+          "position": 14,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.15",
+          "text": "rivers",
+          "position": 15,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.16",
+          "text": "running",
+          "position": 16,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.17",
+          "text": "round",
+          "position": 17,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.18",
+          "text": "about",
+          "position": 18,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.19",
+          "text": "his",
+          "position": 19,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.20",
+          "text": "plants",
+          "position": 20,
+          "verseId": "ezek.31.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.4.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.22",
+          "text": "sent",
+          "position": 22,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.23",
+          "text": "out",
+          "position": 23,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.24",
+          "text": "her",
+          "position": 24,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.25",
+          "text": "little",
+          "position": 25,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.26",
+          "text": "rivers",
+          "position": 26,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.27",
+          "text": "unto",
+          "position": 27,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.28",
+          "text": "all",
+          "position": 28,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.30",
+          "text": "trees",
+          "position": 30,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "ezek.31.4",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.4.33",
+          "text": "field",
+          "position": 33,
+          "verseId": "ezek.31.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.5",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "ezek.31.5.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "ezek.31.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.5.2",
+          "text": "his",
+          "position": 2,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.3",
+          "text": "height",
+          "position": 3,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.4",
+          "text": "was",
+          "position": 4,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.5",
+          "text": "exalted",
+          "position": 5,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.6",
+          "text": "above",
+          "position": 6,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.9",
+          "text": "trees",
+          "position": 9,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.12",
+          "text": "field",
+          "position": 12,
+          "verseId": "ezek.31.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.5.13",
+          "text": "and",
+          "position": 13,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.15",
+          "text": "boughs",
+          "position": 15,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.16",
+          "text": "were",
+          "position": 16,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.17",
+          "text": "multiplied",
+          "position": 17,
+          "verseId": "ezek.31.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.5.18",
+          "text": "and",
+          "position": 18,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.19",
+          "text": "his",
+          "position": 19,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.20",
+          "text": "branches",
+          "position": 20,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.21",
+          "text": "became",
+          "position": 21,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.22",
+          "text": "long",
+          "position": 22,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.23",
+          "text": "because",
+          "position": 23,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.26",
+          "text": "multitude",
+          "position": 26,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.28",
+          "text": "waters",
+          "position": 28,
+          "verseId": "ezek.31.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.5.29",
+          "text": "when",
+          "position": 29,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.30",
+          "text": "he",
+          "position": 30,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.31",
+          "text": "shot",
+          "position": 31,
+          "verseId": "ezek.31.5",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.5.32",
+          "text": "forth",
+          "position": 32,
+          "verseId": "ezek.31.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.6",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "ezek.31.6.1",
+          "text": "All",
+          "position": 1,
+          "verseId": "ezek.31.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.6.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.3",
+          "text": "fowls",
+          "position": 3,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.5",
+          "text": "heaven",
+          "position": 5,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.6",
+          "text": "made",
+          "position": 6,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.7",
+          "text": "their",
+          "position": 7,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.8",
+          "text": "nests",
+          "position": 8,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.11",
+          "text": "boughs",
+          "position": 11,
+          "verseId": "ezek.31.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.6.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.13",
+          "text": "under",
+          "position": 13,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.14",
+          "text": "his",
+          "position": 14,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.15",
+          "text": "branches",
+          "position": 15,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.16",
+          "text": "did",
+          "position": 16,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.17",
+          "text": "all",
+          "position": 17,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.19",
+          "text": "beasts",
+          "position": 19,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.20",
+          "text": "of",
+          "position": 20,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.22",
+          "text": "field",
+          "position": 22,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.23",
+          "text": "bring",
+          "position": 23,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.24",
+          "text": "forth",
+          "position": 24,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.25",
+          "text": "their",
+          "position": 25,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.26",
+          "text": "young",
+          "position": 26,
+          "verseId": "ezek.31.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.6.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.28",
+          "text": "under",
+          "position": 28,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.29",
+          "text": "his",
+          "position": 29,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.30",
+          "text": "shadow",
+          "position": 30,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.31",
+          "text": "dwelt",
+          "position": 31,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.32",
+          "text": "all",
+          "position": 32,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.33",
+          "text": "great",
+          "position": 33,
+          "verseId": "ezek.31.6",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.6.34",
+          "text": "nations",
+          "position": 34,
+          "verseId": "ezek.31.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.7",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "ezek.31.7.1",
+          "text": "Thus",
+          "position": 1,
+          "verseId": "ezek.31.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.7.2",
+          "text": "was",
+          "position": 2,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.3",
+          "text": "he",
+          "position": 3,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.4",
+          "text": "fair",
+          "position": 4,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.5",
+          "text": "in",
+          "position": 5,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.6",
+          "text": "his",
+          "position": 6,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.7",
+          "text": "greatness",
+          "position": 7,
+          "verseId": "ezek.31.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.7.8",
+          "text": "in",
+          "position": 8,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.10",
+          "text": "length",
+          "position": 10,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.12",
+          "text": "his",
+          "position": 12,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.13",
+          "text": "branches",
+          "position": 13,
+          "verseId": "ezek.31.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.7.14",
+          "text": "for",
+          "position": 14,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.15",
+          "text": "his",
+          "position": 15,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.16",
+          "text": "root",
+          "position": 16,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.17",
+          "text": "was",
+          "position": 17,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.18",
+          "text": "by",
+          "position": 18,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.19",
+          "text": "great",
+          "position": 19,
+          "verseId": "ezek.31.7",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.7.20",
+          "text": "waters",
+          "position": 20,
+          "verseId": "ezek.31.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.8",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "ezek.31.8.1",
+          "text": "The",
+          "position": 1,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.8.2",
+          "text": "cedars",
+          "position": 2,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.3",
+          "text": "in",
+          "position": 3,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.5",
+          "text": "garden",
+          "position": 5,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.7",
+          "text": "God",
+          "position": 7,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.8.8",
+          "text": "could",
+          "position": 8,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.9",
+          "text": "not",
+          "position": 9,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.10",
+          "text": "hide",
+          "position": 10,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.11",
+          "text": "him",
+          "position": 11,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.8.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.13",
+          "text": "fir",
+          "position": 13,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.14",
+          "text": "trees",
+          "position": 14,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.15",
+          "text": "were",
+          "position": 15,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.16",
+          "text": "not",
+          "position": 16,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.17",
+          "text": "like",
+          "position": 17,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.18",
+          "text": "his",
+          "position": 18,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.19",
+          "text": "boughs",
+          "position": 19,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.8.20",
+          "text": "and",
+          "position": 20,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.22",
+          "text": "chestnut",
+          "position": 22,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.23",
+          "text": "trees",
+          "position": 23,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.24",
+          "text": "were",
+          "position": 24,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.25",
+          "text": "not",
+          "position": 25,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.26",
+          "text": "like",
+          "position": 26,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.27",
+          "text": "his",
+          "position": 27,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.28",
+          "text": "branches",
+          "position": 28,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.8.29",
+          "text": "nor",
+          "position": 29,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.30",
+          "text": "any",
+          "position": 30,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.31",
+          "text": "tree",
+          "position": 31,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.32",
+          "text": "in",
+          "position": 32,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.34",
+          "text": "garden",
+          "position": 34,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.36",
+          "text": "God",
+          "position": 36,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.8.37",
+          "text": "was",
+          "position": 37,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.38",
+          "text": "like",
+          "position": 38,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.39",
+          "text": "unto",
+          "position": 39,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.40",
+          "text": "him",
+          "position": 40,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.41",
+          "text": "in",
+          "position": 41,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.42",
+          "text": "his",
+          "position": 42,
+          "verseId": "ezek.31.8",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.8.43",
+          "text": "beauty",
+          "position": 43,
+          "verseId": "ezek.31.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.9",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "ezek.31.9.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "ezek.31.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.9.2",
+          "text": "have",
+          "position": 2,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.3",
+          "text": "made",
+          "position": 3,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.4",
+          "text": "him",
+          "position": 4,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.5",
+          "text": "fair",
+          "position": 5,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.6",
+          "text": "by",
+          "position": 6,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.8",
+          "text": "multitude",
+          "position": 8,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.10",
+          "text": "his",
+          "position": 10,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.11",
+          "text": "branches",
+          "position": 11,
+          "verseId": "ezek.31.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.9.12",
+          "text": "so",
+          "position": 12,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.14",
+          "text": "all",
+          "position": 14,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.16",
+          "text": "trees",
+          "position": 16,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.18",
+          "text": "Eden",
+          "position": 18,
+          "verseId": "ezek.31.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.9.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.20",
+          "text": "were",
+          "position": 20,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.21",
+          "text": "in",
+          "position": 21,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.23",
+          "text": "garden",
+          "position": 23,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.25",
+          "text": "God",
+          "position": 25,
+          "verseId": "ezek.31.9",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.9.26",
+          "text": "envied",
+          "position": 26,
+          "verseId": "ezek.31.9",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.9.27",
+          "text": "him",
+          "position": 27,
+          "verseId": "ezek.31.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.10",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "ezek.31.10.2",
+          "text": "Therefore",
+          "position": 2,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.10.3",
+          "text": "thus",
+          "position": 3,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.4",
+          "text": "saith",
+          "position": 4,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.6",
+          "text": "Lord",
+          "position": 6,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.10.7",
+          "text": "God",
+          "position": 7,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.10.8",
+          "text": "Because",
+          "position": 8,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.10.9",
+          "text": "thou",
+          "position": 9,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.10",
+          "text": "hast",
+          "position": 10,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.11",
+          "text": "lifted",
+          "position": 11,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.12",
+          "text": "up",
+          "position": 12,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.13",
+          "text": "thyself",
+          "position": 13,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.14",
+          "text": "in",
+          "position": 14,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.15",
+          "text": "height",
+          "position": 15,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.10.16",
+          "text": "and",
+          "position": 16,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.17",
+          "text": "he",
+          "position": 17,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.18",
+          "text": "hath",
+          "position": 18,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.19",
+          "text": "shot",
+          "position": 19,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.20",
+          "text": "up",
+          "position": 20,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.21",
+          "text": "his",
+          "position": 21,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.22",
+          "text": "top",
+          "position": 22,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.23",
+          "text": "among",
+          "position": 23,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.25",
+          "text": "thick",
+          "position": 25,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.26",
+          "text": "boughs",
+          "position": 26,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.10.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.28",
+          "text": "his",
+          "position": 28,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.29",
+          "text": "heart",
+          "position": 29,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.30",
+          "text": "is",
+          "position": 30,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.31",
+          "text": "lifted",
+          "position": 31,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.32",
+          "text": "up",
+          "position": 32,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.33",
+          "text": "in",
+          "position": 33,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.34",
+          "text": "his",
+          "position": 34,
+          "verseId": "ezek.31.10",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.10.35",
+          "text": "height",
+          "position": 35,
+          "verseId": "ezek.31.10",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.11",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "ezek.31.11.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "ezek.31.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.11.2",
+          "text": "have",
+          "position": 2,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.3",
+          "text": "therefore",
+          "position": 3,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.4",
+          "text": "delivered",
+          "position": 4,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.6",
+          "text": "into",
+          "position": 6,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.8",
+          "text": "hand",
+          "position": 8,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.11",
+          "text": "mighty",
+          "position": 11,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.12",
+          "text": "one",
+          "position": 12,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.13",
+          "text": "of",
+          "position": 13,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.15",
+          "text": "heathen",
+          "position": 15,
+          "verseId": "ezek.31.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.11.16",
+          "text": "he",
+          "position": 16,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.17",
+          "text": "shall",
+          "position": 17,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.18",
+          "text": "surely",
+          "position": 18,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.19",
+          "text": "deal",
+          "position": 19,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.20",
+          "text": "with",
+          "position": 20,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.21",
+          "text": "him",
+          "position": 21,
+          "verseId": "ezek.31.11",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.11.22",
+          "text": "I",
+          "position": 22,
+          "verseId": "ezek.31.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.11.23",
+          "text": "have",
+          "position": 23,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.24",
+          "text": "driven",
+          "position": 24,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.25",
+          "text": "him",
+          "position": 25,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.26",
+          "text": "out",
+          "position": 26,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.27",
+          "text": "for",
+          "position": 27,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.28",
+          "text": "his",
+          "position": 28,
+          "verseId": "ezek.31.11",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.11.29",
+          "text": "wickedness",
+          "position": 29,
+          "verseId": "ezek.31.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.12",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "ezek.31.12.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.12.2",
+          "text": "strangers",
+          "position": 2,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.12.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.4",
+          "text": "terrible",
+          "position": 4,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.7",
+          "text": "nations",
+          "position": 7,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.12.8",
+          "text": "have",
+          "position": 8,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.9",
+          "text": "cut",
+          "position": 9,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.10",
+          "text": "him",
+          "position": 10,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.11",
+          "text": "off",
+          "position": 11,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.12.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.13",
+          "text": "have",
+          "position": 13,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.14",
+          "text": "left",
+          "position": 14,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.15",
+          "text": "him",
+          "position": 15,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.12.16",
+          "text": "upon",
+          "position": 16,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.18",
+          "text": "mountains",
+          "position": 18,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.20",
+          "text": "in",
+          "position": 20,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.21",
+          "text": "all",
+          "position": 21,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.23",
+          "text": "valleys",
+          "position": 23,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.24",
+          "text": "his",
+          "position": 24,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.25",
+          "text": "branches",
+          "position": 25,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.26",
+          "text": "are",
+          "position": 26,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.27",
+          "text": "fallen",
+          "position": 27,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.12.28",
+          "text": "and",
+          "position": 28,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.29",
+          "text": "his",
+          "position": 29,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.30",
+          "text": "boughs",
+          "position": 30,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.31",
+          "text": "are",
+          "position": 31,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.32",
+          "text": "broken",
+          "position": 32,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.33",
+          "text": "by",
+          "position": 33,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.34",
+          "text": "all",
+          "position": 34,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.36",
+          "text": "rivers",
+          "position": 36,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.37",
+          "text": "of",
+          "position": 37,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.38",
+          "text": "the",
+          "position": 38,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.39",
+          "text": "land",
+          "position": 39,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.12.40",
+          "text": "and",
+          "position": 40,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.41",
+          "text": "all",
+          "position": 41,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.42",
+          "text": "the",
+          "position": 42,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.43",
+          "text": "people",
+          "position": 43,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.44",
+          "text": "of",
+          "position": 44,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.45",
+          "text": "the",
+          "position": 45,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.46",
+          "text": "earth",
+          "position": 46,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.47",
+          "text": "are",
+          "position": 47,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.48",
+          "text": "gone",
+          "position": 48,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.49",
+          "text": "down",
+          "position": 49,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.50",
+          "text": "from",
+          "position": 50,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.51",
+          "text": "his",
+          "position": 51,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.52",
+          "text": "shadow",
+          "position": 52,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.12.53",
+          "text": "and",
+          "position": 53,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.54",
+          "text": "have",
+          "position": 54,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.55",
+          "text": "left",
+          "position": 55,
+          "verseId": "ezek.31.12",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.12.56",
+          "text": "him",
+          "position": 56,
+          "verseId": "ezek.31.12",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.13",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "ezek.31.13.1",
+          "text": "Upon",
+          "position": 1,
+          "verseId": "ezek.31.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.13.2",
+          "text": "his",
+          "position": 2,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.3",
+          "text": "ruin",
+          "position": 3,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.4",
+          "text": "shall",
+          "position": 4,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.5",
+          "text": "all",
+          "position": 5,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.7",
+          "text": "fowls",
+          "position": 7,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.10",
+          "text": "heaven",
+          "position": 10,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.11",
+          "text": "remain",
+          "position": 11,
+          "verseId": "ezek.31.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.13.12",
+          "text": "and",
+          "position": 12,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.13",
+          "text": "all",
+          "position": 13,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.15",
+          "text": "beasts",
+          "position": 15,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.18",
+          "text": "field",
+          "position": 18,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.19",
+          "text": "shall",
+          "position": 19,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.20",
+          "text": "be",
+          "position": 20,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.21",
+          "text": "upon",
+          "position": 21,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.22",
+          "text": "his",
+          "position": 22,
+          "verseId": "ezek.31.13",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.13.23",
+          "text": "branches",
+          "position": 23,
+          "verseId": "ezek.31.13",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.14",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "ezek.31.14.1",
+          "text": "To",
+          "position": 1,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.14.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.3",
+          "text": "end",
+          "position": 3,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.5",
+          "text": "none",
+          "position": 5,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.7",
+          "text": "all",
+          "position": 7,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.9",
+          "text": "trees",
+          "position": 9,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.10",
+          "text": "by",
+          "position": 10,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.12",
+          "text": "waters",
+          "position": 12,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.13",
+          "text": "exalt",
+          "position": 13,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.14",
+          "text": "themselves",
+          "position": 14,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.16",
+          "text": "their",
+          "position": 16,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.17",
+          "text": "height",
+          "position": 17,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.18",
+          "text": "neither",
+          "position": 18,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.19",
+          "text": "shoot",
+          "position": 19,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.20",
+          "text": "up",
+          "position": 20,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.21",
+          "text": "their",
+          "position": 21,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.22",
+          "text": "top",
+          "position": 22,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.23",
+          "text": "among",
+          "position": 23,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.24",
+          "text": "the",
+          "position": 24,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.25",
+          "text": "thick",
+          "position": 25,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.26",
+          "text": "boughs",
+          "position": 26,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.27",
+          "text": "neither",
+          "position": 27,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.28",
+          "text": "their",
+          "position": 28,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.29",
+          "text": "trees",
+          "position": 29,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.30",
+          "text": "stand",
+          "position": 30,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.31",
+          "text": "up",
+          "position": 31,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.32",
+          "text": "in",
+          "position": 32,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.33",
+          "text": "their",
+          "position": 33,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.34",
+          "text": "height",
+          "position": 34,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.35",
+          "text": "all",
+          "position": 35,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.36",
+          "text": "that",
+          "position": 36,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.37",
+          "text": "drink",
+          "position": 37,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.38",
+          "text": "water",
+          "position": 38,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.14.39",
+          "text": "for",
+          "position": 39,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.40",
+          "text": "they",
+          "position": 40,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.41",
+          "text": "are",
+          "position": 41,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.42",
+          "text": "all",
+          "position": 42,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.43",
+          "text": "delivered",
+          "position": 43,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.44",
+          "text": "unto",
+          "position": 44,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.45",
+          "text": "death",
+          "position": 45,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.46",
+          "text": "to",
+          "position": 46,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.47",
+          "text": "the",
+          "position": 47,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.48",
+          "text": "nether",
+          "position": 48,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.49",
+          "text": "parts",
+          "position": 49,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.50",
+          "text": "of",
+          "position": 50,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.51",
+          "text": "the",
+          "position": 51,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.52",
+          "text": "earth",
+          "position": 52,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.53",
+          "text": "in",
+          "position": 53,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.54",
+          "text": "the",
+          "position": 54,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.55",
+          "text": "midst",
+          "position": 55,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.56",
+          "text": "of",
+          "position": 56,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.57",
+          "text": "the",
+          "position": 57,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.58",
+          "text": "children",
+          "position": 58,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.59",
+          "text": "of",
+          "position": 59,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.60",
+          "text": "men",
+          "position": 60,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.14.61",
+          "text": "with",
+          "position": 61,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.62",
+          "text": "them",
+          "position": 62,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.63",
+          "text": "that",
+          "position": 63,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.64",
+          "text": "go",
+          "position": 64,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.65",
+          "text": "down",
+          "position": 65,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.66",
+          "text": "to",
+          "position": 66,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.67",
+          "text": "the",
+          "position": 67,
+          "verseId": "ezek.31.14",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.14.68",
+          "text": "pit",
+          "position": 68,
+          "verseId": "ezek.31.14",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.15",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "ezek.31.15.1",
+          "text": "Thus",
+          "position": 1,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.2",
+          "text": "saith",
+          "position": 2,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.4",
+          "text": "Lord",
+          "position": 4,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.15.5",
+          "text": "God",
+          "position": 5,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.15.6",
+          "text": "In",
+          "position": 6,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.8",
+          "text": "day",
+          "position": 8,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.9",
+          "text": "when",
+          "position": 9,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.11",
+          "text": "went",
+          "position": 11,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.12",
+          "text": "down",
+          "position": 12,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.13",
+          "text": "to",
+          "position": 13,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.15",
+          "text": "grave",
+          "position": 15,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.16",
+          "text": "I",
+          "position": 16,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.17",
+          "text": "caused",
+          "position": 17,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.18",
+          "text": "a",
+          "position": 18,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.19",
+          "text": "mourning",
+          "position": 19,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.15.20",
+          "text": "I",
+          "position": 20,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.21",
+          "text": "covered",
+          "position": 21,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.23",
+          "text": "deep",
+          "position": 23,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.24",
+          "text": "for",
+          "position": 24,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.25",
+          "text": "him",
+          "position": 25,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.15.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.27",
+          "text": "I",
+          "position": 27,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.28",
+          "text": "restrained",
+          "position": 28,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.30",
+          "text": "floods",
+          "position": 30,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.31",
+          "text": "thereof",
+          "position": 31,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.15.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.34",
+          "text": "great",
+          "position": 34,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.35",
+          "text": "waters",
+          "position": 35,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.36",
+          "text": "were",
+          "position": 36,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.37",
+          "text": "stayed",
+          "position": 37,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.15.38",
+          "text": "and",
+          "position": 38,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.39",
+          "text": "I",
+          "position": 39,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.40",
+          "text": "caused",
+          "position": 40,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.41",
+          "text": "Lebanon",
+          "position": 41,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.15.42",
+          "text": "to",
+          "position": 42,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.43",
+          "text": "mourn",
+          "position": 43,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.44",
+          "text": "for",
+          "position": 44,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.45",
+          "text": "him",
+          "position": 45,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.15.46",
+          "text": "and",
+          "position": 46,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.47",
+          "text": "all",
+          "position": 47,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.48",
+          "text": "the",
+          "position": 48,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.49",
+          "text": "trees",
+          "position": 49,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.50",
+          "text": "of",
+          "position": 50,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.51",
+          "text": "the",
+          "position": 51,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.52",
+          "text": "field",
+          "position": 52,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.53",
+          "text": "fainted",
+          "position": 53,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.54",
+          "text": "for",
+          "position": 54,
+          "verseId": "ezek.31.15",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.15.55",
+          "text": "him",
+          "position": 55,
+          "verseId": "ezek.31.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.16",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "ezek.31.16.1",
+          "text": "I",
+          "position": 1,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.16.2",
+          "text": "made",
+          "position": 2,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.4",
+          "text": "nations",
+          "position": 4,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.5",
+          "text": "to",
+          "position": 5,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.6",
+          "text": "shake",
+          "position": 6,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.7",
+          "text": "at",
+          "position": 7,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.9",
+          "text": "sound",
+          "position": 9,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.11",
+          "text": "his",
+          "position": 11,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.12",
+          "text": "fall",
+          "position": 12,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.16.13",
+          "text": "when",
+          "position": 13,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.16.15",
+          "text": "cast",
+          "position": 15,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.16",
+          "text": "him",
+          "position": 16,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.17",
+          "text": "down",
+          "position": 17,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.18",
+          "text": "to",
+          "position": 18,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.19",
+          "text": "hell",
+          "position": 19,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.20",
+          "text": "with",
+          "position": 20,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.21",
+          "text": "them",
+          "position": 21,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.22",
+          "text": "that",
+          "position": 22,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.23",
+          "text": "descend",
+          "position": 23,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.24",
+          "text": "into",
+          "position": 24,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.26",
+          "text": "pit",
+          "position": 26,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.16.27",
+          "text": "and",
+          "position": 27,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.28",
+          "text": "all",
+          "position": 28,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.30",
+          "text": "trees",
+          "position": 30,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.32",
+          "text": "Eden",
+          "position": 32,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.16.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.34",
+          "text": "choice",
+          "position": 34,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.35",
+          "text": "and",
+          "position": 35,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.36",
+          "text": "best",
+          "position": 36,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.37",
+          "text": "of",
+          "position": 37,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.38",
+          "text": "Lebanon",
+          "position": 38,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.16.39",
+          "text": "all",
+          "position": 39,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.40",
+          "text": "that",
+          "position": 40,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.41",
+          "text": "drink",
+          "position": 41,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.42",
+          "text": "water",
+          "position": 42,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.16.43",
+          "text": "shall",
+          "position": 43,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.44",
+          "text": "be",
+          "position": 44,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.45",
+          "text": "comforted",
+          "position": 45,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.46",
+          "text": "in",
+          "position": 46,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.47",
+          "text": "the",
+          "position": 47,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.48",
+          "text": "nether",
+          "position": 48,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.49",
+          "text": "parts",
+          "position": 49,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.50",
+          "text": "of",
+          "position": 50,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.51",
+          "text": "the",
+          "position": 51,
+          "verseId": "ezek.31.16",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.16.52",
+          "text": "earth",
+          "position": 52,
+          "verseId": "ezek.31.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.17",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "ezek.31.17.1",
+          "text": "They",
+          "position": 1,
+          "verseId": "ezek.31.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.17.2",
+          "text": "also",
+          "position": 2,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.3",
+          "text": "went",
+          "position": 3,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.4",
+          "text": "down",
+          "position": 4,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.5",
+          "text": "into",
+          "position": 5,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.6",
+          "text": "hell",
+          "position": 6,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.7",
+          "text": "with",
+          "position": 7,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.8",
+          "text": "him",
+          "position": 8,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.9",
+          "text": "unto",
+          "position": 9,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.10",
+          "text": "them",
+          "position": 10,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.12",
+          "text": "be",
+          "position": 12,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.13",
+          "text": "slain",
+          "position": 13,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.14",
+          "text": "with",
+          "position": 14,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.16",
+          "text": "sword",
+          "position": 16,
+          "verseId": "ezek.31.17",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "ezek.31.17.17",
+          "text": "and",
+          "position": 17,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.18",
+          "text": "they",
+          "position": 18,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.20",
+          "text": "were",
+          "position": 20,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.21",
+          "text": "his",
+          "position": 21,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.22",
+          "text": "arm",
+          "position": 22,
+          "verseId": "ezek.31.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.17.23",
+          "text": "that",
+          "position": 23,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.24",
+          "text": "dwelt",
+          "position": 24,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.25",
+          "text": "under",
+          "position": 25,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.26",
+          "text": "his",
+          "position": 26,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.27",
+          "text": "shadow",
+          "position": 27,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.28",
+          "text": "in",
+          "position": 28,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.30",
+          "text": "midst",
+          "position": 30,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.32",
+          "text": "the",
+          "position": 32,
+          "verseId": "ezek.31.17",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.17.33",
+          "text": "heathen",
+          "position": 33,
+          "verseId": "ezek.31.17",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "ezek.31.18",
+      "book": "ezek",
+      "chapter": 31,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "ezek.31.18.2",
+          "text": "To",
+          "position": 2,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.18.3",
+          "text": "whom",
+          "position": 3,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.4",
+          "text": "art",
+          "position": 4,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.5",
+          "text": "thou",
+          "position": 5,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.6",
+          "text": "thus",
+          "position": 6,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.7",
+          "text": "like",
+          "position": 7,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.8",
+          "text": "in",
+          "position": 8,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.9",
+          "text": "glory",
+          "position": 9,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.12",
+          "text": "greatness",
+          "position": 12,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.13",
+          "text": "among",
+          "position": 13,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.14",
+          "text": "the",
+          "position": 14,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.15",
+          "text": "trees",
+          "position": 15,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.16",
+          "text": "of",
+          "position": 16,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.17",
+          "text": "Eden",
+          "position": 17,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "followingPunctuation": "?",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.18.18",
+          "text": "yet",
+          "position": 18,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.19",
+          "text": "shalt",
+          "position": 19,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.20",
+          "text": "thou",
+          "position": 20,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.21",
+          "text": "be",
+          "position": 21,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.22",
+          "text": "brought",
+          "position": 22,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.23",
+          "text": "down",
+          "position": 23,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.24",
+          "text": "with",
+          "position": 24,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.25",
+          "text": "the",
+          "position": 25,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.26",
+          "text": "trees",
+          "position": 26,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.28",
+          "text": "Eden",
+          "position": 28,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.18.29",
+          "text": "unto",
+          "position": 29,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.31",
+          "text": "nether",
+          "position": 31,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.32",
+          "text": "parts",
+          "position": 32,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.33",
+          "text": "of",
+          "position": 33,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.35",
+          "text": "earth",
+          "position": 35,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "ezek.31.18.36",
+          "text": "thou",
+          "position": 36,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.37",
+          "text": "shalt",
+          "position": 37,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.38",
+          "text": "lie",
+          "position": 38,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.39",
+          "text": "in",
+          "position": 39,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.40",
+          "text": "the",
+          "position": 40,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.41",
+          "text": "midst",
+          "position": 41,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.42",
+          "text": "of",
+          "position": 42,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.43",
+          "text": "the",
+          "position": 43,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.44",
+          "text": "uncircumcised",
+          "position": 44,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.45",
+          "text": "with",
+          "position": 45,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.46",
+          "text": "them",
+          "position": 46,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.47",
+          "text": "that",
+          "position": 47,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.48",
+          "text": "be",
+          "position": 48,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.49",
+          "text": "slain",
+          "position": 49,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.50",
+          "text": "by",
+          "position": 50,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.51",
+          "text": "the",
+          "position": 51,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.52",
+          "text": "sword",
+          "position": 52,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "ezek.31.18.53",
+          "text": "This",
+          "position": 53,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.18.54",
+          "text": "is",
+          "position": 54,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.55",
+          "text": "Pharaoh",
+          "position": 55,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "ezek.31.18.56",
+          "text": "and",
+          "position": 56,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.57",
+          "text": "all",
+          "position": 57,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.58",
+          "text": "his",
+          "position": 58,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.59",
+          "text": "multitude",
+          "position": 59,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "ezek.31.18.60",
+          "text": "saith",
+          "position": 60,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.61",
+          "text": "the",
+          "position": 61,
+          "verseId": "ezek.31.18",
+          "presentation": {}
+        },
+        {
+          "id": "ezek.31.18.62",
+          "text": "Lord",
+          "position": 62,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "ezek.31.18.63",
+          "text": "God",
+          "position": 63,
+          "verseId": "ezek.31.18",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "divine-name"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}

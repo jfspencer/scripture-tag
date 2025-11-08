@@ -1,0 +1,4653 @@
+{
+  "id": "josh.1",
+  "book": "josh",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "The Lord speaks to Joshua—He is commanded to be of good courage, to meditate upon the law, and to keep the commandments—He prepares Israel to enter Canaan.",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [
+    {
+      "id": "josh.1.1",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "josh.1.1.1",
+          "text": "Now",
+          "position": 1,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.1.2",
+          "text": "after",
+          "position": 2,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.4",
+          "text": "death",
+          "position": 4,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.5",
+          "text": "of",
+          "position": 5,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.1.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.8",
+          "text": "servant",
+          "position": 8,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.11",
+          "text": "Lord",
+          "position": 11,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.1.12",
+          "text": "it",
+          "position": 12,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.13",
+          "text": "came",
+          "position": 13,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.15",
+          "text": "pass",
+          "position": 15,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.1.16",
+          "text": "that",
+          "position": 16,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.18",
+          "text": "Lord",
+          "position": 18,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.1.19",
+          "text": "spake",
+          "position": 19,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.20",
+          "text": "unto",
+          "position": 20,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.21",
+          "text": "Joshua",
+          "position": 21,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.1.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.23",
+          "text": "son",
+          "position": 23,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "josh.1.1",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.1.25",
+          "text": "Nun",
+          "position": 25,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.1.26",
+          "text": "Moses",
+          "position": 26,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "followingPunctuation": "’",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.1.27",
+          "text": "minister",
+          "position": 27,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.1.28",
+          "text": "saying",
+          "position": 28,
+          "verseId": "josh.1.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.2",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "josh.1.2.1",
+          "text": "Moses",
+          "position": 1,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.2.2",
+          "text": "my",
+          "position": 2,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.3",
+          "text": "servant",
+          "position": 3,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.4",
+          "text": "is",
+          "position": 4,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.5",
+          "text": "dead",
+          "position": 5,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "josh.1.2.6",
+          "text": "now",
+          "position": 6,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.7",
+          "text": "therefore",
+          "position": 7,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.8",
+          "text": "arise",
+          "position": 8,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.2.9",
+          "text": "go",
+          "position": 9,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.10",
+          "text": "over",
+          "position": 10,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.11",
+          "text": "this",
+          "position": 11,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.12",
+          "text": "Jordan",
+          "position": 12,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.2.13",
+          "text": "thou",
+          "position": 13,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.2.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.16",
+          "text": "this",
+          "position": 16,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.17",
+          "text": "people",
+          "position": 17,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.2.18",
+          "text": "unto",
+          "position": 18,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.20",
+          "text": "land",
+          "position": 20,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.21",
+          "text": "which",
+          "position": 21,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.22",
+          "text": "I",
+          "position": 22,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.2.23",
+          "text": "do",
+          "position": 23,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.24",
+          "text": "give",
+          "position": 24,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.25",
+          "text": "to",
+          "position": 25,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.26",
+          "text": "them",
+          "position": 26,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.2.27",
+          "text": "even",
+          "position": 27,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.28",
+          "text": "to",
+          "position": 28,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.30",
+          "text": "children",
+          "position": 30,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "josh.1.2",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.2.32",
+          "text": "Israel",
+          "position": 32,
+          "verseId": "josh.1.2",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.3",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "josh.1.3.1",
+          "text": "Every",
+          "position": 1,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.3.2",
+          "text": "place",
+          "position": 2,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.3",
+          "text": "that",
+          "position": 3,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.5",
+          "text": "sole",
+          "position": 5,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.7",
+          "text": "your",
+          "position": 7,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.8",
+          "text": "foot",
+          "position": 8,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.9",
+          "text": "shall",
+          "position": 9,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.10",
+          "text": "tread",
+          "position": 10,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.11",
+          "text": "upon",
+          "position": 11,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.3.12",
+          "text": "that",
+          "position": 12,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.13",
+          "text": "have",
+          "position": 13,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.14",
+          "text": "I",
+          "position": 14,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.3.15",
+          "text": "given",
+          "position": 15,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.16",
+          "text": "unto",
+          "position": 16,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.17",
+          "text": "you",
+          "position": 17,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.3.18",
+          "text": "as",
+          "position": 18,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.19",
+          "text": "I",
+          "position": 19,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.3.20",
+          "text": "said",
+          "position": 20,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.21",
+          "text": "unto",
+          "position": 21,
+          "verseId": "josh.1.3",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.3.22",
+          "text": "Moses",
+          "position": 22,
+          "verseId": "josh.1.3",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.4",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "josh.1.4.1",
+          "text": "From",
+          "position": 1,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.4.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.3",
+          "text": "wilderness",
+          "position": 3,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.4",
+          "text": "and",
+          "position": 4,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.5",
+          "text": "this",
+          "position": 5,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.6",
+          "text": "Lebanon",
+          "position": 6,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.4.7",
+          "text": "even",
+          "position": 7,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.8",
+          "text": "unto",
+          "position": 8,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.10",
+          "text": "great",
+          "position": 10,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.11",
+          "text": "river",
+          "position": 11,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.4.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.13",
+          "text": "river",
+          "position": 13,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.14",
+          "text": "Euphrates",
+          "position": 14,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.4.15",
+          "text": "all",
+          "position": 15,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.16",
+          "text": "the",
+          "position": 16,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.17",
+          "text": "land",
+          "position": 17,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.18",
+          "text": "of",
+          "position": 18,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.20",
+          "text": "Hittites",
+          "position": 20,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.4.21",
+          "text": "and",
+          "position": 21,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.22",
+          "text": "unto",
+          "position": 22,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.23",
+          "text": "the",
+          "position": 23,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.24",
+          "text": "great",
+          "position": 24,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.25",
+          "text": "sea",
+          "position": 25,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.26",
+          "text": "toward",
+          "position": 26,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.28",
+          "text": "going",
+          "position": 28,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.29",
+          "text": "down",
+          "position": 29,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.32",
+          "text": "sun",
+          "position": 32,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.4.33",
+          "text": "shall",
+          "position": 33,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.34",
+          "text": "be",
+          "position": 34,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.35",
+          "text": "your",
+          "position": 35,
+          "verseId": "josh.1.4",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.4.36",
+          "text": "coast",
+          "position": 36,
+          "verseId": "josh.1.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.5",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "josh.1.5.1",
+          "text": "There",
+          "position": 1,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.5.2",
+          "text": "shall",
+          "position": 2,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.3",
+          "text": "not",
+          "position": 3,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.4",
+          "text": "any",
+          "position": 4,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.5",
+          "text": "man",
+          "position": 5,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.6",
+          "text": "be",
+          "position": 6,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.7",
+          "text": "able",
+          "position": 7,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.8",
+          "text": "to",
+          "position": 8,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.9",
+          "text": "stand",
+          "position": 9,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.10",
+          "text": "before",
+          "position": 10,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.11",
+          "text": "thee",
+          "position": 11,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.12",
+          "text": "all",
+          "position": 12,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.14",
+          "text": "days",
+          "position": 14,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.16",
+          "text": "thy",
+          "position": 16,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.17",
+          "text": "life",
+          "position": 17,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.5.18",
+          "text": "as",
+          "position": 18,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.19",
+          "text": "I",
+          "position": 19,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.5.20",
+          "text": "was",
+          "position": 20,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.21",
+          "text": "with",
+          "position": 21,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.22",
+          "text": "Moses",
+          "position": 22,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.5.23",
+          "text": "so",
+          "position": 23,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.24",
+          "text": "I",
+          "position": 24,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.5.25",
+          "text": "will",
+          "position": 25,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.26",
+          "text": "be",
+          "position": 26,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.27",
+          "text": "with",
+          "position": 27,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.28",
+          "text": "thee",
+          "position": 28,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.5.29",
+          "text": "I",
+          "position": 29,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.5.30",
+          "text": "will",
+          "position": 30,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.31",
+          "text": "not",
+          "position": 31,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.32",
+          "text": "fail",
+          "position": 32,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.33",
+          "text": "thee",
+          "position": 33,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.5.34",
+          "text": "nor",
+          "position": 34,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.35",
+          "text": "forsake",
+          "position": 35,
+          "verseId": "josh.1.5",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.5.36",
+          "text": "thee",
+          "position": 36,
+          "verseId": "josh.1.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.6",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "josh.1.6.1",
+          "text": "Be",
+          "position": 1,
+          "verseId": "josh.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.6.2",
+          "text": "strong",
+          "position": 2,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.3",
+          "text": "and",
+          "position": 3,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.4",
+          "text": "of",
+          "position": 4,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.5",
+          "text": "a",
+          "position": 5,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.6",
+          "text": "good",
+          "position": 6,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.7",
+          "text": "courage",
+          "position": 7,
+          "verseId": "josh.1.6",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.6.8",
+          "text": "for",
+          "position": 8,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.9",
+          "text": "unto",
+          "position": 9,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.10",
+          "text": "this",
+          "position": 10,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.11",
+          "text": "people",
+          "position": 11,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.12",
+          "text": "shalt",
+          "position": 12,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.13",
+          "text": "thou",
+          "position": 13,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.14",
+          "text": "divide",
+          "position": 14,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.15",
+          "text": "for",
+          "position": 15,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.16",
+          "text": "an",
+          "position": 16,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.17",
+          "text": "inheritance",
+          "position": 17,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.19",
+          "text": "land",
+          "position": 19,
+          "verseId": "josh.1.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.6.20",
+          "text": "which",
+          "position": 20,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.21",
+          "text": "I",
+          "position": 21,
+          "verseId": "josh.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.6.22",
+          "text": "sware",
+          "position": 22,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.23",
+          "text": "unto",
+          "position": 23,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.24",
+          "text": "their",
+          "position": 24,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.25",
+          "text": "fathers",
+          "position": 25,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.26",
+          "text": "to",
+          "position": 26,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.27",
+          "text": "give",
+          "position": 27,
+          "verseId": "josh.1.6",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.6.28",
+          "text": "them",
+          "position": 28,
+          "verseId": "josh.1.6",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.7",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "josh.1.7.1",
+          "text": "Only",
+          "position": 1,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.7.2",
+          "text": "be",
+          "position": 2,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.3",
+          "text": "thou",
+          "position": 3,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.4",
+          "text": "strong",
+          "position": 4,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.6",
+          "text": "very",
+          "position": 6,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.7",
+          "text": "courageous",
+          "position": 7,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.7.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.9",
+          "text": "thou",
+          "position": 9,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.10",
+          "text": "mayest",
+          "position": 10,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.11",
+          "text": "observe",
+          "position": 11,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.12",
+          "text": "to",
+          "position": 12,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.13",
+          "text": "do",
+          "position": 13,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.14",
+          "text": "according",
+          "position": 14,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.15",
+          "text": "to",
+          "position": 15,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.16",
+          "text": "all",
+          "position": 16,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.18",
+          "text": "law",
+          "position": 18,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.7.19",
+          "text": "which",
+          "position": 19,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.20",
+          "text": "Moses",
+          "position": 20,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.7.21",
+          "text": "my",
+          "position": 21,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.22",
+          "text": "servant",
+          "position": 22,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.23",
+          "text": "commanded",
+          "position": 23,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.24",
+          "text": "thee",
+          "position": 24,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.7.25",
+          "text": "turn",
+          "position": 25,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.26",
+          "text": "not",
+          "position": 26,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.27",
+          "text": "from",
+          "position": 27,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.28",
+          "text": "it",
+          "position": 28,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.29",
+          "text": "to",
+          "position": 29,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.31",
+          "text": "right",
+          "position": 31,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.32",
+          "text": "hand",
+          "position": 32,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.33",
+          "text": "or",
+          "position": 33,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.34",
+          "text": "to",
+          "position": 34,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.35",
+          "text": "the",
+          "position": 35,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.36",
+          "text": "left",
+          "position": 36,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.7.37",
+          "text": "that",
+          "position": 37,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.38",
+          "text": "thou",
+          "position": 38,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.39",
+          "text": "mayest",
+          "position": 39,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.40",
+          "text": "prosper",
+          "position": 40,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.41",
+          "text": "whithersoever",
+          "position": 41,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.42",
+          "text": "thou",
+          "position": 42,
+          "verseId": "josh.1.7",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.7.43",
+          "text": "goest",
+          "position": 43,
+          "verseId": "josh.1.7",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.8",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "josh.1.8.1",
+          "text": "This",
+          "position": 1,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.8.2",
+          "text": "book",
+          "position": 2,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.3",
+          "text": "of",
+          "position": 3,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.5",
+          "text": "law",
+          "position": 5,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.6",
+          "text": "shall",
+          "position": 6,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.7",
+          "text": "not",
+          "position": 7,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.8",
+          "text": "depart",
+          "position": 8,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.9",
+          "text": "out",
+          "position": 9,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.11",
+          "text": "thy",
+          "position": 11,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.12",
+          "text": "mouth",
+          "position": 12,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "josh.1.8.13",
+          "text": "but",
+          "position": 13,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.14",
+          "text": "thou",
+          "position": 14,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.15",
+          "text": "shalt",
+          "position": 15,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.16",
+          "text": "meditate",
+          "position": 16,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.17",
+          "text": "therein",
+          "position": 17,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.18",
+          "text": "day",
+          "position": 18,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.19",
+          "text": "and",
+          "position": 19,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.20",
+          "text": "night",
+          "position": 20,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.8.21",
+          "text": "that",
+          "position": 21,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.22",
+          "text": "thou",
+          "position": 22,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.23",
+          "text": "mayest",
+          "position": 23,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.24",
+          "text": "observe",
+          "position": 24,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.25",
+          "text": "to",
+          "position": 25,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.26",
+          "text": "do",
+          "position": 26,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.27",
+          "text": "according",
+          "position": 27,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.28",
+          "text": "to",
+          "position": 28,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.29",
+          "text": "all",
+          "position": 29,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.30",
+          "text": "that",
+          "position": 30,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.31",
+          "text": "is",
+          "position": 31,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.32",
+          "text": "written",
+          "position": 32,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.33",
+          "text": "therein",
+          "position": 33,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.8.34",
+          "text": "for",
+          "position": 34,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.35",
+          "text": "then",
+          "position": 35,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.36",
+          "text": "thou",
+          "position": 36,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.37",
+          "text": "shalt",
+          "position": 37,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.38",
+          "text": "make",
+          "position": 38,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.39",
+          "text": "thy",
+          "position": 39,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.40",
+          "text": "way",
+          "position": 40,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.41",
+          "text": "prosperous",
+          "position": 41,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.8.42",
+          "text": "and",
+          "position": 42,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.43",
+          "text": "then",
+          "position": 43,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.44",
+          "text": "thou",
+          "position": 44,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.45",
+          "text": "shalt",
+          "position": 45,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.46",
+          "text": "have",
+          "position": 46,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.47",
+          "text": "good",
+          "position": 47,
+          "verseId": "josh.1.8",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.8.48",
+          "text": "success",
+          "position": 48,
+          "verseId": "josh.1.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.9",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "josh.1.9.1",
+          "text": "Have",
+          "position": 1,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.9.2",
+          "text": "not",
+          "position": 2,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.3",
+          "text": "I",
+          "position": 3,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.9.4",
+          "text": "commanded",
+          "position": 4,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.5",
+          "text": "thee",
+          "position": 5,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "followingPunctuation": "?"
+          }
+        },
+        {
+          "id": "josh.1.9.6",
+          "text": "Be",
+          "position": 6,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.9.7",
+          "text": "strong",
+          "position": 7,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.10",
+          "text": "a",
+          "position": 10,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.11",
+          "text": "good",
+          "position": 11,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.12",
+          "text": "courage",
+          "position": 12,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "josh.1.9.13",
+          "text": "be",
+          "position": 13,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.14",
+          "text": "not",
+          "position": 14,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.15",
+          "text": "afraid",
+          "position": 15,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.9.16",
+          "text": "neither",
+          "position": 16,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.17",
+          "text": "be",
+          "position": 17,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.18",
+          "text": "thou",
+          "position": 18,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.19",
+          "text": "dismayed",
+          "position": 19,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.9.20",
+          "text": "for",
+          "position": 20,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.22",
+          "text": "Lord",
+          "position": 22,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.9.23",
+          "text": "thy",
+          "position": 23,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.24",
+          "text": "God",
+          "position": 24,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.9.25",
+          "text": "is",
+          "position": 25,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.26",
+          "text": "with",
+          "position": 26,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.27",
+          "text": "thee",
+          "position": 27,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.28",
+          "text": "whithersoever",
+          "position": 28,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.29",
+          "text": "thou",
+          "position": 29,
+          "verseId": "josh.1.9",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.9.30",
+          "text": "goest",
+          "position": 30,
+          "verseId": "josh.1.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.10",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 10,
+      "tokens": [
+        {
+          "id": "josh.1.10.2",
+          "text": "Then",
+          "position": 2,
+          "verseId": "josh.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.10.3",
+          "text": "Joshua",
+          "position": 3,
+          "verseId": "josh.1.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.10.4",
+          "text": "commanded",
+          "position": 4,
+          "verseId": "josh.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.10.5",
+          "text": "the",
+          "position": 5,
+          "verseId": "josh.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.10.6",
+          "text": "officers",
+          "position": 6,
+          "verseId": "josh.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.10.7",
+          "text": "of",
+          "position": 7,
+          "verseId": "josh.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.10.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "josh.1.10",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.10.9",
+          "text": "people",
+          "position": 9,
+          "verseId": "josh.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.10.10",
+          "text": "saying",
+          "position": 10,
+          "verseId": "josh.1.10",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.11",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 11,
+      "tokens": [
+        {
+          "id": "josh.1.11.1",
+          "text": "Pass",
+          "position": 1,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.11.2",
+          "text": "through",
+          "position": 2,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.3",
+          "text": "the",
+          "position": 3,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.4",
+          "text": "host",
+          "position": 4,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.11.5",
+          "text": "and",
+          "position": 5,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.6",
+          "text": "command",
+          "position": 6,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.8",
+          "text": "people",
+          "position": 8,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.11.9",
+          "text": "saying",
+          "position": 9,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.11.10",
+          "text": "Prepare",
+          "position": 10,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.11.11",
+          "text": "you",
+          "position": 11,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.12",
+          "text": "victuals",
+          "position": 12,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "josh.1.11.13",
+          "text": "for",
+          "position": 13,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.14",
+          "text": "within",
+          "position": 14,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.15",
+          "text": "three",
+          "position": 15,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.16",
+          "text": "days",
+          "position": 16,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.17",
+          "text": "ye",
+          "position": 17,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.18",
+          "text": "shall",
+          "position": 18,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.19",
+          "text": "pass",
+          "position": 19,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.20",
+          "text": "over",
+          "position": 20,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.21",
+          "text": "this",
+          "position": 21,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.22",
+          "text": "Jordan",
+          "position": 22,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.11.23",
+          "text": "to",
+          "position": 23,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.24",
+          "text": "go",
+          "position": 24,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.25",
+          "text": "in",
+          "position": 25,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.26",
+          "text": "to",
+          "position": 26,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.27",
+          "text": "possess",
+          "position": 27,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.29",
+          "text": "land",
+          "position": 29,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.11.30",
+          "text": "which",
+          "position": 30,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.32",
+          "text": "Lord",
+          "position": 32,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.11.33",
+          "text": "your",
+          "position": 33,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.34",
+          "text": "God",
+          "position": 34,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.11.35",
+          "text": "giveth",
+          "position": 35,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.36",
+          "text": "you",
+          "position": 36,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.37",
+          "text": "to",
+          "position": 37,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.38",
+          "text": "possess",
+          "position": 38,
+          "verseId": "josh.1.11",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.11.39",
+          "text": "it",
+          "position": 39,
+          "verseId": "josh.1.11",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.12",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 12,
+      "tokens": [
+        {
+          "id": "josh.1.12.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.12.3",
+          "text": "to",
+          "position": 3,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.4",
+          "text": "the",
+          "position": 4,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.5",
+          "text": "Reubenites",
+          "position": 5,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.12.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.8",
+          "text": "the",
+          "position": 8,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.9",
+          "text": "Gadites",
+          "position": 9,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.12.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.11",
+          "text": "to",
+          "position": 11,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.12",
+          "text": "half",
+          "position": 12,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.14",
+          "text": "tribe",
+          "position": 14,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.16",
+          "text": "Manasseh",
+          "position": 16,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.12.17",
+          "text": "spake",
+          "position": 17,
+          "verseId": "josh.1.12",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.12.18",
+          "text": "Joshua",
+          "position": 18,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.12.19",
+          "text": "saying",
+          "position": 19,
+          "verseId": "josh.1.12",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.13",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 13,
+      "tokens": [
+        {
+          "id": "josh.1.13.1",
+          "text": "Remember",
+          "position": 1,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.13.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.3",
+          "text": "word",
+          "position": 3,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.4",
+          "text": "which",
+          "position": 4,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.5",
+          "text": "Moses",
+          "position": 5,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.13.6",
+          "text": "the",
+          "position": 6,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.7",
+          "text": "servant",
+          "position": 7,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.8",
+          "text": "of",
+          "position": 8,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.9",
+          "text": "the",
+          "position": 9,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.10",
+          "text": "Lord",
+          "position": 10,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.13.11",
+          "text": "commanded",
+          "position": 11,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.12",
+          "text": "you",
+          "position": 12,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.13.13",
+          "text": "saying",
+          "position": 13,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.13.14",
+          "text": "The",
+          "position": 14,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.13.15",
+          "text": "Lord",
+          "position": 15,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.13.16",
+          "text": "your",
+          "position": 16,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.17",
+          "text": "God",
+          "position": 17,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.13.18",
+          "text": "hath",
+          "position": 18,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.19",
+          "text": "given",
+          "position": 19,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.20",
+          "text": "you",
+          "position": 20,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.21",
+          "text": "rest",
+          "position": 21,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.13.22",
+          "text": "and",
+          "position": 22,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.23",
+          "text": "hath",
+          "position": 23,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.24",
+          "text": "given",
+          "position": 24,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.25",
+          "text": "you",
+          "position": 25,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.26",
+          "text": "this",
+          "position": 26,
+          "verseId": "josh.1.13",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.13.27",
+          "text": "land",
+          "position": 27,
+          "verseId": "josh.1.13",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.14",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 14,
+      "tokens": [
+        {
+          "id": "josh.1.14.1",
+          "text": "Your",
+          "position": 1,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.14.2",
+          "text": "wives",
+          "position": 2,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.14.3",
+          "text": "your",
+          "position": 3,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.4",
+          "text": "little",
+          "position": 4,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.5",
+          "text": "ones",
+          "position": 5,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.14.6",
+          "text": "and",
+          "position": 6,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.7",
+          "text": "your",
+          "position": 7,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.8",
+          "text": "cattle",
+          "position": 8,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.14.9",
+          "text": "shall",
+          "position": 9,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.10",
+          "text": "remain",
+          "position": 10,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.11",
+          "text": "in",
+          "position": 11,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.13",
+          "text": "land",
+          "position": 13,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.14",
+          "text": "which",
+          "position": 14,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.15",
+          "text": "Moses",
+          "position": 15,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.14.16",
+          "text": "gave",
+          "position": 16,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.17",
+          "text": "you",
+          "position": 17,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.18",
+          "text": "on",
+          "position": 18,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.19",
+          "text": "this",
+          "position": 19,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.20",
+          "text": "side",
+          "position": 20,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.21",
+          "text": "Jordan",
+          "position": 21,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ";",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.14.22",
+          "text": "but",
+          "position": 22,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.23",
+          "text": "ye",
+          "position": 23,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.24",
+          "text": "shall",
+          "position": 24,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.25",
+          "text": "pass",
+          "position": 25,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.26",
+          "text": "before",
+          "position": 26,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.27",
+          "text": "your",
+          "position": 27,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.28",
+          "text": "brethren",
+          "position": 28,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.29",
+          "text": "armed",
+          "position": 29,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.14.30",
+          "text": "all",
+          "position": 30,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.32",
+          "text": "mighty",
+          "position": 32,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.33",
+          "text": "men",
+          "position": 33,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.34",
+          "text": "of",
+          "position": 34,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.35",
+          "text": "valour",
+          "position": 35,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.14.36",
+          "text": "and",
+          "position": 36,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.37",
+          "text": "help",
+          "position": 37,
+          "verseId": "josh.1.14",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.14.38",
+          "text": "them",
+          "position": 38,
+          "verseId": "josh.1.14",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.15",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 15,
+      "tokens": [
+        {
+          "id": "josh.1.15.1",
+          "text": "Until",
+          "position": 1,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.15.2",
+          "text": "the",
+          "position": 2,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.3",
+          "text": "Lord",
+          "position": 3,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.15.4",
+          "text": "have",
+          "position": 4,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.5",
+          "text": "given",
+          "position": 5,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.6",
+          "text": "your",
+          "position": 6,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.7",
+          "text": "brethren",
+          "position": 7,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.8",
+          "text": "rest",
+          "position": 8,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.15.9",
+          "text": "as",
+          "position": 9,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.11",
+          "text": "hath",
+          "position": 11,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.12",
+          "text": "given",
+          "position": 12,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.13",
+          "text": "you",
+          "position": 13,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.15.14",
+          "text": "and",
+          "position": 14,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.15",
+          "text": "they",
+          "position": 15,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.16",
+          "text": "also",
+          "position": 16,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.17",
+          "text": "have",
+          "position": 17,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.18",
+          "text": "possessed",
+          "position": 18,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.20",
+          "text": "land",
+          "position": 20,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.21",
+          "text": "which",
+          "position": 21,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.23",
+          "text": "Lord",
+          "position": 23,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.15.24",
+          "text": "your",
+          "position": 24,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.25",
+          "text": "God",
+          "position": 25,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.15.26",
+          "text": "giveth",
+          "position": 26,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.27",
+          "text": "them",
+          "position": 27,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.15.28",
+          "text": "then",
+          "position": 28,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.29",
+          "text": "ye",
+          "position": 29,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.30",
+          "text": "shall",
+          "position": 30,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.31",
+          "text": "return",
+          "position": 31,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.32",
+          "text": "unto",
+          "position": 32,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.34",
+          "text": "land",
+          "position": 34,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.36",
+          "text": "your",
+          "position": 36,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.37",
+          "text": "possession",
+          "position": 37,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.15.38",
+          "text": "and",
+          "position": 38,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.39",
+          "text": "enjoy",
+          "position": 39,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.40",
+          "text": "it",
+          "position": 40,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.15.41",
+          "text": "which",
+          "position": 41,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.42",
+          "text": "Moses",
+          "position": 42,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.15.43",
+          "text": "the",
+          "position": 43,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.44",
+          "text": "Lord’s",
+          "position": 44,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.15.45",
+          "text": "servant",
+          "position": 45,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.46",
+          "text": "gave",
+          "position": 46,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.47",
+          "text": "you",
+          "position": 47,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.48",
+          "text": "on",
+          "position": 48,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.49",
+          "text": "this",
+          "position": 49,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.50",
+          "text": "side",
+          "position": 50,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.51",
+          "text": "Jordan",
+          "position": 51,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.15.52",
+          "text": "toward",
+          "position": 52,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.53",
+          "text": "the",
+          "position": 53,
+          "verseId": "josh.1.15",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.15.54",
+          "text": "sunrising",
+          "position": 54,
+          "verseId": "josh.1.15",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.16",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 16,
+      "tokens": [
+        {
+          "id": "josh.1.16.2",
+          "text": "And",
+          "position": 2,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.16.3",
+          "text": "they",
+          "position": 3,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.4",
+          "text": "answered",
+          "position": 4,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.5",
+          "text": "Joshua",
+          "position": 5,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.16.6",
+          "text": "saying",
+          "position": 6,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.16.7",
+          "text": "All",
+          "position": 7,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.16.8",
+          "text": "that",
+          "position": 8,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.9",
+          "text": "thou",
+          "position": 9,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.10",
+          "text": "commandest",
+          "position": 10,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.11",
+          "text": "us",
+          "position": 11,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.12",
+          "text": "we",
+          "position": 12,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.13",
+          "text": "will",
+          "position": 13,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.14",
+          "text": "do",
+          "position": 14,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.16.15",
+          "text": "and",
+          "position": 15,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.16",
+          "text": "whithersoever",
+          "position": 16,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.17",
+          "text": "thou",
+          "position": 17,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.18",
+          "text": "sendest",
+          "position": 18,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.19",
+          "text": "us",
+          "position": 19,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.16.20",
+          "text": "we",
+          "position": 20,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.21",
+          "text": "will",
+          "position": 21,
+          "verseId": "josh.1.16",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.16.22",
+          "text": "go",
+          "position": 22,
+          "verseId": "josh.1.16",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": true,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.17",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 17,
+      "tokens": [
+        {
+          "id": "josh.1.17.1",
+          "text": "According",
+          "position": 1,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.17.2",
+          "text": "as",
+          "position": 2,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.3",
+          "text": "we",
+          "position": 3,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.4",
+          "text": "hearkened",
+          "position": 4,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.5",
+          "text": "unto",
+          "position": 5,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.6",
+          "text": "Moses",
+          "position": 6,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.17.7",
+          "text": "in",
+          "position": 7,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.8",
+          "text": "all",
+          "position": 8,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.9",
+          "text": "things",
+          "position": 9,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.17.10",
+          "text": "so",
+          "position": 10,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.11",
+          "text": "will",
+          "position": 11,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.12",
+          "text": "we",
+          "position": 12,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.13",
+          "text": "hearken",
+          "position": 13,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.14",
+          "text": "unto",
+          "position": 14,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.15",
+          "text": "thee",
+          "position": 15,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.17.16",
+          "text": "only",
+          "position": 16,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.17",
+          "text": "the",
+          "position": 17,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.18",
+          "text": "Lord",
+          "position": 18,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.17.19",
+          "text": "thy",
+          "position": 19,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.20",
+          "text": "God",
+          "position": 20,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "josh.1.17.21",
+          "text": "be",
+          "position": 21,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.22",
+          "text": "with",
+          "position": 22,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.23",
+          "text": "thee",
+          "position": 23,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.17.24",
+          "text": "as",
+          "position": 24,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.25",
+          "text": "he",
+          "position": 25,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.26",
+          "text": "was",
+          "position": 26,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.27",
+          "text": "with",
+          "position": 27,
+          "verseId": "josh.1.17",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.17.28",
+          "text": "Moses",
+          "position": 28,
+          "verseId": "josh.1.17",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "josh.1.18",
+      "book": "josh",
+      "chapter": 1,
+      "verse": 18,
+      "tokens": [
+        {
+          "id": "josh.1.18.1",
+          "text": "Whosoever",
+          "position": 1,
+          "verseId": "josh.1.18",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "josh.1.18.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.3",
+          "text": "be",
+          "position": 3,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.5",
+          "text": "doth",
+          "position": 5,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.6",
+          "text": "rebel",
+          "position": 6,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.7",
+          "text": "against",
+          "position": 7,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.8",
+          "text": "thy",
+          "position": 8,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.9",
+          "text": "commandment",
+          "position": 9,
+          "verseId": "josh.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.18.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.11",
+          "text": "will",
+          "position": 11,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.12",
+          "text": "not",
+          "position": 12,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.13",
+          "text": "hearken",
+          "position": 13,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.14",
+          "text": "unto",
+          "position": 14,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.15",
+          "text": "thy",
+          "position": 15,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.16",
+          "text": "words",
+          "position": 16,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.17",
+          "text": "in",
+          "position": 17,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.18",
+          "text": "all",
+          "position": 18,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.19",
+          "text": "that",
+          "position": 19,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.20",
+          "text": "thou",
+          "position": 20,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.21",
+          "text": "commandest",
+          "position": 21,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.22",
+          "text": "him",
+          "position": 22,
+          "verseId": "josh.1.18",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "josh.1.18.23",
+          "text": "he",
+          "position": 23,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.24",
+          "text": "shall",
+          "position": 24,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.25",
+          "text": "be",
+          "position": 25,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.26",
+          "text": "put",
+          "position": 26,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.27",
+          "text": "to",
+          "position": 27,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.28",
+          "text": "death",
+          "position": 28,
+          "verseId": "josh.1.18",
+          "presentation": {
+            "followingPunctuation": ":"
+          }
+        },
+        {
+          "id": "josh.1.18.29",
+          "text": "only",
+          "position": 29,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.30",
+          "text": "be",
+          "position": 30,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.31",
+          "text": "strong",
+          "position": 31,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.33",
+          "text": "of",
+          "position": 33,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.34",
+          "text": "a",
+          "position": 34,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.35",
+          "text": "good",
+          "position": 35,
+          "verseId": "josh.1.18",
+          "presentation": {}
+        },
+        {
+          "id": "josh.1.18.36",
+          "text": "courage",
+          "position": 36,
+          "verseId": "josh.1.18",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "kjv",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}
