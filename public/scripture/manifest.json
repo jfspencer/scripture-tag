@@ -2,12 +2,246 @@
   "version": "1.0.0",
   "translations": [
     {
-      "id": "kjv-nt",
-      "name": "KJV-NT",
-      "abbreviation": "KJV-NT",
+      "id": "kjv",
+      "name": "King James Version",
+      "abbreviation": "KJV",
       "language": "en",
       "copyright": "Public Domain",
       "books": [
+        {
+          "id": "gen",
+          "name": "Genesis",
+          "category": "law",
+          "chapters": 50
+        },
+        {
+          "id": "ex",
+          "name": "Exodus",
+          "category": "law",
+          "chapters": 40
+        },
+        {
+          "id": "lev",
+          "name": "Leviticus",
+          "category": "law",
+          "chapters": 27
+        },
+        {
+          "id": "num",
+          "name": "Numbers",
+          "category": "law",
+          "chapters": 36
+        },
+        {
+          "id": "deut",
+          "name": "Deuteronomy",
+          "category": "law",
+          "chapters": 34
+        },
+        {
+          "id": "josh",
+          "name": "Joshua",
+          "category": "history",
+          "chapters": 24
+        },
+        {
+          "id": "judg",
+          "name": "Judges",
+          "category": "history",
+          "chapters": 21
+        },
+        {
+          "id": "ruth",
+          "name": "Ruth",
+          "category": "history",
+          "chapters": 4
+        },
+        {
+          "id": "1-sam",
+          "name": "1 Samuel",
+          "category": "history",
+          "chapters": 31
+        },
+        {
+          "id": "2-sam",
+          "name": "2 Samuel",
+          "category": "history",
+          "chapters": 24
+        },
+        {
+          "id": "1-kgs",
+          "name": "1 Kings",
+          "category": "history",
+          "chapters": 22
+        },
+        {
+          "id": "2-kgs",
+          "name": "2 Kings",
+          "category": "history",
+          "chapters": 25
+        },
+        {
+          "id": "1-chr",
+          "name": "1 Chronicles",
+          "category": "history",
+          "chapters": 29
+        },
+        {
+          "id": "2-chr",
+          "name": "2 Chronicles",
+          "category": "history",
+          "chapters": 36
+        },
+        {
+          "id": "ezra",
+          "name": "Ezra",
+          "category": "history",
+          "chapters": 10
+        },
+        {
+          "id": "neh",
+          "name": "Nehemiah",
+          "category": "history",
+          "chapters": 13
+        },
+        {
+          "id": "esth",
+          "name": "Esther",
+          "category": "history",
+          "chapters": 10
+        },
+        {
+          "id": "job",
+          "name": "Job",
+          "category": "wisdom",
+          "chapters": 42
+        },
+        {
+          "id": "ps",
+          "name": "Psalms",
+          "category": "wisdom",
+          "chapters": 150
+        },
+        {
+          "id": "prov",
+          "name": "Proverbs",
+          "category": "wisdom",
+          "chapters": 31
+        },
+        {
+          "id": "eccl",
+          "name": "Ecclesiastes",
+          "category": "wisdom",
+          "chapters": 12
+        },
+        {
+          "id": "song",
+          "name": "Song of Solomon",
+          "category": "wisdom",
+          "chapters": 8
+        },
+        {
+          "id": "isa",
+          "name": "Isaiah",
+          "category": "prophets-major",
+          "chapters": 66
+        },
+        {
+          "id": "jer",
+          "name": "Jeremiah",
+          "category": "prophets-major",
+          "chapters": 52
+        },
+        {
+          "id": "lam",
+          "name": "Lamentations",
+          "category": "prophets-major",
+          "chapters": 5
+        },
+        {
+          "id": "ezek",
+          "name": "Ezekiel",
+          "category": "prophets-major",
+          "chapters": 48
+        },
+        {
+          "id": "dan",
+          "name": "Daniel",
+          "category": "prophets-major",
+          "chapters": 12
+        },
+        {
+          "id": "hosea",
+          "name": "Hosea",
+          "category": "prophets-minor",
+          "chapters": 14
+        },
+        {
+          "id": "joel",
+          "name": "Joel",
+          "category": "prophets-minor",
+          "chapters": 3
+        },
+        {
+          "id": "amos",
+          "name": "Amos",
+          "category": "prophets-minor",
+          "chapters": 9
+        },
+        {
+          "id": "obad",
+          "name": "Obadiah",
+          "category": "prophets-minor",
+          "chapters": 1
+        },
+        {
+          "id": "jonah",
+          "name": "Jonah",
+          "category": "prophets-minor",
+          "chapters": 4
+        },
+        {
+          "id": "micah",
+          "name": "Micah",
+          "category": "prophets-minor",
+          "chapters": 7
+        },
+        {
+          "id": "nahum",
+          "name": "Nahum",
+          "category": "prophets-minor",
+          "chapters": 3
+        },
+        {
+          "id": "hab",
+          "name": "Habakkuk",
+          "category": "prophets-minor",
+          "chapters": 3
+        },
+        {
+          "id": "zeph",
+          "name": "Zephaniah",
+          "category": "prophets-minor",
+          "chapters": 3
+        },
+        {
+          "id": "hag",
+          "name": "Haggai",
+          "category": "prophets-minor",
+          "chapters": 2
+        },
+        {
+          "id": "zech",
+          "name": "Zechariah",
+          "category": "prophets-minor",
+          "chapters": 14
+        },
+        {
+          "id": "mal",
+          "name": "Malachi",
+          "category": "prophets-minor",
+          "chapters": 4
+        },
         {
           "id": "matt",
           "name": "Matthew",
@@ -169,6 +403,159 @@
           "name": "Revelation",
           "category": "apocalyptic",
           "chapters": 22
+        }
+      ]
+    },
+    {
+      "id": "bofm",
+      "name": "The Book of Mormon",
+      "abbreviation": "BoM",
+      "language": "en",
+      "copyright": "© Intellectual Reserve, Inc.",
+      "books": [
+        {
+          "id": "1-ne",
+          "name": "1 Nephi",
+          "category": "bom-book",
+          "chapters": 22
+        },
+        {
+          "id": "2-ne",
+          "name": "2 Nephi",
+          "category": "bom-book",
+          "chapters": 33
+        },
+        {
+          "id": "jacob",
+          "name": "Jacob",
+          "category": "bom-book",
+          "chapters": 7
+        },
+        {
+          "id": "enos",
+          "name": "Enos",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "jarom",
+          "name": "Jarom",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "omni",
+          "name": "Omni",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "w-of-m",
+          "name": "Words of Mormon",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "mosiah",
+          "name": "Mosiah",
+          "category": "bom-book",
+          "chapters": 29
+        },
+        {
+          "id": "alma",
+          "name": "Alma",
+          "category": "bom-book",
+          "chapters": 63
+        },
+        {
+          "id": "hel",
+          "name": "Helaman",
+          "category": "bom-book",
+          "chapters": 16
+        },
+        {
+          "id": "3-ne",
+          "name": "3 Nephi",
+          "category": "bom-book",
+          "chapters": 30
+        },
+        {
+          "id": "4-ne",
+          "name": "4 Nephi",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "morm",
+          "name": "Mormon",
+          "category": "bom-book",
+          "chapters": 9
+        },
+        {
+          "id": "ether",
+          "name": "Ether",
+          "category": "bom-book",
+          "chapters": 15
+        },
+        {
+          "id": "moro",
+          "name": "Moroni",
+          "category": "bom-book",
+          "chapters": 10
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "name": "Doctrine and Covenants",
+      "abbreviation": "D&C",
+      "language": "en",
+      "copyright": "© Intellectual Reserve, Inc.",
+      "books": [
+        {
+          "id": "dc",
+          "name": "Doctrine and Covenants",
+          "category": "modern-revelation",
+          "chapters": 138
+        }
+      ]
+    },
+    {
+      "id": "pgp",
+      "name": "Pearl of Great Price",
+      "abbreviation": "PGP",
+      "language": "en",
+      "copyright": "© Intellectual Reserve, Inc.",
+      "books": [
+        {
+          "id": "moses",
+          "name": "Moses",
+          "category": "ancient-scripture",
+          "chapters": 8
+        },
+        {
+          "id": "abr",
+          "name": "Abraham",
+          "category": "ancient-scripture",
+          "chapters": 5
+        },
+        {
+          "id": "js-m",
+          "name": "Joseph Smith—Matthew",
+          "category": "modern-revelation",
+          "chapters": 1
+        },
+        {
+          "id": "js-h",
+          "name": "Joseph Smith—History",
+          "category": "modern-revelation",
+          "chapters": 1
+        },
+        {
+          "id": "a-of-f",
+          "name": "Articles of Faith",
+          "category": "modern-revelation",
+          "chapters": 1
         }
       ]
     }

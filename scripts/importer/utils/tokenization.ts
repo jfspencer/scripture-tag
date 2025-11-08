@@ -14,20 +14,38 @@ export function tokenizeText(text: string, verseId: string): TextToken[] {
     // Extract punctuation
     const { preceding, core, following } = extractPunctuation(word);
     
-    // Skip if no core word
-    if (!core) continue;
+    // If no core word but we have punctuation, treat the whole word as punctuation text
+    // This handles standalone ellipses, em-dashes, etc.
+    let tokenText: string;
+    let tokenPreceding: string | undefined;
+    let tokenFollowing: string | undefined;
+    
+    if (!core && word.length > 0) {
+      // Pure punctuation token
+      tokenText = word;
+      tokenPreceding = undefined;
+      tokenFollowing = undefined;
+    } else if (!core) {
+      // Empty token, skip
+      continue;
+    } else {
+      // Normal word token
+      tokenText = core;
+      tokenPreceding = preceding || undefined;
+      tokenFollowing = following || undefined;
+    }
     
     // Create token
     const token: TextToken = {
       id: `${verseId}.${i + 1}`,
-      text: core,
+      text: tokenText,
       position: i + 1,
       verseId,
       presentation: {
-        precedingPunctuation: preceding || undefined,
-        followingPunctuation: following || undefined,
-        emphasis: detectEmphasis(core),
-        semanticType: detectSemanticType(core),
+        precedingPunctuation: tokenPreceding,
+        followingPunctuation: tokenFollowing,
+        emphasis: detectEmphasis(tokenText),
+        semanticType: detectSemanticType(tokenText),
       },
     };
     

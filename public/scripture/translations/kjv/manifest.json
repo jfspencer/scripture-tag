@@ -1,0 +1,405 @@
+{
+  "id": "kjv",
+  "name": "King James Version",
+  "abbreviation": "KJV",
+  "language": "en",
+  "copyright": "Public Domain",
+  "books": [
+    {
+      "id": "gen",
+      "name": "Genesis",
+      "category": "law",
+      "chapters": 50
+    },
+    {
+      "id": "ex",
+      "name": "Exodus",
+      "category": "law",
+      "chapters": 40
+    },
+    {
+      "id": "lev",
+      "name": "Leviticus",
+      "category": "law",
+      "chapters": 27
+    },
+    {
+      "id": "num",
+      "name": "Numbers",
+      "category": "law",
+      "chapters": 36
+    },
+    {
+      "id": "deut",
+      "name": "Deuteronomy",
+      "category": "law",
+      "chapters": 34
+    },
+    {
+      "id": "josh",
+      "name": "Joshua",
+      "category": "history",
+      "chapters": 24
+    },
+    {
+      "id": "judg",
+      "name": "Judges",
+      "category": "history",
+      "chapters": 21
+    },
+    {
+      "id": "ruth",
+      "name": "Ruth",
+      "category": "history",
+      "chapters": 4
+    },
+    {
+      "id": "1-sam",
+      "name": "1 Samuel",
+      "category": "history",
+      "chapters": 31
+    },
+    {
+      "id": "2-sam",
+      "name": "2 Samuel",
+      "category": "history",
+      "chapters": 24
+    },
+    {
+      "id": "1-kgs",
+      "name": "1 Kings",
+      "category": "history",
+      "chapters": 22
+    },
+    {
+      "id": "2-kgs",
+      "name": "2 Kings",
+      "category": "history",
+      "chapters": 25
+    },
+    {
+      "id": "1-chr",
+      "name": "1 Chronicles",
+      "category": "history",
+      "chapters": 29
+    },
+    {
+      "id": "2-chr",
+      "name": "2 Chronicles",
+      "category": "history",
+      "chapters": 36
+    },
+    {
+      "id": "ezra",
+      "name": "Ezra",
+      "category": "history",
+      "chapters": 10
+    },
+    {
+      "id": "neh",
+      "name": "Nehemiah",
+      "category": "history",
+      "chapters": 13
+    },
+    {
+      "id": "esth",
+      "name": "Esther",
+      "category": "history",
+      "chapters": 10
+    },
+    {
+      "id": "job",
+      "name": "Job",
+      "category": "wisdom",
+      "chapters": 42
+    },
+    {
+      "id": "ps",
+      "name": "Psalms",
+      "category": "wisdom",
+      "chapters": 150
+    },
+    {
+      "id": "prov",
+      "name": "Proverbs",
+      "category": "wisdom",
+      "chapters": 31
+    },
+    {
+      "id": "eccl",
+      "name": "Ecclesiastes",
+      "category": "wisdom",
+      "chapters": 12
+    },
+    {
+      "id": "song",
+      "name": "Song of Solomon",
+      "category": "wisdom",
+      "chapters": 8
+    },
+    {
+      "id": "isa",
+      "name": "Isaiah",
+      "category": "prophets-major",
+      "chapters": 66
+    },
+    {
+      "id": "jer",
+      "name": "Jeremiah",
+      "category": "prophets-major",
+      "chapters": 52
+    },
+    {
+      "id": "lam",
+      "name": "Lamentations",
+      "category": "prophets-major",
+      "chapters": 5
+    },
+    {
+      "id": "ezek",
+      "name": "Ezekiel",
+      "category": "prophets-major",
+      "chapters": 48
+    },
+    {
+      "id": "dan",
+      "name": "Daniel",
+      "category": "prophets-major",
+      "chapters": 12
+    },
+    {
+      "id": "hosea",
+      "name": "Hosea",
+      "category": "prophets-minor",
+      "chapters": 14
+    },
+    {
+      "id": "joel",
+      "name": "Joel",
+      "category": "prophets-minor",
+      "chapters": 3
+    },
+    {
+      "id": "amos",
+      "name": "Amos",
+      "category": "prophets-minor",
+      "chapters": 9
+    },
+    {
+      "id": "obad",
+      "name": "Obadiah",
+      "category": "prophets-minor",
+      "chapters": 1
+    },
+    {
+      "id": "jonah",
+      "name": "Jonah",
+      "category": "prophets-minor",
+      "chapters": 4
+    },
+    {
+      "id": "micah",
+      "name": "Micah",
+      "category": "prophets-minor",
+      "chapters": 7
+    },
+    {
+      "id": "nahum",
+      "name": "Nahum",
+      "category": "prophets-minor",
+      "chapters": 3
+    },
+    {
+      "id": "hab",
+      "name": "Habakkuk",
+      "category": "prophets-minor",
+      "chapters": 3
+    },
+    {
+      "id": "zeph",
+      "name": "Zephaniah",
+      "category": "prophets-minor",
+      "chapters": 3
+    },
+    {
+      "id": "hag",
+      "name": "Haggai",
+      "category": "prophets-minor",
+      "chapters": 2
+    },
+    {
+      "id": "zech",
+      "name": "Zechariah",
+      "category": "prophets-minor",
+      "chapters": 14
+    },
+    {
+      "id": "mal",
+      "name": "Malachi",
+      "category": "prophets-minor",
+      "chapters": 4
+    },
+    {
+      "id": "matt",
+      "name": "Matthew",
+      "category": "gospels",
+      "chapters": 28
+    },
+    {
+      "id": "mark",
+      "name": "Mark",
+      "category": "gospels",
+      "chapters": 16
+    },
+    {
+      "id": "luke",
+      "name": "Luke",
+      "category": "gospels",
+      "chapters": 24
+    },
+    {
+      "id": "john",
+      "name": "John",
+      "category": "gospels",
+      "chapters": 21
+    },
+    {
+      "id": "acts",
+      "name": "Acts",
+      "category": "acts",
+      "chapters": 28
+    },
+    {
+      "id": "rom",
+      "name": "Romans",
+      "category": "epistles-paul",
+      "chapters": 16
+    },
+    {
+      "id": "1-cor",
+      "name": "1 Corinthians",
+      "category": "epistles-paul",
+      "chapters": 16
+    },
+    {
+      "id": "2-cor",
+      "name": "2 Corinthians",
+      "category": "epistles-paul",
+      "chapters": 13
+    },
+    {
+      "id": "gal",
+      "name": "Galatians",
+      "category": "epistles-paul",
+      "chapters": 6
+    },
+    {
+      "id": "eph",
+      "name": "Ephesians",
+      "category": "epistles-paul",
+      "chapters": 6
+    },
+    {
+      "id": "philip",
+      "name": "Philippians",
+      "category": "epistles-paul",
+      "chapters": 4
+    },
+    {
+      "id": "col",
+      "name": "Colossians",
+      "category": "epistles-paul",
+      "chapters": 4
+    },
+    {
+      "id": "1-thes",
+      "name": "1 Thessalonians",
+      "category": "epistles-paul",
+      "chapters": 5
+    },
+    {
+      "id": "2-thes",
+      "name": "2 Thessalonians",
+      "category": "epistles-paul",
+      "chapters": 3
+    },
+    {
+      "id": "1-tim",
+      "name": "1 Timothy",
+      "category": "epistles-paul",
+      "chapters": 6
+    },
+    {
+      "id": "2-tim",
+      "name": "2 Timothy",
+      "category": "epistles-paul",
+      "chapters": 4
+    },
+    {
+      "id": "titus",
+      "name": "Titus",
+      "category": "epistles-paul",
+      "chapters": 3
+    },
+    {
+      "id": "philem",
+      "name": "Philemon",
+      "category": "epistles-paul",
+      "chapters": 1
+    },
+    {
+      "id": "heb",
+      "name": "Hebrews",
+      "category": "epistles-general",
+      "chapters": 13
+    },
+    {
+      "id": "james",
+      "name": "James",
+      "category": "epistles-general",
+      "chapters": 5
+    },
+    {
+      "id": "1-pet",
+      "name": "1 Peter",
+      "category": "epistles-general",
+      "chapters": 5
+    },
+    {
+      "id": "2-pet",
+      "name": "2 Peter",
+      "category": "epistles-general",
+      "chapters": 3
+    },
+    {
+      "id": "1-jn",
+      "name": "1 John",
+      "category": "epistles-general",
+      "chapters": 5
+    },
+    {
+      "id": "2-jn",
+      "name": "2 John",
+      "category": "epistles-general",
+      "chapters": 1
+    },
+    {
+      "id": "3-jn",
+      "name": "3 John",
+      "category": "epistles-general",
+      "chapters": 1
+    },
+    {
+      "id": "jude",
+      "name": "Jude",
+      "category": "epistles-general",
+      "chapters": 1
+    },
+    {
+      "id": "rev",
+      "name": "Revelation",
+      "category": "apocalyptic",
+      "chapters": 22
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pgp",
+  "name": "Pearl of Great Price",
+  "abbreviation": "PGP",
+  "language": "en",
+  "copyright": "© Intellectual Reserve, Inc.",
+  "books": [
+    {
+      "id": "moses",
+      "name": "Moses",
+      "category": "ancient-scripture",
+      "chapters": 8
+    },
+    {
+      "id": "abr",
+      "name": "Abraham",
+      "category": "ancient-scripture",
+      "chapters": 5
+    },
+    {
+      "id": "js-m",
+      "name": "Joseph Smith—Matthew",
+      "category": "modern-revelation",
+      "chapters": 1
+    },
+    {
+      "id": "js-h",
+      "name": "Joseph Smith—History",
+      "category": "modern-revelation",
+      "chapters": 1
+    },
+    {
+      "id": "a-of-f",
+      "name": "Articles of Faith",
+      "category": "modern-revelation",
+      "chapters": 1
+    }
+  ]
+}

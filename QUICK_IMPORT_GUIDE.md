@@ -78,27 +78,39 @@ bun scripts/test-import-ot.ts
 All scripture data saves to:
 ```
 public/scripture/
-├── manifest.json                    # Master index
+├── manifest.json                    # Root manifest (aggregates all volumes)
 └── translations/
     ├── bofm/                        # Book of Mormon
+    │   ├── manifest.json            # BoM-specific manifest
     │   ├── 1-ne/
     │   │   ├── chapter-1.json
     │   │   └── ...
     │   └── ...
     ├── kjv/                         # Bible (OT + NT)
+    │   ├── manifest.json            # KJV-specific manifest
     │   ├── gen/
     │   │   ├── chapter-1.json
     │   │   └── ...
     │   └── ...
     ├── dc/                          # Doctrine & Covenants
+    │   ├── manifest.json            # D&C-specific manifest
     │   └── dc/
     │       ├── chapter-1.json
     │       └── ...
     └── pgp/                         # Pearl of Great Price
+        ├── manifest.json            # PGP-specific manifest
         ├── moses/
         ├── abr/
         └── ...
 ```
+
+### Manifest System
+
+Each volume manages its own `manifest.json` file. The root manifest automatically
+aggregates all volume manifests. This means:
+- ✅ Importing one volume doesn't overwrite others
+- ✅ Each translation is self-contained
+- ✅ Root manifest stays in sync automatically
 
 ## Recommended Import Order
 

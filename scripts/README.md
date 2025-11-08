@@ -23,6 +23,9 @@ bun run import:pgp                     # Pearl of Great Price (15 chapters)
 # Import everything
 bun run import:all                     # All 5 volumes (~1,581 chapters)
 
+# Regenerate manifests (from volume configs)
+bun scripts/generate-manifests.ts      # Regenerate all volume and root manifests
+
 # Validate imports against source
 bun run validate:bofm                  # Validate Book of Mormon
 bun run validate:ot                    # Validate Old Testament
@@ -42,6 +45,7 @@ bun scripts/validate.ts --book=matt --chapter=5
 ```
 scripts/
 ├── import.ts                          # Main import script
+├── generate-manifests.ts              # Generate/regenerate all manifests
 ├── validate.ts                        # Validation script
 ├── test-import.ts                     # Test import (single chapter)
 └── importer/
@@ -63,7 +67,18 @@ scripts/
 3. **Tokenizes** each verse into individual words with punctuation
 4. **Infers** presentation metadata (paragraphs, poetry, quotations, etc.)
 5. **Saves** each chapter as a separate JSON file in `public/scripture/translations/`
-6. **Generates** a manifest file listing all available translations and books
+6. **Generates** volume-specific manifest in the translation directory
+7. **Updates** root manifest by aggregating all volume manifests
+
+#### Manifest System
+Each volume maintains its own `manifest.json` file:
+- `public/scripture/translations/bofm/manifest.json` - Book of Mormon
+- `public/scripture/translations/kjv/manifest.json` - King James Version (OT+NT)
+- `public/scripture/translations/dc/manifest.json` - Doctrine and Covenants
+- `public/scripture/translations/pgp/manifest.json` - Pearl of Great Price
+
+The root manifest (`public/scripture/manifest.json`) automatically aggregates all volume
+manifests. This ensures that importing one volume doesn't overwrite the metadata for others.
 
 #### Validation Process
 1. **Fetches** original HTML source from churchofjesuschrist.org API
@@ -78,14 +93,25 @@ scripts/
 Scripture data is saved to:
 ```
 public/scripture/
-├── manifest.json                      # Index of all translations
+├── manifest.json                      # Root manifest (aggregates all volumes)
 └── translations/
-    └── bofm/
-        ├── 1-ne/
-        │   ├── chapter-1.json
-        │   ├── chapter-2.json
-        │   └── ...
-        ├── 2-ne/
+    ├── bofm/
+    │   ├── manifest.json              # BoM-specific manifest
+    │   ├── 1-ne/
+    │   │   ├── chapter-1.json
+    │   │   ├── chapter-2.json
+    │   │   └── ...
+    │   ├── 2-ne/
+    │   └── ...
+    ├── kjv/
+    │   ├── manifest.json              # KJV-specific manifest
+    │   ├── gen/
+    │   └── ...
+    ├── dc/
+    │   ├── manifest.json              # D&C-specific manifest
+    │   └── ...
+    └── pgp/
+        ├── manifest.json              # PGP-specific manifest
         └── ...
 ```
 
