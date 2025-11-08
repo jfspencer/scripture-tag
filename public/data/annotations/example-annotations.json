@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "userId": "example-user",
+  "exportDate": "2025-11-08T12:00:00Z",
+  "tags": [
+    {
+      "id": "tag-creation-theme",
+      "name": "Creation Theme",
+      "description": "Verses about God as creator",
+      "category": "Theological",
+      "metadata": {
+        "color": "#4ade80",
+        "priority": 1
+      },
+      "createdAt": "2025-11-08T10:00:00Z",
+      "userId": "example-user"
+    },
+    {
+      "id": "tag-covenant",
+      "name": "Covenant",
+      "description": "References to covenants",
+      "category": "Theological",
+      "metadata": {
+        "color": "#60a5fa",
+        "priority": 2
+      },
+      "createdAt": "2025-11-08T10:30:00Z",
+      "userId": "example-user"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "annotation-gen-1-1-creation",
+      "tagId": "tag-creation-theme",
+      "tokenIds": [
+        "gen.1.1.4",
+        "gen.1.1.5",
+        "gen.1.1.6"
+      ],
+      "userId": "example-user",
+      "note": "First mention of God creating",
+      "createdAt": "2025-11-08T10:15:00Z",
+      "lastModified": "2025-11-08T10:15:00Z",
+      "version": 1
+    },
+    {
+      "id": "annotation-gen-1-1-beginning",
+      "tagId": "tag-creation-theme",
+      "tokenIds": [
+        "gen.1.1.1",
+        "gen.1.1.2"
+      ],
+      "userId": "example-user",
+      "note": "In the beginning - time starts with creation",
+      "createdAt": "2025-11-08T10:20:00Z",
+      "lastModified": "2025-11-08T10:20:00Z",
+      "version": 1
+    }
+  ],
+  "tagStyles": [
+    {
+      "tagId": "tag-creation-theme",
+      "style": {
+        "backgroundColor": "#4ade8033",
+        "underlineStyle": "solid",
+        "underlineColor": "#4ade80",
+        "fontWeight": "semibold"
+      }
+    },
+    {
+      "tagId": "tag-covenant",
+      "style": {
+        "backgroundColor": "#60a5fa33",
+        "underlineStyle": "wavy",
+        "underlineColor": "#60a5fa",
+        "fontWeight": "normal"
+      }
+    }
+  ]
+}
+
