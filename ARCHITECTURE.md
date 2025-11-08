@@ -75,10 +75,7 @@ The application follows a clean layered architecture with clear separation of co
 └─────────────────────────────────────────────────┘
 ```
 
-## Related Documentation
 
-This architecture document focuses on the application layer. For scripture data structures and import strategies, see:
-- **[SCRIPTURE_DATA.md](./SCRIPTURE_DATA.md)** - Detailed scripture data model, presentation metadata, and import pipeline for Book of Mormon and Bible
 
 ## Core Data Structures
 
@@ -90,12 +87,7 @@ interface TextToken {
   text: string;            // The actual word
   position: number;        // Position within verse
   verseId: string;         // Reference (book.chapter.verse)
-  originalLanguage?: {
-    text: string;          // Original Hebrew/Greek text
-    strongs?: string;      // Strong's number
-    morphology?: string;   // Grammatical information
-  };
-  presentation?: {
+  presentation: {
     emphasis?: 'italic' | 'bold' | 'small-caps' | 'red-letter';
     semanticType?: 'divine-name' | 'proper-noun' | 'quotation';
     precedingPunctuation?: string;
@@ -105,31 +97,29 @@ interface TextToken {
 
 interface Verse {
   id: string;              // "gen.1.1"
-  book: string;            // "genesis"
+  book: string;            // "gen"
   chapter: number;         // 1
   verse: number;           // 1
   tokens: TextToken[];
-  translation: string;     // "KJV", "ESV", "BookOfMormon"
+  translation: string;     // "kjv", "bofm", "dc", "pgp"
   presentation: {
-    paragraphStart?: boolean;
-    paragraphEnd?: boolean;
-    sectionStart?: boolean;
+    paragraphStart: boolean;
+    paragraphEnd: boolean;
+    sectionStart: boolean;
     layoutType: 'prose' | 'poetry' | 'quotation' | 'list';
     indentLevel: number;
     verseNumberDisplay: 'inline' | 'superscript' | 'margin' | 'hidden';
-    speaker?: string;
   };
 }
 
 interface Chapter {
   id: string;              // "gen.1"
-  book: string;
-  chapter: number;
-  translation: string;
-  heading?: {
-    summary: string;       // "The Creation"
-    description?: string;
-    topics?: string[];
+  book: string;            // "gen"
+  chapter: number;         // 1
+  translation: string;     // "kjv", "bofm", "dc", "pgp"
+  heading: {
+    summary: string;       // Chapter summary from original text
+    topics: string[];      // Array of topic keywords (optional)
   };
   sections: Array<{
     id: string;
@@ -909,22 +899,177 @@ export const useScripture = () => {
 
 ## Scripture Data Loading
 
+### Imported Scripture Collections
+
+The system currently includes four complete scripture collections:
+
+**1. King James Version (KJV)** - 66 books
+- **Old Testament** (39 books):
+  - Law: Genesis, Exodus, Leviticus, Numbers, Deuteronomy
+  - History: Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther
+  - Wisdom: Job, Psalms (150 chapters), Proverbs, Ecclesiastes, Song of Solomon
+  - Major Prophets: Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel
+  - Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+- **New Testament** (27 books):
+  - Gospels: Matthew, Mark, Luke, John
+  - Acts of the Apostles
+  - Pauline Epistles: Romans, 1-2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1-2 Thessalonians, 1-2 Timothy, Titus, Philemon
+  - General Epistles: Hebrews, James, 1-2 Peter, 1-2-3 John, Jude
+  - Apocalyptic: Revelation
+
+**2. The Book of Mormon (BoM)** - 15 books
+- 1 Nephi (22 chapters)
+- 2 Nephi (33 chapters)
+- Jacob, Enos, Jarom, Omni, Words of Mormon
+- Mosiah (29 chapters)
+- Alma (63 chapters)
+- Helaman (16 chapters)
+- 3 Nephi (30 chapters)
+- 4 Nephi, Mormon (9 chapters), Ether (15 chapters), Moroni (10 chapters)
+
+**3. Doctrine and Covenants (D&C)** - 138 sections
+
+**4. Pearl of Great Price (PGP)** - 5 books
+- Moses (8 chapters)
+- Abraham (5 chapters)
+- Joseph Smith—Matthew (1 chapter)
+- Joseph Smith—History (1 chapter)
+- Articles of Faith (1 chapter)
+
+**Total Content:**
+- 4 translations
+- 224 books
+- ~1,500+ chapters
+- Word-level tokenization with presentation metadata
+
+### Data Format Examples
+
+**Token Example** (from Genesis 1:1):
+```json
+{
+  "id": "gen.1.1.4",
+  "text": "God",
+  "position": 4,
+  "verseId": "gen.1.1",
+  "presentation": {
+    "semanticType": "divine-name"
+  }
+}
+```
+
+**Verse Example** (Genesis 1:1):
+```json
+{
+  "id": "gen.1.1",
+  "book": "gen",
+  "chapter": 1,
+  "verse": 1,
+  "tokens": [/* array of tokens */],
+  "translation": "kjv",
+  "presentation": {
+    "paragraphStart": false,
+    "paragraphEnd": false,
+    "sectionStart": true,
+    "layoutType": "prose",
+    "indentLevel": 0,
+    "verseNumberDisplay": "inline"
+  }
+}
+```
+
+**Chapter Example** (Genesis 1):
+```json
+{
+  "id": "gen.1",
+  "book": "gen",
+  "chapter": 1,
+  "translation": "kjv",
+  "heading": {
+    "summary": "God creates this earth and its heaven...",
+    "topics": []
+  },
+  "sections": [],
+  "verses": [/* array of verses */],
+  "presentation": {
+    "displayHeading": true,
+    "twoColumn": false,
+    "chapterNumberDisplay": "standard"
+  }
+}
+```
+
+**Notes on Data Format:**
+- All `presentation` objects are always present (even if empty: `{}`)
+- Punctuation is stored in `presentation.followingPunctuation` or `presentation.precedingPunctuation`
+- Token IDs follow format: `{book}.{chapter}.{verse}.{position}`
+- Verse/Chapter IDs follow format: `{book}.{chapter}[.{verse}]`
+- Divine names and proper nouns are marked with `semanticType`
+
 ### Static File Structure
 
 ```
 public/
   scripture/
-    manifest.json          # Index of all books/chapters
+    manifest.json          # Index of all translations and books
     translations/
       kjv/
-        genesis/
+        manifest.json      # KJV translation metadata
+        gen/
           chapter-1.json
           chapter-2.json
           ...
-        exodus/
+        ex/
+          chapter-1.json
           ...
-      esv/
-        ...
+        [all other OT/NT books]
+      bofm/
+        manifest.json      # Book of Mormon translation metadata
+        1-ne/
+          chapter-1.json
+          ...
+        2-ne/
+          ...
+        [all other BoM books]
+      dc/
+        manifest.json      # D&C translation metadata
+        dc/
+          chapter-1.json
+          chapter-2.json
+          ...
+      pgp/
+        manifest.json      # Pearl of Great Price translation metadata
+        moses/
+          chapter-1.json
+          ...
+        abr/
+          ...
+        [other PGP books]
+```
+
+### Scripture Manifest Interfaces
+
+```typescript
+// types/scripture.ts
+export interface ScriptureManifest {
+  version: string;
+  translations: Translation[];
+}
+
+export interface Translation {
+  id: string;              // "kjv", "bofm", "dc", "pgp"
+  name: string;            // "King James Version"
+  abbreviation: string;    // "KJV"
+  language: string;        // "en"
+  copyright: string;       // Copyright notice
+  books: BookMetadata[];
+}
+
+export interface BookMetadata {
+  id: string;              // "gen", "1-ne", "dc"
+  name: string;            // "Genesis", "1 Nephi"
+  category: string;        // "law", "gospels", "bom-book", etc.
+  chapters: number;        // Total chapter count
+}
 ```
 
 ### Scripture Loader Service
@@ -932,19 +1077,6 @@ public/
 ```typescript
 // services/ScriptureLoader.ts
 import * as Effect from 'effect/Effect';
-
-export interface ScriptureManifest {
-  version: string;
-  translations: Array<{
-    id: string;
-    name: string;
-    books: Array<{
-      id: string;
-      name: string;
-      chapters: number;
-    }>;
-  }>;
-}
 
 export class ScriptureLoader extends Effect.Service<ScriptureLoader>()(
   'ScriptureLoader',
@@ -964,7 +1096,7 @@ export class ScriptureLoader extends Effect.Service<ScriptureLoader>()(
         translation: string,
         book: string,
         chapter: number
-      ): Effect.Effect<Verse[], HttpError> =>
+      ): Effect.Effect<Chapter, HttpError> =>
         Effect.tryPromise({
           try: async () => {
             const response = await fetch(
@@ -976,10 +1108,11 @@ export class ScriptureLoader extends Effect.Service<ScriptureLoader>()(
           catch: (error) => new HttpError({ cause: error }),
         });
 
-      const cacheChapter = (verses: Verse[]): Effect.Effect<void, DatabaseError> =>
+      const cacheChapter = (chapter: Chapter): Effect.Effect<void, DatabaseError> =>
         Effect.tryPromise({
           try: async () => {
-            await db.verses.bulkPut(verses);
+            // Store all verses from the chapter
+            await db.verses.bulkPut(chapter.verses);
           },
           catch: (error) => new DatabaseError({ cause: error }),
         });
@@ -988,7 +1121,7 @@ export class ScriptureLoader extends Effect.Service<ScriptureLoader>()(
         translation: string,
         book: string,
         chapter: number
-      ): Effect.Effect<Verse[], HttpError | DatabaseError> =>
+      ): Effect.Effect<Chapter, HttpError | DatabaseError> =>
         Effect.gen(function* () {
           // Try to load from cache first
           const cached = yield* Effect.tryPromise({
@@ -1001,16 +1134,18 @@ export class ScriptureLoader extends Effect.Service<ScriptureLoader>()(
           });
 
           if (cached.length > 0) {
-            return cached;
+            // Reconstruct chapter from cached verses
+            // (heading and metadata would need to be cached separately or refetched)
+            return reconstructChapter(cached, translation, book, chapter);
           }
 
           // Load from network
-          const verses = yield* loadChapter(translation, book, chapter);
+          const chapterData = yield* loadChapter(translation, book, chapter);
 
           // Cache for offline use
-          yield* cacheChapter(verses);
+          yield* cacheChapter(chapterData);
 
-          return verses;
+          return chapterData;
         });
 
       return {
@@ -1366,12 +1501,12 @@ function ChapterDisplay(props: { chapter: Chapter }) {
       <Show when={chapter.presentation.displayHeading && chapter.heading}>
         <div class="chapter-heading mb-8">
           <h2 class="text-2xl font-bold text-gray-900 mb-2">
-            {chapter.heading!.summary}
+            {chapter.heading.summary}
           </h2>
-          <Show when={chapter.heading!.description}>
-            <p class="text-sm text-gray-600">
-              {chapter.heading!.description}
-            </p>
+          <Show when={chapter.heading.topics.length > 0}>
+            <div class="text-sm text-gray-600">
+              {chapter.heading.topics.join(' • ')}
+            </div>
           </Show>
         </div>
       </Show>
@@ -1469,27 +1604,27 @@ function VerseDisplay(props: { verse: Verse }) {
             'pl-4 border-l-2 border-gray-300': pres.layoutType === 'quotation',
           }}
         >
-          {/* Speaker label for dialogue */}
-          <Show when={pres.speaker}>
-            <span class="speaker font-semibold text-blue-700">
-              {pres.speaker}:{' '}
-            </span>
-          </Show>
-          
-          {/* Tokens with presentation */}
+          {/* Tokens with presentation and punctuation */}
           <For each={verse.tokens}>
             {(token, index) => (
               <>
-                <Show when={token.presentation?.precedingPunctuation}>
-                  {token.presentation!.precedingPunctuation}
+                {/* Preceding punctuation (if any) */}
+                <Show when={token.presentation.precedingPunctuation}>
+                  {token.presentation.precedingPunctuation}
                 </Show>
+                
+                {/* The tagged word itself */}
                 <TaggedWord token={token} />
-                <Show when={token.presentation?.followingPunctuation}>
-                  {token.presentation!.followingPunctuation}
+                
+                {/* Following punctuation (if any) */}
+                <Show when={token.presentation.followingPunctuation}>
+                  {token.presentation.followingPunctuation}
                 </Show>
+                
+                {/* Space between words (unless there's punctuation or it's the last word) */}
                 <Show when={
                   index() < verse.tokens.length - 1 && 
-                  !token.presentation?.followingPunctuation
+                  !token.presentation.followingPunctuation
                 }>
                   {' '}
                 </Show>
@@ -1593,20 +1728,45 @@ scripture-tag/
 │   └── index.tsx
 │
 ├── public/
-│   ├── data/                        # NEW: Git-synced data
+│   ├── data/                        # Git-synced data
 │   │   └── annotations/
 │   │       ├── manifest.json        # List of annotation files
-│   │       ├── default-user.json    # User's annotations (committed to git)
-│   │       └── shared-study.json    # Example: shared annotation set
+│   │       ├── example-annotations.json
+│   │       ├── manifest.json.example
+│   │       └── README.md
 │   │
 │   └── scripture/
-│       ├── manifest.json
+│       ├── manifest.json            # Index of all translations
 │       └── translations/
-│           └── kjv/
-│               ├── genesis/
-│               │   ├── chapter-1.json
-│               │   └── ...
-│               └── ...
+│           ├── kjv/
+│           │   ├── manifest.json
+│           │   ├── gen/             # Genesis
+│           │   │   ├── chapter-1.json
+│           │   │   └── ...
+│           │   ├── ex/              # Exodus
+│           │   ├── matt/            # Matthew
+│           │   ├── john/            # John
+│           │   └── ...              # All 66 OT/NT books
+│           ├── bofm/
+│           │   ├── manifest.json
+│           │   ├── 1-ne/            # 1 Nephi
+│           │   │   ├── chapter-1.json
+│           │   │   └── ...
+│           │   ├── 2-ne/            # 2 Nephi
+│           │   ├── alma/            # Alma (63 chapters)
+│           │   └── ...              # All 15 BoM books
+│           ├── dc/
+│           │   ├── manifest.json
+│           │   └── dc/              # 138 sections
+│           │       ├── chapter-1.json
+│           │       └── ...
+│           └── pgp/
+│               ├── manifest.json
+│               ├── moses/           # 8 chapters
+│               ├── abr/             # Abraham (5 chapters)
+│               ├── js-m/            # JS—Matthew
+│               ├── js-h/            # JS—History
+│               └── a-of-f/          # Articles of Faith
 │
 ├── package.json
 ├── tsconfig.json
@@ -2004,6 +2164,33 @@ npm run dev
 
 ---
 
+## Import Status
+
+All scripture data has been successfully imported and is available in the repository:
+
+✅ **King James Version** - Complete (66 books, all chapters)
+✅ **Book of Mormon** - Complete (15 books, all chapters)  
+✅ **Doctrine & Covenants** - Complete (138 sections)  
+✅ **Pearl of Great Price** - Complete (5 books, all chapters)
+
+**Import Details:**
+- Source: ChurchofJesusChrist.org JSON API
+- Import Date: November 2025
+- Total Files: ~1,500+ chapter JSON files
+- Repository Size: Scripture data properly organized by translation/book/chapter
+- Manifests: Both main and per-translation manifests generated
+- Data Quality: All text tokenized with presentation metadata preserved
+
+**Data Characteristics:**
+- Word-level tokenization with proper punctuation handling
+- Semantic markers for divine names and proper nouns
+- Chapter headings with summaries (topics array present but mostly empty)
+- Verse-level presentation metadata (paragraph breaks, indentation, layout)
+- Section headings preserved (though most sections arrays are empty in current import)
+
+---
+
 **Last Updated:** November 8, 2025  
-**Version:** 1.0.0
+**Version:** 1.0.0  
+**Scripture Data Version:** 1.0.0 (November 2025 import)
 
