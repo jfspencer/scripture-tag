@@ -1,5 +1,5 @@
-import { lazy } from "solid-js";
 import type { RouteDefinition } from "@solidjs/router";
+import { lazy } from "solid-js";
 
 import Home from "./pages/home";
 import ScriptureReader from "./pages/scripture-reader";

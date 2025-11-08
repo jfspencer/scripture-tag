@@ -1,18 +1,19 @@
 #!/usr/bin/env bun
+
 // Parallel Import Orchestrator - high-performance parallel import with concurrency control
 
-import * as GenericImporter from "./importer/services/genericImporter";
-import type { Book, Chapter, TranslationManifest, ScriptureManifest } from "./importer/types";
+import { promises as fs } from "fs";
+import * as path from "path";
 import type { VolumeConfig } from "./importer/data/scriptureVolumes";
 import {
 	BOOK_OF_MORMON,
-	OLD_TESTAMENT,
-	NEW_TESTAMENT,
 	DOCTRINE_AND_COVENANTS,
+	NEW_TESTAMENT,
+	OLD_TESTAMENT,
 	PEARL_OF_GREAT_PRICE,
 } from "./importer/data/scriptureVolumes";
-import { promises as fs } from "fs";
-import * as path from "path";
+import * as GenericImporter from "./importer/services/genericImporter";
+import type { Book, Chapter, ScriptureManifest, TranslationManifest } from "./importer/types";
 
 // ============================================================================
 // CONFIGURATION

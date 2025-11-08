@@ -33,13 +33,18 @@
     "parallel:examples": "bun scripts/parallel-import-example.ts",
     "parallel:benchmark": "bun scripts/benchmark-import.ts quick",
     "parallel:benchmark:full": "bun scripts/benchmark-import.ts full",
+    "tsc": "tsc --project tsconfig.json --noEmit --skipLibCheck",
     "validate:bofm": "bun scripts/validate.ts --source=bofm",
     "validate:ot": "bun scripts/validate.ts --source=ot",
     "validate:nt": "bun scripts/validate.ts --source=nt",
     "validate:dc": "bun scripts/validate.ts --source=dc",
     "validate:pgp": "bun scripts/validate.ts --source=pgp",
     "validate:all": "bun scripts/validate.ts",
-    "validate": "bun scripts/validate.ts"
+    "validate": "bun scripts/validate.ts",
+    "test": "bun test",
+    "test:watch": "bun test --watch",
+    "test:coverage": "bun test --coverage",
+    "test:services": "bun test src/services/"
   },
   "license": "MIT",
   "devDependencies": {
@@ -50,12 +55,14 @@
     "solid-devtools": "0.34.4",
     "tailwindcss": "4.1.17",
     "tsx": "4.20.6",
+    "typescript": "^5.9.3",
     "vite": "7.2.2",
     "vite-plugin-solid": "2.11.10"
   },
   "dependencies": {
     "@kobalte/core": "0.13.11",
     "@solidjs/router": "0.15.3",
+    "@sqlite.org/sqlite-wasm": "3.48.0-build1",
     "cheerio": "1.1.2",
     "effect": "3.19.2",
     "solid-js": "1.9.10"

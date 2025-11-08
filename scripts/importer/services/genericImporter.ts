@@ -3,14 +3,14 @@
 import * as cheerio from "cheerio";
 import type {
 	Chapter,
-	Verse,
-	Section,
 	ChapterHeading,
 	RawScriptureData,
 	RawSectionData,
+	Section,
+	Verse,
 } from "../types";
-import { tokenizeText } from "../utils/tokenization";
 import { inferPresentation } from "../utils/presentationInference";
+import { tokenizeText } from "../utils/tokenization";
 
 const CHURCH_API = {
 	baseUrl: "https://www.churchofjesuschrist.org",

@@ -2,17 +2,17 @@
 
 import { promises as fs } from "fs";
 import * as path from "path";
-import type { Book, Chapter, ScriptureManifest, TranslationManifest } from "../types";
-import * as GenericImporter from "./genericImporter";
 import type { VolumeConfig } from "../data/scriptureVolumes";
 import {
 	ALL_VOLUMES,
 	BOOK_OF_MORMON,
-	OLD_TESTAMENT,
-	NEW_TESTAMENT,
 	DOCTRINE_AND_COVENANTS,
+	NEW_TESTAMENT,
+	OLD_TESTAMENT,
 	PEARL_OF_GREAT_PRICE,
 } from "../data/scriptureVolumes";
+import type { Book, Chapter, ScriptureManifest, TranslationManifest } from "../types";
+import * as GenericImporter from "./genericImporter";
 
 export async function saveChapterToFile(chapter: Chapter): Promise<void> {
 	const dirPath = path.join(

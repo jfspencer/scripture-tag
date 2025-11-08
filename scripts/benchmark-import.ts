@@ -1,9 +1,10 @@
 #!/usr/bin/env bun
+
 // Performance Benchmark: Sequential vs Parallel Import
 
-import { ParallelImporter, type ParallelConfig } from "./parallel-import-orchestrator";
-import * as ImportPipeline from "./importer/services/importPipeline";
 import { BOOK_OF_MORMON } from "./importer/data/scriptureVolumes";
+import * as ImportPipeline from "./importer/services/importPipeline";
+import { type ParallelConfig, ParallelImporter } from "./parallel-import-orchestrator";
 
 interface BenchmarkResult {
 	name: string;

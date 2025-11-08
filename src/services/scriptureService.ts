@@ -1,5 +1,5 @@
-import { Effect, Context, Layer, Data } from "effect";
-import type { ScriptureManifest, TranslationManifest, Chapter } from "../types/scripture";
+import { Context, Data, Effect, Layer } from "effect";
+import type { Chapter, ScriptureManifest, TranslationManifest } from "../types/scripture";
 
 // Error types
 export class ScriptureLoadError extends Data.TaggedError("ScriptureLoadError")<{

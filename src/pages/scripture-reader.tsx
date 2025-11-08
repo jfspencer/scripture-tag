@@ -1,10 +1,10 @@
-import { createSignal, createEffect, Show, onMount } from "solid-js";
-import { Effect } from "effect";
-import ScriptureNavigator from "../components/ScriptureNavigator";
-import ChapterDisplay from "../components/ChapterDisplay";
-import { ScriptureService, ScriptureAppLayer } from "../services/scriptureService";
-import type { ScriptureManifest, Chapter } from "../types/scripture";
 import { Separator } from "@kobalte/core/separator";
+import { Effect } from "effect";
+import { createEffect, createSignal, onMount, Show } from "solid-js";
+import ChapterDisplay from "../components/ChapterDisplay";
+import ScriptureNavigator from "../components/ScriptureNavigator";
+import { ScriptureAppLayer, ScriptureService } from "../services/scriptureService";
+import type { Chapter, ScriptureManifest } from "../types/scripture";
 
 export default function ScriptureReader() {
 	const [manifest, setManifest] = createSignal<ScriptureManifest | null>(null);

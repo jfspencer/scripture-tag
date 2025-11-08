@@ -1,6 +1,6 @@
 // Word-level tokenization utilities
 
-import type { TextToken, EmphasisType, SemanticType } from "../types";
+import type { EmphasisType, SemanticType, TextToken } from "../types";
 
 export function tokenizeText(text: string, verseId: string): TextToken[] {
 	const tokens: TextToken[] = [];

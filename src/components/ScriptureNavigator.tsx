@@ -1,6 +1,6 @@
-import { createSignal, For, createEffect } from "solid-js";
 import { Collapsible } from "@kobalte/core/collapsible";
-import type { Translation, Book } from "../types/scripture";
+import { createEffect, createSignal, For } from "solid-js";
+import type { Book, Translation } from "../types/scripture";
 
 interface ScriptureNavigatorProps {
 	translations: Translation[];

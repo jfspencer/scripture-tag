@@ -1,6 +1,6 @@
 // Presentation metadata inference utilities
 
-import type { VersePresentationMetadata, LayoutType, RawVerseData, RawSectionData } from "../types";
+import type { LayoutType, RawSectionData, RawVerseData, VersePresentationMetadata } from "../types";
 
 export function inferPresentation(
 	verse: RawVerseData,

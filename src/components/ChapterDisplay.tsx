@@ -1,5 +1,5 @@
 import { For, Show } from "solid-js";
-import type { Chapter, Verse, TextToken } from "../types/scripture";
+import type { Chapter, TextToken, Verse } from "../types/scripture";
 
 interface ChapterDisplayProps {
 	chapter: Chapter;

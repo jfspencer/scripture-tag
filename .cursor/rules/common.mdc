@@ -505,6 +505,8 @@ export const MyServiceLive = Layer.effect(MyService, makeMyService);
 - **JSX:** Preserve with `solid-js` import source
 - **No Emit:** Vite handles compilation
 
+run `bun run tsc` to verify there are 
+
 **TypeScript Guidelines:**
 - Prefer interfaces for object shapes
 - Use type for unions, intersections, primitives

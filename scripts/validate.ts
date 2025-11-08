@@ -1,15 +1,16 @@
 #!/usr/bin/env bun
+
 // Scripture Validation Script - validates imported JSON against HTML source
 
-import * as Validator from "./importer/services/validator";
 import type { VolumeConfig } from "./importer/data/scriptureVolumes";
 import {
 	BOOK_OF_MORMON,
-	OLD_TESTAMENT,
-	NEW_TESTAMENT,
 	DOCTRINE_AND_COVENANTS,
+	NEW_TESTAMENT,
+	OLD_TESTAMENT,
 	PEARL_OF_GREAT_PRICE,
 } from "./importer/data/scriptureVolumes";
+import * as Validator from "./importer/services/validator";
 
 async function validateVolume(volume: VolumeConfig): Promise<boolean> {
 	console.log(`\n📚 VALIDATING ${volume.name.toUpperCase()}`);

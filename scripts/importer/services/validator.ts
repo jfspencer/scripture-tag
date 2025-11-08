@@ -3,7 +3,7 @@
 import * as cheerio from "cheerio";
 import { promises as fs } from "fs";
 import * as path from "path";
-import type { Chapter, Verse, RawScriptureData } from "../types";
+import type { Chapter, RawScriptureData, Verse } from "../types";
 
 const CHURCH_API = {
 	baseUrl: "https://www.churchofjesuschrist.org",

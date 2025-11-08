@@ -1,8 +1,9 @@
 #!/usr/bin/env bun
+
 // Example: Using the Parallel Import Orchestrator programmatically
 
-import { ParallelImporter, PromisePool, type ParallelConfig } from "./parallel-import-orchestrator";
 import { BOOK_OF_MORMON } from "./importer/data/scriptureVolumes";
+import { type ParallelConfig, ParallelImporter, PromisePool } from "./parallel-import-orchestrator";
 
 /**
  * Example 1: Custom Configuration

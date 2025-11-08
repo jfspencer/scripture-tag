@@ -1,14 +1,15 @@
 #!/usr/bin/env bun
+
 // Scripture Import Script - imports all standard works from churchofjesuschrist.org
 
-import * as ImportPipeline from "./importer/services/importPipeline";
 import {
 	BOOK_OF_MORMON,
-	OLD_TESTAMENT,
-	NEW_TESTAMENT,
 	DOCTRINE_AND_COVENANTS,
+	NEW_TESTAMENT,
+	OLD_TESTAMENT,
 	PEARL_OF_GREAT_PRICE,
 } from "./importer/data/scriptureVolumes";
+import * as ImportPipeline from "./importer/services/importPipeline";
 
 async function main() {
 	console.log("📖 Scripture Import Process Starting...\n");
