@@ -19,6 +19,9 @@ export default function ScriptureReader() {
   const [error, setError] = createSignal<string | null>(null);
   const [navigatorWidth, setNavigatorWidth] = createSignal(300);
   const [isResizing, setIsResizing] = createSignal(false);
+  
+  // Request counter to prevent race conditions
+  let requestCounter = 0;
 
   // Load manifest on mount
   onMount(() => {
@@ -48,6 +51,10 @@ export default function ScriptureReader() {
 
     if (!translation || !book || !chapter) return;
 
+    // Increment request counter to track this specific request
+    requestCounter++;
+    const currentRequestId = requestCounter;
+
     setLoading(true);
     setError(null);
 
@@ -60,18 +67,26 @@ export default function ScriptureReader() {
 
     Effect.runPromise(program)
       .then((result) => {
-        setCurrentChapter(result);
-        setLoading(false);
-        setError(null);
+        // Only update state if this is still the most recent request
+        if (currentRequestId === requestCounter) {
+          setCurrentChapter(result);
+          setLoading(false);
+          setError(null);
+        }
       })
       .catch((err) => {
-        console.error('Failed to load chapter:', err);
-        setError(`Failed to load ${book} chapter ${chapter}. Please try again.`);
-        setLoading(false);
+        // Only update error state if this is still the most recent request
+        if (currentRequestId === requestCounter) {
+          console.error('Failed to load chapter:', err);
+          setError(`Failed to load ${book} chapter ${chapter}. Please try again.`);
+          setLoading(false);
+        }
       });
   });
 
   const handleSelectChapter = (translationId: string, bookId: string, chapter: number) => {
+    // Clear current chapter to prevent stale data display
+    setCurrentChapter(null);
     setSelectedTranslation(translationId);
     setSelectedBook(bookId);
     setSelectedChapter(chapter);
