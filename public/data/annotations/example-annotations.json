@@ -32,11 +32,7 @@
     {
       "id": "annotation-gen-1-1-creation",
       "tagId": "tag-creation-theme",
-      "tokenIds": [
-        "gen.1.1.4",
-        "gen.1.1.5",
-        "gen.1.1.6"
-      ],
+      "tokenIds": ["gen.1.1.4", "gen.1.1.5", "gen.1.1.6"],
       "userId": "example-user",
       "note": "First mention of God creating",
       "createdAt": "2025-11-08T10:15:00Z",
@@ -46,10 +42,7 @@
     {
       "id": "annotation-gen-1-1-beginning",
       "tagId": "tag-creation-theme",
-      "tokenIds": [
-        "gen.1.1.1",
-        "gen.1.1.2"
-      ],
+      "tokenIds": ["gen.1.1.1", "gen.1.1.2"],
       "userId": "example-user",
       "note": "In the beginning - time starts with creation",
       "createdAt": "2025-11-08T10:20:00Z",
@@ -78,4 +71,3 @@
     }
   ]
 }
-

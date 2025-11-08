@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+build
+.output
+.wrangler
+.vercel
+.netlify
+.vinxi
+
+# Lock files
+*.lock
+bun.lock
+
+# Large scripture data files
+public/scripture/translations/**/*.json
+
