@@ -371,6 +371,15 @@
       "verse": 2,
       "tokens": [
         {
+          "id": "song.5.2.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.5.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "song.5.2.2",
           "text": "I",
           "position": 2,
@@ -1984,6 +1993,15 @@
       "chapter": 5,
       "verse": 9,
       "tokens": [
+        {
+          "id": "song.5.9.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.5.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "song.5.9.2",
           "text": "What",

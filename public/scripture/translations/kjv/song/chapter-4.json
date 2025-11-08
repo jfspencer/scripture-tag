@@ -1329,6 +1329,15 @@
       "verse": 8,
       "tokens": [
         {
+          "id": "song.4.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.4.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "song.4.8.2",
           "text": "Come",
           "position": 2,
@@ -2787,6 +2796,15 @@
       "chapter": 4,
       "verse": 16,
       "tokens": [
+        {
+          "id": "song.4.16.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.4.16",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "song.4.16.2",
           "text": "Awake",

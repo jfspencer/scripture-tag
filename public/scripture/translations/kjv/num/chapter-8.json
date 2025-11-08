@@ -721,6 +721,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "num.8.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "num.8.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "num.8.5.2",
           "text": "And",
           "position": 2,
@@ -4899,6 +4908,15 @@
       "chapter": 8,
       "verse": 23,
       "tokens": [
+        {
+          "id": "num.8.23.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "num.8.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "num.8.23.2",
           "text": "And",

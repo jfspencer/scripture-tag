@@ -1365,6 +1365,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "isa.2.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.2.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.2.6.2",
           "text": "Therefore",
           "position": 2,
@@ -2188,6 +2197,15 @@
       "chapter": 2,
       "verse": 10,
       "tokens": [
+        {
+          "id": "isa.2.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.2.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.2.10.2",
           "text": "Enter",

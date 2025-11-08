@@ -217,6 +217,15 @@
       "verse": 2,
       "tokens": [
         {
+          "id": "zech.13.2.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "zech.13.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "zech.13.2.2",
           "text": "And",
           "position": 2,
@@ -1720,6 +1729,15 @@
       "chapter": 13,
       "verse": 7,
       "tokens": [
+        {
+          "id": "zech.13.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "zech.13.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "zech.13.7.2",
           "text": "Awake",

@@ -946,6 +946,15 @@
       "verse": 7,
       "tokens": [
         {
+          "id": "matt.3.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "matt.3.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "matt.3.7.2",
           "text": "But",
           "position": 2,
@@ -2304,6 +2313,15 @@
       "chapter": 3,
       "verse": 13,
       "tokens": [
+        {
+          "id": "matt.3.13.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "matt.3.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "matt.3.13.2",
           "text": "Then",

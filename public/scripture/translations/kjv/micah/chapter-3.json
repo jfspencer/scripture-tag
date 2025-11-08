@@ -974,6 +974,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "micah.3.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "micah.3.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "micah.3.5.2",
           "text": "Thus",
           "position": 2,
@@ -1771,6 +1780,15 @@
       "chapter": 3,
       "verse": 8,
       "tokens": [
+        {
+          "id": "micah.3.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "micah.3.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "micah.3.8.2",
           "text": "But",

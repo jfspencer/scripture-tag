@@ -796,6 +796,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "ex.2.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ex.2.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "ex.2.5.2",
           "text": "And",
           "position": 2,
@@ -2246,6 +2255,15 @@
       "chapter": 2,
       "verse": 11,
       "tokens": [
+        {
+          "id": "ex.2.11.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ex.2.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "ex.2.11.2",
           "text": "And",
@@ -4830,6 +4848,15 @@
       "chapter": 2,
       "verse": 23,
       "tokens": [
+        {
+          "id": "ex.2.23.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ex.2.23",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "ex.2.23.2",
           "text": "And",

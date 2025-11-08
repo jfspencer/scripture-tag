@@ -1537,6 +1537,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "deut.13.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.13.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "deut.13.6.2",
           "text": "If",
           "position": 2,
@@ -3075,6 +3084,15 @@
       "chapter": 13,
       "verse": 12,
       "tokens": [
+        {
+          "id": "deut.13.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.13.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "deut.13.12.2",
           "text": "If",

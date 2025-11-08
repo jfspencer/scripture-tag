@@ -1328,6 +1328,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "ezek.9.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ezek.9.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "ezek.9.5.2",
           "text": "And",
           "position": 2,
@@ -2089,6 +2098,15 @@
       "chapter": 9,
       "verse": 8,
       "tokens": [
+        {
+          "id": "ezek.9.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ezek.9.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "ezek.9.8.2",
           "text": "And",

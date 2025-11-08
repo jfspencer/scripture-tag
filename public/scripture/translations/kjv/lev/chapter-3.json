@@ -1367,6 +1367,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "lev.3.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "lev.3.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "lev.3.6.2",
           "text": "And",
           "position": 2,
@@ -2790,6 +2799,15 @@
       "chapter": 3,
       "verse": 12,
       "tokens": [
+        {
+          "id": "lev.3.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "lev.3.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "lev.3.12.2",
           "text": "And",

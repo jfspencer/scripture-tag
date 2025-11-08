@@ -937,6 +937,15 @@
       "verse": 4,
       "tokens": [
         {
+          "id": "isa.61.4.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.61.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.61.4.2",
           "text": "And",
           "position": 2,
@@ -1597,6 +1606,15 @@
       "chapter": 61,
       "verse": 7,
       "tokens": [
+        {
+          "id": "isa.61.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.61.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.61.7.2",
           "text": "For",

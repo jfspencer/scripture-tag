@@ -3360,6 +3360,15 @@
       "verse": 19,
       "tokens": [
         {
+          "id": "john.10.19.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.10.19",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "john.10.19.2",
           "text": "There",
           "position": 2,
@@ -3793,6 +3802,15 @@
       "chapter": 10,
       "verse": 22,
       "tokens": [
+        {
+          "id": "john.10.22.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.10.22",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "john.10.22.2",
           "text": "And",

@@ -673,6 +673,15 @@
       "verse": 7,
       "tokens": [
         {
+          "id": "ex.1.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ex.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "ex.1.7.2",
           "text": "And",
           "position": 2,
@@ -2242,6 +2251,15 @@
       "chapter": 1,
       "verse": 15,
       "tokens": [
+        {
+          "id": "ex.1.15.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "ex.1.15",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "ex.1.15.2",
           "text": "And",

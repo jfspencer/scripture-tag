@@ -1341,6 +1341,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "job.1.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "job.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "job.1.6.2",
           "text": "Now",
           "position": 2,
@@ -2926,6 +2935,15 @@
       "chapter": 1,
       "verse": 13,
       "tokens": [
+        {
+          "id": "job.1.13.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "job.1.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "job.1.13.2",
           "text": "And",

@@ -1088,6 +1088,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "isa.45.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.45.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.45.5.2",
           "text": "I",
           "position": 2,
@@ -4889,6 +4898,15 @@
       "chapter": 45,
       "verse": 20,
       "tokens": [
+        {
+          "id": "isa.45.20.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.45.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.45.20.2",
           "text": "Assemble",

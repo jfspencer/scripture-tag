@@ -1440,6 +1440,15 @@
       "verse": 8,
       "tokens": [
         {
+          "id": "joel.1.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "joel.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "joel.1.8.2",
           "text": "Lament",
           "position": 2,
@@ -2754,6 +2763,15 @@
       "chapter": 1,
       "verse": 14,
       "tokens": [
+        {
+          "id": "joel.1.14.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "joel.1.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "joel.1.14.2",
           "text": "Sanctify",

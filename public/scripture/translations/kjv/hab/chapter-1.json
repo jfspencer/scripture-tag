@@ -710,6 +710,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "hab.1.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hab.1.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "hab.1.5.2",
           "text": "Behold",
           "position": 2,
@@ -2204,6 +2213,15 @@
       "chapter": 1,
       "verse": 12,
       "tokens": [
+        {
+          "id": "hab.1.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hab.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "hab.1.12.2",
           "text": "Art",

@@ -1023,6 +1023,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "isa.62.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.62.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.62.5.2",
           "text": "For",
           "position": 2,
@@ -2227,6 +2236,15 @@
       "chapter": 62,
       "verse": 10,
       "tokens": [
+        {
+          "id": "isa.62.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.62.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.62.10.2",
           "text": "Go",

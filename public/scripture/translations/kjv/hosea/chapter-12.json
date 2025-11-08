@@ -464,6 +464,15 @@
       "verse": 3,
       "tokens": [
         {
+          "id": "hosea.12.3.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hosea.12.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "hosea.12.3.2",
           "text": "He",
           "position": 2,
@@ -1092,6 +1101,15 @@
       "chapter": 12,
       "verse": 7,
       "tokens": [
+        {
+          "id": "hosea.12.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hosea.12.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "hosea.12.7.2",
           "text": "He",

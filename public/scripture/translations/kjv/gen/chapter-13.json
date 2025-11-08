@@ -742,6 +742,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "gen.13.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "gen.13.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "gen.13.5.2",
           "text": "And",
           "position": 2,
@@ -2720,6 +2729,15 @@
       "chapter": 13,
       "verse": 14,
       "tokens": [
+        {
+          "id": "gen.13.14.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "gen.13.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "gen.13.14.2",
           "text": "And",

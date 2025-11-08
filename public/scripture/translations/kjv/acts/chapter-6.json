@@ -835,6 +835,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "acts.6.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "acts.6.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "acts.6.5.2",
           "text": "And",
           "position": 2,
@@ -1646,6 +1655,15 @@
       "chapter": 6,
       "verse": 9,
       "tokens": [
+        {
+          "id": "acts.6.9.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "acts.6.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "acts.6.9.2",
           "text": "Then",

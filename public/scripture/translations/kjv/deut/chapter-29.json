@@ -288,6 +288,15 @@
       "verse": 2,
       "tokens": [
         {
+          "id": "deut.29.2.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.29.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "deut.29.2.2",
           "text": "And",
           "position": 2,
@@ -1921,6 +1930,15 @@
       "chapter": 29,
       "verse": 10,
       "tokens": [
+        {
+          "id": "deut.29.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.29.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "deut.29.10.2",
           "text": "Ye",

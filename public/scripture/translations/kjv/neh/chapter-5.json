@@ -1182,6 +1182,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "neh.5.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "neh.5.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "neh.5.6.2",
           "text": "And",
           "position": 2,
@@ -3417,6 +3426,15 @@
       "chapter": 5,
       "verse": 14,
       "tokens": [
+        {
+          "id": "neh.5.14.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "neh.5.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "neh.5.14.2",
           "text": "Moreover",

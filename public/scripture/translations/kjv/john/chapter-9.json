@@ -1272,6 +1272,15 @@
       "verse": 8,
       "tokens": [
         {
+          "id": "john.9.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.9.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "john.9.8.2",
           "text": "The",
           "position": 2,
@@ -2146,6 +2155,15 @@
       "chapter": 9,
       "verse": 13,
       "tokens": [
+        {
+          "id": "john.9.13.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.9.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "john.9.13.2",
           "text": "They",
@@ -6871,6 +6889,15 @@
       "chapter": 9,
       "verse": 39,
       "tokens": [
+        {
+          "id": "john.9.39.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.9.39",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "john.9.39.2",
           "text": "And",

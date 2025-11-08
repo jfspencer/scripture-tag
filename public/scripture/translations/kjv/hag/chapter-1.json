@@ -1354,6 +1354,15 @@
       "verse": 7,
       "tokens": [
         {
+          "id": "hag.1.7.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hag.1.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "hag.1.7.2",
           "text": "Thus",
           "position": 2,
@@ -2537,6 +2546,15 @@
       "chapter": 1,
       "verse": 12,
       "tokens": [
+        {
+          "id": "hag.1.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "hag.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "hag.1.12.2",
           "text": "Then",

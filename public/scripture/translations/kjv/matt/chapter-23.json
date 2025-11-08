@@ -1733,6 +1733,15 @@
       "verse": 13,
       "tokens": [
         {
+          "id": "matt.23.13.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "matt.23.13",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "matt.23.13.2",
           "text": "But",
           "position": 2,
@@ -5668,6 +5677,15 @@
       "chapter": 23,
       "verse": 34,
       "tokens": [
+        {
+          "id": "matt.23.34.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "matt.23.34",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "matt.23.34.2",
           "text": "Wherefore",

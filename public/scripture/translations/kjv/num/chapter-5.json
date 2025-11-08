@@ -752,6 +752,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "num.5.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "num.5.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "num.5.5.2",
           "text": "And",
           "position": 2,
@@ -1993,6 +2002,15 @@
       "chapter": 5,
       "verse": 11,
       "tokens": [
+        {
+          "id": "num.5.11.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "num.5.11",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "num.5.11.2",
           "text": "And",

@@ -2017,6 +2017,15 @@
       "verse": 12,
       "tokens": [
         {
+          "id": "john.8.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.8.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "john.8.12.2",
           "text": "Then",
           "position": 2,
@@ -6027,6 +6036,15 @@
       "chapter": 8,
       "verse": 33,
       "tokens": [
+        {
+          "id": "john.8.33.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "john.8.33",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "john.8.33.2",
           "text": "They",

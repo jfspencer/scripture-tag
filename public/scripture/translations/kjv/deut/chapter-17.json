@@ -256,6 +256,15 @@
       "verse": 2,
       "tokens": [
         {
+          "id": "deut.17.2.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.17.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "deut.17.2.2",
           "text": "If",
           "position": 2,
@@ -1816,6 +1825,15 @@
       "chapter": 17,
       "verse": 8,
       "tokens": [
+        {
+          "id": "deut.17.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.17.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "deut.17.8.2",
           "text": "If",
@@ -3494,6 +3512,15 @@
       "chapter": 17,
       "verse": 14,
       "tokens": [
+        {
+          "id": "deut.17.14.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "deut.17.14",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "deut.17.14.2",
           "text": "When",

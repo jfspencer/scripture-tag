@@ -436,6 +436,15 @@
       "verse": 3,
       "tokens": [
         {
+          "id": "neh.11.3.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "neh.11.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "neh.11.3.2",
           "text": "Now",
           "position": 2,
@@ -4259,6 +4268,15 @@
       "chapter": 11,
       "verse": 20,
       "tokens": [
+        {
+          "id": "neh.11.20.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "neh.11.20",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "neh.11.20.2",
           "text": "And",

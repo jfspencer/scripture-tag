@@ -750,6 +750,15 @@
       "verse": 4,
       "tokens": [
         {
+          "id": "zech.7.4.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "zech.7.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "zech.7.4.2",
           "text": "Then",
           "position": 2,
@@ -1620,6 +1629,15 @@
       "chapter": 7,
       "verse": 8,
       "tokens": [
+        {
+          "id": "zech.7.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "zech.7.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "zech.7.8.2",
           "text": "And",

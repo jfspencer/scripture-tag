@@ -1081,6 +1081,15 @@
       "verse": 6,
       "tokens": [
         {
+          "id": "mal.1.6.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "mal.1.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "mal.1.6.2",
           "text": "A",
           "position": 2,
@@ -3053,6 +3062,15 @@
       "chapter": 1,
       "verse": 12,
       "tokens": [
+        {
+          "id": "mal.1.12.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "mal.1.12",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "mal.1.12.2",
           "text": "But",

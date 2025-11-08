@@ -727,6 +727,15 @@
       "verse": 4,
       "tokens": [
         {
+          "id": "isa.53.4.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.53.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.53.4.2",
           "text": "Surely",
           "position": 2,
@@ -2140,6 +2149,15 @@
       "chapter": 53,
       "verse": 10,
       "tokens": [
+        {
+          "id": "isa.53.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.53.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.53.10.2",
           "text": "Yet",

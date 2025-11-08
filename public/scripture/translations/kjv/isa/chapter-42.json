@@ -761,6 +761,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "isa.42.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.42.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "isa.42.5.2",
           "text": "Thus",
           "position": 2,
@@ -3657,6 +3666,15 @@
       "chapter": 42,
       "verse": 17,
       "tokens": [
+        {
+          "id": "isa.42.17.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "isa.42.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "isa.42.17.2",
           "text": "They",

@@ -571,6 +571,15 @@
       "verse": 3,
       "tokens": [
         {
+          "id": "dan.1.3.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "dan.1.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "dan.1.3.2",
           "text": "And",
           "position": 2,
@@ -1857,6 +1866,15 @@
       "chapter": 1,
       "verse": 8,
       "tokens": [
+        {
+          "id": "dan.1.8.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "dan.1.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "dan.1.8.2",
           "text": "But",
@@ -3797,6 +3815,15 @@
       "chapter": 1,
       "verse": 17,
       "tokens": [
+        {
+          "id": "dan.1.17.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "dan.1.17",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "dan.1.17.2",
           "text": "As",

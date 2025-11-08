@@ -701,6 +701,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "jonah.3.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "jonah.3.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "jonah.3.5.2",
           "text": "So",
           "position": 2,
@@ -1895,6 +1904,15 @@
       "chapter": 3,
       "verse": 10,
       "tokens": [
+        {
+          "id": "jonah.3.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "jonah.3.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "jonah.3.10.2",
           "text": "And",

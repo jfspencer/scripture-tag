@@ -513,6 +513,15 @@
       "verse": 4,
       "tokens": [
         {
+          "id": "song.6.4.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.6.4",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "song.6.4.2",
           "text": "Thou",
           "position": 2,
@@ -1611,6 +1620,15 @@
       "chapter": 6,
       "verse": 10,
       "tokens": [
+        {
+          "id": "song.6.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "song.6.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "song.6.10.2",
           "text": "Who",

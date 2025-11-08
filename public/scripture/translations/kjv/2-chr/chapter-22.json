@@ -982,6 +982,15 @@
       "verse": 5,
       "tokens": [
         {
+          "id": "2-chr.22.5.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "2-chr.22.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
           "id": "2-chr.22.5.2",
           "text": "He",
           "position": 2,
@@ -2716,6 +2725,15 @@
       "chapter": 22,
       "verse": 10,
       "tokens": [
+        {
+          "id": "2-chr.22.10.1",
+          "text": "¶",
+          "position": 1,
+          "verseId": "2-chr.22.10",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
         {
           "id": "2-chr.22.10.2",
           "text": "But",
