@@ -3,8 +3,520 @@
   "book": "dc",
   "chapter": 13,
   "translation": "dc",
+  "heading": {
+    "summary": "The keys and powers of the Aaronic Priesthood are set forth.",
+    "topics": []
+  },
   "sections": [],
-  "verses": [],
+  "verses": [
+    {
+      "id": "dc.13.1",
+      "book": "dc",
+      "chapter": 13,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "dc.13.1.1",
+          "text": "Upon",
+          "position": 1,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.2",
+          "text": "you",
+          "position": 2,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.3",
+          "text": "my",
+          "position": 3,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.4",
+          "text": "fellow",
+          "position": 4,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.5",
+          "text": "servants",
+          "position": 5,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.13.1.6",
+          "text": "in",
+          "position": 6,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.7",
+          "text": "the",
+          "position": 7,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.8",
+          "text": "name",
+          "position": 8,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.9",
+          "text": "of",
+          "position": 9,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.10",
+          "text": "Messiah",
+          "position": 10,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.11",
+          "text": "I",
+          "position": 11,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.12",
+          "text": "confer",
+          "position": 12,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.14",
+          "text": "Priesthood",
+          "position": 14,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.16",
+          "text": "Aaron",
+          "position": 16,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.17",
+          "text": "which",
+          "position": 17,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.18",
+          "text": "holds",
+          "position": 18,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.19",
+          "text": "the",
+          "position": 19,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.20",
+          "text": "keys",
+          "position": 20,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.21",
+          "text": "of",
+          "position": 21,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.23",
+          "text": "ministering",
+          "position": 23,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.25",
+          "text": "angels",
+          "position": 25,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.13.1.26",
+          "text": "and",
+          "position": 26,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.27",
+          "text": "of",
+          "position": 27,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.28",
+          "text": "the",
+          "position": 28,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.29",
+          "text": "gospel",
+          "position": 29,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.30",
+          "text": "of",
+          "position": 30,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.31",
+          "text": "repentance",
+          "position": 31,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.13.1.32",
+          "text": "and",
+          "position": 32,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.33",
+          "text": "of",
+          "position": 33,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.34",
+          "text": "baptism",
+          "position": 34,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.35",
+          "text": "by",
+          "position": 35,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.36",
+          "text": "immersion",
+          "position": 36,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.37",
+          "text": "for",
+          "position": 37,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.38",
+          "text": "the",
+          "position": 38,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.39",
+          "text": "remission",
+          "position": 39,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.40",
+          "text": "of",
+          "position": 40,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.41",
+          "text": "sins",
+          "position": 41,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ";"
+          }
+        },
+        {
+          "id": "dc.13.1.42",
+          "text": "and",
+          "position": 42,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.43",
+          "text": "this",
+          "position": 43,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.44",
+          "text": "shall",
+          "position": 44,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.45",
+          "text": "never",
+          "position": 45,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.46",
+          "text": "be",
+          "position": 46,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.47",
+          "text": "taken",
+          "position": 47,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.48",
+          "text": "again",
+          "position": 48,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.49",
+          "text": "from",
+          "position": 49,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.50",
+          "text": "the",
+          "position": 50,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.51",
+          "text": "earth",
+          "position": 51,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.13.1.52",
+          "text": "until",
+          "position": 52,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.53",
+          "text": "the",
+          "position": 53,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.54",
+          "text": "sons",
+          "position": 54,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.55",
+          "text": "of",
+          "position": 55,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.56",
+          "text": "Levi",
+          "position": 56,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.13.1.57",
+          "text": "do",
+          "position": 57,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.58",
+          "text": "offer",
+          "position": 58,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.59",
+          "text": "again",
+          "position": 59,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.60",
+          "text": "an",
+          "position": 60,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.61",
+          "text": "offering",
+          "position": 61,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.62",
+          "text": "unto",
+          "position": 62,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.63",
+          "text": "the",
+          "position": 63,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.64",
+          "text": "Lord",
+          "position": 64,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "semanticType": "divine-name"
+          }
+        },
+        {
+          "id": "dc.13.1.65",
+          "text": "in",
+          "position": 65,
+          "verseId": "dc.13.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.13.1.66",
+          "text": "righteousness",
+          "position": 66,
+          "verseId": "dc.13.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
   "presentation": {
     "displayHeading": true,
     "twoColumn": false,

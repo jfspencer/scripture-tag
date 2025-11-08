@@ -3,8 +3,2421 @@
   "book": "dc",
   "chapter": 96,
   "translation": "dc",
+  "heading": {
+    "summary": "1, The Kirtland Stake of Zion is to be made strong; 2–5, The bishop is to divide the inheritances for the Saints; 6–9, John Johnson is to be a member of the united order.",
+    "topics": []
+  },
   "sections": [],
-  "verses": [],
+  "verses": [
+    {
+      "id": "dc.96.1",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 1,
+      "tokens": [
+        {
+          "id": "dc.96.1.1",
+          "text": "Behold",
+          "position": 1,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.1.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.1.3",
+          "text": "say",
+          "position": 3,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.5",
+          "text": "you",
+          "position": 5,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.1.6",
+          "text": "here",
+          "position": 6,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.7",
+          "text": "is",
+          "position": 7,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.8",
+          "text": "wisdom",
+          "position": 8,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.1.9",
+          "text": "whereby",
+          "position": 9,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.10",
+          "text": "ye",
+          "position": 10,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.11",
+          "text": "may",
+          "position": 11,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.12",
+          "text": "know",
+          "position": 12,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.13",
+          "text": "how",
+          "position": 13,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.15",
+          "text": "act",
+          "position": 15,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.16",
+          "text": "concerning",
+          "position": 16,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.17",
+          "text": "this",
+          "position": 17,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.18",
+          "text": "matter",
+          "position": 18,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.1.19",
+          "text": "for",
+          "position": 19,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.20",
+          "text": "it",
+          "position": 20,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.21",
+          "text": "is",
+          "position": 21,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.22",
+          "text": "expedient",
+          "position": 22,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.23",
+          "text": "in",
+          "position": 23,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.24",
+          "text": "me",
+          "position": 24,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.25",
+          "text": "that",
+          "position": 25,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.26",
+          "text": "this",
+          "position": 26,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.27",
+          "text": "stake",
+          "position": 27,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.28",
+          "text": "that",
+          "position": 28,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.29",
+          "text": "I",
+          "position": 29,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.1.30",
+          "text": "have",
+          "position": 30,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.31",
+          "text": "set",
+          "position": 31,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.32",
+          "text": "for",
+          "position": 32,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.33",
+          "text": "the",
+          "position": 33,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.34",
+          "text": "strength",
+          "position": 34,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.35",
+          "text": "of",
+          "position": 35,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.36",
+          "text": "Zion",
+          "position": 36,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.1.37",
+          "text": "should",
+          "position": 37,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.38",
+          "text": "be",
+          "position": 38,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.39",
+          "text": "made",
+          "position": 39,
+          "verseId": "dc.96.1",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.1.40",
+          "text": "strong",
+          "position": 40,
+          "verseId": "dc.96.1",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": true,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.2",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 2,
+      "tokens": [
+        {
+          "id": "dc.96.2.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.2.2",
+          "text": "let",
+          "position": 2,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.3",
+          "text": "my",
+          "position": 3,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.4",
+          "text": "servant",
+          "position": 4,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.5",
+          "text": "Newel",
+          "position": 5,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.2.6",
+          "text": "K",
+          "position": 6,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.2.7",
+          "text": "Whitney",
+          "position": 7,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.2.8",
+          "text": "take",
+          "position": 8,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.9",
+          "text": "charge",
+          "position": 9,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.10",
+          "text": "of",
+          "position": 10,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.11",
+          "text": "the",
+          "position": 11,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.12",
+          "text": "place",
+          "position": 12,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.13",
+          "text": "which",
+          "position": 13,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.14",
+          "text": "is",
+          "position": 14,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.15",
+          "text": "named",
+          "position": 15,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.16",
+          "text": "among",
+          "position": 16,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.17",
+          "text": "you",
+          "position": 17,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.2.18",
+          "text": "upon",
+          "position": 18,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.19",
+          "text": "which",
+          "position": 19,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.20",
+          "text": "I",
+          "position": 20,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.2.21",
+          "text": "design",
+          "position": 21,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.22",
+          "text": "to",
+          "position": 22,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.23",
+          "text": "build",
+          "position": 23,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.24",
+          "text": "mine",
+          "position": 24,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.25",
+          "text": "holy",
+          "position": 25,
+          "verseId": "dc.96.2",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.2.26",
+          "text": "house",
+          "position": 26,
+          "verseId": "dc.96.2",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.3",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 3,
+      "tokens": [
+        {
+          "id": "dc.96.3.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.3.2",
+          "text": "again",
+          "position": 2,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.3.3",
+          "text": "let",
+          "position": 3,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.4",
+          "text": "it",
+          "position": 4,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.5",
+          "text": "be",
+          "position": 5,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.6",
+          "text": "divided",
+          "position": 6,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.7",
+          "text": "into",
+          "position": 7,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.8",
+          "text": "lots",
+          "position": 8,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.3.9",
+          "text": "according",
+          "position": 9,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.10",
+          "text": "to",
+          "position": 10,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.11",
+          "text": "wisdom",
+          "position": 11,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.3.12",
+          "text": "for",
+          "position": 12,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.13",
+          "text": "the",
+          "position": 13,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.14",
+          "text": "benefit",
+          "position": 14,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.15",
+          "text": "of",
+          "position": 15,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.16",
+          "text": "those",
+          "position": 16,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.17",
+          "text": "who",
+          "position": 17,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.18",
+          "text": "seek",
+          "position": 18,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.19",
+          "text": "inheritances",
+          "position": 19,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.3.20",
+          "text": "as",
+          "position": 20,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.21",
+          "text": "it",
+          "position": 21,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.22",
+          "text": "shall",
+          "position": 22,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.23",
+          "text": "be",
+          "position": 23,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.24",
+          "text": "determined",
+          "position": 24,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.25",
+          "text": "in",
+          "position": 25,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.26",
+          "text": "council",
+          "position": 26,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.27",
+          "text": "among",
+          "position": 27,
+          "verseId": "dc.96.3",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.3.28",
+          "text": "you",
+          "position": 28,
+          "verseId": "dc.96.3",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.4",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 4,
+      "tokens": [
+        {
+          "id": "dc.96.4.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "dc.96.4",
+          "presentation": {
+            "followingPunctuation": ",",
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.4.2",
+          "text": "take",
+          "position": 2,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.3",
+          "text": "heed",
+          "position": 3,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.4",
+          "text": "that",
+          "position": 4,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.5",
+          "text": "ye",
+          "position": 5,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.6",
+          "text": "see",
+          "position": 6,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.7",
+          "text": "to",
+          "position": 7,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.8",
+          "text": "this",
+          "position": 8,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.9",
+          "text": "matter",
+          "position": 9,
+          "verseId": "dc.96.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.4.10",
+          "text": "and",
+          "position": 10,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.12",
+          "text": "portion",
+          "position": 12,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.13",
+          "text": "that",
+          "position": 13,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.14",
+          "text": "is",
+          "position": 14,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.15",
+          "text": "necessary",
+          "position": 15,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.16",
+          "text": "to",
+          "position": 16,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.17",
+          "text": "benefit",
+          "position": 17,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.18",
+          "text": "mine",
+          "position": 18,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.19",
+          "text": "order",
+          "position": 19,
+          "verseId": "dc.96.4",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.4.20",
+          "text": "for",
+          "position": 20,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.22",
+          "text": "purpose",
+          "position": 22,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.23",
+          "text": "of",
+          "position": 23,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.24",
+          "text": "bringing",
+          "position": 24,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.25",
+          "text": "forth",
+          "position": 25,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.26",
+          "text": "my",
+          "position": 26,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.27",
+          "text": "word",
+          "position": 27,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.28",
+          "text": "to",
+          "position": 28,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.29",
+          "text": "the",
+          "position": 29,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.30",
+          "text": "children",
+          "position": 30,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.31",
+          "text": "of",
+          "position": 31,
+          "verseId": "dc.96.4",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.4.32",
+          "text": "men",
+          "position": 32,
+          "verseId": "dc.96.4",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.5",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 5,
+      "tokens": [
+        {
+          "id": "dc.96.5.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.5.2",
+          "text": "behold",
+          "position": 2,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.5.3",
+          "text": "verily",
+          "position": 3,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.4",
+          "text": "I",
+          "position": 4,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.5.5",
+          "text": "say",
+          "position": 5,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.7",
+          "text": "you",
+          "position": 7,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.5.8",
+          "text": "this",
+          "position": 8,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.9",
+          "text": "is",
+          "position": 9,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.10",
+          "text": "the",
+          "position": 10,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.11",
+          "text": "most",
+          "position": 11,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.12",
+          "text": "expedient",
+          "position": 12,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.14",
+          "text": "me",
+          "position": 14,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.5.15",
+          "text": "that",
+          "position": 15,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.16",
+          "text": "my",
+          "position": 16,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.17",
+          "text": "word",
+          "position": 17,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.18",
+          "text": "should",
+          "position": 18,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.19",
+          "text": "go",
+          "position": 19,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.20",
+          "text": "forth",
+          "position": 20,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.21",
+          "text": "unto",
+          "position": 21,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.22",
+          "text": "the",
+          "position": 22,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.23",
+          "text": "children",
+          "position": 23,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.24",
+          "text": "of",
+          "position": 24,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.25",
+          "text": "men",
+          "position": 25,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.5.26",
+          "text": "for",
+          "position": 26,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.27",
+          "text": "the",
+          "position": 27,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.28",
+          "text": "purpose",
+          "position": 28,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.29",
+          "text": "of",
+          "position": 29,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.30",
+          "text": "subduing",
+          "position": 30,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.31",
+          "text": "the",
+          "position": 31,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.32",
+          "text": "hearts",
+          "position": 32,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.33",
+          "text": "of",
+          "position": 33,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.34",
+          "text": "the",
+          "position": 34,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.35",
+          "text": "children",
+          "position": 35,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.36",
+          "text": "of",
+          "position": 36,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.37",
+          "text": "men",
+          "position": 37,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.38",
+          "text": "for",
+          "position": 38,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.39",
+          "text": "your",
+          "position": 39,
+          "verseId": "dc.96.5",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.5.40",
+          "text": "good",
+          "position": 40,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "dc.96.5.41",
+          "text": "Even",
+          "position": 41,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.5.42",
+          "text": "so",
+          "position": 42,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "dc.96.5.43",
+          "text": "Amen",
+          "position": 43,
+          "verseId": "dc.96.5",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.6",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 6,
+      "tokens": [
+        {
+          "id": "dc.96.6.1",
+          "text": "And",
+          "position": 1,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.2",
+          "text": "again",
+          "position": 2,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.6.3",
+          "text": "verily",
+          "position": 3,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.4",
+          "text": "I",
+          "position": 4,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.5",
+          "text": "say",
+          "position": 5,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.7",
+          "text": "you",
+          "position": 7,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.6.8",
+          "text": "it",
+          "position": 8,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.9",
+          "text": "is",
+          "position": 9,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.10",
+          "text": "wisdom",
+          "position": 10,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.11",
+          "text": "and",
+          "position": 11,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.12",
+          "text": "expedient",
+          "position": 12,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.13",
+          "text": "in",
+          "position": 13,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.14",
+          "text": "me",
+          "position": 14,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.6.15",
+          "text": "that",
+          "position": 15,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.16",
+          "text": "my",
+          "position": 16,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.17",
+          "text": "servant",
+          "position": 17,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.18",
+          "text": "John",
+          "position": 18,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.19",
+          "text": "Johnson",
+          "position": 19,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.20",
+          "text": "whose",
+          "position": 20,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.21",
+          "text": "offering",
+          "position": 21,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.22",
+          "text": "I",
+          "position": 22,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.23",
+          "text": "have",
+          "position": 23,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.24",
+          "text": "accepted",
+          "position": 24,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.6.25",
+          "text": "and",
+          "position": 25,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.26",
+          "text": "whose",
+          "position": 26,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.27",
+          "text": "prayers",
+          "position": 27,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.28",
+          "text": "I",
+          "position": 28,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.29",
+          "text": "have",
+          "position": 29,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.30",
+          "text": "heard",
+          "position": 30,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.6.31",
+          "text": "unto",
+          "position": 31,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.32",
+          "text": "whom",
+          "position": 32,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.33",
+          "text": "I",
+          "position": 33,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.6.34",
+          "text": "give",
+          "position": 34,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.35",
+          "text": "a",
+          "position": 35,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.36",
+          "text": "promise",
+          "position": 36,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.37",
+          "text": "of",
+          "position": 37,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.38",
+          "text": "eternal",
+          "position": 38,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.39",
+          "text": "life",
+          "position": 39,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.40",
+          "text": "inasmuch",
+          "position": 40,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.41",
+          "text": "as",
+          "position": 41,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.42",
+          "text": "he",
+          "position": 42,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.43",
+          "text": "keepeth",
+          "position": 43,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.44",
+          "text": "my",
+          "position": 44,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.45",
+          "text": "commandments",
+          "position": 45,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.46",
+          "text": "from",
+          "position": 46,
+          "verseId": "dc.96.6",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.6.47",
+          "text": "henceforth",
+          "position": 47,
+          "verseId": "dc.96.6",
+          "presentation": {
+            "followingPunctuation": "—"
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.7",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 7,
+      "tokens": [
+        {
+          "id": "dc.96.7.1",
+          "text": "For",
+          "position": 1,
+          "verseId": "dc.96.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.7.2",
+          "text": "he",
+          "position": 2,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.3",
+          "text": "is",
+          "position": 3,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.4",
+          "text": "a",
+          "position": 4,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.5",
+          "text": "descendant",
+          "position": 5,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.6",
+          "text": "of",
+          "position": 6,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.7",
+          "text": "Joseph",
+          "position": 7,
+          "verseId": "dc.96.7",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.7.8",
+          "text": "and",
+          "position": 8,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.9",
+          "text": "a",
+          "position": 9,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.10",
+          "text": "partaker",
+          "position": 10,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.11",
+          "text": "of",
+          "position": 11,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.12",
+          "text": "the",
+          "position": 12,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.13",
+          "text": "blessings",
+          "position": 13,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.14",
+          "text": "of",
+          "position": 14,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.15",
+          "text": "the",
+          "position": 15,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.16",
+          "text": "promise",
+          "position": 16,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.17",
+          "text": "made",
+          "position": 17,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.18",
+          "text": "unto",
+          "position": 18,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.19",
+          "text": "his",
+          "position": 19,
+          "verseId": "dc.96.7",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.7.20",
+          "text": "fathers",
+          "position": 20,
+          "verseId": "dc.96.7",
+          "presentation": {
+            "followingPunctuation": "—"
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.8",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 8,
+      "tokens": [
+        {
+          "id": "dc.96.8.1",
+          "text": "Verily",
+          "position": 1,
+          "verseId": "dc.96.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.8.2",
+          "text": "I",
+          "position": 2,
+          "verseId": "dc.96.8",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.8.3",
+          "text": "say",
+          "position": 3,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.4",
+          "text": "unto",
+          "position": 4,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.5",
+          "text": "you",
+          "position": 5,
+          "verseId": "dc.96.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.8.6",
+          "text": "it",
+          "position": 6,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.7",
+          "text": "is",
+          "position": 7,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.8",
+          "text": "expedient",
+          "position": 8,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.9",
+          "text": "in",
+          "position": 9,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.10",
+          "text": "me",
+          "position": 10,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.11",
+          "text": "that",
+          "position": 11,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.12",
+          "text": "he",
+          "position": 12,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.13",
+          "text": "should",
+          "position": 13,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.14",
+          "text": "become",
+          "position": 14,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.15",
+          "text": "a",
+          "position": 15,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.16",
+          "text": "member",
+          "position": 16,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.17",
+          "text": "of",
+          "position": 17,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.18",
+          "text": "the",
+          "position": 18,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.19",
+          "text": "order",
+          "position": 19,
+          "verseId": "dc.96.8",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.8.20",
+          "text": "that",
+          "position": 20,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.21",
+          "text": "he",
+          "position": 21,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.22",
+          "text": "may",
+          "position": 22,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.23",
+          "text": "assist",
+          "position": 23,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.24",
+          "text": "in",
+          "position": 24,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.25",
+          "text": "bringing",
+          "position": 25,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.26",
+          "text": "forth",
+          "position": 26,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.27",
+          "text": "my",
+          "position": 27,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.28",
+          "text": "word",
+          "position": 28,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.29",
+          "text": "unto",
+          "position": 29,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.30",
+          "text": "the",
+          "position": 30,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.31",
+          "text": "children",
+          "position": 31,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.32",
+          "text": "of",
+          "position": 32,
+          "verseId": "dc.96.8",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.8.33",
+          "text": "men",
+          "position": 33,
+          "verseId": "dc.96.8",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    },
+    {
+      "id": "dc.96.9",
+      "book": "dc",
+      "chapter": 96,
+      "verse": 9,
+      "tokens": [
+        {
+          "id": "dc.96.9.1",
+          "text": "Therefore",
+          "position": 1,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.9.2",
+          "text": "ye",
+          "position": 2,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.3",
+          "text": "shall",
+          "position": 3,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.4",
+          "text": "ordain",
+          "position": 4,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.5",
+          "text": "him",
+          "position": 5,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.6",
+          "text": "unto",
+          "position": 6,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.7",
+          "text": "this",
+          "position": 7,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.8",
+          "text": "blessing",
+          "position": 8,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.9.9",
+          "text": "and",
+          "position": 9,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.10",
+          "text": "he",
+          "position": 10,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.11",
+          "text": "shall",
+          "position": 11,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.12",
+          "text": "seek",
+          "position": 12,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.13",
+          "text": "diligently",
+          "position": 13,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.14",
+          "text": "to",
+          "position": 14,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.15",
+          "text": "take",
+          "position": 15,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.16",
+          "text": "away",
+          "position": 16,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.17",
+          "text": "incumbrances",
+          "position": 17,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.18",
+          "text": "that",
+          "position": 18,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.19",
+          "text": "are",
+          "position": 19,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.20",
+          "text": "upon",
+          "position": 20,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.21",
+          "text": "the",
+          "position": 21,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.22",
+          "text": "house",
+          "position": 22,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.23",
+          "text": "named",
+          "position": 23,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.24",
+          "text": "among",
+          "position": 24,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.25",
+          "text": "you",
+          "position": 25,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "followingPunctuation": ","
+          }
+        },
+        {
+          "id": "dc.96.9.26",
+          "text": "that",
+          "position": 26,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.27",
+          "text": "he",
+          "position": 27,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.28",
+          "text": "may",
+          "position": 28,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.29",
+          "text": "dwell",
+          "position": 29,
+          "verseId": "dc.96.9",
+          "presentation": {}
+        },
+        {
+          "id": "dc.96.9.30",
+          "text": "therein",
+          "position": 30,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "dc.96.9.31",
+          "text": "Even",
+          "position": 31,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "semanticType": "proper-noun"
+          }
+        },
+        {
+          "id": "dc.96.9.32",
+          "text": "so",
+          "position": 32,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "followingPunctuation": "."
+          }
+        },
+        {
+          "id": "dc.96.9.33",
+          "text": "Amen",
+          "position": 33,
+          "verseId": "dc.96.9",
+          "presentation": {
+            "followingPunctuation": ".",
+            "semanticType": "proper-noun"
+          }
+        }
+      ],
+      "translation": "dc",
+      "presentation": {
+        "paragraphStart": false,
+        "paragraphEnd": false,
+        "sectionStart": false,
+        "layoutType": "prose",
+        "indentLevel": 0,
+        "verseNumberDisplay": "inline",
+        "styleHints": []
+      }
+    }
+  ],
   "presentation": {
     "displayHeading": true,
     "twoColumn": false,

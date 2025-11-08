@@ -2,6 +2,120 @@
   "version": "1.0.0",
   "translations": [
     {
+      "id": "bofm",
+      "name": "The Book of Mormon",
+      "abbreviation": "BoM",
+      "language": "en",
+      "copyright": "© Intellectual Reserve, Inc.",
+      "books": [
+        {
+          "id": "1-ne",
+          "name": "1 Nephi",
+          "category": "bom-book",
+          "chapters": 22
+        },
+        {
+          "id": "2-ne",
+          "name": "2 Nephi",
+          "category": "bom-book",
+          "chapters": 33
+        },
+        {
+          "id": "jacob",
+          "name": "Jacob",
+          "category": "bom-book",
+          "chapters": 7
+        },
+        {
+          "id": "enos",
+          "name": "Enos",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "jarom",
+          "name": "Jarom",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "omni",
+          "name": "Omni",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "w-of-m",
+          "name": "Words of Mormon",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "mosiah",
+          "name": "Mosiah",
+          "category": "bom-book",
+          "chapters": 29
+        },
+        {
+          "id": "alma",
+          "name": "Alma",
+          "category": "bom-book",
+          "chapters": 63
+        },
+        {
+          "id": "hel",
+          "name": "Helaman",
+          "category": "bom-book",
+          "chapters": 16
+        },
+        {
+          "id": "3-ne",
+          "name": "3 Nephi",
+          "category": "bom-book",
+          "chapters": 30
+        },
+        {
+          "id": "4-ne",
+          "name": "4 Nephi",
+          "category": "bom-book",
+          "chapters": 1
+        },
+        {
+          "id": "morm",
+          "name": "Mormon",
+          "category": "bom-book",
+          "chapters": 9
+        },
+        {
+          "id": "ether",
+          "name": "Ether",
+          "category": "bom-book",
+          "chapters": 15
+        },
+        {
+          "id": "moro",
+          "name": "Moroni",
+          "category": "bom-book",
+          "chapters": 10
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "name": "Doctrine and Covenants",
+      "abbreviation": "D&C",
+      "language": "en",
+      "copyright": "© Intellectual Reserve, Inc.",
+      "books": [
+        {
+          "id": "dc",
+          "name": "Doctrine and Covenants",
+          "category": "modern-revelation",
+          "chapters": 138
+        }
+      ]
+    },
+    {
       "id": "kjv",
       "name": "King James Version",
       "abbreviation": "KJV",
@@ -403,120 +517,6 @@
           "name": "Revelation",
           "category": "apocalyptic",
           "chapters": 22
-        }
-      ]
-    },
-    {
-      "id": "bofm",
-      "name": "The Book of Mormon",
-      "abbreviation": "BoM",
-      "language": "en",
-      "copyright": "© Intellectual Reserve, Inc.",
-      "books": [
-        {
-          "id": "1-ne",
-          "name": "1 Nephi",
-          "category": "bom-book",
-          "chapters": 22
-        },
-        {
-          "id": "2-ne",
-          "name": "2 Nephi",
-          "category": "bom-book",
-          "chapters": 33
-        },
-        {
-          "id": "jacob",
-          "name": "Jacob",
-          "category": "bom-book",
-          "chapters": 7
-        },
-        {
-          "id": "enos",
-          "name": "Enos",
-          "category": "bom-book",
-          "chapters": 1
-        },
-        {
-          "id": "jarom",
-          "name": "Jarom",
-          "category": "bom-book",
-          "chapters": 1
-        },
-        {
-          "id": "omni",
-          "name": "Omni",
-          "category": "bom-book",
-          "chapters": 1
-        },
-        {
-          "id": "w-of-m",
-          "name": "Words of Mormon",
-          "category": "bom-book",
-          "chapters": 1
-        },
-        {
-          "id": "mosiah",
-          "name": "Mosiah",
-          "category": "bom-book",
-          "chapters": 29
-        },
-        {
-          "id": "alma",
-          "name": "Alma",
-          "category": "bom-book",
-          "chapters": 63
-        },
-        {
-          "id": "hel",
-          "name": "Helaman",
-          "category": "bom-book",
-          "chapters": 16
-        },
-        {
-          "id": "3-ne",
-          "name": "3 Nephi",
-          "category": "bom-book",
-          "chapters": 30
-        },
-        {
-          "id": "4-ne",
-          "name": "4 Nephi",
-          "category": "bom-book",
-          "chapters": 1
-        },
-        {
-          "id": "morm",
-          "name": "Mormon",
-          "category": "bom-book",
-          "chapters": 9
-        },
-        {
-          "id": "ether",
-          "name": "Ether",
-          "category": "bom-book",
-          "chapters": 15
-        },
-        {
-          "id": "moro",
-          "name": "Moroni",
-          "category": "bom-book",
-          "chapters": 10
-        }
-      ]
-    },
-    {
-      "id": "dc",
-      "name": "Doctrine and Covenants",
-      "abbreviation": "D&C",
-      "language": "en",
-      "copyright": "© Intellectual Reserve, Inc.",
-      "books": [
-        {
-          "id": "dc",
-          "name": "Doctrine and Covenants",
-          "category": "modern-revelation",
-          "chapters": 138
         }
       ]
     },

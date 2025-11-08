@@ -163,7 +163,7 @@ export const DOCTRINE_AND_COVENANTS: VolumeConfig = {
   name: 'Doctrine and Covenants',
   fullName: 'The Doctrine and Covenants of The Church of Jesus Christ of Latter-day Saints',
   abbreviation: 'D&C',
-  apiPath: 'dc-testament/dc',
+  apiPath: 'dc-testament',
   translation: 'dc',
   copyright: '© Intellectual Reserve, Inc.',
   books: [

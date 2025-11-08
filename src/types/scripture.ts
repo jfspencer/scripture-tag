@@ -34,7 +34,7 @@ export interface Chapter {
   book: string;
   chapter: number;
   translation: string;
-  heading: {
+  heading?: {
     summary: string;
     topics: string[];
   };

@@ -112,14 +112,14 @@ export default function ChapterDisplay(props: ChapterDisplayProps) {
         </Show>
 
         {/* Chapter Heading/Summary */}
-        <Show when={displayHeading() && chapter.heading.summary}>
+        <Show when={displayHeading() && chapter.heading?.summary}>
           <div class="mb-8 pb-4 border-b border-gray-200">
             <p class="text-sm text-gray-600 italic leading-relaxed">
-              {chapter.heading.summary}
+              {chapter.heading!.summary}
             </p>
-            <Show when={chapter.heading.topics.length > 0}>
+            <Show when={chapter.heading!.topics.length > 0}>
               <div class="mt-2 flex flex-wrap gap-2">
-                <For each={chapter.heading.topics}>
+                <For each={chapter.heading!.topics}>
                   {(topic) => (
                     <span class="inline-block px-2 py-1 text-xs bg-gray-100 text-gray-700 rounded">
                       {topic}
