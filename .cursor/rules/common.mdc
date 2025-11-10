@@ -12,6 +12,9 @@ Scripture Tag is a word-level scripture tagging and annotation system built with
 
 ## Technology Stack & Core Principles
 
+
+sqlite-wasm docs reference https://sqlite.org/wasm/doc/trunk/index.md
+
 ### Vite (Build Tool)
 - **Dev Server:** Runs on port 3000 (configured in `vite.config.ts`)
 - **Build Target:** ESNext for modern browser features
