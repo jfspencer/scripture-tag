@@ -17,12 +17,11 @@ if (!root) {
 }
 
 // Render app with ScriptureProvider wrapping the router
-// @ts-expect-error Solid's render may return undefined
 render(
 	() => (
 		<ScriptureProvider>
 			<Router root={(props) => <App>{props.children}</App>}>{routes}</Router>
 		</ScriptureProvider>
 	),
-	root!,
+	root,
 );

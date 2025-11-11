@@ -1,4 +1,4 @@
-import { createEffect, createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js";
+import { createMemo, createSignal, For, onCleanup, onMount, Show } from "solid-js";
 import { useScripture } from "../stores/ScriptureStore";
 import type { Chapter, TextToken, Verse } from "../types/scripture";
 import { createTextSelectionFromBrowserSelection } from "../utils/textSelection";
@@ -470,7 +470,7 @@ export default function ChapterDisplay(props: ChapterDisplayProps) {
 					{/* Chapter Heading/Summary */}
 					<Show when={displayHeading() && chapter.heading?.summary}>
 						<div class="mb-8 pb-4 border-b border-gray-200">
-							<p class="text-sm text-gray-600 italic leading-relaxed">{chapter.heading!.summary}</p>
+							{/* <p class="text-sm text-gray-600 italic leading-relaxed">{chapter.heading!.summary}</p> */}
 							<Show when={chapter.heading!.topics.length > 0}>
 								<div class="mt-2 flex flex-wrap gap-2">
 									<For each={chapter.heading!.topics}>
