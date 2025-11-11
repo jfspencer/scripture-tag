@@ -1,7 +1,7 @@
 import { A, useLocation } from "@solidjs/router";
-import { type Component, Suspense } from "solid-js";
+import { type Component, type JSX, Suspense } from "solid-js";
 
-const App: Component<{ children: Element }> = (props) => {
+const App: Component<{ children: JSX.Element }> = (props) => {
 	const location = useLocation();
 	const isScriptureReader = () => location.pathname === "/scripture";
 

@@ -4,7 +4,7 @@ import { createEffect, createSignal, onMount, Show } from "solid-js";
 import ChapterDisplay from "../components/ChapterDisplay";
 import ScriptureNavigator from "../components/ScriptureNavigator";
 import { ScriptureAppLayer, ScriptureService } from "../services/scriptureService";
-import type { Chapter, ScriptureManifest } from "../types/scripture";
+import type { Chapter, ScriptureManifest, Translation } from "../types/scripture";
 
 export default function ScriptureReader() {
 	const [manifest, setManifest] = createSignal<ScriptureManifest | null>(null);
@@ -132,7 +132,7 @@ export default function ScriptureReader() {
 				>
 					<Show when={manifest()} fallback={<div class="p-4 text-gray-400">Loading...</div>}>
 						<ScriptureNavigator
-							translations={manifest()!.translations}
+							translations={manifest()?.translations ?? ([] as Translation[])}
 							selectedTranslation={selectedTranslation()}
 							selectedBook={selectedBook()}
 							selectedChapter={selectedChapter()}
@@ -187,7 +187,7 @@ export default function ScriptureReader() {
 							</div>
 						}
 					>
-						<ChapterDisplay chapter={currentChapter()} />
+						<ChapterDisplay chapter={currentChapter() ?? ({} as Chapter)} />
 					</Show>
 				</div>
 			</div>

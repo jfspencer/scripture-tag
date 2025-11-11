@@ -1,16 +1,8 @@
-node_modules
 .git
 .cursor
-src
 scripts
 *.md
 biome.json
-tsconfig.json
-vite.config.ts
-postcss.config.js
-bun.lock
-package-lock.json
-.gitignore
 ARCHITECTURE.md
 DATA_FLOW.md
 HIGHLIGHTING_SYSTEM.md
