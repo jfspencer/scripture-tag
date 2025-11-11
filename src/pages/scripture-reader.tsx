@@ -4,11 +4,11 @@ import { createEffect, createSignal, onMount, Show } from "solid-js";
 import ChapterDisplay from "../components/ChapterDisplay";
 import ScriptureNavigator from "../components/ScriptureNavigator";
 import { ScriptureAppLayer, ScriptureService } from "../services/scriptureService";
-import type { Chapter, ScriptureManifest, Translation } from "../types/scripture";
+import type { Chapter, ScriptureManifest, Translation, TranslationId } from "../types/scripture";
 
 export default function ScriptureReader() {
 	const [manifest, setManifest] = createSignal<ScriptureManifest | null>(null);
-	const [selectedTranslation, setSelectedTranslation] = createSignal<string>("bofm");
+	const [selectedTranslation, setSelectedTranslation] = createSignal<TranslationId>("bofm");
 	const [selectedBook, setSelectedBook] = createSignal<string>("1-ne");
 	const [selectedChapter, setSelectedChapter] = createSignal<number>(1);
 	const [currentChapter, setCurrentChapter] = createSignal<Chapter | null>(null);
@@ -81,7 +81,7 @@ export default function ScriptureReader() {
 			});
 	});
 
-	const handleSelectChapter = (translationId: string, bookId: string, chapter: number) => {
+	const handleSelectChapter = (translationId: TranslationId, bookId: string, chapter: number) => {
 		// Clear current chapter to prevent stale data display
 		setCurrentChapter(null);
 		setSelectedTranslation(translationId);

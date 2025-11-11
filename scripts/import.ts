@@ -52,7 +52,7 @@ async function main() {
 			// Generate volume-specific manifest (use consistent KJV name)
 			const kjvConfig = {
 				...OLD_TESTAMENT,
-				name: "King James Version",
+				name: "The Holy Bible (KJV)",
 				abbreviation: "KJV",
 			};
 			await ImportPipeline.generateVolumeManifest("kjv", otBooks, kjvConfig);
@@ -73,7 +73,7 @@ async function main() {
 			// Generate volume-specific manifest (use consistent KJV name)
 			const kjvConfig = {
 				...NEW_TESTAMENT,
-				name: "King James Version",
+				name: "The Holy Bible (KJV)",
 				abbreviation: "KJV",
 			};
 			await ImportPipeline.generateVolumeManifest("kjv", ntBooks, kjvConfig);

@@ -1,13 +1,13 @@
 import { Collapsible } from "@kobalte/core/collapsible";
 import { createEffect, createSignal, For } from "solid-js";
-import type { Book, Translation } from "../types/scripture";
+import type { Book, Translation, TranslationId } from "../types/scripture";
 
 interface ScriptureNavigatorProps {
 	translations: Translation[];
-	selectedTranslation?: string;
+	selectedTranslation?: TranslationId;
 	selectedBook?: string;
 	selectedChapter?: number;
-	onSelectChapter: (translationId: string, bookId: string, chapter: number) => void;
+	onSelectChapter: (translationId: TranslationId, bookId: string, chapter: number) => void;
 }
 
 export default function ScriptureNavigator(props: ScriptureNavigatorProps) {
@@ -25,7 +25,11 @@ export default function ScriptureNavigator(props: ScriptureNavigatorProps) {
 		}
 	});
 
-	const handleChapterClick = (translationId: string, bookId: string, chapter: number) => {
+	const handleChapterClick = (
+		translationId: TranslationId,
+		bookId: string,
+		chapter: number,
+	) => {
 		props.onSelectChapter(translationId, bookId, chapter);
 	};
 

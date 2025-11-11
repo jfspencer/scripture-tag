@@ -1,5 +1,8 @@
 // Scripture Type Definitions
 
+// Translation ID type - all possible translations
+export type TranslationId = "kjv" | "bofm" | "dc" | "pgp";
+
 export interface TextToken {
 	id: string;
 	text: string;
@@ -33,7 +36,7 @@ export interface Chapter {
 	id: string;
 	book: string;
 	chapter: number;
-	translation: string;
+	translation: TranslationId;
 	heading?: {
 		summary: string;
 		topics: string[];
@@ -60,7 +63,7 @@ export interface Book {
 }
 
 export interface Translation {
-	id: string;
+	id: TranslationId;
 	name: string;
 	abbreviation: string;
 	language: string;
@@ -74,7 +77,7 @@ export interface ScriptureManifest {
 }
 
 export interface TranslationManifest {
-	id: string;
+	id: TranslationId;
 	name: string;
 	abbreviation: string;
 	language: string;

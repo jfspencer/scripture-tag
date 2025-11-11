@@ -1,5 +1,10 @@
 import { Context, Data, Effect, Layer } from "effect";
-import type { Chapter, ScriptureManifest, TranslationManifest } from "../types/scripture";
+import type {
+	Chapter,
+	ScriptureManifest,
+	TranslationId,
+	TranslationManifest,
+} from "../types/scripture";
 
 // Error types
 export class ScriptureLoadError extends Data.TaggedError("ScriptureLoadError")<{
@@ -19,14 +24,18 @@ export class ScriptureCacheService extends Context.Tag("ScriptureCacheService")<
 	{
 		readonly manifest: () => ScriptureManifest | null;
 		readonly setManifest: (manifest: ScriptureManifest) => Effect.Effect<void>;
-		readonly getTranslationManifest: (id: string) => TranslationManifest | null;
+		readonly getTranslationManifest: (id: TranslationId) => TranslationManifest | null;
 		readonly setTranslationManifest: (
-			id: string,
+			id: TranslationId,
 			manifest: TranslationManifest,
 		) => Effect.Effect<void>;
-		readonly getChapter: (translationId: string, bookId: string, chapter: number) => Chapter | null;
+		readonly getChapter: (
+			translationId: TranslationId,
+			bookId: string,
+			chapter: number,
+		) => Chapter | null;
 		readonly setChapter: (
-			translationId: string,
+			translationId: TranslationId,
 			bookId: string,
 			chapter: number,
 			data: Chapter,
@@ -38,10 +47,10 @@ export class ScriptureCacheService extends Context.Tag("ScriptureCacheService")<
 // In-memory cache implementation
 export const makeScriptureCacheService = () => {
 	let manifestCache: ScriptureManifest | null = null;
-	const translationManifests = new Map<string, TranslationManifest>();
+	const translationManifests = new Map<TranslationId, TranslationManifest>();
 	const chapterCache = new Map<string, Chapter>();
 
-	const makeChapterKey = (translationId: string, bookId: string, chapter: number) =>
+	const makeChapterKey = (translationId: TranslationId, bookId: string, chapter: number) =>
 		`${translationId}:${bookId}:${chapter}`;
 
 	return {
@@ -50,14 +59,14 @@ export const makeScriptureCacheService = () => {
 			Effect.sync(() => {
 				manifestCache = manifest;
 			}),
-		getTranslationManifest: (id: string) => translationManifests.get(id) ?? null,
-		setTranslationManifest: (id: string, manifest: TranslationManifest) =>
+		getTranslationManifest: (id: TranslationId) => translationManifests.get(id) ?? null,
+		setTranslationManifest: (id: TranslationId, manifest: TranslationManifest) =>
 			Effect.sync(() => {
 				translationManifests.set(id, manifest);
 			}),
-		getChapter: (translationId: string, bookId: string, chapter: number) =>
+		getChapter: (translationId: TranslationId, bookId: string, chapter: number) =>
 			chapterCache.get(makeChapterKey(translationId, bookId, chapter)) ?? null,
-		setChapter: (translationId: string, bookId: string, chapter: number, data: Chapter) =>
+		setChapter: (translationId: TranslationId, bookId: string, chapter: number, data: Chapter) =>
 			Effect.sync(() => {
 				chapterCache.set(makeChapterKey(translationId, bookId, chapter), data);
 			}),
@@ -84,15 +93,15 @@ export class ScriptureService extends Context.Tag("ScriptureService")<
 			NetworkError | ScriptureLoadError
 		>;
 		readonly loadTranslationManifest: (
-			translationId: string,
+			translationId: TranslationId,
 		) => Effect.Effect<TranslationManifest, NetworkError | ScriptureLoadError>;
 		readonly loadChapter: (
-			translationId: string,
+			translationId: TranslationId,
 			bookId: string,
 			chapterNum: number,
 		) => Effect.Effect<Chapter, NetworkError | ScriptureLoadError>;
 		readonly preloadChapter: (
-			translationId: string,
+			translationId: TranslationId,
 			bookId: string,
 			chapterNum: number,
 		) => Effect.Effect<void, never>;
@@ -137,7 +146,7 @@ export const makeScriptureService = Effect.gen(function* () {
 				return manifest;
 			}),
 
-		loadTranslationManifest: (translationId: string) =>
+		loadTranslationManifest: (translationId: TranslationId) =>
 			Effect.gen(function* () {
 				const cached = cache.getTranslationManifest(translationId);
 				if (cached) {
@@ -151,7 +160,7 @@ export const makeScriptureService = Effect.gen(function* () {
 				return manifest;
 			}),
 
-		loadChapter: (translationId: string, bookId: string, chapterNum: number) =>
+		loadChapter: (translationId: TranslationId, bookId: string, chapterNum: number) =>
 			Effect.gen(function* () {
 				const cached = cache.getChapter(translationId, bookId, chapterNum);
 				if (cached) {
@@ -165,7 +174,7 @@ export const makeScriptureService = Effect.gen(function* () {
 				return chapter;
 			}),
 
-		preloadChapter: (translationId: string, bookId: string, chapterNum: number) =>
+		preloadChapter: (translationId: TranslationId, bookId: string, chapterNum: number) =>
 			Effect.gen(function* () {
 				const cached = cache.getChapter(translationId, bookId, chapterNum);
 				if (cached) {

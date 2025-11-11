@@ -587,7 +587,7 @@ async function main() {
 				if (translationId === "kjv") {
 					const kjvConfig: VolumeConfig = {
 						id: "kjv",
-						name: "King James Version",
+						name: "The Holy Bible (KJV)",
 						fullName: "The Holy Bible (King James Version)",
 						abbreviation: "KJV",
 						translation: "kjv",

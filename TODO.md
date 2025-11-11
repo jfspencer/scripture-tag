@@ -1,0 +1,6 @@
+- implement auto highlight feature with preconfig options
+- implement edit options for existing tags
+- use show collapse on the annotations panel and the annotations config panel
+- implement import sqlite functionality
+- implement export sqlite functionality
+- implement bible only view

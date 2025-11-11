@@ -32,7 +32,7 @@ async function main() {
 	const ntVolume = ALL_VOLUMES.find((v) => v.id === "nt")!;
 	const kjvManifest: TranslationManifest = {
 		id: "kjv",
-		name: "King James Version",
+		name: "The Holy Bible (KJV)",
 		abbreviation: "KJV",
 		language: "en",
 		copyright: "Public Domain",
