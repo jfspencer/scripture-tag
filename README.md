@@ -154,6 +154,48 @@ git push origin main
 | Build | Vite | Fast development & builds |
 | Language | TypeScript | Type safety |
 
+## 🚀 Deployment
+
+### Vercel Deployment
+
+This project is configured for easy deployment to Vercel with proper SPA routing:
+
+```bash
+# Install Vercel CLI (optional)
+npm install -g vercel
+
+# Deploy to Vercel
+vercel
+
+# Or push to GitHub and connect to Vercel dashboard
+# Vercel will auto-detect the configuration
+```
+
+The `vercel.json` configuration ensures that all routes are properly handled by the client-side router, including:
+- Direct navigation to `/scripture`
+- Browser refresh on any route
+- Deep linking support
+
+**Environment Variables**: None required - the app runs entirely client-side.
+
+**Build Settings** (auto-configured via `vercel.json`):
+- Build Command: `bun run build`
+- Output Directory: `dist`
+- Install Command: `bun install`
+
+### Other Platforms
+
+For other static hosting platforms (Netlify, Cloudflare Pages, GitHub Pages, etc.):
+
+1. Build the project: `npm run build`
+2. Deploy the `dist` folder
+3. Configure rewrites to send all routes to `index.html`
+
+Example `_redirects` for Netlify:
+```
+/*    /index.html   200
+```
+
 ## 📝 License
 
 MIT (to be added)

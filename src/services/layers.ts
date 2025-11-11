@@ -22,7 +22,7 @@ export const DatabaseLayer = SQLiteServiceLive;
 
 /**
  * Repository layer - all repositories with database dependency satisfied
- * 
+ *
  * Important: We provide the database to each repository layer before merging them.
  * This ensures the dependencies are resolved correctly in Effect's layer system.
  */
@@ -47,20 +47,20 @@ export const ServiceLayer = Layer.mergeAll(
 
 /**
  * Main application layer with all services and repositories
- * 
+ *
  * Dependency graph:
  * - SQLiteService (base layer - no dependencies)
  * - TagRepository & AnnotationRepository & TagStyleRepository (depend on SQLiteService)
  * - TagService & AnnotationService (depend on repositories)
  * - GitSyncService (depends on SQLiteService directly)
- * 
+ *
  * Layer composition strategy:
  * 1. Provide DatabaseLayer to each repository individually → RepositoryLayer (fully provided)
  * 2. Provide both RepositoryLayer AND DatabaseLayer to ServiceLayer
  *    - TagService/AnnotationService get repositories
  *    - GitSyncService gets SQLiteService directly
  * 3. Merge services and repositories for final runtime access
- * 
+ *
  * Note: We merge both ServiceLayer and RepositoryLayer so the runtime has access
  * to both services AND repositories (Store needs direct repository access).
  */

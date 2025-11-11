@@ -67,7 +67,7 @@ async function initDatabase() {
 			console.log("[SQLite Worker] Database opened, creating schema");
 
 			// Load schema
-		const schemaSQL = `
+			const schemaSQL = `
 			-- Tags table
 			CREATE TABLE IF NOT EXISTS tags (
 				id TEXT PRIMARY KEY,
@@ -120,18 +120,18 @@ async function initDatabase() {
 			CREATE INDEX IF NOT EXISTS idx_tag_styles_user_id ON tag_styles(user_id);
 		`;
 
-		db.exec(schemaSQL);
+			db.exec(schemaSQL);
 
-		console.log("[SQLite Worker] Schema created successfully");
-		isInitialized = true;
-		initPromise = null;
+			console.log("[SQLite Worker] Schema created successfully");
+			isInitialized = true;
+			initPromise = null;
 
-		return { success: true };
-	} catch (error) {
-		console.error("[SQLite Worker] Failed to initialize database:", error);
-		initPromise = null;
-		throw error;
-	}
+			return { success: true };
+		} catch (error) {
+			console.error("[SQLite Worker] Failed to initialize database:", error);
+			initPromise = null;
+			throw error;
+		}
 	})();
 
 	return initPromise;
